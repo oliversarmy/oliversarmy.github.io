@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
+  {% include disqus.html disqus_identifier=page.disqus_identifier %}
+</article>
+
+<form action="http://pooleapp.com/stash/9bdfe811-c802-4616-9171-6681cdd4b302/" method="post" class="comment-form">
+  <h2>Leave your comment</h2>
+  <input type="hidden" name="redirect_to" value="/thanks" />
+  <input type="hidden" name="path" value="/blog/adding-a-static-comments-system-to-my-jekyll-build" />
+  <label for="name">Your name </label><input type="text" name="name">
+  <label for="email">Your email <span>(I'll never spam you)</span></label><input type="text" name="email"> <br/>
+  <label for="comment">Comment &nbsp;</label><textarea name="comment" class="comment-text"></textarea>
+  <input type="submit" value="Post comment" class="submit" />
+</form>

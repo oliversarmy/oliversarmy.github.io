@@ -1,0 +1,49 @@
+
+.comment-form {
+
+  background-color: #eee;
+  padding: 1px 32px 32px 32px;
+
+  label {
+    display: block;
+    color: #666;
+    margin-top: 0.6em;
+    font-size: 0.9em;
+
+    span {
+      color: #aaa;
+      margin-left: 0.2em;
+    }
+  }
+
+  input, textarea {
+    font-size: 1em;
+    width: 100%;
+    padding: 0.2em 0.4em;
+  }
+
+  .submit {
+    margin-top: 0.6em;
+    background-color: #333;
+    color: #eee;
+    padding: 0.6em;
+    border-radius: 4px;
+    border-style: none;
+    cursor: pointer;
+
+    &:hover {
+      background-color: #be0606;
+      color: #fff;
+    }
+  }
+
+  textarea {
+    width: 100%;
+    height: 10em;
+  }
+
+}
+
+.language-swift, .language-text {
+    font-size: 0.75em;
+}
