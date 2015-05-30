@@ -12,7 +12,7 @@ To get started create a new project called "Battleship" in Xcode, using a single
 In your new project, create a new Swift file called Battle.swift and make sure you add it to the Battleship and BattleshipTests targets. Then, replace all the contents of the file with:
 
 ```
-https://raw.githubusercontent.com/oliversarmy/Battleship/master/Battleship/Battle.swift
+https://raw.githubusercontent.com/oliversarmy/BattleshipSwift/master/Battleship/Battle.swift
 ```
 
 Check that your program compiles. The Battle class is the heart of the program. It's immutable. The functions the Battle class supports are (for Player1 or Player2):
@@ -25,7 +25,7 @@ Navigate to the BattleshipTests group and create a new XCTestCase class called B
 Replace all the contents of the file with:
 
 ```
-https://raw.githubusercontent.com/oliversarmy/Battleship/master/BattleshipTests/BattleshipAddShipTests.swift
+https://raw.githubusercontent.com/oliversarmy/BattleshipSwift/master/BattleshipTests/BattleshipAddShipTests.swift
 ```
 
 Check the program compiles (remember Battle.swift is in the BattleshipTests target). Now run all the tests. The tests show we can add ships such that they are on the board and not on other ships.
@@ -42,7 +42,7 @@ Create a new XCTestCase class called BattleshipBattleStateTests.
 Replace all the contents of the file with:
 
 ```
-https://raw.githubusercontent.com/oliversarmy/Battleship/master/BattleshipTests/BattleshipBattleStateTests.swift
+https://raw.githubusercontent.com/oliversarmy/BattleshipSwift/master/BattleshipTests/BattleshipBattleStateTests.swift
 ```
 
 Run the last test, testPlayer1Win. Sunk ships are displayed in lower case. Player1 has one patrol ship left, so she wins (Note: P and p look similar).
@@ -115,5 +115,6 @@ In places I chose to make static functions like pairsOverWaterForBoard (shown be
 private static func pairsOverWaterForBoard(board: BoardType, pairs: [(y:Int, x:Int)]) -> [(y:Int, x:Int)]? {
 ```
 
-* [github/oliversarmy Battleship!] (https://github.com/oliversarmy/Battleship)
+* [github/oliversarmy Battleship!]
+  (https://github.com/oliversarmy/BattleshipSwift)
 
