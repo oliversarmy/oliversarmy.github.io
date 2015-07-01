@@ -112,7 +112,7 @@ number,initials,name,action,object
 
 30,CJ,Calamity Jane, camouflages, trap
 31,CA,Christina Aguilera, caresses, angel
-32,CB,Christian Bale captains, Batsuit
+32,CB,Christian Bale, captains, Batsuit
 33,CC,Charlie Chaplin, chases, clown
 34,CD,Charles Darwin, crosses, dolphin
 35,CE,Clint Eastwood, climbs, escapeRoute
@@ -129,7 +129,7 @@ number,initials,name,action,object
 45,DE,Dwight Eisenhower, divides, Europe
 46,DF,Dawn French, drowns, farmer
 47,DG,Delta Goodrem, dazzle, gypsy
-48,DH,Damon Hill, drives, holden
+48,DH,Damon Hill, drives, Holden
 49,DS,Donald Sutherland, directs, scream
 
 50,EJ,Elton John, entertains, train
