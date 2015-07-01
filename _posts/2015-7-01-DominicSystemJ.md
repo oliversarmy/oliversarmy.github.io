@@ -167,9 +167,9 @@ number,initials,name,action,object
 
 80,HJ,Hugh Jackman, hooksUp, TimeMachine
 81,HA,Hans Andersen, hoists, anchor
-82,HB,Halle Berry, honours, boxer
+82,HB,Halle Berry, hugs, boxer
 83,HC,Hillary Clinton, howls, crate
-84,HD,Hilary Duff, hugs, dwarf
+84,HD,Hilary Duff, hurls, dwarf
 85,HE,Harry Enfield, halts, engine
 86,HF,Harrison Ford, holds, firecracker
 87,HG,Hugh Grant, hits, guitar
