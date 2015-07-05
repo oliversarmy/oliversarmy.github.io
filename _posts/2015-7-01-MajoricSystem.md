@@ -86,9 +86,9 @@ t  p  k  w  l  v  r  m  n  z
 * Names are created in the same ways as the Dominic system, with the first character of
 each name representing the number.
 * Actions and objects are created in a similar way as
-the Major system, but with words of any length. Only the first two significant letters are used. This is because the words are being associated with a two digit number.
+the Major system, but with words of any length. Only the first two significant letters are used. This is because the words are being associated with a person representing a two digit number.
 
-# Generating Names
+## Generating Names
 
 [Generate Names by initials](http://peoplebyinitials.com/p/dominic-number-memory-system)
 
