@@ -1,210 +1,222 @@
 ---
 layout: post
-title: Dominic System J
+title: Majoric - Major Dominic System
 ---
 ![_config.yml]({{ site.baseurl }}/images/crystal.jpg)
 
-The Dominic system is a mnemonic system for remembering number sequences. It was invented by memory champion, Dominic O'Brien. It assigns the initials and name of a memorable person or character, to a two digit number from 00 to 99.
+The Major System and Dominic System are mnemonic systems for remembering number sequences. The Major Dominic is an attempt to combine the strengths of each system.
 
-## Alphabetical number positions
+## Dominic System
+
+The Dominic system was invented by memory champion, Dominic O'Brien. It assigns the initials and name of a memorable person or character, to a two digit number from 00 to 99.
+
+## Dominic character positions
 ```
 1  2  3  4  5  6  7  8  9  0
-A  B  C  D  E  F  G  H  i  J
-k  l  m  n  o  p  q  r  S  t
-u  v  w  x  y  z
+a  b  c  d  e  s  g  h  n  o
 ```
 
-## Standard Dominic number positions
-```
-1  2  3  4  5  6  7  8  9  0
-A  B  C  D  E  S  G  H  N  O
-```
+This uses alphabetical ordering, except for letters s, n and o, t.
 
-The Dominic system uses O for 0; S for 6; N for 9;
+## Major System
 
-This doesn't work for me.
-The letter O is the right shape, but, makes for some difficult name choices.
-I don't agree with the choice of S, as the 6th letter (though, I do think it should be included).
+The Major System replaces numbers with consonant sounds. The system is very
+powerful and complex.
 
-## Changes from the Standard Dominic System
-
-I want letters that are common as the first letter of famous peoples names, and as much as possible, indicate the numeric position in the alphabet.
-
-* 0 - J (10th letter of alphabet and I like the name choices that can be
-  generated)
-* 6 - F (6th letter of alphabet and I'm Ok with the names generated)
-* 9 - S (19th letter of alphabet and, generates good name choices. It makes me think "seven of nine". S is also useful to represent the card suit "Spades")
-
-Thus, apart from "S", all letters are in their natural ordering:
+## Major character positions
 
 ```
 1  2  3  4  5  6  7  8  9  0
-A  B  C  D  E  F  G  H  S  J
+t  n  m  r  l  j  c  v  p  s
+d              sh k  f  b  z
+th             ch g  ph
+                  q
+                  ck
 ```
 
-This is different from simple letter frequencies would suggest. For instance I is a common letter, but for me, doesn't generate good name choices. In addition, J is extremely uncommon, but for me, generates consistently memorable names.
+## Combine Dominic System and Major System
+
+Lets combine the Major system and Dominic system, with a bit of a twist.
+First start with an alphabetical ordering for the first 9 mappings.
+
+```
+1  2  3  4  5  6  7  8  9  0
+a  b  c  d  e  f  g  h  i
+```
+
+Next, as far as possible, add the Major system letter groupings on top of this alphabetical ordering.
+
+```
+1  2  3  4  5  6  7  8  9  0
+a  b  c  d  e  f  g  h  i  s
+t  p  k     l  v           z
+      q
+   gh ck       ph
+```
+
+Finally, taking into account letter frequencies, make up reasons why the remaining letters are placed.
+
+* The letter n starts nine.
+* Lower case r looks a bit like a mirror image of 7.
+* Lower case m looks like an incomplete 8 on its side.
+* The letter w has four lines forming it.
+* The letter o gets its Dominic system position.
+* The letter u looks a bit like a v.
+* The letter j goes with the g.
+* Letters x and y are unassigned and don't change the number value of a word.
+
+## Majoric character positions
+
+```
+1  2  3  4  5  6  7  8  9  0
+a  b  c  d  e  f  g  h  i  s
+t  p  k  w  l  v  r  m  n  z
+      q        u  j        o
+   gh ck       ph
+```
+
+## Majoric - Rules
+
+* Double letters are disregarded when not pronounced separately.
+* If the first letter is a consonant, the second letter doesn't count (e.g.
+  blob is 22 not 252).
+* Vowels, a e i o u are significant, but, only when they start a word and only
+  the first vowel. (e.g able is 125, not
+  1255)
+* Names are created in the same ways as the Dominic system, with the first character of
+each name representing the number.
+* Actions and objects are created in a similar way as
+the Major system, but with words of any length. Only the first two significant letters are used. This is because the words are being associated with a two digit number.
 
 # Generating Names
 
 [Generate Names by initials](http://peoplebyinitials.com/p/dominic-number-memory-system)
 
-# Actions and Objects
+## Majoric Example
 
-I've tried to choose actions and objects that are as specific, narrow as
-possible and have little overlap in the concept they use.
+I'm going to use the following letters to generate peoples names
 
-I've chosen to have the actions and objects have the initial letter constrained
-in the same way that the names are. Obviously, this makes it a lot harder to
-generate meaningful examples in the first place, but once they are generated,
-they reinforce their name and number.
+```
+1  2  3  4  5  6  7  8  9  0
+a  b  c  d  e  f  g  h  n  s
+```
 
-In the case of the letter J, as it is rare, I generate the Actions and Objects
-using the letter T, which is the 20th letter of the alphabet. You might ask, why
-not use T for the name. The answer is, I like the names generated by
-J better and J looks like it forms half a 0.
+Thus, apart from letters n and s, all letters are in their natural ordering:
 
-Disclaimer: I am not a memory expert, and I don't claim this methodology is
-better than anyone else’s (especially a champion mnemonist). It's a personal choice, thats all. I have previously tried the Major system and was unsuccessful in applying it.
-
-## Example
-
-In most cases the actions and objects have meaning to me, though the link to the
-person/character may be tenuous.
-
-My apologies to anyone I offend :) It really is a stretch coming up with
-meaningful examples given the constraints.
+My apologies to anyone I offend with the actions on objects :)
 
 ```
 number,initials,name,action,object
 
-00,JJ,Janet Jackson, tweaks, tarantula
-01,JA,Jessica Alba, twerks, antelope
-02,JB,Justin Bieber, tickles, baby
-03,JC,Jenna Coleman, tries, cocaine
-04,JD,Johnny Depp, tattoos, death
-05,JE,Johnny English, taps, ejectionSeat
-06,JF,Jodie Foster, tortures, fish
-07,JG,Jeff Goldblum, trains, Giraffatitan
-08,JH,John Hannah, tracks, HungaryMummy
-09,JS,Jason Statham, transports, statue
+00,SS,Sullivan Stapleton, seize, seesaw
+01,SA,Steve Austin, sweat, satellite
+02,SB,Sandra Bullock, stabilise, obelisk
+03,SC,Sean Connery, smacks, secretAgent
+04,SD,Snoop Dogg, slide, saddle
+05,SE,Sam Elliot, swallow, sailboat
+06,SF,Sigmund Freud, offers, sofa
+07,SG,Sarah Gellar, ogles, starship
+08,SH,Stephen Hawking, steers, orbit
+09,SN,Stevie Nicks, stains, sun
 
-10,AJ,Angelina Jolie, acquires, tail
-11,AA,Alan Alda, adopts, army
-12,AB,Antonio Banderas, argues, boots
-13,AC,Agatha Christie, arrests, criminal
-14,AD,Albus Dumbledore, amazes, Dobbi
-15,AE,Albert Einstein, accelerates, EventHorizon
-16,AF,Anne Frank, avoids, furnace
-17,AG,Aiden Gillen, agitates, GameOfThrones
-18,AH,Adolf Hitler, attacks, Hell
-19,AS,Arnold Schwarzenegger, activates, submarine
+10,AS,Arnold Schwarzenegger, tasers, astronaut
+11,AA,Alan Alda, tweets, tattoo
+12,AB,Antonio Banderas, trips, trapeze
+13,AC,Agatha Christie, tracks, teddy
+14,AD,Albus Dumbledore, addles, adder
+15,AE,Albert Einstein, teleports, alien
+16,AF,Anne Frank, avoid, afterlife
+17,AG,Aiden Gillen, tears, toga
+18,AH,Adolf Hitler, amasses, army
+19,AN,Alfred Nobel, angers, angel
 
-20,BJ,Billy Joel, beatboxes, Tardis
-21,BA,Buzz Aldrin, blastoff, astronaut
-22,BB,Brigitte Bardot, bathes, bath
-23,BC,Billy Connolly, barks, copper
-24,BD,Bette Davis, buys, dollEyes
-25,BE,Ben Elton, blinds, eyeglass
-26,BF,Benjamin Franklin, bows, flag
-27,BG,Bill Gates, breaks, glass
-28,BH,Bob Hoskins, bites, hog
-29,BS,Britney Spears, bags, seaweed
+20,BS,Britney Spears, piss, bus
+21,BA,Ben Affleck, peals, ball
+22,BB,Brigitte Bardot, beeps, boob
+23,BC,Billy Connolly, pokes, book
+24,BD,Bette Davis, braids, bed
+25,BE,Ben Elton, boils, brolly
+26,BF,Benjamin Franklin, buffs, briefcase
+27,BG,Bill Gates, bags, pigs
+28,BH,Bob Hoskins, pumps, bomb
+29,BN,Bill Nighy, binds, brain
 
-30,CJ,Calamity Jane, camouflages, trap
-31,CA,Christina Aguilera, caresses, angel
-32,CB,Christian Bale, captains, Batsuit
-33,CC,Charlie Chaplin, chases, clown
-34,CD,Charles Darwin, crosses, dolphin
-35,CE,Clint Eastwood, climbs, escapeRoute
-36,CF,Colin Firth, clothe, fop
-37,CG,Cary Grant, crys, gossip
-38,CH,Charlton Heston, chants, hymn
-39,CS,Carl Sagan, calls, spaceship
+30,CS,Carl Sagan, kisses, cash
+31,CA,Christina Aguilera, quotes, cat
+32,CB,Christian Bale, chops, crab
+33,CC,Charlie Chaplin, choke, clown
+34,CD,Charles Darwin, codes, claw
+35,CE,Clint Eastwood, calls, krill
+36,CF,Colin Firth, crave, cave
+37,CG,Cary Grant, carry, cart
+38,CH,Charlton Heston, climbs, chimpanzee
+39,CN,Chuck Norris, clones, convict
 
-40,DJ,David Jason, drinks, tea
-41,DA,David Attenboroujgh, digs, amber
-42,DB,Don Bradman, dismiss, batsman
-43,DC,David Copperfield, dematerialise, caravan
-44,DD,David Duchovny, dives, dung
-45,DE,Dwight Eisenhower, divides, Europe
-46,DF,Dawn French, drowns, farmer
-47,DG,Delta Goodrem, dazzle, gypsy
-48,DH,Damon Hill, drives, Holden
-49,DS,Donald Sutherland, directs, scream
+40,DS,Donald Sutherland, dresses, dish
+41,DA,David Attenborough, dates, waiter
+42,DB,Don Bradman, dribbles, Dobbi
+43,DC,David Copperfield, wakes, wickets
+44,DD,David Duchovny, wades, druid
+45,DE,Dwight Eisenhower, drills, doll
+46,DF,Dawn French, drift, diver
+47,DG,Delta Goodrem, digs, dragon
+48,DH,Damon Hill, dreams, dreamtime
+49,DN,Dean Norris, drinks, window
 
-50,EJ,Elton John, entertains, train
-51,EA,Ellen Adarna, enjoys, anteater (sic 'em rex)
-52,EB,Emily Blunt, eyeballs, BAFTA
-53,EC,Emilia Clarke, exhibits, crown
-54,ED,Ellen Degeneres, embosses, Darliks
-55,EE,Ella Eyre, elevates, elevator
-56,EF,Enrico Fermi, experiments, fission
-57,EG,Eva Green, exorcises, ghost
-58,EH,Elizabeth Hurley, eats, hair
-59,ES,Edward Scissorhands, enchants, scissors
+50,ES,Edward Scissorhands, lassos, laser
+51,EA,Ellen Adarna, eats, ET
+52,EB,Emily Blunt, eyeballs, lobster
+53,EC,Emilia Clarke, licks, lock
+54,ED,Ellen Degeneres, loads, lawyers
+55,EE,Ella Eyre, elevates, elephant
+56,EF,Enrico Fermi, liftoff, leaves
+57,EG,Eva Green, exorcises, eggs
+58,EH,Elizabeth Hurley, embosses, emperor
+59,EN,Eliot Ness, entombs, engine
 
-60,FJ,Felicity Jones, focuses, telescope
-61,FA,Fred Astaire, flashes, ankles
-62,FB,Frodo Baggins, fences, brolly
-63,FC,Fidel Castro, folds, cigar
-64,FD,Felicia Day, feeds, dragon
-65,FE,Freja Erichsen, films, elf
-66,FF,Farrah Fawcett, flies, F18
-67,FG,Forrest Gump, flees, gunfight
-68,FH,Freddie Highmore, frys, HotelChocolat
-69,FS,Frank Sinatra, fires, stagecoach
+60,FS,Frank Sinatra, fishes, fishtail
+61,FA,Fred Astaire, floats, feet
+62,FB,Frodo Baggins, fibs, fabric
+63,FC,Fidel Castro, fracks, face
+64,FD,Felicia Day, feeds, food
+65,FE,Freja Erichsen, fills, film
+66,FF,Farrah Fawcett, flavours, ufo
+67,FG,Forrest Gump, flogs, flag
+68,FH,Freddie Highmore, flames, foam
+69,FN,Florence Nightingale, flings, unicorn
 
-70,GJ,Grace Jones, growls, tiger
-71,GA,Gillian Anderson, guards, alien
-72,GB,George Bush, grins, breasts
-73,GC,Gemma Chan, grows, cyborg
-74,GD,Geena Davis, grinds, dagger
-75,GE,Giancarlo Esposito, greets, evilQueen
-76,GF,Gerald Ford, genocides, forest
-77,GG,Galileo Galilei, gazes, galaxy
-78,GH,George Harrison, grooves, harmonica
-79,GS,George Soros, gambles, spacesuit
+70,GS,George Soros, gazes, ghost
+71,GA,Gillian Anderson, grates, gate
+72,GB,George Bush, gropes, rabbits
+73,GC,Gemma Chan, rocks, gocart
+74,GD,Geena Davis, guides, rudder
+75,GE,Giancarlo Esposito, rolls, gold
+76,GF,Gerald Ford, raffles, raft
+77,GG,Galileo Galilei, guards, garrison
+78,GH,George Harrison, grooms, rams
+79,GN,Greg Norman, grins, roundOfGolf
 
-80,HJ,Hugh Jackman, hooksUp, TimeMachine
-81,HA,Hans Andersen, hoists, anchor
-82,HB,Halle Berry, hugs, boxer
-83,HC,Hillary Clinton, howls, crate
-84,HD,Hilary Duff, hurls, dwarf
-85,HE,Harry Enfield, halts, engine
-86,HF,Harrison Ford, holds, firecracker
-87,HG,Hugh Grant, hits, guitar
-88,HH,Harry Houdini, hypnotise, Hippodrome
-89,HS,Homer Simpson, hears, saxophone
+80,HS,Homer Simpson, hoses, house
+81,HA,Hans Andersen, heats, hat
+82,HB,Halle Berry, hops, map
+83,HC,Hillary Clinton, microwaves, mice
+84,HD,Hilary Duff, muddies, hoody
+85,HE,Harry Enfield, halts, mail
+86,HF,Harrison Ford, moves, moviescreen
+87,HG,Hugh Grant, hurls, hag
+88,HH,Harry Houdini, mummifies, mummy
+89,HN,Hannah New, mines, manequin
 
-90,SJ,Scarlett Johansson, sucks, toe
-91,SA,Steve Austin, salutes, arm
-92,SB,Sandra Bullock, scratches, bus
-93,SC,Sean Connery, smooches, cloak
-94,SD,Snoop Dogg, sniffs, dingo
-95,SE,Sam Elliot, shaves, eyebrow
-96,SF,Sigmund Freud, smokes, feather
-97,SG,Sarah Gellar, stabs, ghoul
-98,SH,Stephen Hawking, swallows, horse
-99,SS,Sullivan Stapleton, sweats, skull
+90,NS,Nicole Scherzinger, isolates, nest
+91,NA,Neil Armstrong, itches, net
+92,NB,Napoleon Bonaparte, nabs, napalm
+93,NC,Nicolas Cage, notches, icebergs
+94,ND,Natalie Dormer, idolises, idol
+95,NE,Nathalie Emmanuel, nails, nail
+96,NF,Nelly Furtado, navigates, navy
+97,NG,Nikki Gil, nags, igloo
+98,NH,Naomie Harris, numbers, numberplate
+99,NN,Nick Nolte, initialises, nanny
 ```
 
-## Cards
 
-Experimental: the letter W is the 13 letter of the alphabet, so I've used it as well as the third letter C. I use a similar logic for letter N, R and I.
-
-```
-Jack Clubs      Prince Caspian, wakes, cat (Aslan)
-Jack Diamonds   Princess Diana, dreams, Dahlia (sea of)
-Jack Hearts     Prince Harry, hovers, helicopter
-Jack Spades     Princess SnowWhite, sleepingIn, iceCoffin
-
-Queen Clubs     Cleopatra, climbs, chariot
-Queen Diamonds  Druantia, dances, druid
-Queen Hearts    Helen (of Troy), radiates, heartBeat
-Queen Spades    Storm, standsInciting, storm (lightening)
-
-King Clubs      Chronos, winds, clock
-King Diamonds   David, drains, diamondStone (angel)
-King Hearts     Helios, holds, helix (miniature sun)
-King Spades     Solomon, swings, scales of justice
-```
