@@ -16,7 +16,7 @@ The Dominic system was invented by memory champion, Dominic O'Brien. It assigns 
 a  b  c  d  e  s  g  h  n  o
 ```
 
-This uses alphabetical ordering, except for letters s, n and o, t.
+This uses alphabetical ordering, except for letters s, n and o.
 
 ## Major System
 
@@ -83,7 +83,8 @@ t  p  k  w  l  v  r  m  n  z
 * Vowels, a e i o u are significant, but, only when they start a word and only
   the first vowel. (e.g able is 125, not
   1255)
-* Names are created in the same ways as the Dominic system, with the first character of
+* Names are created in the same ways as the Dominic system, with the first
+  letter of
 each name representing the number.
 * Actions and objects are created in a similar way as
 the Major system, but with words of any length. Only the first two significant letters are used. This is because the words are being associated with a person representing a two digit number.
@@ -185,7 +186,7 @@ number,initials,name,action,object
 68,FH,Freddie Highmore, flames, foam
 69,FN,Florence Nightingale, flings, unicorn
 
-70,GS,George Soros, gazes, ghost
+70,GS,George Soros, glasses, ghost
 71,GA,Gillian Anderson, grates, gate
 72,GB,George Bush, gropes, rabbits
 73,GC,Gemma Chan, rocks, gocart
