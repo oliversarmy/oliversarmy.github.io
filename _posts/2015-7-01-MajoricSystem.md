@@ -116,8 +116,8 @@ number,initials,name,action,object
 04,SD,Snoop Dogg, slide, saddle
 05,SE,Sam Elliot, swallow, sailboat
 06,SF,Sigmund Freud, offers, sofa
-07,SG,Sarah Gellar, ogles, starship
-08,SH,Stephen Hawking, steers, orbit
+07,SG,Sarah Gellar, steers, starship
+08,SH,Stephen Hawking, stammers, orbit
 09,SN,Stevie Nicks, stains, sun
 
 10,AS,Arnold Schwarzenegger, tasers, astronaut
