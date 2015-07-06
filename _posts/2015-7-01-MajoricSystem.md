@@ -44,14 +44,13 @@ First start with an alphabetical ordering for the first 9 mappings.
 a  b  c  d  e  f  g  h  i
 ```
 
-Next, as far as possible, add the Major system letter groupings on top of this alphabetical ordering.
+Next, add the Major system letter groupings on top of this alphabetical ordering.
 
 ```
 1  2  3  4  5  6  7  8  9  0
 a  b  c  d  e  f  g  h  i  s
 t  p  k     l  v           z
       q
-   gh ck       ph
 ```
 
 Finally, taking into account letter frequencies, make up reasons why the remaining letters are placed.
@@ -72,22 +71,22 @@ Finally, taking into account letter frequencies, make up reasons why the remaini
 a  b  c  d  e  f  g  h  i  s
 t  p  k  w  l  v  r  m  n  z
       q        u  j        o
-   gh ck       ph
 ```
 
 ## Majoric - Rules
 
-* Double letters are disregarded when not pronounced separately.
-* If the first letter is a consonant, the second letter doesn't count (e.g.
+1. Double letters are disregarded when not pronounced separately.
+2. If the first letter is a consonant, the second letter doesn't count (e.g.
   blob is 22 not 252).
-* Vowels, a e i o u are significant, but, only when they start a word and only
-  the first vowel. (e.g able is 125, not
-  1255)
-* Names are created in the same ways as the Dominic system, with the first
-  letter of
-each name representing the number.
-* Actions and objects are created in a similar way as
-the Major system, but with words of any length. Only the first two significant letters are used. This is because the words are being associated with a person representing a two digit number.
+3. When a consonant grouping occurs that modifies the sound of the inital letter (e.g. br, cl, gr, ll, rs, sh, st, ...),  only the first letter is significant. Thus the word "crash" encodes number 30 (note: this encompasses rules 1 and 2).
+4. Vowels, a e i o u are significant, but, only when they start a word and only
+  the first vowel. (e.g age is 17, not 175)
+5. Names are created in the same ways as the Dominic system, with the first
+  letter of each name representing the number.
+6. Actions and objects are created in a similar way as the Major system,
+but with words of any length.
+Only the first two significant letters are used, when actions and objects are being associated with a person representing a two digit number (as is the case in the example below).
+
 
 ## Generating Names
 
