@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Majoric - Major Dominic System
+title: Majoric System - Major Dominic System
 ---
 ![_config.yml]({{ site.baseurl }}/images/crystal.jpg)
 
-The Major System and Dominic System are mnemonic systems for remembering number sequences. The Major Dominic is an attempt to combine the strengths of each system.
+The Major System and Dominic System are mnemonic systems for remembering number sequences. The Majoric System combines these two systems with the purpose of making it more flexible than the Dominic system and with a more intuitive letter ordering and rule logic to the Major system.
 
 ## Dominic System
 
@@ -36,15 +36,15 @@ th             ch g  ph
 
 ## Combine Dominic System and Major System
 
-Lets combine the Major system and Dominic system, with a bit of a twist.
-First start with an alphabetical ordering for the first 9 mappings.
+Lets combine the Major system and Dominic system.
+First, to make things simple, start with an alphabetical ordering for the first 9 Letters. Unlike the Major system, vowels are significant.
 
 ```
 1  2  3  4  5  6  7  8  9  0
 a  b  c  d  e  f  g  h  i
 ```
 
-Next, add the Major system letter groupings on top of this alphabetical ordering.
+Next, as much as possible, add the Major system letter groupings on top of this alphabetical ordering.
 
 ```
 1  2  3  4  5  6  7  8  9  0
@@ -55,7 +55,7 @@ t  p  k     l  v           z
 
 Finally, taking into account letter frequencies, make up reasons why the remaining letters are placed.
 
-* The letter n starts nine.
+* The letter n is the first letter of nine.
 * Lower case r looks a bit like a mirror image of 7.
 * Lower case m looks like an incomplete 8 on its side.
 * The letter w has four lines forming it.
@@ -73,20 +73,28 @@ t  p  k  w  l  v  r  m  n  z
       q        u  j        o
 ```
 
-## Majoric - Rules
+## Majoric - Word Rules
 
-1. Double letters are disregarded when not pronounced separately.
-2. If the first letter is a consonant, the second letter doesn't count (e.g.
-  blob is 22 not 252).
-3. When a consonant grouping occurs that modifies the sound of the inital letter (e.g. br, cl, gr, ll, rs, sh, st, ...),  only the first letter is significant. Thus the word "crash" encodes number 30 (note: this encompasses rules 1 and 2).
-4. Vowels, a e i o u are significant, but, only when they start a word and only
-  the first vowel. (e.g age is 17, not 175)
-5. Names are created in the same ways as the Dominic system, with the first
-  letter of each name representing the number.
-6. Actions and objects are created in a similar way as the Major system,
+1. When a consonant grouping occurs that modifies the sound of the initial letter (e.g. br, cl, gr, ll, rs, sh, st, ...), only the first letter is significant. Thus the word "ball" encodes 21 (not 211) and the word "crash" encodes number 30 (not 3708).
+2. Vowels, a e i o u, are significant, but, only when they start a word and only
+  the first vowel. (e.g age is 17, not 175).
+
+Note: Rule 1 evens out the spread of words for the second digit.
+
+## Majoric - Optional Word Rules
+
+These rules spread out words for the second digit, as both prefixes are very common.
+
+1. Prefixes starting with "un" are treated as a single 6. If the next letter is a vowel, it is significant. Thus "unify" is encoded as 696.
+2. Prefixes starting with "in" are treated as a single 9. If the next letter is a vowel, it is significant. Thus "inability" is encoded as 91251.
+
+## Majoric - Name, Action, Object Rules (for 2 digit numbers)
+
+1. Names are created in the same ways as the Dominic system, with the first
+  letter of the names (i.e. first and last name) representing a one digit number (and thus a two digit number when combined).
+2. Actions and objects are created in a similar way as the Major system,
 but with words of any length.
 Only the first two significant letters are used, when actions and objects are being associated with a person representing a two digit number (as is the case in the example below).
-
 
 ## Generating Names
 
@@ -94,14 +102,14 @@ Only the first two significant letters are used, when actions and objects are be
 
 ## Majoric Example
 
-I'm going to use the following letters to generate peoples names
+I'm going to limit the example to the following letters to generate peoples names.
 
 ```
 1  2  3  4  5  6  7  8  9  0
 a  b  c  d  e  f  g  h  n  s
 ```
 
-Thus, apart from letters n and s, all letters are in their natural ordering:
+Thus, apart from letters n and s, all letters are in alphabetical ordering.
 
 My apologies to anyone I offend with the actions on objects :)
 
