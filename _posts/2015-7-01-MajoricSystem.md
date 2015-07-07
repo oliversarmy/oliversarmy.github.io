@@ -109,7 +109,11 @@ I'm going to limit the example to the following letters to generate peoples name
 a  b  c  d  e  f  g  h  n  s
 ```
 
-Thus, apart from letters n and s, all letters are in alphabetical ordering.
+Thus, apart from letters n and s, all letters are in alphabetical ordering. This
+is for the names only. The actions and objects can use all available letters.
+
+For example, the actor Sandra Bullock StaBilises OBelisk, encodes 02. The word
+"obelisk" encodes 02 (rather than 0250) in this instance, because it's linked to Sandra Bullock and in a 2 digit naming convention (same for the word stabilises). If we were using a 3 digit naming convention, it would encode 3 digits!
 
 My apologies to anyone I offend with the actions on objects :)
 
