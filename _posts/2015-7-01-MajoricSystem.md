@@ -117,12 +117,12 @@ My apologies to anyone I offend with the actions on objects :)
 ```
 number,initials,name,action,object
 
-00,SS,Sullivan Stapleton, seize, seesaw
-01,SA,Steve Austin, sweat, satellite
-02,SB,Sandra Bullock, stabilise, obelisk
+00,SS,Sullivan Stapleton, seizes, seesaw
+01,SA,Steve Austin, sweats, satellite
+02,SB,Sandra Bullock, stabilises, obelisk
 03,SC,Sean Connery, smacks, secretAgent
-04,SD,Snoop Dogg, slide, saddle
-05,SE,Sam Elliot, swallow, sailboat
+04,SD,Snoop Dogg, slides, saddle
+05,SE,Sam Elliot, swallows, sailboat
 06,SF,Sigmund Freud, offers, sofa
 07,SG,Sarah Gellar, steers, starship
 08,SH,Stephen Hawking, stammers, omelet
@@ -134,9 +134,9 @@ number,initials,name,action,object
 13,AC,Agatha Christie, tracks, teddy
 14,AD,Albus Dumbledore, addles, adder
 15,AE,Albert Einstein, teleports, alien
-16,AF,Anne Frank, avoid, afterlife
+16,AF,Anne Frank, avoids, afterlife
 17,AG,Aiden Gillen, tears, toga
-18,AH,Adolf Hitler, amasses, army
+18,AH,Adolf Hitler, amasses, ammunition
 19,AN,Alfred Nobel, angers, angel
 
 20,BS,Britney Spears, piss, bus
@@ -153,11 +153,11 @@ number,initials,name,action,object
 30,CS,Carl Sagan, kisses, cash
 31,CA,Christina Aguilera, quotes, cat
 32,CB,Christian Bale, chops, crab
-33,CC,Charlie Chaplin, choke, clown
+33,CC,Charlie Chaplin, chokes, clown
 34,CD,Charles Darwin, codes, claw
 35,CE,Clint Eastwood, calls, krill
-36,CF,Colin Firth, crave, cave
-37,CG,Cary Grant, carry, cart
+36,CF,Colin Firth, craves, cave
+37,CG,Cary Grant, carrys, cart
 38,CH,Charlton Heston, climbs, chimpanzee
 39,CN,Chuck Norris, clones, convict
 
@@ -225,7 +225,7 @@ number,initials,name,action,object
 96,NF,Nelly Furtado, navigates, navy
 97,NG,Nikki Gil, nags, igloo
 98,NH,Naomie Harris, numbers, numberplate
-99,NN,Nick Nolte, initialises, nanny
+99,NN,Nick Nolte, initials, nanny
 ```
 
 
