@@ -51,17 +51,28 @@ a  b  c  d  e  f  g  h  i  s
 t  p  k     l  v           z
       q
 ```
+As a quick explanation (where the letter positions haven't changed)
 
-Finally, taking into account letter frequencies, make up reasons why the remaining letters are placed.
+* The letter T has one vertical stroke, just like a 1.
+* The letter L is the roman numeral for 50 ("Live at 5").
+* Zero begins with Z, which sounds like S (voiced and voiceless pair).
+
+An explanation where the mappings have moved:
+
+* Lower case p looks like a mirror image of b.
+* k can sound very like c. q starts with k.
+* v has six FlaVoUrs!
+
+Finally, taking into account letter frequencies, place the remaining letters.
 
 * The letter n is the first letter of nine.
 * Lower case r looks like a mirror image of 7.
 * Lower case m looks like an incomplete 8 on its side.
-* The letter w has four lines forming it.
+* The letter w has four lines forming it's shape.
 * The letter o looks like a 0.
 * The letter u looks like a v.
-* The letter j goes with the g.
-* The letter x is mostly pronounced with a ks sound.
+* The letter j sounds like g.
+* The letter x mainly starts with a "k" sound.
 * The letter y is unassigned and dosen't change the number value of a word.
 
 ## Majoric character positions
@@ -83,7 +94,7 @@ Note: Rule 1 evens out the spread of words for the second digit.
 
 ## Majoric - Advanced Word Rules
 
-3. Pluralising a word will change the number encoding. For example if you are
+3. Pluralising a noun will change the number encoding. For example if you are
    visualising a cat vs a number of cats. (i.e. cat is 31 and cats is 310)
 4. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
 5. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 91251.
@@ -113,7 +124,7 @@ Thus, apart from letters n and s, all letters are in alphabetical ordering. This
 is for the names only. The actions and objects can use all available letters.
 
 For example, the actor Sandra Bullock StaBilises OBelisk, encodes 02. The word
-"obelisk" encodes 02 (rather than 0250) in this instance, because it's linked to Sandra Bullock and in a 2 digit naming convention (same for the word stabilises). If we were using a 3 digit naming convention, it would encode 3 digits!
+"obelisk" encodes 02 (rather than 0250) in this instance, because it's linked to Sandra Bullock and it's in a 2 digit naming convention (same for the word stabilises). If we were using a 3 digit naming convention, it would encode 3 digits!
 
 My apologies to anyone I offend with the actions on objects :)
 
