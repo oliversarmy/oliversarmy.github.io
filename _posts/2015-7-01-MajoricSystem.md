@@ -77,8 +77,7 @@ t  p  k  w  l  v  r  m  n  z
 ## Majoric - Basic Word Rules
 
 1. When a consonant grouping occurs that modifies the sound of the initial letter (e.g. br, ck, cl, gr, ll, mm, sh, st, ...), only the first letter is significant. Thus the word "ball" encodes 21 (not 211) and the word "crash" encodes number 30 (not 3708).
-2. Vowels, a e i o u, are significant, but, only when they start a word and
-   , in most cases, only the first vowel. (e.g age is 17, not 175).
+2. Vowels, a e i o u, are significant, but, only when they start a word and, in most cases, only the first vowel. (e.g age is 17, not 175).
 
 Note: Rule 1 evens out the spread of words for the second digit.
 
@@ -202,7 +201,7 @@ number,initials,name,action,object
 75,GE,Giancarlo Esposito, rolls, gold
 76,GF,Gerald Ford, raffles, raft
 77,GG,Galileo Galilei, guards, garrison
-78,GH,George Harrison, grooms, rams
+78,GH,George Harrison, grooms, grimReaper
 79,GN,Greg Norman, grins, roundOfGolf
 
 80,HS,Homer Simpson, hoses, house
@@ -218,8 +217,8 @@ number,initials,name,action,object
 
 90,NS,Nicole Scherzinger, isolates, nest
 91,NA,Neil Armstrong, itches, net
-92,NB,Napoleon Bonaparte, nabs, napalm
-93,NC,Nicolas Cage, notches, icebergs
+92,NB,Napoleon Bonaparte, nabs, nappie
+93,NC,Nicolas Cage, nukes, icebergs
 94,ND,Natalie Dormer, idolises, idol
 95,NE,Nathalie Emmanuel, nails, nail
 96,NF,Nelly Furtado, navigates, navy
