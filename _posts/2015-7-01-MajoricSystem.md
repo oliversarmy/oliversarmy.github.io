@@ -61,7 +61,8 @@ Finally, taking into account letter frequencies, make up reasons why the remaini
 * The letter o looks like a 0.
 * The letter u looks like a v.
 * The letter j goes with the g.
-* Letters x and y are unassigned and don't change the number value of a word.
+* The letter x is mostly pronounced with a ks sound.
+* The letter y is unassigned and don't change the number value of a word.
 
 ## Majoric character positions
 
@@ -70,22 +71,23 @@ Finally, taking into account letter frequencies, make up reasons why the remaini
 a  b  c  d  e  f  g  h  i  s
 t  p  k  w  l  v  r  m  n  z
       q        u  j        o
+      x
 ```
 
-## Majoric - Word Rules
+## Majoric - Basic Word Rules
 
-1. When a consonant grouping occurs that modifies the sound of the initial letter (e.g. br, cl, gr, ll, mm, sh, st, ...), only the first letter is significant. Thus the word "ball" encodes 21 (not 211) and the word "crash" encodes number 30 (not 3708).
-2. Vowels, a e i o u, are significant, but, only when they start a word and only
-  the first vowel. (e.g age is 17, not 175).
+1. When a consonant grouping occurs that modifies the sound of the initial letter (e.g. br, ck, cl, gr, ll, mm, sh, st, ...), only the first letter is significant. Thus the word "ball" encodes 21 (not 211) and the word "crash" encodes number 30 (not 3708).
+2. Vowels, a e i o u, are significant, but, only when they start a word and
+   , in most cases, only the first vowel. (e.g age is 17, not 175).
 
 Note: Rule 1 evens out the spread of words for the second digit.
 
 ## Majoric - Advanced Word Rules
 
-The prefixes "un" and "in" are very common. The following rules spread out words for the second digit.
-
-3. Prefixes starting with "un" are treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "uncle" is encoded as 69.
-4. Prefixes starting with "in" are treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 91251.
+3. Pluralising a word will change the number encoding. For example if you are
+   visualising a cat vs a number of cats. (i.e. cat is 31 and cats is 310)
+4. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
+5. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 91251.
 
 ## Majoric - Name, Action, Object Rules (for 2 digit numbers)
 
