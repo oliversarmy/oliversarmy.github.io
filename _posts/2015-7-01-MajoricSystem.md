@@ -62,7 +62,7 @@ Finally, taking into account letter frequencies, make up reasons why the remaini
 * The letter u looks like a v.
 * The letter j goes with the g.
 * The letter x is mostly pronounced with a ks sound.
-* The letter y is unassigned and don't change the number value of a word.
+* The letter y is unassigned and dosen't change the number value of a word.
 
 ## Majoric character positions
 
@@ -184,7 +184,7 @@ number,initials,name,action,object
 
 60,FS,Frank Sinatra, fishes, fishtail
 61,FA,Fred Astaire, floats, feet
-62,FB,Frodo Baggins, fibs, fabric
+62,FB,Frodo Baggins, unbuttons, fabric
 63,FC,Fidel Castro, fracks, face
 64,FD,Felicia Day, feeds, food
 65,FE,Freja Erichsen, fills, film
