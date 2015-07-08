@@ -10,7 +10,7 @@ The Major System and Dominic System are mnemonic systems for remembering number 
 
 The Dominic system was invented by memory champion, Dominic O'Brien. It assigns the initials and name of a memorable person or character, to a two digit number from 00 to 99.
 
-## Dominic character positions
+### Dominic character positions
 ```
 1  2  3  4  5  6  7  8  9  0
 a  b  c  d  e  s  g  h  n  o
@@ -23,7 +23,7 @@ This uses alphabetical ordering, except for letters s, n and o.
 The Major System replaces numbers with consonant sounds. The system is very
 powerful and complex.
 
-## Major character positions
+### Major character positions
 
 ```
 1  2  3  4  5  6  7  8  9  0
@@ -55,13 +55,13 @@ As a quick explanation (where the letter positions haven't changed)
 
 * The letter T has one vertical stroke, just like a 1.
 * The letter L is the roman numeral for 50 ("Live at 5").
-* Zero begins with Z, which sounds like S (voiced and voiceless pair).
+* Zero begins with Z, which sounds like a voiced S (voiced and voiceless pair).
 
 An explanation where the mappings have moved:
 
 * Lower case p looks like a mirror image of b.
-* k can sound very like c. q starts with k.
-* v has six FlaVoUrs!
+* k can sound very like c. q starts with a "k" sound.
+* v sounds like a voiced f
 
 Finally, taking into account letter frequencies, place the remaining letters.
 
@@ -70,44 +70,48 @@ Finally, taking into account letter frequencies, place the remaining letters.
 * Lower case m looks like an incomplete 8 on its side.
 * The letter w has four lines forming it's shape.
 * The letter o looks like a 0.
-* The letter u looks like a v.
-* The letter j sounds like g.
-* The letter x mainly starts with a "k" sound.
-* The letter y is unassigned and dosen't change the number value of a word.
+* The letter u looks like a rounded v.
+* The letter j sound is sometimes made by the letter g.
+* The letters x and y are unassigned and don't change the number value of a word.
 
-## Majoric character positions
+### Majoric character positions
 
 ```
 1  2  3  4  5  6  7  8  9  0
 a  b  c  d  e  f  g  h  i  s
 t  p  k  w  l  v  r  m  n  z
       q        u  j        o
-      x
 ```
 
 ## Majoric - Basic Word Rules
 
-1. When a consonant grouping occurs that modifies the sound of the initial letter (e.g. br, ck, cl, gr, ll, mm, sh, st, ...), only the first letter is significant. Thus the word "ball" encodes 21 (not 211) and the word "crash" encodes number 30 (not 3708).
-2. Vowels, a e i o u, are significant, but, only when they start a word and, in most cases, only the first vowel. (e.g age is 17, not 175).
+1. Double letters are disregarded when not pronounced separately (e.g call - 35,
+   midday - 811)
+1. When a consonant grouping occurs within a syllable, that modifies the sound of the initial letter, only the first letter is significant (e.g. "crash" encodes 30, not 3708). The second consonant will commonly be one of (h, l, r, t, w).
+Most of the time these occur at the start of word or a syllable. e.g.
+bl, br, ch, cl, cr, dr, fl, fr, gr, ph, pl, pr, sh, sl, st, sw, th, tr, tw, wh, wr.
+Other combinations are sm, ck. Or for "mostly" the end of syllable ct, ng, nt, rd, rt.
+1. Vowels, a e i o u, are significant, but, only when they start a word and, in most cases, only the first vowel. (e.g age is 17, not 175).
 
-Note: Rule 1 evens out the spread of words for the second digit.
+Note: Rule 2 evens out the spread of words for the second digit.
 
 ## Majoric - Advanced Word Rules
 
-3. Pluralising a noun will change the number encoding. For example if you are
-   visualising a cat vs a number of cats. (i.e. cat is 31 and cats is 310)
-4. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
-5. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 91251.
+These are optional.
+
+3. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
+1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 91251.
+1. Phonetic changes: If a letter grouping sounds like a completley different letter grouping, change it (e.g. phone sounds like fone, city sounds like sity, sign sounds like sine).
 
 ## Majoric - Name, Action, Object Rules (for 2 digit numbers)
 
-5. Names are created in the same ways as the Dominic system, with the first
+7. Names are created in the same ways as the Dominic system, with the first
   letter of the names (i.e. first and last name) representing a one digit number (and thus a two digit number when combined).
-6. Actions and objects are created in a similar way as the Major system,
+1. Actions and objects are created in a similar way as the Major system,
 but with words of any length.
 Only the first two significant letters are used, when actions and objects are being associated with a person representing a two digit number (as is the case in the example below).
 
-## Generating Names
+### Generating Names
 
 [Generate Names by initials](http://peoplebyinitials.com/p/dominic-number-memory-system)
 
