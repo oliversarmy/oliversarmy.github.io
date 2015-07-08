@@ -90,18 +90,20 @@ t  p  k  w  l  v  r  m  n  z
 1. When a consonant grouping occurs within a syllable, that modifies the sound of the initial letter, only the first letter is significant (e.g. "crash" encodes 30, not 3708). The second consonant will commonly be one of (h, l, r, t, w).
 Most of the time these occur at the start of word or a syllable. e.g.
 bl, br, ch, cl, cr, dr, fl, fr, gr, ph, pl, pr, sh, sl, st, sw, th, tr, tw, wh, wr.
-Other combinations are ck, sm, sn. Or for "mostly" the end of syllable ct, ght, ng, nt, rd, rt.
+Other combinations are ck, sm, sn. Or for "mostly" the end of syllable ct, ng, nt, rd, rt.
 1. Vowels, a e i o u, are significant, but, only when they start a word and, in most cases, only the first vowel. (e.g age is 17, not 175).
 
 Note: Rule 2 evens out the spread of words for the second digit.
 
 ## Majoric - Advanced Word Rules
 
-These are optional.
+These are optional. Choose, one or more (or none).
 
 3. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
 1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 91251.
-1. Phonetic changes: If a letter grouping sounds like a completley different letter grouping, change it (e.g. phone sounds like fone, city sounds like sity, sign sounds like sine).
+1. Phonetic changes: If a letter grouping sounds like a completely different letter grouping, change it (e.g. phone - 29 sounds like /f/one - 69.
+1. As an alternative (or in addition) to doing general phonetic changes, don't use words
+   with problematic letter combinations like cauGHt.
 
 ## Majoric - Name, Action, Object Rules (for 2 digit numbers)
 
