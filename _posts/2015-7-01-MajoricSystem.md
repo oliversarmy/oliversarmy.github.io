@@ -51,7 +51,8 @@ a  b  c  d  e  f  g  h  i  s
 t  p  k     l  v           z
       q
 ```
-As a quick explanation (where the letter positions haven't changed)
+As a quick explanation (where the letter positions is the same as the Major
+System)
 
 * The letter T has one vertical stroke, just like a 1.
 * The letter L is the roman numeral for 50 ("Live at 5").
@@ -86,7 +87,7 @@ t  p  k  w  l  v  r  m  n  z
 ## Majoric - Basic Word Rules
 
 1. Double letters are disregarded when not pronounced separately (e.g call - 35,
-   midday - 811)
+   midday - 844)
 1. When a consonant grouping occurs within a syllable, that modifies the sound of the initial letter, only the first letter is significant (e.g. "crash" encodes 30, not 3708). The second consonant will commonly be one of (h, l, r, t, w).
 Most of the time these occur at the start of word or a syllable. e.g.
 bl, br, ch, cl, cr, dr, fl, fr, gr, ph, pl, pr, sh, sl, st, sw, th, tr, tw, wh, wr.
