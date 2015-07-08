@@ -74,7 +74,7 @@ Finally, taking into account letter frequencies, place the remaining letters.
 * The letter j sound is sometimes made by the letter g.
 * The letters x and y are unassigned and don't change the number value of a word.
 
-### Majoric character positions
+## Majoric character positions
 
 ```
 1  2  3  4  5  6  7  8  9  0
@@ -90,7 +90,7 @@ t  p  k  w  l  v  r  m  n  z
 1. When a consonant grouping occurs within a syllable, that modifies the sound of the initial letter, only the first letter is significant (e.g. "crash" encodes 30, not 3708). The second consonant will commonly be one of (h, l, r, t, w).
 Most of the time these occur at the start of word or a syllable. e.g.
 bl, br, ch, cl, cr, dr, fl, fr, gr, ph, pl, pr, sh, sl, st, sw, th, tr, tw, wh, wr.
-Other combinations are sm, ck. Or for "mostly" the end of syllable ct, ng, nt, rd, rt.
+Other combinations are ck, sm, sn. Or for "mostly" the end of syllable ct, ght, ng, nt, rd, rt.
 1. Vowels, a e i o u, are significant, but, only when they start a word and, in most cases, only the first vowel. (e.g age is 17, not 175).
 
 Note: Rule 2 evens out the spread of words for the second digit.
