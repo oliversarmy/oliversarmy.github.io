@@ -2,6 +2,7 @@
 layout: post
 title: Majoric System - Major Dominic System
 ---
+
 ![_config.yml]({{ site.baseurl }}/images/crystal.jpg)
 
 The Major System and Dominic System are mnemonic systems for remembering number sequences. The Majoric System combines these two systems with the purpose of making it more flexible than the Dominic system and with a more intuitive letter ordering and rule logic compared to the Major system.
@@ -36,17 +37,17 @@ th             ch g  ph
 
 ## Combine Dominic System and Major System
 
-Taking inspiration from the Dominic System, start with an alphabetical ordering for the first 9 Letters. Unlike the Major system, vowels are significant.
+Taking inspiration from the Dominic System, start with an alphabetical ordering for the first 9 Letters. Unlike the Major system, vowels are significant. It is useful to have a base of alphabetical ordering, especially when learning the system
 
 ```
-1  2  3  4  5  6  7  8  9  0
+1  2  3  4  5  6  7  8  9  0   (base alphabetical encodings)
 a  b  c  d  e  f  g  h  i
 ```
 
 Next, where theres no conflict, add the Major system letter groupings on top of this alphabetical ordering.
 
 ```
-1  2  3  4  5  6  7  8  9  0
+1  2  3  4  5  6  7  8  9  0   (partial encodings)
 a  b  c  d  e  f  g  h  i  s
 t  p  k     l  v           z
       q
@@ -75,6 +76,8 @@ Finally, taking into account letter frequencies, place the remaining letters.
 * The letter j sound is sometimes made by the letter g.
 * The letters x and y are unassigned and don't change the number value of a word.
 
+This leads to the following Majoric character positons:
+
 ## Majoric character positions
 
 ```
@@ -86,19 +89,12 @@ t  p  k  w  l  v  r  m  n  z
 
 ## Majoric - Basic Word Rules
 
-1. Double letters are disregarded when not pronounced separately (e.g call - 35,
-   midday - 844)
-1. When a consonant grouping occurs within a syllable, that modifies the sound of the initial letter, only the first letter is significant (e.g. "crash" encodes 30, not 3708). The second consonant will commonly be one of (h, l, r, t, w).
-Most of the time these occur at the start of word or a syllable. e.g.
-bl, br, ch, cl, cr, dr, fl, fr, gr, ph, pl, pr, sh, sl, st, sw, th, tr, tw, wh, wr.
-Other combinations are ck, sm, sn. Or for "mostly" the end of syllable ct, ng, nt, rd, rt.
-1. Vowels, a e i o u, are significant, but, only when they start a word and, in most cases, only the first vowel. (e.g age is 17, not 175).
-
-Note: Rule 2 evens out the spread of words for the second digit.
+1. When a word begins with a consonant, letters after the first consonant upto the first vowel, are disgarded. This evens out the spread of useful words. Examples: crash encodes 308, not 3708; school encodes 05; If a vowel directly follows, there is no change e.g. rain encodes 79.
+1. Vowels, a e i o u, are significant, but, only when they start a word, and in most cases, only the first vowel. (e.g age is 17, not 175).
+1. Double letters are disregarded when not pronounced separately (e.g call - 35, however midday - 844).
+1. The letter sequence "ck" is treated the same as "k".
 
 ## Majoric - Advanced Word Rules
-
-These are optional. Choose, one or more (or none).
 
 3. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
 1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 91251.
