@@ -28,8 +28,8 @@ odd, ode, oud, owe, oxide, sad, said, saudi, saw, scad, scow, screed, screw, scr
 #####05                  (62 words):
 oil, oily, oleo, sail, sale, sally, scale, scaly, school, scroll, scull, seal, sell, sexual, sexually, shale, shall, shell, shill, shrill, shrilly, shul, shyly, sill, silly, silo, skill, skull, slyly, small, smell, smelly, smile, snail, soil, sole, solo, soul, spell, spiel, spill, spoil, spool, squall, squeal, stale, stall, steal, steel, steely, stela, stele, stile, still, stole, stool, stroll, style, sully, swale, swell, swill
 
-#####06                  (40 words):
-oaf, of, off, oof, ova, safe, save, savvy, scoff, scruff, scruffy, scuff, shave, sheaf, shove, sieve, skiff, skivvy, slav, slave, sleeve, snafu, sniff, snuff, sofa, spiffy, spliff, spoof, staff, stave, stevia, stiff, stove, strafe, strife, strive, stuff, stuffy, suave, suffix
+#####06                  (42 words):
+oaf, of, off, oof, ova, safe, save, savvy, scoff, scruff, scruffy, scuff, shave, sheaf, shove, sieve, skiff, skivvy, slav, slave, sleeve, snafu, sniff, snuff, sofa, spiffy, spliff, spoof, staff, staph, stave, stevia, stiff, stove, strafe, strife, strive, strophe, stuff, stuffy, suave, suffix
 
 #####07                  (90 words):
 oar, or, oryx, our, sag, saga, sage, saggy, sago, sari, scar, scare, scary, score, scour, scurry, sear, seer, segue, sere, shag, shaggy, share, sharia, shear, sheer, shire, shore, shrug, siege, sir, sire, sirree, skier, slag, slayer, slog, slug, slur, slurry, smear, smeary, smog, smoggy, smug, snag, snare, sneer, snore, snug, soar, soggy, soiree, sore, sorry, sour, spar, spare, spear, sphere, spire, spirea, spoor, spore, sprayer, sprig, spur, square, squeegee, squire, stag, stage, stagey, stagy, stair, star, stare, starry, stayer, steer, stereo, stir, stogie, stooge, store, story, sure, swag, swear, swig
@@ -58,8 +58,8 @@ ad, add, adieu, ado, aid, aide, audio, aw, away, awe, aww, tad, taxed, taxiway, 
 #####15                  (39 words):
 ail, aioli, ale, all, allay, alley, alloy, ally, aloe, axial, axially, axilla, axle, tail, tale, tall, tally, teal, telex, tell, telly, thali, thrall, thrill, tile, till, toil, toile, tole, toll, tool, trail, trial, trill, troll, trolley, truly, tulle, twill
 
-#####16                  (11 words):
-affix, taffy, teff, thief, thrive, toff, toffee, tofu, trivia, trove, tufa
+#####16                  (12 words):
+affix, taffy, teff, thief, thrive, toff, toffee, tofu, trivia, trophy, trove, tufa
 
 #####17                  (37 words):
 aerie, age, ago, ague, air, airy, area, aria, array, aura, tag, taiga, tar, taro, tarry, taxer, tear, teary, their, theory, there, thorax, thug, tiara, tier, tire, toga, tory, tour, triage, trier, trig, tsar, tug, twig, twiggy, tyro
@@ -70,35 +70,35 @@ a-ha, aaaah, aaah, aah, ah, aha, ahh, ahhh, ahhhh, aim, am, ammo, axiom, tame, t
 #####19                  (39 words):
 aeon, ani, annex, annoy, anoxia, any, axion, axon, tan, taxon, teen, teeny, ten, tenia, than, thane, then, thin, thine, throne, tian, tin, tine, tinea, tinny, tiny, tone, tonneau, toon, toxin, train, trainee, triune, tun, tuna, tune, tween, twin, twine
 
-#####20                  (46 words):
-base, bass, basso, bias, bioassay, bis, blase, bless, bliss, blouse, bluesy, boss, bossy, braise, brass, brassy, bris, bruise, bus, buss, busy, pas, pass, passe, pause, phase, phrase, pious, piss, please, plexus, plus, poise, pose, posse, posy, praise, praxis, press, prise, prissy, prose, psoas, pus, puss, pussy
+#####20                  (44 words):
+base, bass, basso, bias, bioassay, bis, blase, bless, bliss, blouse, bluesy, boss, bossy, braise, brass, brassy, bris, bruise, bus, buss, busy, pas, pass, passe, pause, pious, piss, please, plexus, plus, poise, pose, posse, posy, praise, praxis, press, prise, prissy, prose, psoas, pus, puss, pussy
 
 #####21                  (62 words):
 bait, bat, bateau, batt, batty, bauxite, beat, beaut, beauty, beet, bet, biota, bit, bite, bitty, blat, bleat, bloat, blot, boat, boot, bootie, booty, bot, botox, bout, brat, bratty, bruit, brute, but, butt, buyout, pat, pate, patio, payout, peat, peaty, pet, petty, peyote, piety, pit, pita, pity, plait, plat, plate, plateau, pleat, plot, poet, pot, potty, pout, pouty, pretty, protea, put, putt, putty
 
-#####22                  (37 words):
-baby, bap, beep, bib, blab, bleep, blip, blob, bloop, blub, bob, boob, booby, bop, bribe, papaya, peep, pep, peppy, phobia, pipe, pleb, plebe, plop, poop, poopy, pop, poppy, prep, prepay, preppy, probe, prop, pub, pup, pupa, puppy
+#####22                  (36 words):
+baby, bap, beep, bib, blab, bleep, blip, blob, bloop, blub, bob, boob, booby, bop, bribe, papaya, peep, pep, peppy, pipe, pleb, plebe, plop, poop, poopy, pop, poppy, prep, prepay, preppy, probe, prop, pub, pup, pupa, puppy
 
 #####23                  (56 words):
 back, bake, beak, beaky, bike, black, bleak, bloc, block, blocky, bloke, bocce, book, bookie, brace, brake, break, breccia, brick, broke, brook, buck, bucko, pace, pack, peace, peak, pec, peck, peek, pic, pica, pice, pick, pickax, pickaxe, picky, piece, pika, pique, place, plaice, plaque, pluck, plucky, pock, poco, poke, poky, price, pricey, prick, pricy, puce, puck, puke
 
-#####24                  (53 words):
-bad, baddie, baud, bead, beady, bed, bid, bide, blade, bleed, blood, bloody, blow, blued, bod, bode, body, bow, boxed, braid, bread, breed, brew, bride, broad, brood, broody, brow, bud, buddy, byway, pad, paddy, paid, paw, payday, pew, phew, pied, plaid, played, plead, plod, plow, pod, pow, pride, prod, proud, prow, prude, pseudo, pud
+#####24                  (52 words):
+bad, baddie, baud, bead, beady, bed, bid, bide, blade, bleed, blood, bloody, blow, blued, bod, bode, body, bow, boxed, braid, bread, breed, brew, bride, broad, brood, broody, brow, bud, buddy, byway, pad, paddy, paid, paw, payday, pew, pied, plaid, played, plead, plod, plow, pod, pow, pride, prod, proud, prow, prude, pseudo, pud
 
-#####25                  (40 words):
-bail, bale, ball, belay, belie, bell, belly, biaxial, bile, bill, boil, bola, bole, boll, bolo, boule, broil, bull, bully, paella, pail, pal, pale, pall, payola, peal, peel, phial, phyllo, pile, pill, pixel, pole, polio, poll, polo, pool, prole, pull, pulley
+#####25                  (38 words):
+bail, bale, ball, belay, belie, bell, belly, biaxial, bile, bill, boil, bola, bole, boll, bolo, boule, broil, bull, bully, paella, pail, pal, pale, pall, payola, peal, peel, pile, pill, pixel, pole, polio, poll, polo, pool, prole, pull, pulley
 
 #####26                  (25 words):
 b-movie, beef, beefy, bevy, biff, bluff, boeuf, boffo, brave, brief, buff, pave, payoff, peeve, playoff, poof, poofy, pouf, prefix, privy, prix-fixe, proof, prove, puff, puffy
 
-#####27                  (76 words):
-bag, baggie, baggy, bar, bare, bear, beer, beery, beg, beige, berry, bier, big, bigeye, blare, bleary, blog, blur, blurry, boar, bog, bogey, boggy, bogy, boogie, boor, borax, bore, boxer, boyar, brag, briar, brier, brogue, bug, buggy, burro, bury, buyer, page, pair, par, para, pare, parry, payer, payor, pear, peer, peg, per, phage, pier, pig, piggy, plage, plague, player, pleura, plug, poor, pore, pour, prairie, prayer, prig, prior, priory, prog, pug, puja, pure, puree, purr, pyre, pyro
+#####27                  (75 words):
+bag, baggie, baggy, bar, bare, bear, beer, beery, beg, beige, berry, bier, big, bigeye, blare, bleary, blog, blur, blurry, boar, bog, bogey, boggy, bogy, boogie, boor, borax, bore, boxer, boyar, brag, briar, brier, brogue, bug, buggy, burro, bury, buyer, page, pair, par, para, pare, parry, payer, payor, pear, peer, peg, per, pier, pig, piggy, plage, plague, player, pleura, plug, poor, pore, pour, prairie, prayer, prig, prior, priory, prog, pug, puja, pure, puree, purr, pyre, pyro
 
 #####28                  (31 words):
 bah, bahai, beam, beamy, biome, blah, blame, blimey, bloom, boo-hoo, boom, bream, brim, broom, bum, buxom, pah, plum, plume, plummy, poem, pram, preemie, prim, prima, prime, primo, pro-am, prom, promo, puma
 
-#####29                  (45 words):
-ban, bane, bean, benne, blini, bone, boney, bonny, bony, boon, brain, brainy, bran, brane, brine, briny, bun, bunny, paean, pain, pan, pane, pen, penne, peon, phone, phoney, phony, piano, pin, pine, pinna, pion, plain, plan, plane, plena, pone, pony, preen, prion, prone, prune, pun, puny
+#####29                  (42 words):
+ban, bane, bean, benne, blini, bone, boney, bonny, bony, boon, brain, brainy, bran, brane, brine, briny, bun, bunny, paean, pain, pan, pane, pen, penne, peon, piano, pin, pine, pinna, pion, plain, plan, plane, plena, pone, pony, preen, prion, prone, prune, pun, puny
 
 #####30                  (29 words):
 case, cassia, cause, cease, cess, chaise, chaos, chase, cheese, cheesy, chess, choose, choosy, class, classy, clause, close, cos, cosy, crass, crease, cress, cross, cruise, crus, cuss, kiss, quasi, queasy
@@ -190,35 +190,35 @@ eh, emo, emu, exam, lam, lame, lehua, lemma, lime, limey, limo, llama, loam, loa
 #####59                  (17 words):
 ennui, eon, lanai, lane, lean, li-ion, liana, lien, line, lion, loan, loin, lone, loon, looney, loony, lynx
 
-#####60                  (15 words):
-fess, floss, fossa, freesia, fuse, fuss, fussy, unsay, unsexy, us, use, vas, vase, visa, vise
+#####60                  (17 words):
+fess, floss, fossa, freesia, fuse, fuss, fussy, phase, phrase, unsay, unsexy, us, use, vas, vase, visa, vise
 
 #####61                  (30 words):
 f-ratio, fat, fate, fatty, feat, fete, fiat, fit, fix-it, fixate, fixity, flat, fleet, flit, float, floaty, flout, flute, foot, frat, fret, fruit, fruity, untie, unto, vat, vet, veto, vita, vote
 
-#####62                  (22 words):
-f-stop, fab, fib, flab, flabby, flap, flip, flippy, flop, floppy, flub, flyboy, flyby, fob, fop, freebie, up, v-chip, v-shape, veep, vibe, vip
+#####62                  (23 words):
+f-stop, fab, fib, flab, flabby, flap, flip, flippy, flop, floppy, flub, flyboy, flyby, fob, fop, freebie, phobia, up, v-chip, v-shape, veep, vibe, vip
 
-#####63                  (21 words):
-face, fake, fice, flack, flak, flake, flaky, fleck, fleece, flick, flock, fluke, fluky, freak, freaky, frock, fuck, uke, v-neck, vac, voice
+#####63                  (20 words):
+face, fake, fice, flack, flak, flake, flaky, fleck, fleece, flick, flock, fluke, fluky, freak, freaky, frock, uke, v-neck, vac, voice
 
-#####64                  (33 words):
-fad, fade, fado, faxed, fed, feed, feud, few, fixed, flaw, flayed, flood, flow, flowy, fluid, flyaway, flyway, food, foodie, fraud, frayed, freed, freeway, fried, undo, undue, vexed, vid, video, view, void, voodoo, vow
+#####64                  (34 words):
+fad, fade, fado, faxed, fed, feed, feud, few, fixed, flaw, flayed, flood, flow, flowy, fluid, flyaway, flyway, food, foodie, fraud, frayed, freed, freeway, fried, phew, undo, undue, vexed, vid, video, view, void, voodoo, vow
 
-#####65                  (34 words):
-fail, faille, fall, feel, fell, fella, file, fill, fille, filly, flail, foal, foil, folio, folly, fool, foul, frail, freely, frill, frilly, fuel, full, fully, value, veal, veil, vial, vile, villa, viol, voile, vole, volley
+#####65                  (36 words):
+fail, faille, fall, feel, fell, fella, file, fill, fille, filly, flail, foal, foil, folio, folly, fool, foul, frail, freely, frill, frilly, fuel, full, fully, phial, phyllo, value, veal, veil, vial, vile, villa, viol, voile, vole, volley
 
 #####66                  (7 words):
 fief, five, fluff, fluffy, fovea, ufo, vivo
 
-#####67                  (57 words):
-faerie, faery, fag, faggy, fair, fairy, far, fare, fear, ferry, fiery, fir, fire, fixer, flag, flair, flare, flexor, flexure, flier, flog, floor, flour, floury, flurry, flyer, fog, fogey, foggy, fogy, for, foray, fore, four, foyer, frag, friar, friary, frog, froggy, fryer, fugue, fur, furry, fury, urea, vague, var, vary, veer, veg, veggie, very, vireo, vogue, voyage, voyeur
+#####67                  (58 words):
+faerie, faery, fag, faggy, fair, fairy, far, fare, fear, ferry, fiery, fir, fire, fixer, flag, flair, flare, flexor, flexure, flier, flog, floor, flour, floury, flurry, flyer, fog, fogey, foggy, fogy, for, foray, fore, four, foyer, frag, friar, friary, frog, froggy, fryer, fugue, fur, furry, fury, phage, urea, vague, var, vary, veer, veg, veggie, very, vireo, vogue, voyage, voyeur
 
 #####68                  (16 words):
 fame, flame, flume, flummox, foam, foamy, frame, from, fume, uh, um, umm, umma, ummm, vim, vroom
 
-#####69                  (24 words):
-fain, fan, fanny, faun, fauna, fen, fin, fine, finny, fino, flan, flaxen, flexion, fun, funny, vain, vane, vein, veiny, vena, venue, vine, vino, vixen
+#####69                  (27 words):
+fain, fan, fanny, faun, fauna, fen, fin, fine, finny, fino, flan, flaxen, flexion, fun, funny, phone, phoney, phony, vain, vane, vein, veiny, vena, venue, vine, vino, vixen
 
 #####70                  (30 words):
 gas, gassy, gauss, gees, gesso, glass, glassy, gloss, glossy, gneiss, goose, grass, grassy, grease, greasy, gross, grouse, guess, guise, joyous, jus, raise, rasa, reissue, reuse, rise, rose, rosy, rouse, ruse
@@ -238,8 +238,8 @@ gaudy, giddy, glad, glade, glide, glow, glued, gnaw, goad, good, goody, grad, gr
 #####75                  (45 words):
 gaily, gal, gala, galaxy, gall, galley, gaol, gel, ghoul, glial, goal, goalie, golly, grill, grille, gruel, guile, gull, gulley, gully, gweilo, jail, jell, jello, jelly, jolly, rail, rally, real, really, reel, relax, relay, rely, rile, rill, rille, roil, roily, role, roll, rouille, royal, royally, rule
 
-#####76                  (33 words):
-gaff, gaffe, give, glove, goof, goofy, grav, grave, gravy, grief, grieve, groove, groovy, gruff, guava, guff, guv, jefe, jiffy, jive, raffia, rave, reef, ref, reify, rev, revue, rife, riff, rive, roof, rove, ruff
+#####76                  (35 words):
+gaff, gaffe, give, glove, glyph, goof, goofy, graph, grav, grave, gravy, grief, grieve, groove, groovy, gruff, guava, guff, guv, jefe, jiffy, jive, raffia, rave, reef, ref, reify, rev, revue, rife, riff, rive, roof, rove, ruff
 
 #####77                  (40 words):
 gag, gage, gar, gauge, gear, gig, giri, glare, glory, glug, goer, gore, gory, gouge, grog, groggy, guar, guru, gyre, gyro, jag, jar, jeer, jig, jog, jug, juju, jury, rag, raga, rage, raggy, rare, rear, reggae, rig, roar, rogue, rouge, rug

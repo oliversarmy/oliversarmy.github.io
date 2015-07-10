@@ -92,15 +92,16 @@ t  p  k  w  l  v  r  m  n  z
 1. When a word begins with a consonant, letters after the first consonant upto the first vowel, are disgarded. This evens out the spread of useful words. Examples: crash encodes 308, not 3708; school encodes 05; If a vowel directly follows, there is no change e.g. rain encodes 79.
 1. Vowels, a e i o u, are significant, but, only when they start a word, and in most cases, only the first vowel. (e.g age is 17, not 175).
 1. Double letters are disregarded when not pronounced separately (e.g call - 35, however midday - 844).
-1. The letter sequence "ck" is treated the same as "k".
+1. The letter sequence "ck" is treated the same as "k". The letter sequence "ph"
+   is generally treated as "f".
 
 ## Majoric - Advanced Word Rules
 
 3. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
 1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 91251.
-1. Phonetic changes: If a letter grouping sounds like a completely different letter grouping, change it (e.g. phone - 29 sounds like /f/one - 69.
+1. Phonetic changes: If a letter grouping sounds like a completely different letter grouping, change it (e.g. caught - 3781 sounds like cau/t/ - 31.
 1. As an alternative (or in addition) to doing general phonetic changes, don't use words
-   with problematic letter combinations like cauGHt.
+   with problematic spelling like cauGHt.
 
 ## Majoric - Name, Action, Object Rules (for 2 digit numbers)
 
@@ -110,9 +111,11 @@ t  p  k  w  l  v  r  m  n  z
 but with words of any length.
 Only the first two significant letters are used, when actions and objects are being associated with a person representing a two digit number (as is the case in the example below).
 
-### Generating Names
+### Generating Names, Actions, Object
 
 [Generate Names by initials](http://peoplebyinitials.com/p/dominic-number-memory-system)
+
+[Generate Majoric Actions and Objects](http://olivers.army/MajoricListTo999/)
 
 ## Majoric Example
 
