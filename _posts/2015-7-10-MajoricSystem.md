@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majoric Digital Letters - "Major Dominic PAO"
+title: Majoric System - "Major Dominic System"
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/crystal.jpg)
@@ -71,7 +71,9 @@ t  p  k     l  v           z
       q
 ```
 
-## Majoric digital letters, explained
+Next finalize the letter placement:
+
+## Majoric digital letter, explanations
 
 Where the letter position is the same as the Major System:
 
