@@ -7,8 +7,9 @@ This is a list of words for the Majoric System, which is a cross between the
 Major System and Dominic System.
 
 You can use this list to pair words to names (like in the Dominic System), using
-two digit or three digit numbers.  Just disregard the values of the letters
-after the number of digits you need (e.g. If you are looking for 01, you can use words from 010 to 019)
+two digit or three digit numbers.  For example, If you are looking
+for 01, you can use words from 010 to 019. (e.g You can choose the word "steers"
+and only encode the first two relevant characters STeers)
 
 note: This is not a list for the Major System, as the letter mappings and
 logic rules are different!

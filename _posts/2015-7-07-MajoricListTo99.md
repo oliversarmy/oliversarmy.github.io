@@ -3,10 +3,11 @@ layout: post
 title: Majoric System English List - 00 to 99
 ---
 
-These are exact matches for the numbers 00 to 99. If you are using the system to pair
+These are exact matches for the numbers 0 to 99. If you are using the system to pair
 words to names (like in the Dominic System), I suggest you use words in the 000
-to 999 list, as it will give you many more name choices (e.g. If you are looking
-for 01, you can use words from 010 to 019)
+to 999 list, as it will give you many more name choices. If you are looking
+for 01, you can use words from 010 to 019. (e.g You can choose the word "steers"
+and only encode the first two relevant characters STeers)
 
 note: This is not a list for the Major System!
 
