@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majoric System - Major Dominic System
+title: Majoric System - Major Dominic System with PAO example
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/crystal.jpg)
@@ -11,7 +11,7 @@ The Major System and Dominic System are mnemonic systems for remembering number 
 
 The Dominic system was invented by memory champion, Dominic O'Brien. It assigns the initials and name of a memorable person or character, to a two digit number from 00 to 99.
 
-### Dominic character positions
+### Dominic letter positions
 ```
 1  2  3  4  5  6  7  8  9  0
 a  b  c  d  e  s  g  h  n  o
@@ -21,10 +21,10 @@ This uses alphabetical ordering, except for letters s, n and o.
 
 ## Major System
 
-The Major System replaces numbers with consonant sounds. The system is very
-powerful and complex.
+The Major System replaces numbers with consonant sounds. The system is
+phonetical, very powerful and complex.
 
-### Major character positions
+### Major phonetic character positions
 
 ```
 1  2  3  4  5  6  7  8  9  0
@@ -37,7 +37,7 @@ th             ch g  ph
 
 ## Combine Dominic System and Major System
 
-Taking inspiration from the Dominic System, start with an alphabetical ordering for the first 9 Letters. Unlike the Major system, vowels are significant. It is useful to have a base of alphabetical ordering, especially when learning the system
+Taking inspiration from the Dominic System, start with an alphabetical letter ordering for the first 9 letters. Unlike the Major system, vowels are significant. It is useful to have a base of alphabetical ordering, especially when learning the system
 
 ```
 1  2  3  4  5  6  7  8  9  0   (base alphabetical encodings)
@@ -57,13 +57,13 @@ System)
 
 * The letter T has one vertical stroke, just like a 1.
 * The letter L is the roman numeral for 50 ("Live at 5").
-* Zero begins with Z, which sounds like a voiced S (voiced and voiceless pair).
+* Zero begins with Z, which is phonetically similar to S.
 
 An explanation where the mappings have moved:
 
 * Lower case p looks like a mirror image of b.
 * k can sound very like c. q starts with a "k" sound.
-* v sounds like a voiced f
+* v is phonetically similar to f
 
 Finally, taking into account letter frequencies, place the remaining letters.
 
@@ -78,7 +78,7 @@ Finally, taking into account letter frequencies, place the remaining letters.
 
 This leads to the following Majoric character positons:
 
-## Majoric character positions
+## Majoric "digital" letter positions
 
 ```
 1  2  3  4  5  6  7  8  9  0
@@ -98,17 +98,24 @@ t  p  k  w  l  v  r  m  n  z
 
 1. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
 1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 91251.
-1. Phonetic changes: If a letter grouping feels like a completely different letter grouping, change it (e.g. caught - 3781 sounds like cau/t/ - 31 (note: how far to take this is a personal choice).
-1. As an alternative (or in addition) to doing general phonetic changes, don't use words
-   with problematic spelling like cauGHt.
+1. Words may not begin with the letters "Y" or "X" as these words are reserved!
+
+## Majoric -  Phonetic Rules (or lack of)
+
+In the PAO example given below with characters from 00 to 99, there are 100
+characters, 100 actions and 100 objects. The actions and objects have just two
+significant "digital" letters, so thats 400 significant "digital" letters
+in total. So, i'ts easy to choose words that cause no phonetic confusion and
+thats what I suggest you do.
+
+1. If a letter grouping feels like a completely different letter grouping, change it (e.g. caught - 3781 sounds like cau/t/ - 31 (note: how far to take this is a personal choice).
 
 ## Majoric - Name, Action, Object Rules (for 2 digit numbers)
 
 7. Names are created in the same ways as the Dominic system, with the first
   letter of the names (i.e. first and last name) representing a one digit number (and thus a two digit number when combined).
 1. Actions and objects are created in a similar way as the Major system,
-but with words of any length.
-Only the first two significant letters are used, when actions and objects are being associated with a person representing a two digit number (as is the case in the example below).
+but with words of any length.  Only the first two significant "digital" letters are used. The persons, actions and objects, are all fixed to the the two digit number, no matter what the context.
 
 ### Generating Names, Actions, Object
 
