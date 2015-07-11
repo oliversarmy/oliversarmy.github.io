@@ -1,17 +1,35 @@
 ---
 layout: post
-title: Majoric System - Major Dominic System with PAO example
+title: Majoric Digital Letters - "Major Dominic PAO"
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/crystal.jpg)
 
-The Major System and Dominic System are mnemonic systems for remembering number sequences. The Majoric System combines these two systems with the purpose of making it more flexible than the Dominic system and with a more intuitive letter ordering and rule logic compared to the Major system.
+## Majoric digital letters
 
-## Dominic System
+```
+
+1  2  3  4  5  6  7  8  9  0
+a  b  c  d  e  f  g  h  i  s  <-- alphabetical digital letters
+t  p  k  w  l  v  r  m  n  z  <-- phonetic and logical groups
+      q        u  j        o
+```
+
+The Majoric System is a mnemonic system for remembering number sequences.
+It combines the Major and Dominic systems, with the purpose of making it much more flexible than the Dominic system and with a more intuitive letter ordering and word number logic compared to the Major system.
+
+In the Majoric system, vowels are significant, in that a vowel which starts a word, directly encodes a digit. The Majoric System is also pragmatically phonetic, in that in many cases phonetics issues can be minimized.
+
+There is a Person-Action-Object (PAO) example at the end of this post and a link, so you can choose your own action and object words.
+
+
+## History
+
+### Dominic System
 
 The Dominic system was invented by memory champion, Dominic O'Brien. It assigns the initials and name of a memorable person or character, to a two digit number from 00 to 99.
 
-### Dominic letter positions
+#### Dominic letter positions
 ```
 1  2  3  4  5  6  7  8  9  0
 a  b  c  d  e  s  g  h  n  o
@@ -19,12 +37,12 @@ a  b  c  d  e  s  g  h  n  o
 
 This uses alphabetical ordering, except for letters s, n and o.
 
-## Major System
+### Major System
 
 The Major System replaces numbers with consonant sounds. The system is
-phonetical, very powerful and complex.
+phonetic, very powerful, complex and takes time to learn.
 
-### Major phonetic character positions
+#### Major phonetic character positions
 
 ```
 1  2  3  4  5  6  7  8  9  0
@@ -37,7 +55,7 @@ th             ch g  ph
 
 ## Combine Dominic System and Major System
 
-Taking inspiration from the Dominic System, start with an alphabetical letter ordering for the first 9 letters. Unlike the Major system, vowels are significant. It is useful to have a base of alphabetical ordering, especially when learning the system
+Taking inspiration from the Dominic System, start with an alphabetical letter ordering for the first 9 letters. Unlike the Major system, vowels are significant. The alphabetical ordering, helps when learning the system
 
 ```
 1  2  3  4  5  6  7  8  9  0   (base alphabetical encodings)
@@ -52,33 +70,33 @@ a  b  c  d  e  f  g  h  i  s
 t  p  k     l  v           z
       q
 ```
-As a quick explanation (where the letter positions is the same as the Major
-System)
+
+## Majoric digital letters, explained
+
+Where the letter position is the same as the Major System:
 
 * The letter T has one vertical stroke, just like a 1.
 * The letter L is the roman numeral for 50 ("Live at 5").
 * Zero begins with Z, which is phonetically similar to S.
 
-An explanation where the mappings have moved:
+Where the letter have has moved to a different digit:
 
 * Lower case p looks like a mirror image of b.
-* k can sound very like c. q starts with a "k" sound.
+* k can sound very like c. q starts with a /k/ sound.
 * v is phonetically similar to f
 
-Finally, taking into account letter frequencies, place the remaining letters.
+Taking into account letter frequencies, the remaining letters:
 
 * The letter n is the first letter of nine.
 * Lower case r looks like a mirror image of 7.
 * Lower case m looks like an incomplete 8 on its side.
 * The letter w has four lines forming it's shape.
-* The letter o looks like a 0.
+* The letter o looks like a 0 (same as Dominic System).
 * The letter u looks like a rounded v.
 * The letter j sound is sometimes made by the letter g.
 * The letters x and y are unassigned and don't change the number value of a word.
 
-This leads to the following Majoric character positons:
-
-## Majoric "digital" letter positions
+This leads to the following Majoric character positions:
 
 ```
 1  2  3  4  5  6  7  8  9  0
@@ -96,26 +114,31 @@ t  p  k  w  l  v  r  m  n  z
 
 ## Majoric - Advanced Word Rules
 
+1. Words may not begin with the letters "Y" or "X" as these words are reserved.
+1. Only the first three digital letters in a word are potentially significant
+   (e.g "politics" base encoding is 251, not 25130).
+   The reason is, with this system (and the Major System) there is not enough coverage in
+   English to always find words to express 000 - 999. In addition, phonetic
+   issues are minimised by not encoding the whole word.
 1. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
-1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 91251.
-1. Words may not begin with the letters "Y" or "X" as these words are reserved!
+1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 912 (note: rule maximum 3 digital characters).
 
-## Majoric -  Phonetic Rules (or lack of)
+## Majoric -  Phonetic Rules
 
 In the PAO example given below with characters from 00 to 99, there are 100
 characters, 100 actions and 100 objects. The actions and objects have just two
-significant "digital" letters, so thats 400 significant "digital" letters
+significant digital letters, so thats 400 digital letters
 in total. So, i'ts easy to choose words that cause no phonetic confusion and
-thats what I suggest you do.
+thats what I suggest you do. However:
 
-1. If a letter grouping feels like a completely different letter grouping, change it (e.g. caught - 3781 sounds like cau/t/ - 31 (note: how far to take this is a personal choice).
+1. If a letter grouping feels to you, like a completely different letter grouping, change it (e.g. caught - 378 sounds like cau/t/ - 31 (note: how far to take this is a personal choice).
 
 ## Majoric - Name, Action, Object Rules (for 2 digit numbers)
 
 7. Names are created in the same ways as the Dominic system, with the first
   letter of the names (i.e. first and last name) representing a one digit number (and thus a two digit number when combined).
 1. Actions and objects are created in a similar way as the Major system,
-but with words of any length.  Only the first two significant "digital" letters are used. The persons, actions and objects, are all fixed to the the two digit number, no matter what the context.
+but with words of any length.  As, we are encoding 2 digit numbers, only the first two digital letters are used. The persons, actions and objects, are then associated with and represent the the two digit number, no matter what the context.
 
 ### Generating Names, Actions, Object
 
@@ -136,7 +159,7 @@ Thus, apart from letters n and s, all letters are in alphabetical ordering. This
 is for the names only. The actions and objects can use all available letters.
 
 For example, the actor Sandra Bullock SPlits OBelisk, encodes 02. The word
-"obelisk" encodes 02 (rather than 0250) in this instance, because it's linked to Sandra Bullock and it's in a 2 digit naming convention (same for the word splits). If we were using a 3 digit naming convention, it would encode 3 digits!
+"obelisk" encodes 02 because it's linked to Sandra Bullock and it's in a 2 digit naming convention (same for the word splits). If we were using a 3 digit naming convention, and the word had not already been assigned, it could encode 3 digits!
 
 My apologies to anyone I offend with the actions on objects :)
 
