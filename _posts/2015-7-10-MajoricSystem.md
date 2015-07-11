@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majoric System - "Major Dominic System"
+title: Majoric System - "Major Dominic Composite"
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/crystal.jpg)
@@ -18,7 +18,7 @@ t  p  k  w  l  v  r  m  n  z  <-- phonetic and logical groups
 The Majoric System is a mnemonic system for remembering number sequences.
 It combines the Major and Dominic systems, with the purpose of making it much more flexible than the Dominic system and with a more intuitive letter ordering and word number logic compared to the Major system.
 
-In the Majoric system, vowels are significant, in that a vowel which starts a word, directly encodes a digit. The Majoric System is also pragmatically phonetic, in that in many cases phonetics issues can be minimized.
+In the Majoric system, vowels are significant, in that a vowel which starts a word, directly encodes a digit. The Majoric System is also pragmatically phonetic, in applying sensible minimal defaults.
 
 There is a Person-Action-Object (PAO) example at the end of this post and a link, so you can choose your own action and object words.
 
