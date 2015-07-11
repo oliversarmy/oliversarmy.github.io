@@ -89,17 +89,16 @@ t  p  k  w  l  v  r  m  n  z
 
 ## Majoric - Basic Word Rules
 
-1. When a word begins with a consonant, letters after the first consonant upto the first vowel, are disgarded. This evens out the spread of useful words. Examples: crash encodes 308, not 3708; school encodes 05; If a vowel directly follows, there is no change e.g. rain encodes 79.
 1. Vowels, a e i o u, are significant, but, only when they start a word, and in most cases, only the first vowel. (e.g age is 17, not 175).
 1. Double letters are disregarded when not pronounced separately (e.g call - 35, however midday - 844).
 1. The letter sequence "ck" is treated the same as "k". The letter sequence "ph"
-   is generally treated as "f".
+   is treated as "f" (unless the letters straddle a compound word).
 
 ## Majoric - Advanced Word Rules
 
-3. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
+1. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
 1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 91251.
-1. Phonetic changes: If a letter grouping sounds like a completely different letter grouping, change it (e.g. caught - 3781 sounds like cau/t/ - 31.
+1. Phonetic changes: If a letter grouping feels like a completely different letter grouping, change it (e.g. caught - 3781 sounds like cau/t/ - 31 (note: how far to take this is a personal choice).
 1. As an alternative (or in addition) to doing general phonetic changes, don't use words
    with problematic spelling like cauGHt.
 
@@ -138,114 +137,114 @@ My apologies to anyone I offend with the actions on objects :)
 number,initials,name,action,object
 
 00,SS,Sullivan Stapleton, seizes, seesaw
-01,SA,Steve Austin, sweats, satellite
-02,SB,Sandra Bullock, stabilises, obelisk
-03,SC,Sean Connery, smacks, secretAgent
-04,SD,Snoop Dogg, slides, saddle
-05,SE,Sam Elliot, swallows, sailboat
-06,SF,Sigmund Freud, offers, sofa
-07,SG,Sarah Gellar, steers, starship
-08,SH,Stephen Hawking, stammers, omelet
-09,SN,Stevie Nicks, stains, sun
+01,SA,Steve Austin, steers, starship
+02,SB,Sandra Bullock, splits, obelisk
+03,SC,Sean Connery, scratches, octopus
+04,SD,Snoop Dogg, swallows, saddle
+05,SE,Sam Elliot, slides, stockings
+06,SF,Sigmund Freud, overdresses, sofa
+07,SG,Sarah Gellar, surprises, ogre
+08,SH,Stephen Hawking, smokes, omelet
+09,SN,Stevie Nicks, sunbaths, sunchair
 
-10,AS,Arnold Schwarzenegger, tasers, astronaut
-11,AA,Alan Alda, tweets, tattoo
-12,AB,Antonio Banderas, trips, trapeze
-13,AC,Agatha Christie, tracks, teddy
-14,AD,Albus Dumbledore, addles, adder
-15,AE,Albert Einstein, teleports, alien
-16,AF,Anne Frank, avoids, afterlife
+10,AS,Arnold Schwarzenegger, tasers, toast
+11,AA,Alan Alda, tattoos, tooth
+12,AB,Antonio Banderas, taps, teapot
+13,AC,Agatha Christie, tickles, toucan
+14,AD,Albus Dumbledore, tweets, adder
+15,AE,Albert Einstein, teleports, telescope
+16,AF,Anne Frank, aflames, toffee
 17,AG,Aiden Gillen, tears, toga
 18,AH,Adolf Hitler, amasses, ammunition
-19,AN,Alfred Nobel, angers, angel
+19,AN,Alfred Nobel, angryAt, toenail
 
 20,BS,Britney Spears, piss, bus
-21,BA,Ben Affleck, peals, ball
+21,BA,Ben Affleck, batters, boot
 22,BB,Brigitte Bardot, beeps, boob
 23,BC,Billy Connolly, pokes, book
-24,BD,Bette Davis, braids, bed
-25,BE,Ben Elton, boils, brolly
-26,BF,Benjamin Franklin, buffs, briefcase
+24,BD,Bette Davis, beads, bed
+25,BE,Ben Elton, boils, battleship
+26,BF,Benjamin Franklin, buffs, pavement
 27,BG,Bill Gates, bags, pigs
 28,BH,Bob Hoskins, pumps, bomb
 29,BN,Bill Nighy, binds, brain
 
 30,CS,Carl Sagan, kisses, cash
-31,CA,Christina Aguilera, quotes, cat
-32,CB,Christian Bale, chops, crab
-33,CC,Charlie Chaplin, chokes, clown
-34,CD,Charles Darwin, codes, claw
-35,CE,Clint Eastwood, calls, krill
-36,CF,Colin Firth, craves, cave
+31,CA,Christina Aguilera, catapults, cat
+32,CB,Christian Bale, copilots, copter
+33,CC,Charlie Chaplin, cooks, cactus
+34,CD,Charles Darwin, cuddles, cowpat
+35,CE,Clint Eastwood, calls, cloak
+36,CF,Colin Firth, covers, cave
 37,CG,Cary Grant, carrys, cart
-38,CH,Charlton Heston, climbs, chimpanzee
-39,CN,Chuck Norris, clones, convict
+38,CH,Charlton Heston, chokes, chimpanzee
+39,CN,Chuck Norris, constructs, canal
 
-40,DS,Donald Sutherland, dresses, dish
-41,DA,David Attenborough, dates, waiter
-42,DB,Don Bradman, dribbles, Dobbi
+40,DS,Donald Sutherland, disembowles, dustbin
+41,DA,David Attenborough, dates, watch
+42,DB,Don Bradman, deepfries, doberman
 43,DC,David Copperfield, wakes, wickets
-44,DD,David Duchovny, wades, druid
+44,DD,David Duchovny, wades, weeds
 45,DE,Dwight Eisenhower, drills, doll
-46,DF,Dawn French, drift, diver
+46,DF,Dawn French, divebombs, divebomber
 47,DG,Delta Goodrem, digs, dragon
-48,DH,Damon Hill, dreams, dreamtime
-49,DN,Dean Norris, drinks, window
+48,DH,Damon Hill, whispers, whirlpool
+49,DN,Dean Norris, dances, window
 
 50,ES,Edward Scissorhands, lassos, laser
 51,EA,Ellen Adarna, eats, ET
 52,EB,Emily Blunt, eyeballs, lobster
 53,EC,Emilia Clarke, licks, lock
-54,ED,Ellen Degeneres, loads, lawyers
+54,ED,Ellen Degeneres, loads, ladder
 55,EE,Ella Eyre, elevates, elephant
 56,EF,Enrico Fermi, liftoff, leaves
-57,EG,Eva Green, exorcises, eggs
-58,EH,Elizabeth Hurley, embosses, emperor
+57,EG,Eva Green, exorcises, egg
+58,EH,Elizabeth Hurley, embosses, embryo
 59,EN,Eliot Ness, entombs, engine
 
-60,FS,Frank Sinatra, fishes, fishtail
-61,FA,Fred Astaire, floats, feet
-62,FB,Frodo Baggins, unbuttons, fabric
-63,FC,Fidel Castro, fracks, face
+60,FS,Frank Sinatra, fishes, fish
+61,FA,Fred Astaire, photographs, feet
+62,FB,Frodo Baggins, vibrates, fabric
+63,FC,Fidel Castro, facepaints, face
 64,FD,Felicia Day, feeds, food
 65,FE,Freja Erichsen, fills, film
-66,FF,Farrah Fawcett, flavours, ufo
-67,FG,Forrest Gump, flogs, flag
-68,FH,Freddie Highmore, flames, foam
-69,FN,Florence Nightingale, flings, unicorn
+66,FF,Farrah Fawcett, unveils, ufo
+67,FG,Forrest Gump, fracks, forest
+68,FH,Freddie Highmore, farms, vampire
+69,FN,Florence Nightingale, fences, unicorn
 
-70,GS,George Soros, glasses, ghost
-71,GA,Gillian Anderson, grates, gate
-72,GB,George Bush, gropes, rabbits
+70,GS,George Soros, gasses, resort
+71,GA,Gillian Anderson, retails, jetboat
+72,GB,George Bush, robs, rabbit
 73,GC,Gemma Chan, rocks, gocart
-74,GD,Geena Davis, guides, rudder
+74,GD,Geena Davis, jaywalks, radar
 75,GE,Giancarlo Esposito, rolls, gold
 76,GF,Gerald Ford, raffles, raft
 77,GG,Galileo Galilei, guards, garrison
-78,GH,George Harrison, grooms, grimReaper
-79,GN,Greg Norman, grins, roundOfGolf
+78,GH,George Harrison, gambles, ghost
+79,GN,Greg Norman, jingles, rain
 
-80,HS,Homer Simpson, hoses, house
-81,HA,Hans Andersen, heats, hat
+80,HS,Homer Simpson, hoses, mouse
+81,HA,Hans Andersen, hotwires, hat
 82,HB,Halle Berry, hops, map
-83,HC,Hillary Clinton, microwaves, mice
+83,HC,Hillary Clinton, microwaves, hockeystick
 84,HD,Hilary Duff, muddies, hoody
 85,HE,Harry Enfield, halts, mail
 86,HF,Harrison Ford, moves, moviescreen
-87,HG,Hugh Grant, hurls, hag
+87,HG,Hugh Grant, hurls, hair
 88,HH,Harry Houdini, mummifies, mummy
-89,HN,Hannah New, mines, manequin
+89,HN,Hannah New, moons, manequin
 
-90,NS,Nicole Scherzinger, isolates, nest
+90,NS,Nicole Scherzinger, inoculates, nest
 91,NA,Neil Armstrong, itches, net
 92,NB,Napoleon Bonaparte, nabs, nappie
-93,NC,Nicolas Cage, nukes, icebergs
-94,ND,Natalie Dormer, idolises, idol
-95,NE,Nathalie Emmanuel, nails, nail
-96,NF,Nelly Furtado, navigates, navy
-97,NG,Nikki Gil, nags, igloo
+93,NC,Nicolas Cage, nukes, iceberg
+94,ND,Natalie Dormer, idolises, noodles
+95,NE,Nathalie Emmanuel, nails, nails
+96,NF,Nelly Furtado, navigates, infurno
+97,NG,Nikki Gil, nurses, igloo
 98,NH,Naomie Harris, numbers, numberplate
-99,NN,Nick Nolte, initials, nanny
+99,NN,Nick Nolte, initials, nanobot
 ```
 
 
