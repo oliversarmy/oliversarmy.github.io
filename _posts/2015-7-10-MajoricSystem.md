@@ -8,19 +8,19 @@ title: Majoric System - "Major Dominic Composite"
 ## Majoric digital letters
 
 ```
-
 1  2  3  4  5  6  7  8  9  0
 a  b  c  d  e  f  g  h  i  s  <-- alphabetical digital letters
 t  p  k  w  l  v  r  m  n  z  <-- phonetic and logical groups
-      q        u  j        o
+      q        u           o
+               j
 ```
 
 The Majoric System is a mnemonic system for remembering number sequences.
 It combines the Major and Dominic systems, with the purpose of making it much more flexible than the Dominic system and with a more intuitive letter ordering and word number logic compared to the Major system.
 
-In the Majoric system, vowels are significant, in that a vowel which starts a word, directly encodes a digit. The Majoric System is also pragmatically phonetic, in applying sensible minimal defaults.
+In the Majoric system, vowels are significant, in that a vowel which starts a word, directly encodes a digit.
 
-There is a Person-Action-Object (PAO) example at the end of this post and a link, so you can choose your own action and object words.
+There is a Person-Action-Object (PAO) example at the end of this post and links, so you can choose your own person as well as action and object words.
 
 
 ## History
@@ -95,7 +95,7 @@ Taking into account letter frequencies, the remaining letters:
 * The letter w has four lines forming it's shape.
 * The letter o looks like a 0 (same as Dominic System).
 * The letter u looks like a rounded v.
-* The letter j sound is sometimes made by the letter g.
+* The letter j looks like the tail of f.
 * The letters x and y are unassigned and don't change the number value of a word.
 
 This leads to the following Majoric character positions:
@@ -104,7 +104,8 @@ This leads to the following Majoric character positions:
 1  2  3  4  5  6  7  8  9  0
 a  b  c  d  e  f  g  h  i  s
 t  p  k  w  l  v  r  m  n  z
-      q        u  j        o
+      q        u           o
+               j
 ```
 
 ## Majoric - Basic Word Rules
@@ -127,11 +128,14 @@ t  p  k  w  l  v  r  m  n  z
 
 ## Majoric -  Phonetic Rules
 
+You can use a spelling based system or apply phonetics. Some people may visualise the spelling of a word, (especially the first few characters).
+
 In the PAO example given below with characters from 00 to 99, there are 100
 characters, 100 actions and 100 objects. The actions and objects have just two
 significant digital letters, so thats 400 digital letters
-in total. So, i'ts easy to choose words that cause no phonetic confusion and
-thats what I suggest you do. However:
+in total.
+
+So, i'ts easy to choose words that cause no phonetic confusion.  However, if you want:
 
 1. If a letter grouping feels to you, like a completely different letter grouping, change it (e.g. caught - 378 sounds like cau/t/ - 31 (note: how far to take this is a personal choice).
 
@@ -163,13 +167,17 @@ is for the names only. The actions and objects can use all available letters.
 For example, the actor Sandra Bullock SPlits OBelisk, encodes 02. The word
 "obelisk" encodes 02 because it's linked to Sandra Bullock and it's in a 2 digit naming convention (same for the word splits). If we were using a 3 digit naming convention, and the word had not already been assigned, it could encode 3 digits!
 
+I've chosen actions and objects that are different from each other, easy to visualize and memorable to me,
+rather than trying to constrain them to indicate something about the person
+(though, in some cases they do).
+
 My apologies to anyone I offend with the actions on objects :)
 
 ```
 number,initials,name,action,object
 
-00,SS,Sullivan Stapleton, seizes, seesaw
-01,SA,Steve Austin, steers, starship
+00,SS,Sullivan Stapleton, seizes, seashell
+01,SA,Steve Austin, steers, starshipEnterprise
 02,SB,Sandra Bullock, splits, obelisk
 03,SC,Sean Connery, scratches, octopus
 04,SD,Snoop Dogg, swallows, saddle
@@ -239,22 +247,22 @@ number,initials,name,action,object
 62,FB,Frodo Baggins, vibrates, fabric
 63,FC,Fidel Castro, facepaints, face
 64,FD,Felicia Day, feeds, food
-65,FE,Freja Erichsen, fills, film
+65,FE,Freja Erichsen, flashes, film
 66,FF,Farrah Fawcett, unveils, ufo
 67,FG,Forrest Gump, fracks, forest
 68,FH,Freddie Highmore, farms, vampire
 69,FN,Florence Nightingale, fences, unicorn
 
 70,GS,George Soros, gasses, resort
-71,GA,Gillian Anderson, retails, jetboat
+71,GA,Gillian Anderson, rotates, gate
 72,GB,George Bush, robs, rabbit
 73,GC,Gemma Chan, rocks, gocart
-74,GD,Geena Davis, jaywalks, radar
+74,GD,Geena Davis, radiates, radar
 75,GE,Giancarlo Esposito, rolls, gold
 76,GF,Gerald Ford, raffles, raft
 77,GG,Galileo Galilei, guards, garrison
 78,GH,George Harrison, gambles, ghost
-79,GN,Greg Norman, jingles, rain
+79,GN,Greg Norman, generates, rainstorm
 
 80,HS,Homer Simpson, hoses, mouse
 81,HA,Hans Andersen, hotwires, hat
@@ -280,3 +288,40 @@ number,initials,name,action,object
 ```
 
 
+## Jacks / One digit encodings
+
+The following are one digit encodings, for cases where two digits is one too
+many. Only, the letter of the second name constrains the actions and objects. The
+letter of the first name is redundant, but can be used as "Jack" in
+cards.
+
+```
+0,JS,Jason Statham, steamrolls, submarine
+1,JA,Jessica Alba, airbrush, asteroid
+2,JB,Justin Bieber, bites, bone
+3,JC,Jenna Coleman, chases, cyborg
+4,JD,Johnny Depp, disolves, dartboard
+5,JE,Johnny English, ejects, ejectionSeat
+6,JF,Jodie Foster, flycatches, fairy
+7,JG,Jeff Goldblum, glitters, Giraffatitan
+8,JH,John Hannah, hisses, headstone
+9,JN,James Nesbitt, nukes, nightclub
+```
+
+## Queens
+
+```
+0,QS, ,,
+3,QC, ,,
+4,QD, ,,
+8,QH, ,,
+```
+
+## Kings
+
+```
+0,KS, ,,
+3,KC, ,,
+4,KD, ,,
+8,KH, ,,
+```
