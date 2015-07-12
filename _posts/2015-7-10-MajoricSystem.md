@@ -16,9 +16,12 @@ t  p  k  w  l  v  r  m  n  z  <-- phonetic and logical groups
 ```
 
 The Majoric System is a mnemonic system for remembering number sequences.
-It combines the Major and Dominic systems, with the purpose of making it much more flexible than the Dominic system and with a more intuitive letter ordering and word number logic compared to the Major system. The Majoric System also has a more even distribution of words compared to the Major system (the Major System has many instances where there are no words to represent certain 3 digit numbers).
 
-In the Majoric system, vowels are significant, in that a vowel which starts a word, directly encodes a digit.
+It combines the Major and Dominic systems, with the purpose of making it much more flexible than the Dominic system and with a more intuitive letter ordering, rule logic and better word distribution, compared to the Major system.
+
+In the Majoric system, vowels are significant. A vowel which starts a word, directly encodes a digit. This makes it a lot easier for beginners to form words starting with vowels, and in most cases a two digit number just require the first 2 letters of a word.
+
+The Majoric system (unlike the Major) can be used as a spelling based or phonic based system. This is important as some people visualize word spelling rather than sound it out.
 
 There is a Person-Action-Object (PAO) example at the end of this post and links, so you can choose your own person as well as action and object words.
 
@@ -120,7 +123,7 @@ t  p  k  w  l  v  r  m  n  z
 1. Words may not begin with the letters "Y" or "X" as these words are reserved.
 1. Only the first three digital letters in a word are potentially significant
    (e.g "politics" base encoding is 251, not 25130).
-   The reason is, with this system (and the Major System) there is not enough coverage in
+   The reason is, with this system to a small extent (and the Major System, to a much larger extent) there is not enough coverage in
    English to always find words to express 000 - 999. In addition, phonetic
    issues are minimised by not encoding the whole word.
 1. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
