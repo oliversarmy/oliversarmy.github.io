@@ -16,7 +16,7 @@ t  p  k  w  l  v  r  m  n  z  <-- phonetic and logical groups
 ```
 
 The Majoric System is a mnemonic system for remembering number sequences.
-It combines the Major and Dominic systems, with the purpose of making it much more flexible than the Dominic system and with a more intuitive letter ordering and word number logic compared to the Major system.
+It combines the Major and Dominic systems, with the purpose of making it much more flexible than the Dominic system and with a more intuitive letter ordering and word number logic compared to the Major system. The Majoric System also has a more even distribution of words compared to the Major system (the Major System has many instances where there are no words to represent certain 3 digit numbers).
 
 In the Majoric system, vowels are significant, in that a vowel which starts a word, directly encodes a digit.
 
@@ -179,7 +179,7 @@ number,initials,name,action,object
 00,SS,Sullivan Stapleton, seizes, seashell
 01,SA,Steve Austin, steers, starshipEnterprise
 02,SB,Sandra Bullock, splits, obelisk
-03,SC,Sean Connery, screams, octopus
+03,SC,Sean Connery, scratches, octopus
 04,SD,Snoop Dogg, swallows, saddle
 05,SE,Sam Elliot, slides, stockings
 06,SF,Sigmund Freud, overdresses, sofa
@@ -242,7 +242,7 @@ number,initials,name,action,object
 58,EH,Elizabeth Hurley, embosses, embryo
 59,EN,Eliot Ness, entombs, engine
 
-60,FS,Frank Sinatra, fishes, fish
+60,FS,Frank Sinatra, fishes, vespa
 61,FA,Fred Astaire, photographs, feet
 62,FB,Frodo Baggins, vibrates, fabric
 63,FC,Fidel Castro, facepaints, face
@@ -272,11 +272,11 @@ number,initials,name,action,object
 85,HE,Harry Enfield, halts, mail
 86,HF,Harrison Ford, moves, moviescreen
 87,HG,Hugh Grant, hurls, hair
-88,HH,Harry Houdini, mummifies, mummy
+88,HH,Harry Houdini, hammers, hammerhead
 89,HN,Hannah New, moons, manequin
 
 90,NS,Nicole Scherzinger, inoculates, nest
-91,NA,Neil Armstrong, itches, nettle
+91,NA,Neil Armstrong, nets, notice
 92,NB,Napoleon Bonaparte, nabs, nappie
 93,NC,Nicolas Cage, nukes, iceberg
 94,ND,Natalie Dormer, idolises, noodles
@@ -299,12 +299,12 @@ cards.
 0,JS,Jason Statham, steamrolls, submarine
 1,JA,Jessica Alba, airbrush, asteroid
 2,JB,Justin Bieber, bites, bone
-3,JC,Jenna Coleman, chases, cyborg
+3,JC,Jenna Coleman, chases, cyberman
 4,JD,Johnny Depp, disolves, dartboard
 5,JE,Johnny English, ejects, ejectionSeat
 6,JF,Jodie Foster, flycatches, fairy
 7,JG,Jeff Goldblum, glitters, Giraffatitan
-8,JH,John Hannah, hisses, headstone
+8,JH,John Hannah, mummifies, mummy
 9,JN,James Nesbitt, nukes, nightclub
 ```
 
