@@ -179,7 +179,7 @@ number,initials,name,action,object
 00,SS,Sullivan Stapleton, seizes, seashell
 01,SA,Steve Austin, steers, starshipEnterprise
 02,SB,Sandra Bullock, splits, obelisk
-03,SC,Sean Connery, scratches, octopus
+03,SC,Sean Connery, screams, octopus
 04,SD,Snoop Dogg, swallows, saddle
 05,SE,Sam Elliot, slides, stockings
 06,SF,Sigmund Freud, overdresses, sofa
@@ -221,7 +221,7 @@ number,initials,name,action,object
 39,CN,Chuck Norris, constructs, canal
 
 40,DS,Donald Sutherland, disembowles, dustbin
-41,DA,David Attenborough, dates, watch
+41,DA,David Attenborough, detonates, watch
 42,DB,Don Bradman, deepfries, doberman
 43,DC,David Copperfield, wakes, wickets
 44,DD,David Duchovny, wades, weeds
@@ -246,10 +246,10 @@ number,initials,name,action,object
 61,FA,Fred Astaire, photographs, feet
 62,FB,Frodo Baggins, vibrates, fabric
 63,FC,Fidel Castro, facepaints, face
-64,FD,Felicia Day, feeds, food
+64,FD,Felicia Day, feeds, vodka
 65,FE,Freja Erichsen, flashes, film
 66,FF,Farrah Fawcett, unveils, ufo
-67,FG,Forrest Gump, fracks, forest
+67,FG,Forrest Gump, freezes, forest
 68,FH,Freddie Highmore, farms, vampire
 69,FN,Florence Nightingale, fences, unicorn
 
@@ -276,7 +276,7 @@ number,initials,name,action,object
 89,HN,Hannah New, moons, manequin
 
 90,NS,Nicole Scherzinger, inoculates, nest
-91,NA,Neil Armstrong, itches, net
+91,NA,Neil Armstrong, itches, nettle
 92,NB,Napoleon Bonaparte, nabs, nappie
 93,NC,Nicolas Cage, nukes, iceberg
 94,ND,Natalie Dormer, idolises, noodles
