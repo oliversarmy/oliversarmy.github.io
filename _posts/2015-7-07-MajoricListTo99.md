@@ -221,35 +221,35 @@ eh, emo, emu, exam, lam, lame, lehua, lemma, lime, limey, limo, llama, loam, loa
 #####59                  (17 words):
 ennui, eon, lanai, lane, lean, li-ion, liana, lien, line, lion, loan, loin, lone, loon, looney, loony, lynx
 
-#####60                  (26 words):
-faze, fess, fez, fizz, fizzy, fossa, fuse, fuss, fussy, fuzz, fuzzy, jazz, jazzy, jeez, joyous, jus, phase, unsay, unsexy, us, use, vas, vase, visa, vise, vs
+#####60                  (25 words):
+faze, fess, fez, fizz, fizzy, fossa, fuse, fuss, fussy, fuzz, fuzzy, jazz, jazzy, jeez, joyous, jus, unsay, unsexy, us, use, vas, vase, visa, vise, vs
 
 #####61                  (23 words):
 fat, fate, fatty, feat, fete, fiat, fit, fix-it, fixate, fixity, foot, jet, jetty, jot, jut, jute, untie, unto, vat, vet, veto, vita, vote
 
-#####62                  (14 words):
-fab, fib, fob, fop, jab, jape, jib, jibe, job, phobia, up, veep, vibe, vip
+#####62                  (13 words):
+fab, fib, fob, fop, jab, jape, jib, jibe, job, up, veep, vibe, vip
 
 #####63                  (15 words):
 face, fake, fice, fuck, jack, jock, jockey, joke, jokey, juice, juicy, juke, uke, vac, voice
 
-#####64                  (23 words):
-fad, fade, fado, faxed, fed, feed, feud, few, fixed, food, foodie, jaw, judo, phew, undo, undue, vexed, vid, video, view, void, voodoo, vow
+#####64                  (22 words):
+fad, fade, fado, faxed, fed, feed, feud, few, fixed, food, foodie, jaw, judo, undo, undue, vexed, vid, video, view, void, voodoo, vow
 
-#####65                  (47 words):
-fail, faille, fall, feel, fell, fella, file, fill, fille, filly, flax, flay, flea, flee, flex, floe, flu, flue, flux, fly, foal, foil, folio, folly, fool, foul, fuel, full, fully, jail, jell, jello, jelly, jolly, phial, phlox, phyllo, value, veal, veil, vial, vile, villa, viol, voile, vole, volley
+#####65                  (44 words):
+fail, faille, fall, feel, fell, fella, file, fill, fille, filly, flax, flay, flea, flee, flex, floe, flu, flue, flux, fly, foal, foil, folio, folly, fool, foul, fuel, full, fully, jail, jell, jello, jelly, jolly, value, veal, veil, vial, vile, villa, viol, voile, vole, volley
 
 #####66                  (9 words):
 fief, five, fovea, jefe, jiffy, jive, juju, ufo, vivo
 
-#####67                  (50 words):
-faerie, faery, fag, faggy, fair, fairy, far, fare, fear, ferry, fiery, fir, fire, fixer, fog, fogey, foggy, fogy, for, foray, fore, four, foyer, fray, free, fry, fugue, fur, furry, fury, jag, jar, jeer, jig, jog, jug, jury, phage, urea, vague, var, vary, veer, veg, veggie, very, vireo, vogue, voyage, voyeur
+#####67                  (49 words):
+faerie, faery, fag, faggy, fair, fairy, far, fare, fear, ferry, fiery, fir, fire, fixer, fog, fogey, foggy, fogy, for, foray, fore, four, foyer, fray, free, fry, fugue, fur, furry, fury, jag, jar, jeer, jig, jog, jug, jury, urea, vague, var, vary, veer, veg, veggie, very, vireo, vogue, voyage, voyeur
 
 #####68                  (12 words):
 fame, foam, foamy, fume, jam, jammy, uh, um, umm, umma, ummm, vim
 
-#####69                  (26 words):
-fain, fan, fanny, faun, fauna, fen, fin, fine, finny, fino, fun, funny, jinx, join, phone, phoney, phony, vain, vane, vein, veiny, vena, venue, vine, vino, vixen
+#####69                  (23 words):
+fain, fan, fanny, faun, fauna, fen, fin, fine, finny, fino, fun, funny, jinx, join, vain, vane, vein, veiny, vena, venue, vine, vino, vixen
 
 #####70                  (22 words):
 gas, gassy, gauss, gauze, gauzy, gaze, gees, gesso, goose, guess, guise, raise, rasa, raze, razz, reissue, reuse, rise, rose, rosy, rouse, ruse

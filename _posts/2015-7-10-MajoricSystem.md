@@ -115,8 +115,7 @@ t  p  k  w  l  v  r  m  n  z
 
 1. Vowels, a e i o u, are significant, but, only when they start a word, and in most cases, only the first vowel. (e.g age is 17, not 175).
 1. Double letters are disregarded when not pronounced separately (e.g call - 35, however midday - 844).
-1. The letter sequence "ck" is treated the same as "k". The letter sequence "ph"
-   is treated as "f" (unless the letters straddle a compound word).
+1. The letter sequence "ck" is treated the same as "k" (this is very similar to a double letter sequence).
 
 ## Majoric - Advanced Word Rules
 
@@ -246,7 +245,7 @@ number,initials,name,action,object
 59,EN,Eliot Ness, entombs, engine
 
 60,FS,Frank Sinatra, fishes, vespa
-61,FA,Fred Astaire, photographs, feet
+61,FA,Fred Astaire, feathers, feet
 62,FB,Frodo Baggins, vibrates, fabric
 63,FC,Fidel Castro, facepaints, face
 64,FD,Felicia Day, feeds, vodka
