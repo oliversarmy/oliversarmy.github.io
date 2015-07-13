@@ -218,7 +218,7 @@ number,initials,name,action,object
 34,CD,Charles Darwin, cuddles, cowpat
 35,CE,Clint Eastwood, calls, cloak
 36,CF,Colin Firth, covers, cave
-37,CG,Cary Grant, carrys, cart
+37,CG,Cary Grant, carrys, cigar
 38,CH,Charlton Heston, chokes, chimpanzee
 39,CN,Chuck Norris, constructs, canal
 
