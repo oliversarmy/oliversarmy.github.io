@@ -122,7 +122,7 @@ t  p  k  w  l  v  r  m  n  z
 1. Words may not begin with the letters "Y" or "X" as these words are reserved.
 1. Only the first three digital letters in a word are potentially significant
    (e.g "politics" base encoding is 251, not 25130).
-   The reason is, with this system to a small extent (and the Major System, to a much larger extent) there is not enough coverage in
+   The reason is, with this system to a small extent (and the Major System, to a larger extent) there is not enough coverage in
    English to always find words to express 000 - 999. In addition, phonetic
    issues are minimised by not encoding the whole word.
 1. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
