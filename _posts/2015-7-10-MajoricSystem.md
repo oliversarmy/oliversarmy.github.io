@@ -198,7 +198,7 @@ number,initials,name,action,object
 16,AF,Anne Frank, aflames, toffee
 17,AG,Aiden Gillen, tears, toga
 18,AH,Adolf Hitler, amasses, ammunition
-19,AN,Alfred Nobel, angryAt, toenail
+19,AN,Alfred Nobel, tints, toenail
 
 20,BS,Britney Spears, piss, bus
 21,BA,Ben Affleck, batters, boot
