@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Majoric System English List - 0 to 999
+title: Majoric System English List
 ---
+
+## Majoric Alphabetical groupings - 0 to 999
 
 This is a list of words for the Majoric System, which is a cross between the
 Major System and Dominic System.
 
 note: This is not a list for the Major System, as the letter mappings and
 logic rules are different!
-
-#####0                  (22 words):
-oi, oo, ooo, oooo, oy, sax, say, sea, see, sex, sexy, sioux, six, so, sou, soy, soya, sue, zoo, zz, zzz, zzzz
 
 #####1                  (18 words):
 a, ax, axe, ay, aye, ta, tae, tai, tax, taxi, tea, tee, tie, to, toe, too, toy, tux
@@ -27,11 +26,11 @@ day, die, diya, do, due, duo, dye, wax, waxy, way, we, wee, woe, woo
 #####5                  (12 words):
 ex, ey, eye, lax, lay, lei, lie, lieu, loo, lox, luau, lye
 
-#####6                  (13 words):
-fax, fee, feu, fie, fix, foe, foo, foxy, joy, vee, vex, via, vie
+#####6                  (12 words):
+fax, fee, feu, fie, fix, foe, foo, foxy, vee, vex, via, vie
 
-#####7                  (12 words):
-gay, gee, gi, go, goo, gooey, goy, guy, re, roux, rue, rye
+#####7                  (13 words):
+gay, gee, gi, go, goo, gooey, goy, guy, joy, re, roux, rue, rye
 
 #####8                  (29 words):
 ha, hay, he, heiau, hex, hey, hi, hie, hiya, ho, hoax, hoe, hoi, hooey, hoy, hue, m, max, maxi, may, me, mix, mm, mmm, mmmm, moo, moue, moxie, my
@@ -117,11 +116,11 @@ bad, baddie, baud, bead, beady, bed, bid, bide, bod, bode, body, bow, boxed, bud
 #####25                  (42 words):
 bail, bale, ball, belay, belie, bell, belly, biaxial, bile, bill, bleu, blue, boil, bola, bole, boll, bolo, boule, bull, bully, paella, pail, pal, pale, pall, payola, peal, peel, pile, pill, pixel, play, plea, ploy, ply, pole, polio, poll, polo, pool, pull, pulley
 
-#####26                  (16 words):
-beef, beefy, bevy, biff, boeuf, boffo, buff, pave, payoff, peeve, poof, poofy, pouf, puff, puffy, puja
+#####26                  (15 words):
+beef, beefy, bevy, biff, boeuf, boffo, buff, pave, payoff, peeve, poof, poofy, pouf, puff, puffy
 
-#####27                  (62 words):
-bag, baggie, baggy, bar, bare, bear, beer, beery, beg, beige, berry, bier, big, bigeye, boar, bog, bogey, boggy, bogy, boogie, boor, borax, bore, boxer, boyar, bra, bray, brio, bug, buggy, burro, bury, buyer, page, pair, par, para, pare, parry, payer, payor, pear, peer, peg, per, pier, pig, piggy, poor, pore, pour, pray, prey, pro, proxy, pry, pug, pure, puree, purr, pyre, pyro
+#####27                  (63 words):
+bag, baggie, baggy, bar, bare, bear, beer, beery, beg, beige, berry, bier, big, bigeye, boar, bog, bogey, boggy, bogy, boogie, boor, borax, bore, boxer, boyar, bra, bray, brio, bug, buggy, burro, bury, buyer, page, pair, par, para, pare, parry, payer, payor, pear, peer, peg, per, pier, pig, piggy, poor, pore, pour, pray, prey, pro, proxy, pry, pug, puja, pure, puree, purr, pyre, pyro
 
 #####28                  (13 words):
 bah, bahai, beam, beamy, biome, boo-hoo, boom, bum, buxom, pah, pm, poem, puma
@@ -177,11 +176,11 @@ dad, dado, dead, deed, dew, dewy, diode, dioxide, dodo, doe-eyed, dud, dude, dya
 #####45                  (29 words):
 daily, dally, deal, delay, deli, deluxe, dial, dill, doilie, dole, doll, doula, dual, duel, dull, dully, duly, wail, wall, walleye, waylay, weal, well, wile, will, wily, wool, woolly, wooly
 
-#####46                  (20 words):
-daffy, deaf, deejay, defy, deify, diva, dive, divvy, dj, doff, dojo, dove, duff, waif, waive, wave, wavy, weave, wife, woof
+#####46                  (17 words):
+daffy, deaf, defy, deify, diva, dive, divvy, doff, dove, duff, waif, waive, wave, wavy, weave, wife, woof
 
-#####47                  (33 words):
-dago, dairy, dare, dear, dearie, deary, deer, diary, dig, dire, doer, dog, doggie, doggy, door, dour, dray, dry, dug, dura, wag, wage, war, wary, wear, weary, wig, wiggy, wire, wiry, wog, worry, wry
+#####47                  (36 words):
+dago, dairy, dare, dear, dearie, deary, deejay, deer, diary, dig, dire, dj, doer, dog, doggie, doggy, dojo, door, dour, dray, dry, dug, dura, wag, wage, war, wary, wear, weary, wig, wiggy, wire, wiry, wog, worry, wry
 
 #####48                  (17 words):
 dam, deem, demo, dim, dime, dome, doom, dummy, duomo, wahoo, whee, whey, who, whoa, whoo, why, woo-hoo
@@ -219,65 +218,65 @@ eh, emo, emu, exam, lam, lame, lehua, lemma, lime, limey, limo, llama, loam, loa
 #####59                  (17 words):
 ennui, eon, lanai, lane, lean, li-ion, liana, lien, line, lion, loan, loin, lone, loon, looney, loony, lynx
 
-#####60                  (25 words):
-faze, fess, fez, fizz, fizzy, fossa, fuse, fuss, fussy, fuzz, fuzzy, jazz, jazzy, jeez, joyous, jus, unsay, unsexy, us, use, vas, vase, visa, vise, vs
+#####60                  (20 words):
+faze, fess, fez, fizz, fizzy, fossa, fuse, fuss, fussy, fuzz, fuzzy, unsay, unsexy, us, use, vas, vase, visa, vise, vs
 
-#####61                  (23 words):
-fat, fate, fatty, feat, fete, fiat, fit, fix-it, fixate, fixity, foot, jet, jetty, jot, jut, jute, untie, unto, vat, vet, veto, vita, vote
+#####61                  (18 words):
+fat, fate, fatty, feat, fete, fiat, fit, fix-it, fixate, fixity, foot, untie, unto, vat, vet, veto, vita, vote
 
-#####62                  (13 words):
-fab, fib, fob, fop, jab, jape, jib, jibe, job, up, veep, vibe, vip
+#####62                  (8 words):
+fab, fib, fob, fop, up, veep, vibe, vip
 
-#####63                  (15 words):
-face, fake, fice, fuck, jack, jock, jockey, joke, jokey, juice, juicy, juke, uke, vac, voice
+#####63                  (7 words):
+face, fake, fice, fuck, uke, vac, voice
 
-#####64                  (22 words):
-fad, fade, fado, faxed, fed, feed, feud, few, fixed, food, foodie, jaw, judo, undo, undue, vexed, vid, video, view, void, voodoo, vow
+#####64                  (20 words):
+fad, fade, fado, faxed, fed, feed, feud, few, fixed, food, foodie, undo, undue, vexed, vid, video, view, void, voodoo, vow
 
-#####65                  (44 words):
-fail, faille, fall, feel, fell, fella, file, fill, fille, filly, flax, flay, flea, flee, flex, floe, flu, flue, flux, fly, foal, foil, folio, folly, fool, foul, fuel, full, fully, jail, jell, jello, jelly, jolly, value, veal, veil, vial, vile, villa, viol, voile, vole, volley
+#####65                  (39 words):
+fail, faille, fall, feel, fell, fella, file, fill, fille, filly, flax, flay, flea, flee, flex, floe, flu, flue, flux, fly, foal, foil, folio, folly, fool, foul, fuel, full, fully, value, veal, veil, vial, vile, villa, viol, voile, vole, volley
 
-#####66                  (9 words):
-fief, five, fovea, jefe, jiffy, jive, juju, ufo, vivo
+#####66                  (5 words):
+fief, five, fovea, ufo, vivo
 
-#####67                  (49 words):
-faerie, faery, fag, faggy, fair, fairy, far, fare, fear, ferry, fiery, fir, fire, fixer, fog, fogey, foggy, fogy, for, foray, fore, four, foyer, fray, free, fry, fugue, fur, furry, fury, jag, jar, jeer, jig, jog, jug, jury, urea, vague, var, vary, veer, veg, veggie, very, vireo, vogue, voyage, voyeur
+#####67                  (42 words):
+faerie, faery, fag, faggy, fair, fairy, far, fare, fear, ferry, fiery, fir, fire, fixer, fog, fogey, foggy, fogy, for, foray, fore, four, foyer, fray, free, fry, fugue, fur, furry, fury, urea, vague, var, vary, veer, veg, veggie, very, vireo, vogue, voyage, voyeur
 
-#####68                  (12 words):
-fame, foam, foamy, fume, jam, jammy, uh, um, umm, umma, ummm, vim
+#####68                  (10 words):
+fame, foam, foamy, fume, uh, um, umm, umma, ummm, vim
 
-#####69                  (23 words):
-fain, fan, fanny, faun, fauna, fen, fin, fine, finny, fino, fun, funny, jinx, join, vain, vane, vein, veiny, vena, venue, vine, vino, vixen
+#####69                  (21 words):
+fain, fan, fanny, faun, fauna, fen, fin, fine, finny, fino, fun, funny, vain, vane, vein, veiny, vena, venue, vine, vino, vixen
 
-#####70                  (22 words):
-gas, gassy, gauss, gauze, gauzy, gaze, gees, gesso, goose, guess, guise, raise, rasa, raze, razz, reissue, reuse, rise, rose, rosy, rouse, ruse
+#####70                  (27 words):
+gas, gassy, gauss, gauze, gauzy, gaze, gees, gesso, goose, guess, guise, jazz, jazzy, jeez, joyous, jus, raise, rasa, raze, razz, reissue, reuse, rise, rose, rosy, rouse, ruse
 
-#####71                  (28 words):
-gaiety, gait, gate, gateau, get, gite, goat, goatee, gout, gut, gutta, raita, rat, rata, rate, ratio, ratty, ret, riot, rite, root, rooty, rot, rota, rote, rout, route, rut
+#####71                  (33 words):
+gaiety, gait, gate, gateau, get, gite, goat, goatee, gout, gut, gutta, jet, jetty, jot, jut, jute, raita, rat, rata, rate, ratio, ratty, ret, riot, rite, root, rooty, rot, rota, rote, rout, route, rut
 
-#####72                  (28 words):
-gab, gabby, gap, gape, gibe, gob, goby, goop, goopy, guppy, gyp, rabbi, rap, rape, reap, repay, repo, repp, rib, rip, ripe, rob, robe, rope, ropey, ropy, rub, ruby
+#####72                  (33 words):
+gab, gabby, gap, gape, gibe, gob, goby, goop, goopy, guppy, gyp, jab, jape, jib, jibe, job, rabbi, rap, rape, reap, repay, repo, repp, rib, rip, ripe, rob, robe, rope, ropey, ropy, rub, ruby
 
-#####73                  (18 words):
-gecko, geek, geeky, gook, race, rack, racy, rake, raki, raku, reek, reiki, rice, rock, rocky, rook, rookie, ruck
+#####73                  (26 words):
+gecko, geek, geeky, gook, jack, jock, jockey, joke, jokey, juice, juicy, juke, race, rack, racy, rake, raki, raku, reek, reiki, rice, rock, rocky, rook, rookie, ruck
 
-#####74                  (24 words):
-gaudy, giddy, goad, good, goody, guide, radio, raid, raw, read, ready, red, redox, reedy, rid, ride, road, roadie, rod, rodeo, rood, row, ruddy, rude
+#####74                  (26 words):
+gaudy, giddy, goad, good, goody, guide, jaw, judo, radio, raid, raw, read, ready, red, redox, reedy, rid, ride, road, roadie, rod, rodeo, rood, row, ruddy, rude
 
-#####75                  (36 words):
-gaily, gal, gala, galaxy, gall, galley, gaol, gel, glee, glue, goal, goalie, golly, guile, gull, gulley, gully, rail, rally, real, really, reel, relax, relay, rely, rile, rill, rille, roil, roily, role, roll, rouille, royal, royally, rule
+#####75                  (41 words):
+gaily, gal, gala, galaxy, gall, galley, gaol, gel, glee, glue, goal, goalie, golly, guile, gull, gulley, gully, jail, jell, jello, jelly, jolly, rail, rally, real, really, reel, relax, relay, rely, rile, rill, rille, roil, roily, role, roll, rouille, royal, royally, rule
 
-#####76                  (21 words):
-gaff, gaffe, give, goof, goofy, guava, guff, guv, raffia, rave, reef, ref, reify, rev, revue, rife, riff, rive, roof, rove, ruff
+#####76                  (24 words):
+gaff, gaffe, give, goof, goofy, guava, guff, guv, jefe, jiffy, jive, raffia, rave, reef, ref, reify, rev, revue, rife, riff, rive, roof, rove, ruff
 
-#####77                  (30 words):
-gag, gage, gar, gauge, gear, gig, giri, go-go, goer, gore, gory, gouge, gray, grey, guar, guru, gyre, gyro, rag, raga, rage, raggy, rare, rear, reggae, rig, roar, rogue, rouge, rug
+#####77                  (37 words):
+gag, gage, gar, gauge, gear, gig, giri, goer, gore, gory, gouge, gray, grey, guar, guru, gyre, gyro, jag, jar, jeer, jig, jog, jug, juju, jury, rag, raga, rage, raggy, rare, rear, reggae, rig, roar, rogue, rouge, rug
 
-#####78                  (22 words):
-gam, game, gamma, gem, ghee, gum, gummy, gym, rah, ram, ramie, ream, remix, rho, rim, rime, roam, room, roomie, roomy, rum, rummy
+#####78                  (24 words):
+gam, game, gamma, gem, ghee, gum, gummy, gym, jam, jammy, rah, ram, ramie, ream, remix, rho, rim, rime, roam, room, roomie, roomy, rum, rummy
 
-#####79                  (20 words):
-gain, gene, genie, gin, gnu, goanna, goon, guano, gun, gunny, rain, rainy, rayon, rein, rna, roan, ruin, run, rune, runny
+#####79                  (22 words):
+gain, gene, genie, gin, gnu, goanna, goon, guano, gun, gunny, jinx, join, rain, rainy, rayon, rein, rna, roan, ruin, run, rune, runny
 
 #####80                  (29 words):
 hausa, haze, hazy, his, hiss, hissy, hose, house, hussy, maasai, maize, masa, mass, maze, mazy, mess, messy, mezzo, miso, miss, moose, mosey, mossy, mouse, mousse, mousy, muse, muss, muzzy
@@ -297,11 +296,11 @@ haw, head, heady, heed, hew, heyday, hide, hod, hood, hoodie, hoodoo, how, hued,
 #####85                  (39 words):
 hail, hall, hallo, halloo, halo, haole, haul, heal, heel, heli, helix, hell, hello, helo, hilly, hole, holey, holy, hula, hull, hullo, mail, malay, male, mall, maul, maxilla, meal, mealie, mealy, melee, mil, milieu, mill, mol, mole, mule, muley, mull
 
-#####86                  (13 words):
-have, heave, heavy, hi-fi, hive, hoof, huff, huffy, mauve, mojo, move, movie, muff
+#####86                  (12 words):
+have, heave, heavy, hi-fi, hive, hoof, huff, huffy, mauve, move, movie, muff
 
-#####87                  (44 words):
-hag, hair, hairy, hare, hear, heir, her, here, hero, hire, hoagie, hoary, hoaxer, hog, hooray, hora, hour, houri, hug, huge, huggy, hurray, hurry, hyrax, mag, magi, maguey, mar, mare, marry, mayor, mega, mere, merry, mire, mixer, moire, moor, moray, more, mri, mug, muggy, murre
+#####87                  (45 words):
+hag, hair, hairy, hare, hear, heir, her, here, hero, hire, hoagie, hoary, hoaxer, hog, hooray, hora, hour, houri, hug, huge, huggy, hurray, hurry, hyrax, mag, magi, maguey, mar, mare, marry, mayor, mega, mere, merry, mire, mixer, moire, mojo, moor, moray, more, mri, mug, muggy, murre
 
 #####88                  (26 words):
 ha-ha, hah, ham, hammy, heh, hem, heme, hi-ho, him, hm, hmm, home, homey, homie, hoo-ha, huh, hum, maim, maxim, memo, mime, mm-mm, mom, mum, mummy, muumuu
@@ -417,11 +416,11 @@ obduracy, obdurate, obedience, obedient, obediently, opioid, oxbow, sapwood, sea
 #####025                  (117 words):
 obelisk, oblast, oblate, oblation, obligate, obligated, obligation, obligatory, oblige, obliged, obliging, obligingly, oblique, obliquely, obliquity, obliterate, obliteration, oblivion, oblivious, obliviously, obliviousness, oblong, opalescent, opulence, opulent, oubliette, sable, sablefish, sapling, seaplane, sepal, sepulcher, sepulchral, sibilant, sibling, spallation, spell, spellbinding, spellbound, speller, spelling, spelunker, spiel, spill, spillage, spilled, spilling, spillover, spillway, spilt, splash, splashdown, splashed, splashing, splashy, splat, splatter, splattered, splay, splayed, spleen, splendid, splendidly, splendor, splenectomy, splenic, splice, splicer, spliff, spline, splint, splinter, splintered, splintering, splintery, split, splitter, splitting, splotch, splotchy, splurge, splutter, spoil, spoilage, spoiled, spoiler, spoiling, spoils, spoilsport, spool, subaltern, sublease, sublet, sublimate, sublimated, sublimation, sublime, sublimely, subliminal, subliminally, sublimity, sublingual, subluxation, supplant, supple, supplement, supplemental, supplementary, supplementation, suppleness, supplicant, supplicate, supplication, supplied, supplier, supply, zooplankton
 
-#####026                  (40 words):
-obfuscate, obfuscation, object, objectification, objectified, objectify, objection, objectionable, objective, objectively, objectivism, objectivity, objector, obverse, obviate, obvious, obviously, obviousness, spiffy, spoof, subfamily, subfield, subfloor, subject, subjection, subjective, subjectively, subjectivism, subjectivist, subjectivity, subjugate, subjugated, subjugation, subjunctive, subvention, subversion, subversive, subversively, subvert, subverted
+#####026                  (19 words):
+obfuscate, obfuscation, obverse, obviate, obvious, obviously, obviousness, spiffy, spoof, sub-freezing, subfamily, subfield, subfloor, subvention, subversion, subversive, subversively, subvert, subverted
 
-#####027                  (324 words):
-opera, operability, operable, operand, operant, operate, operatic, operating, operation, operational, operationalization, operationalize, operationally, operative, operator, operetta, opportune, opportunism, opportunist, opportunistic, opportunistically, opportunity, oppress, oppressed, oppression, oppressive, oppressively, oppressiveness, oppressor, opprobrium, saber, sapper, seabird, seaboard, seaborne, seaport, seepage, separability, separable, separate, separated, separately, separateness, separating, separation, separatism, separatist, separator, siberian, sipper, sober, sobering, soberly, sobriety, sobriquet, soporific, soprano, spaghetti, spaghettini, spar, spare, sparely, spareness, spareribs, sparing, sparingly, spark, sparker, sparking, sparkle, sparkler, sparkling, sparkly, sparky, sparring, sparrow, sparse, sparsely, sparseness, sparsity, spartan, spear, spearfish, spearhead, spearmint, sperm, spermatophore, spermatozoa, spermicide, spigot, spiral, spiraling, spiralling, spire, spirea, spirit, spirited, spiritedly, spiritedness, spiritless, spiritual, spiritualism, spiritualist, spirituality, spiritually, spirochete, spoor, sporadic, sporadically, spore, sport, sportfisherman, sporting, sportive, sportscast, sportscaster, sportsman, sportsmanlike, sportsmanship, sportswear, sportswoman, sportswriter, sporty, sprain, sprained, sprawl, sprawled, sprawling, spray, sprayed, sprayer, spraying, spread, spreadable, spreader, spreading, spreadsheet, spree, sprig, sprightly, spring, springboard, springbok, springhouse, springtime, springwater, springy, sprinkle, sprinkler, sprinkling, sprint, sprinter, sprit, sprite, spritz, spritzer, sprocket, sprout, sprouted, sprouting, spruce, spry, spur, spurge, spurious, spuriously, spurn, spurned, spurt, spyglass, subarachnoid, subarctic, subgenre, subglottic, subgroup, suborbital, subordinate, subordinated, subordination, suborn, subornation, subregion, subregional, subretinal, subroutine, suburb, suburban, suburbanite, suburbanization, suburbia, super, superabundance, superalloy, superannuated, superb, superbly, superbug, supercede, supercenter, supercharge, supercharged, supercharger, supercilious, supercluster, supercollider, supercomputer, supercomputing, superconducting, superconductive, superconductivity, superconductor, supercontinent, supercooled, supercritical, superego, superficial, superficiality, superficially, superfluid, superfluidity, superfluity, superfluous, superfood, supergiant, superglue, supergroup, supergun, superheated, superhero, superhighway, superhuman, superimpose, superimposed, superimposition, superintend, superintendency, superintendent, superior, superiority, superiorly, superlative, superluminal, supermajority, supermarket, supermax, supermodel, supermom, supernal, supernatant, supernatural, supernaturalism, supernaturally, supernormal, supernova, supernumerary, superordinate, superorganism, superoxide, superpose, superposition, superpower, superrich, superscalar, superscript, supersede, supersensitive, superset, supersexy, supersize, supersonic, superspeedway, superstar, superstardom, superstate, superstation, superstition, superstitious, superstitiously, superstore, superstring, superstructure, supersymmetric, supersymmetry, supertanker, supervise, supervised, supervising, supervision, supervisor, supervisory, superwoman, supper, suppertime, support, supportable, supported, supporter, supporting, supportive, supportively, supportiveness, suppress, suppressant, suppressed, suppression, suppressive, suppressor, suppurate, suppurative, supraclavicular, supracondylar, supraglottic, supranational, supraventricular, supremacist, supremacy, supreme, supremely, supremo, sybarite, sybaritic, zebra, zipper, zippered
+#####027                  (346 words):
+object, objectification, objectified, objectify, objection, objectionable, objective, objectively, objectivism, objectivity, objector, opera, operability, operable, operand, operant, operate, operatic, operating, operation, operational, operationalization, operationalize, operationally, operative, operator, operetta, opportune, opportunism, opportunist, opportunistic, opportunistically, opportunity, oppress, oppressed, oppression, oppressive, oppressively, oppressiveness, oppressor, opprobrium, saber, sapper, seabird, seaboard, seaborne, seaport, seepage, separability, separable, separate, separated, separately, separateness, separating, separation, separatism, separatist, separator, siberian, sipper, sober, sobering, soberly, sobriety, sobriquet, soporific, soprano, spaghetti, spaghettini, spar, spare, sparely, spareness, spareribs, sparing, sparingly, spark, sparker, sparking, sparkle, sparkler, sparkling, sparkly, sparky, sparring, sparrow, sparse, sparsely, sparseness, sparsity, spartan, spear, spearfish, spearhead, spearmint, sperm, spermatophore, spermatozoa, spermicide, spigot, spiral, spiraling, spiralling, spire, spirea, spirit, spirited, spiritedly, spiritedness, spiritless, spiritual, spiritualism, spiritualist, spirituality, spiritually, spirochete, spoor, sporadic, sporadically, spore, sport, sportfisherman, sporting, sportive, sportscast, sportscaster, sportsman, sportsmanlike, sportsmanship, sportswear, sportswoman, sportswriter, sporty, sprain, sprained, sprawl, sprawled, sprawling, spray, sprayed, sprayer, spraying, spread, spreadable, spreader, spreading, spreadsheet, spree, sprig, sprightly, spring, springboard, springbok, springhouse, springtime, springwater, springy, sprinkle, sprinkler, sprinkling, sprint, sprinter, sprit, sprite, spritz, spritzer, sprocket, sprout, sprouted, sprouting, spruce, spry, spur, spurge, spurious, spuriously, spurn, spurned, spurt, spyglass, subarachnoid, subarctic, subgenre, subglottic, subgroup, subject, subjection, subjective, subjectively, subjectivism, subjectivist, subjectivity, subjugate, subjugated, subjugation, subjunctive, suborbital, subordinate, subordinated, subordination, suborn, subornation, subregion, subregional, subretinal, subroutine, suburb, suburban, suburbanite, suburbanization, suburbia, super, superabundance, superalloy, superannuated, superb, superbly, superbug, supercede, supercenter, supercharge, supercharged, supercharger, supercilious, supercluster, supercollider, supercomputer, supercomputing, superconducting, superconductive, superconductivity, superconductor, supercontinent, supercooled, supercritical, superego, superficial, superficiality, superficially, superfluid, superfluidity, superfluity, superfluous, superfood, supergiant, superglue, supergroup, supergun, superheated, superhero, superhighway, superhuman, superimpose, superimposed, superimposition, superintend, superintendency, superintendent, superior, superiority, superiorly, superlative, superluminal, supermajority, supermarket, supermax, supermodel, supermom, supernal, supernatant, supernatural, supernaturalism, supernaturally, supernormal, supernova, supernumerary, superordinate, superorganism, superoxide, superpose, superposition, superpower, superrich, superscalar, superscript, supersede, supersensitive, superset, supersexy, supersize, supersonic, superspeedway, superstar, superstardom, superstate, superstation, superstition, superstitious, superstitiously, superstore, superstring, superstructure, supersymmetric, supersymmetry, supertanker, supervise, supervised, supervising, supervision, supervisor, supervisory, superwoman, supper, suppertime, support, supportable, supported, supporter, supporting, supportive, supportively, supportiveness, suppress, suppressant, suppressed, suppression, suppressive, suppressor, suppurate, suppurative, supraclavicular, supracondylar, supraglottic, supranational, supraventricular, supremacist, supremacy, supreme, supremely, supremo, sybarite, sybaritic, zebra, zipper, zippered
 
 #####028                  (60 words):
 obeah, ophthalmic, ophthalmologic, ophthalmologist, ophthalmology, opium, sapphire, saxophone, saxophonist, sebum, sephardic, siphon, siphonophore, sophism, sophist, sophisticate, sophisticated, sophistication, sophistry, sophomore, sophomoric, spam, spammer, sphagnum, sphenoid, sphenopalatine, sphere, spheric, spherical, sphericity, spheroid, spheroidal, sphincter, spume, spumoni, spymaster, subhead, subheading, submandibular, submarine, submariner, submaximal, submenu, submerge, submerged, submergence, submersed, submersible, submersion, submicroscopic, submillimeter, submission, submissive, submissively, submissiveness, submit, submittal, submitted, syphilis, syphilitic
@@ -540,8 +539,8 @@ off-label, off-leash, off-limits, off-line, off-load, off-loading, offal, oval, 
 #####066                  (6 words):
 off-farm, off-field, off-flavor, off-off-broadway, six-fifteen, six-fifty
 
-#####067                  (265 words):
-oeuvre, offer, offered, offering, offertory, ovarian, ovary, over, overabundance, overachieving, overactive, overage, overall, overambitious, overanxious, overarching, overawe, overbalance, overbearing, overbite, overblown, overboard, overbook, overbooked, overbuild, overbuilding, overburden, overburdened, overcapacity, overcast, overcharge, overcoat, overcome, overcoming, overcompensate, overcompensation, overconfidence, overconfident, overconsumption, overcook, overcooked, overcrowd, overcrowded, overcrowding, overdependence, overdetermination, overdetermined, overdevelop, overdeveloped, overdo, overdone, overdose, overdraft, overdramatize, overdraw, overdrawn, overdress, overdressed, overdrive, overdub, overdue, overeager, overeat, overeating, overemphasis, overemphasize, overenthusiastic, overestimate, overestimation, overexcited, overexertion, overexploitation, overexpose, overexposed, overexposure, overexpression, overextend, overextended, overextension, overfed, overfeed, overfilled, overfished, overfishing, overflight, overflow, overflowing, overgeneralization, overglaze, overgrazed, overgrow, overgrown, overgrowth, overhand, overhang, overhanging, overhaul, overhead, overhear, overheard, overheat, overheated, overheating, overhyped, overindulge, overindulgence, overinvestment, overjoyed, overkill, overlap, overlapping, overlarge, overlay, overleaf, overlie, overload, overloaded, overlook, overlooked, overlord, overly, overlying, overmantel, overmatched, overmuch, overnight, overpaid, overpainting, overpass, overpay, overpayment, overplay, overpopulate, overpopulated, overpopulation, overpower, overpowering, overpressure, overprice, overpriced, overproduce, overproduction, overprotect, overprotection, overprotective, overqualified, overrate, overrated, overreach, overreaching, overreact, overreaction, overrepresentation, override, overriding, overripe, overrule, overrun, overseas, oversee, overseer, oversell, oversensitive, oversexed, overshadow, overshoe, overshoot, oversight, oversimplification, oversimplified, oversimplify, oversize, oversized, oversleep, overspend, overspending, overstaffed, overstate, overstated, overstatement, overstay, overstep, overstimulated, overstimulation, overstock, overstocked, overstory, overstress, overstretch, overstretched, overstuff, overstuffed, oversupply, overt, overtake, overtaking, overtax, overtaxed, overthrow, overtime, overtire, overtly, overtone, overtop, overture, overturn, overturned, overturning, overuse, overused, overvaluation, overvalue, overvalued, overview, overwater, overweening, overweight, overwhelm, overwhelmed, overwhelming, overwhelmingly, overwinter, overwintering, overwork, overworked, overwrite, overwrought, overzealous, safari, safeguard, safeguarding, saffron, savage, savagely, savagery, saver, savior, savor, savory, savour, savvier, saxifrage, seafarer, seafaring, seafront, sever, several, severally, severance, severe, severed, severely, severing, severity, sojourn, sojourner, sovereign, sovereignty, suffer, sufferance, sufferer, suffering, suffrage, suffragette, suffragist
+#####067                  (263 words):
+oeuvre, offer, offered, offering, offertory, ovarian, ovary, over, overabundance, overachieving, overactive, overage, overall, overambitious, overanxious, overarching, overawe, overbalance, overbearing, overbite, overblown, overboard, overbook, overbooked, overbuild, overbuilding, overburden, overburdened, overcapacity, overcast, overcharge, overcoat, overcome, overcoming, overcompensate, overcompensation, overconfidence, overconfident, overconsumption, overcook, overcooked, overcrowd, overcrowded, overcrowding, overdependence, overdetermination, overdetermined, overdevelop, overdeveloped, overdo, overdone, overdose, overdraft, overdramatize, overdraw, overdrawn, overdress, overdressed, overdrive, overdub, overdue, overeager, overeat, overeating, overemphasis, overemphasize, overenthusiastic, overestimate, overestimation, overexcited, overexertion, overexploitation, overexpose, overexposed, overexposure, overexpression, overextend, overextended, overextension, overfed, overfeed, overfilled, overfished, overfishing, overflight, overflow, overflowing, overgeneralization, overglaze, overgrazed, overgrow, overgrown, overgrowth, overhand, overhang, overhanging, overhaul, overhead, overhear, overheard, overheat, overheated, overheating, overhyped, overindulge, overindulgence, overinvestment, overjoyed, overkill, overlap, overlapping, overlarge, overlay, overleaf, overlie, overload, overloaded, overlook, overlooked, overlord, overly, overlying, overmantel, overmatched, overmuch, overnight, overpaid, overpainting, overpass, overpay, overpayment, overplay, overpopulate, overpopulated, overpopulation, overpower, overpowering, overpressure, overprice, overpriced, overproduce, overproduction, overprotect, overprotection, overprotective, overqualified, overrate, overrated, overreach, overreaching, overreact, overreaction, overrepresentation, override, overriding, overripe, overrule, overrun, overseas, oversee, overseer, oversell, oversensitive, oversexed, overshadow, overshoe, overshoot, oversight, oversimplification, oversimplified, oversimplify, oversize, oversized, oversleep, overspend, overspending, overstaffed, overstate, overstated, overstatement, overstay, overstep, overstimulated, overstimulation, overstock, overstocked, overstory, overstress, overstretch, overstretched, overstuff, overstuffed, oversupply, overt, overtake, overtaking, overtax, overtaxed, overthrow, overtime, overtire, overtly, overtone, overtop, overture, overturn, overturned, overturning, overuse, overused, overvaluation, overvalue, overvalued, overview, overwater, overweening, overweight, overwhelm, overwhelmed, overwhelming, overwhelmingly, overwinter, overwintering, overwork, overworked, overwrite, overwrought, overzealous, safari, safeguard, safeguarding, saffron, savage, savagely, savagery, saver, savior, savor, savory, savour, savvier, saxifrage, seafarer, seafaring, seafront, sever, several, severally, severance, severe, severed, severely, severing, severity, sovereign, sovereignty, suffer, sufferance, sufferer, suffering, suffrage, suffragette, suffragist
 
 #####068                  (5 words):
 off-handed, offhand, offhandedly, ovum, safehouse
@@ -570,8 +569,8 @@ oarlock, ogle, ogler, oral, orally, sagely, seagull, serial, serialism, serializ
 #####076                  (42 words):
 orifice, serf, serfdom, serif, servant, serve, server, service, serviceability, serviceable, serviceman, servicemember, servicer, servicewoman, servicing, servile, servility, serving, servitude, servo, servomotor, surf, surface, surfaced, surfacing, surfactant, surfboard, surfeit, surfer, surfing, surveillance, survey, surveyed, surveying, surveyor, survivability, survivable, survival, survivalist, survive, surviving, survivor
 
-#####077                  (67 words):
-ogre, oregano, oregonian, organ, organdy, organelle, organic, organically, organised, organiser, organism, organismal, organismic, organist, organization, organizational, organizationally, organize, organized, organizer, organizing, organochlorine, organophosphate, organza, orgasm, orgasmic, orgiastic, orgy, origami, origin, original, originalism, originality, originally, originary, originate, originating, origination, originator, orographic, saguaro, sargassum, seagrass, segregate, segregated, segregation, segregationist, seraglio, serge, sergeant, sgraffito, sorghum, sorority, sugar, sugared, sugarless, sugarplum, sugary, surge, surgeon, surgery, surgical, surgically, surging, surrogacy, surrogate, ziggurat
+#####077                  (69 words):
+ogre, oregano, oregonian, organ, organdy, organelle, organic, organically, organised, organiser, organism, organismal, organismic, organist, organization, organizational, organizationally, organize, organized, organizer, organizing, organochlorine, organophosphate, organza, orgasm, orgasmic, orgiastic, orgy, origami, origin, original, originalism, originality, originally, originary, originate, originating, origination, originator, orographic, saguaro, sargassum, seagrass, segregate, segregated, segregation, segregationist, seraglio, serge, sergeant, sgraffito, sojourn, sojourner, sorghum, sorority, sugar, sugared, sugarless, sugarplum, sugary, surge, surgeon, surgery, surgical, surgically, surging, surrogacy, surrogate, ziggurat
 
 #####078                  (36 words):
 ormolu, ought, segment, segmental, segmentary, segmentation, segmented, sermon, sermonize, serum, sigh, sighing, sight, sight-read, sight-reading, sight-singing, sight-size, sighted, sighting, sightless, sightlessly, sightline, sightseeing, sightseer, sigmoid, sigmoidoscopy, six-game, six-room, sough, sought, sought-after, surmise, surmount, surmountable, zero-emission, zygomatic
@@ -627,8 +626,8 @@ ondansetron, onward, onwards, sand, sandal, sandaled, sandalwood, sandbag, sandb
 #####095                  (20 words):
 on-location, one-lane, one-legged, one-line, one-liner, onliest, online, onlooker, only, senile, senility, sinless, snail, sun-like, sun-loving, sunless, sunlight, sunlit, zen-like, zonal
 
-#####096                  (37 words):
-on-farm, on-field, on-off, one-factor, one-fifteen, one-fifth, one-fiftieth, one-fifty, one-foot, one-footed, one-fourth, one-of-a-kind, one-off, one-volume, one-vote, sinful, sinfully, sinfulness, sino-japanese, snafu, sniff, sniffer, sniffing, sniffle, sniffling, snifter, snivel, sniveling, snuff, snuffbox, snuffle, son-of-a-bitch, sun-faded, sun-filled, sunfish, sunflower, synovial
+#####096                  (36 words):
+on-farm, on-field, on-off, one-factor, one-fifteen, one-fifth, one-fiftieth, one-fifty, one-foot, one-footed, one-fourth, one-of-a-kind, one-off, one-volume, one-vote, sinful, sinfully, sinfulness, snafu, sniff, sniffer, sniffing, sniffle, sniffling, snifter, snivel, sniveling, snuff, snuffbox, snuffle, son-of-a-bitch, sun-faded, sun-filled, sunfish, sunflower, synovial
 
 #####097                  (79 words):
 oneiric, onerous, ongoing, onrush, onrushing, sangria, sanguinary, sanguine, saying, sayonara, seeing, senegalese, senior, seniority, sing, singable, singaporean, singe, singed, singer, singer/songwriter, singing, single, singleness, singlet, singly, singsong, singular, singularity, singularly, sinner, snag, snagged, snare, snarky, snarl, snarled, snarling, snarly, sneer, sneering, snigger, snore, snorer, snoring, snorkel, snorkeler, snorkeling, snort, snorting, snug, snuggle, snugly, sonar, song, songbird, songbook, songster, songstress, songwriter, songwriting, sonogram, sonography, sonority, sonorous, sonorously, sung, sunglasses, sunrise, sunroof, sunroom, synagogue, synergism, synergistic, synergistically, synergy, zing, zinger, zingy
@@ -717,11 +716,11 @@ abdicate, abdication, abdomen, abdominal, abduct, abducted, abductee, abduction,
 #####125                  (89 words):
 abalone, ability, ablate, ablation, ablative, ablaze, able, ablution, ably, abolish, abolishment, abolition, abolitionism, abolitionist, aplastic, aplenty, aplomb, apolitical, apollonian, apologetic, apologetically, apologetics, apologia, apologist, apologize, apology, appalachian, appall, appalled, appalling, appallingly, appeal, appealing, appealingly, appellant, appellate, appellation, applaud, applauded, applause, apple, applesauce, applet, applewood, appliance, applicability, applicable, applicant, application, applicator, applied, applique, appliqued, apply, tabbouleh, tabla, tablature, table, tableau, tablecloth, tableland, tablespoon, tablespoonful, tablet, tabletop, tableware, tabloid, tabular, tabulate, tabulated, tabulation, taxable, tibial, tibialis, tipple, topless, topological, topology, topple, toppled, toppling, toxoplasma, toxoplasmosis, tubal, tubeless, tubular, tubule, typological, typology
 
-#####126                  (20 words):
-abject, abjection, abjectly, abjure, above, above-average, above-ground, above-knee, above-level, above-market, above-mentioned, above-normal, tip-off, top-five, top-flight, top-floor, top-four, top-of-the-line, typeface, typify
+#####126                  (16 words):
+above, above-average, above-ground, above-knee, above-level, above-market, above-mentioned, above-normal, tip-off, top-five, top-flight, top-floor, top-four, top-of-the-line, typeface, typify
 
-#####127                  (131 words):
-abbreviate, abbreviated, abbreviation, aberrant, aberration, aberrational, aboard, aboriginal, aborigine, abort, aborted, abortifacient, abortion, abortionist, abortive, abracadabra, abrade, abraded, abrahamic, abrasion, abrasive, abrasiveness, abreast, abridge, abridged, abridgement, abridgment, abroad, abrogate, abrogation, abrupt, abruptly, abruptness, apart, apartheid, apartment, apartness, aperitif, aperture, apiary, apogee, aporia, apparat, apparatchik, apparatus, apparel, apparent, apparently, apparition, appear, appearance, apperception, apportion, apportionment, appraisal, appraise, appraised, appraiser, appraising, appreciable, appreciably, appreciate, appreciated, appreciating, appreciation, appreciative, appreciatively, appreciator, apprehend, apprehension, apprehensive, apprehensively, apprentice, apprenticeship, apprise, approach, approachability, approachable, approaching, approbation, appropriate, appropriated, appropriately, appropriateness, appropriation, appropriator, approval, approve, approved, approving, approvingly, approximate, approximately, approximation, appurtenance, apricot, apron, aproned, apropos, aubergine, tabernacle, taper, tapered, tapering, tapir, taproom, taproot, taxpayer, teabag, tiebreaker, toboggan, topiary, topographer, topographic, topographical, topographically, topography, topper, tuber, tubercle, tubercular, tuberculin, tuberculosis, tuberculous, tuberose, tuberosity, tuberous, typographer, typographic, typographical, typography
+#####127                  (135 words):
+abbreviate, abbreviated, abbreviation, aberrant, aberration, aberrational, abject, abjection, abjectly, abjure, aboard, aboriginal, aborigine, abort, aborted, abortifacient, abortion, abortionist, abortive, abracadabra, abrade, abraded, abrahamic, abrasion, abrasive, abrasiveness, abreast, abridge, abridged, abridgement, abridgment, abroad, abrogate, abrogation, abrupt, abruptly, abruptness, apart, apartheid, apartment, apartness, aperitif, aperture, apiary, apogee, aporia, apparat, apparatchik, apparatus, apparel, apparent, apparently, apparition, appear, appearance, apperception, apportion, apportionment, appraisal, appraise, appraised, appraiser, appraising, appreciable, appreciably, appreciate, appreciated, appreciating, appreciation, appreciative, appreciatively, appreciator, apprehend, apprehension, apprehensive, apprehensively, apprentice, apprenticeship, apprise, approach, approachability, approachable, approaching, approbation, appropriate, appropriated, appropriately, appropriateness, appropriation, appropriator, approval, approve, approved, approving, approvingly, approximate, approximately, approximation, appurtenance, apricot, apron, aproned, apropos, aubergine, tabernacle, taper, tapered, tapering, tapir, taproom, taproot, taxpayer, teabag, tiebreaker, toboggan, topiary, topographer, topographic, topographical, topographically, topography, topper, tuber, tubercle, tubercular, tuberculin, tuberculosis, tuberculous, tuberose, tuberosity, tuberous, typographer, typographic, typographical, typography
 
 #####128                  (21 words):
 a-bomb, abhor, abhorrence, abhorrent, abominable, abominably, abomination, aphasia, aphasic, aphelion, aphid, aphorism, aphoristic, aphrodisiac, top-hatted, top-heavy, topmost, toxaphene, typhoid, typhoon, typhus
@@ -777,11 +776,11 @@ added, aide-de-camp, aided, awed, tawdry, tax-deductible, tidewater, tie-down, t
 #####145                  (34 words):
 addle, addled, adelgid, adolescence, adolescent, adulation, adulatory, adult, adulterate, adulterated, adulteration, adulterer, adulteress, adulterous, adultery, adulthood, audiologic, audiological, audiologist, audiology, awl, tidal, tidily, toddle, toddler, towel, towelette, toweling, towline, twelfth, twelve, twilight, twilit, twill
 
-#####146                  (74 words):
-adjacency, adjacent, adjectival, adjective, adjoin, adjoining, adjourn, adjournment, adjudge, adjudicate, adjudication, adjudicative, adjudicator, adjunct, adjunctive, adjust, adjustability, adjustable, adjusted, adjuster, adjusting, adjustment, adjustor, adjutant, adjuvant, advance, advanced, advancement, advancer, advancing, advantage, advantaged, advantageous, advantageously, advent, adventist, adventitious, adventure, adventurer, adventuresome, adventuress, adventurism, adventurous, adventurousness, adverb, adverbial, adversarial, adversary, adverse, adversely, adversity, advert, advertise, advertised, advertisement, advertiser, advertising, advice, advisability, advisable, advise, advisedly, advisee, advisement, adviser, advisor, advisory, advocacy, advocate, awful, awfully, awfulness, twofer, twofold
+#####146                  (49 words):
+advance, advanced, advancement, advancer, advancing, advantage, advantaged, advantageous, advantageously, advent, adventist, adventitious, adventure, adventurer, adventuresome, adventuress, adventurism, adventurous, adventurousness, adverb, adverbial, adversarial, adversary, adverse, adversely, adversity, advert, advertise, advertised, advertisement, advertiser, advertising, advice, advisability, advisable, advise, advisedly, advisee, advisement, adviser, advisor, advisory, advocacy, advocate, awful, awfully, awfulness, twofer, twofold
 
-#####147                  (39 words):
-adage, adagio, adder, address, addressable, addressed, addressee, adorable, adorably, adoration, adore, adored, adoring, adoringly, adorn, adornment, adrenal, adrenaline, adrift, adroit, adroitly, audiogram, award, awarding, aware, awareness, awry, taxidermist, taxidermy, toward, towards, tower, towering, twerp, twig, twiggy, twirl, twirler, twirling
+#####147                  (64 words):
+adage, adagio, adder, address, addressable, addressed, addressee, adjacency, adjacent, adjectival, adjective, adjoin, adjoining, adjourn, adjournment, adjudge, adjudicate, adjudication, adjudicative, adjudicator, adjunct, adjunctive, adjust, adjustability, adjustable, adjusted, adjuster, adjusting, adjustment, adjustor, adjutant, adjuvant, adorable, adorably, adoration, adore, adored, adoring, adoringly, adorn, adornment, adrenal, adrenaline, adrift, adroit, adroitly, audiogram, award, awarding, aware, awareness, awry, taxidermist, taxidermy, toward, towards, tower, towering, twerp, twig, twiggy, twirl, twirler, twirling
 
 #####148                  (47 words):
 adamant, adamantine, adamantly, adhere, adherence, adherent, adhesion, adhesive, adman, admin, administer, administered, administering, administrate, administration, administrative, administratively, administrator, admirable, admirably, admiralty, admiration, admire, admired, admirer, admiring, admiringly, admissibility, admissible, admission, admit, admittance, admitted, admittedly, admitting, admixture, admonish, admonishment, admonition, admonitory, adumbrate, audiometer, audiometric, audiometry, awhile, tedium, towhead
@@ -840,8 +839,8 @@ affiliate, affiliated, affiliative, afflict, afflicted, affliction, affluence, a
 #####166                  (1 words):
 tax-favored
 
-#####167                  (48 words):
-afar, afarensis, affair, affaire, afferent, affirm, affirmation, affirmative, affirmatively, affirming, afford, affordability, affordable, affordably, afforestation, affront, affronted, afghani, afire, afore, aforementioned, aforesaid, aforethought, afraid, afresh, african, africanization, africanized, afrikaaner, afrikaans, afrikaner, afro, afrocentric, ajar, avarice, avaricious, aver, average, averaged, averageness, averse, aversion, aversive, avert, averted, aviary, tavern, taverna
+#####167                  (47 words):
+afar, afarensis, affair, affaire, afferent, affirm, affirmation, affirmative, affirmatively, affirming, afford, affordability, affordable, affordably, afforestation, affront, affronted, afghani, afire, afore, aforementioned, aforesaid, aforethought, afraid, afresh, african, africanization, africanized, afrikaaner, afrikaans, afrikaner, afro, afrocentric, avarice, avaricious, aver, average, averaged, averageness, averse, aversion, aversive, avert, averted, aviary, tavern, taverna
 
 #####168                  (1 words):
 too-familiar
@@ -867,11 +866,11 @@ aardvark, aerodigestive, aerodrome, aerodynamic, aerodynamically, aerodynamics, 
 #####175                  (55 words):
 aerial, aerialist, ageless, agglomeration, agglutination, agile, agility, aglow, airily, airless, airlift, airline, airliner, airlock, areal, areola, aural, aurally, tagliatelle, tagline, tearless, tireless, tirelessly, toggle, togolese, trail, trailblazer, trailblazing, trailer, trailerable, trailhead, trailing, treeless, treelike, treeline, trellis, trellised, trial, trilateral, trilby, trilingual, trill, trilling, trillion, trillionth, trillium, trilobite, trilogy, troll, troller, trolley, trolling, trollop, truly, tyrolean
 
-#####176                  (52 words):
-agave, airfare, airfield, airflow, airfoil, airframe, arrival, arrive, arriving, arriviste, ayurvedic, tariff, tearful, tearfully, terrific, terrifically, terrified, terrify, terrifying, terrifyingly, traffic, trafficker, trafficking, trajectory, travail, travel, traveled, traveler, traveling, travelling, travelogue, traversal, traverse, travertine, travesty, travois, trefoil, trifecta, trifle, trifling, trivet, trivia, trivial, triviality, trivialization, trivialize, trivially, trojan, trove, truffle, truffled, turf
+#####176                  (50 words):
+agave, airfare, airfield, airflow, airfoil, airframe, arrival, arrive, arriving, arriviste, ayurvedic, tariff, tearful, tearfully, terrific, terrifically, terrified, terrify, terrifying, terrifyingly, traffic, trafficker, trafficking, travail, travel, traveled, traveler, traveling, travelling, travelogue, traversal, traverse, travertine, travesty, travois, trefoil, trifecta, trifle, trifling, trivet, trivia, trivial, triviality, trivialization, trivialize, trivially, trove, truffle, truffled, turf
 
-#####177                  (108 words):
-aerogel, agar, agarose, ageratum, aggiornamento, aggrandize, aggrandizement, aggravate, aggravated, aggravating, aggravation, aggregate, aggregated, aggregation, aggregative, aggregator, aggress, aggression, aggressive, aggressively, aggressiveness, aggressivity, aggressor, aggrieved, aggro, agog, agora, agoraphobia, agoraphobic, agrarian, agrarianism, agree, agreeable, agreeableness, agreeably, agreed, agreement, agribusiness, agricultural, agriculturalist, agriculture, agriculturist, agrochemical, agroforestry, agronomic, agronomist, agronomy, aground, aguardiente, aragonese, argentine, argentinean, argentinian, arginine, argon, argot, arguable, arguably, argue, argument, argumentation, argumentative, aright, arraign, arraignment, arrogance, arrogant, arrogantly, arrogate, arugula, auger, augur, augury, auroral, tagger, target, targeted, targeting, tarragon, terrarium, terrier, terror, terrorism, terrorist, terroristic, terrorize, terrorized, tigress, torero, tourer, tragedian, tragedy, tragic, tragically, tragicomedy, tragicomic, triage, trier, trig, trigeminal, trigger, triggered, triggerman, triglyceride, trigonometry, troglodyte, trough, turgid
+#####177                  (111 words):
+aerogel, agar, agarose, ageratum, aggiornamento, aggrandize, aggrandizement, aggravate, aggravated, aggravating, aggravation, aggregate, aggregated, aggregation, aggregative, aggregator, aggress, aggression, aggressive, aggressively, aggressiveness, aggressivity, aggressor, aggrieved, aggro, agog, agora, agoraphobia, agoraphobic, agrarian, agrarianism, agree, agreeable, agreeableness, agreeably, agreed, agreement, agribusiness, agricultural, agriculturalist, agriculture, agriculturist, agrochemical, agroforestry, agronomic, agronomist, agronomy, aground, aguardiente, ajar, aragonese, argentine, argentinean, argentinian, arginine, argon, argot, arguable, arguably, argue, argument, argumentation, argumentative, aright, arraign, arraignment, arrogance, arrogant, arrogantly, arrogate, arugula, auger, augur, augury, auroral, tagger, target, targeted, targeting, tarragon, terrarium, terrier, terror, terrorism, terrorist, terroristic, terrorize, terrorized, tigress, torero, tourer, tragedian, tragedy, tragic, tragically, tragicomedy, tragicomic, trajectory, triage, trier, trig, trigeminal, trigger, triggered, triggerman, triglyceride, trigonometry, troglodyte, trojan, trough, turgid
 
 #####178                  (124 words):
 aghast, airhead, airmail, airman, aramaic, arm, armada, armadillo, armament, armamentarium, armature, armband, armchair, armed, armenian, armful, armhole, arming, armistice, armless, armlet, armload, armoire, armor, armored, armorer, armory, armour, armoured, armpit, armrest, army, aroma, aromatherapy, aromatic, arrhythmia, arrhythmic, arum, aught, augment, augmentation, augmented, tarmac, taught, tearoom, tegmen, term, terminal, terminally, terminate, terminated, terminating, termination, terminological, terminology, terminus, termite, terms, tight, tighten, tightened, tightening, tightly, tightness, tightrope, tights, tightwad, tiramisu, torment, tormented, tormenter, tormenting, tormentor, tough, toughen, toughened, toughie, toughly, toughness, tourmaline, tram, tramp, trample, trampled, trampling, trampoline, tramway, trauma, traumatic, traumatize, traumatized, treehouse, tremble, trembling, tremendous, tremendously, tremolite, tremolo, tremor, tremulous, tremulously, trim, trimaran, trimester, trimmed, trimmer, trimming, triumph, triumphal, triumphalism, triumphalist, triumphant, triumphantly, triumvirate, trombone, trombonist, trommel, tromp, trump, trumpet, trumpeted, trumpeter, trumpeting, turmoil
@@ -1119,8 +1118,8 @@ ballhandler, ballyhoo, ballyhooed, balm, balmy, bellhop, bellman, bioluminescenc
 #####259                  (156 words):
 balance, balanced, balancer, balancing, baleen, balinese, baling, balloon, ballooning, balloonist, baloney, beeline, belong, belongings, bilingual, bilingualism, billing, billion, billionaire, billionth, blanch, blanched, bland, blandishment, blandly, blandness, blank, blanket, blanketed, blankly, blankness, blend, blended, blender, blending, blind, blinded, blinders, blindfold, blindfolded, blinding, blindingly, blindly, blindness, bling, blini, blink, blinker, blinkered, blinkers, blinking, blond, blonde, blondish, blondness, blueness, bluing, blunder, blunderbuss, blundering, blunt, blunted, bluntly, bluntness, boiling, bouillon, bullion, bullying, byline, palanquin, paleness, paleoanthropologist, paleontological, paleontologist, paleontology, palindrome, paling, peeling, pilings, plain, plainchant, plainclothes, plainclothesman, plainer, plainly, plainness, plaint, plaintiff, plaintive, plaintively, plan, planar, plane, planeload, planer, planet, planetarium, planetary, planetesimal, planetoid, plangent, planing, planisphere, plank, planked, planking, plankton, planktonic, planned, planner, planning, plant, plantain, plantation, planted, planter, planting, plantlet, plantsman, playing, plena, plenary, plenipotentiary, plenitude, plentiful, plentifully, plenty, plenum, pliant, plink, plinth, plonk, plunder, plundered, plunderer, plundering, plunge, plunger, plunging, plunk, pollen, pollinate, pollinating, pollination, pollinator, polling, polonaise, polonium, polyandrous, polyandry, polynesian, polynomial, polyunsaturated, pooling, pulling, pylon
 
-#####260                  (5 words):
-beefsteak, bejeezus, bejesus, peevish, peevishly
+#####260                  (3 words):
+beefsteak, peevish, peevishly
 
 #####261                  (8 words):
 beefeater, befit, buffet, buffet-style, buffeting, pivot, pivotal, pivoting
@@ -1131,8 +1130,8 @@ puffball
 #####263                  (6 words):
 beefcake, bifocal, bifocals, bivouac, box-office, buff-colored
 
-#####264                  (11 words):
-beefed-up, befuddle, befuddled, befuddlement, bejeweled, biofeedback, buffed, paved, peeved, puffed, puffed-up
+#####264                  (10 words):
+beefed-up, befuddle, befuddled, befuddlement, biofeedback, buffed, paved, peeved, puffed, puffed-up
 
 #####265                  (18 words):
 b-flat, baffle, baffled, bafflement, baffling, befall, befoul, bevel, beveled, bioavailability, biofilm, biofilter, biofuel, bivalve, boxful, p-value, pavilion, pavlovian
@@ -1140,17 +1139,17 @@ b-flat, baffle, baffled, bafflement, baffling, befall, befoul, bevel, beveled, b
 #####266                  (0 words):
 
 
-#####267                  (24 words):
-bavarian, beaver, before, before-and-after, beforehand, befriend, beverage, bifurcate, bifurcated, bifurcation, bivariate, boyfriend, buffer, buffered, buffering, paver, pay-for-performance, pejorative, pejoratively, poverty, poverty-level, poverty-stricken, puffer, puffery
+#####267                  (22 words):
+bavarian, beaver, before, before-and-after, beforehand, befriend, beverage, bifurcate, bifurcated, bifurcation, bivariate, boyfriend, buffer, buffered, buffering, paver, pay-for-performance, poverty, poverty-level, poverty-stricken, puffer, puffery
 
-#####268                  (2 words):
-pajamas, pavement
+#####268                  (1 words):
+pavement
 
 #####269                  (9 words):
 bouffant, bovine, buffoon, buffoonery, buffoonish, paving, puffin, puffiness, puffing
 
-#####270                  (312 words):
-bagasse, barista, barrister, barstool, bearish, bearskin, berserker, biogas, bogus, boorish, borscht, borzoi, bourse, braise, braised, braising, brash, brashly, brashness, brass, brasserie, brassica, brassiere, brassy, braze, brazen, brazenly, brazenness, brazier, brazilian, breast, breastbone, breasted, breastfeed, breastplate, breaststroke, breastwork, breeze, breezeway, breezily, breezy, bris, brisk, brisket, briskly, briskness, bristle, bristling, bristly, bruise, bruised, bruiser, bruising, bruschetta, brush, brushed, brushfire, brushing, brushless, brushstroke, brushwood, brushwork, brushy, brusque, brusquely, brusqueness, bryozoan, bursar, bursitis, burst, burster, bursting, parasail, parasite, parasitic, parasitical, parasitism, parasitize, parasitoid, parasol, paraspinal, parastatal, parasympathetic, paresis, paresthesia, parish, parishioner, parisian, paroxysm, paroxysmal, parse, parsec, parsi, parsimonious, parsimony, parsing, parsley, parsnip, parson, parsonage, perestroika, periosteum, periscope, perish, perishable, peristaltic, peristyle, persecute, persecuted, persecution, persecutor, perseverance, persevere, persevering, persian, persimmon, persist, persistence, persistent, persistently, persnickety, person, persona, personable, personage, personal, personal/social, personalism, personalistic, personality, personalization, personalize, personalized, personally, personhood, personification, personified, personify, personnel, perspectival, perspective, perspicacious, perspicacity, perspiration, perspire, perspiring, persuadable, persuade, persuader, persuasion, persuasive, persuasively, persuasiveness, perusal, peruse, piggish, pigskin, pigsty, porosity, porous, porousness, praise, praiseworthy, praxis, preassessment, preexist, preexistence, preexistent, presage, presbyopia, presbyter, presbyterian, presbytery, preschool, preschooler, prescience, prescient, presciently, prescribe, prescribed, prescribing, prescription, prescriptive, preseason, presence, present, presentable, presentation, presentational, presented, presenter, presentiment, presently, presentment, presentness, preservation, preservationist, preservative, preserve, preserved, preserver, preserving, preset, preside, presidency, president, president/general, presidential, presidentially, presider, presiding, presidium, press, pressed, pressing, pressman, pressroom, pressure, pressured, pressurization, pressurize, pressurized, prestige, prestigious, presto, presumable, presumably, presume, presumed, presumption, presumptive, presumptively, presumptuous, presuppose, presupposed, presupposition, priest, priestess, priesthood, priestly, prise, prism, prismatic, prison, prisoner, prissy, pristine, prize, prized, prizefight, prizefighter, prosaic, prosaically, proscenium, prosciutto, proscribe, proscribed, proscription, proscriptive, prose, prosecutable, prosecute, prosecuting, prosecution, prosecutor, prosecutorial, proselytism, proselytization, proselytize, proselytizer, proselytizing, prosocial, prosodic, prosody, prosopopoeia, prospect, prospecting, prospective, prospector, prospectus, prosper, prosperity, prosperous, prostaglandin, prostate, prostatectomy, prostatic, prostatitis, prosthesis, prosthetic, prosthetics, prosthetist, prostitute, prostituted, prostitution, prostrate, prostration, proustian, prussian, purism, purist, purse, pursed, purser, purslane, pursuance, pursuant, pursue, pursued, pursuer, pursuing, pursuit
+#####270                  (314 words):
+bagasse, barista, barrister, barstool, bearish, bearskin, bejeezus, bejesus, berserker, biogas, bogus, boorish, borscht, borzoi, bourse, braise, braised, braising, brash, brashly, brashness, brass, brasserie, brassica, brassiere, brassy, braze, brazen, brazenly, brazenness, brazier, brazilian, breast, breastbone, breasted, breastfeed, breastplate, breaststroke, breastwork, breeze, breezeway, breezily, breezy, bris, brisk, brisket, briskly, briskness, bristle, bristling, bristly, bruise, bruised, bruiser, bruising, bruschetta, brush, brushed, brushfire, brushing, brushless, brushstroke, brushwood, brushwork, brushy, brusque, brusquely, brusqueness, bryozoan, bursar, bursitis, burst, burster, bursting, parasail, parasite, parasitic, parasitical, parasitism, parasitize, parasitoid, parasol, paraspinal, parastatal, parasympathetic, paresis, paresthesia, parish, parishioner, parisian, paroxysm, paroxysmal, parse, parsec, parsi, parsimonious, parsimony, parsing, parsley, parsnip, parson, parsonage, perestroika, periosteum, periscope, perish, perishable, peristaltic, peristyle, persecute, persecuted, persecution, persecutor, perseverance, persevere, persevering, persian, persimmon, persist, persistence, persistent, persistently, persnickety, person, persona, personable, personage, personal, personal/social, personalism, personalistic, personality, personalization, personalize, personalized, personally, personhood, personification, personified, personify, personnel, perspectival, perspective, perspicacious, perspicacity, perspiration, perspire, perspiring, persuadable, persuade, persuader, persuasion, persuasive, persuasively, persuasiveness, perusal, peruse, piggish, pigskin, pigsty, porosity, porous, porousness, praise, praiseworthy, praxis, preassessment, preexist, preexistence, preexistent, presage, presbyopia, presbyter, presbyterian, presbytery, preschool, preschooler, prescience, prescient, presciently, prescribe, prescribed, prescribing, prescription, prescriptive, preseason, presence, present, presentable, presentation, presentational, presented, presenter, presentiment, presently, presentment, presentness, preservation, preservationist, preservative, preserve, preserved, preserver, preserving, preset, preside, presidency, president, president/general, presidential, presidentially, presider, presiding, presidium, press, pressed, pressing, pressman, pressroom, pressure, pressured, pressurization, pressurize, pressurized, prestige, prestigious, presto, presumable, presumably, presume, presumed, presumption, presumptive, presumptively, presumptuous, presuppose, presupposed, presupposition, priest, priestess, priesthood, priestly, prise, prism, prismatic, prison, prisoner, prissy, pristine, prize, prized, prizefight, prizefighter, prosaic, prosaically, proscenium, prosciutto, proscribe, proscribed, proscription, proscriptive, prose, prosecutable, prosecute, prosecuting, prosecution, prosecutor, prosecutorial, proselytism, proselytization, proselytize, proselytizer, proselytizing, prosocial, prosodic, prosody, prosopopoeia, prospect, prospecting, prospective, prospector, prospectus, prosper, prosperity, prosperous, prostaglandin, prostate, prostatectomy, prostatic, prostatitis, prosthesis, prosthetic, prosthetics, prosthetist, prostitute, prostituted, prostitution, prostrate, prostration, proustian, prussian, purism, purist, purse, pursed, purser, purslane, pursuance, pursuant, pursue, pursued, pursuer, pursuing, pursuit
 
 #####271                  (245 words):
 baguette, bariatric, baritone, barrette, bartender, barter, bartered, bartering, barthesian, beget, begetter, begotten, berate, beret, berth, bigot, bigoted, bigotry, birth, birthdate, birthday, birthing, birthmark, birthplace, birthrate, birthright, borate, brat, bratty, bratwurst, breath, breathable, breathalyzer, breathe, breather, breathing, breathless, breathlessly, breathlessness, breathtaking, breathtakingly, breathy, britches, british, brittle, brittleness, broth, brothel, brother, brotherhood, brotherly, bruit, brutal, brutality, brutalization, brutalize, brutalized, brutally, brute, brutish, burrito, paratactic, paratha, parathion, parathyroid, paratroop, paratrooper, parietal, parity, parotid, parrot, parrotfish, part, partake, partaking, parted, parterre, parthenogenesis, parthenogenetic, parthian, partial, partiality, partially, participant, participate, participating, participation, participative, participatory, participial, participle, particle, particleboard, particular, particularism, particularistic, particularity, particularize, particularized, particularly, particulars, particulate, parting, partisan, partisanship, partita, partition, partitioned, partitioning, partly, partner, partnership, partridge, parturition, party, partyer, partying, peritoneal, peritoneum, peritonitis, peritonsillar, pert, pertain, pertaining, pertinence, pertinent, pertinently, pertly, perturb, perturbation, perturbed, pertussis, piagetian, pigtail, pigtailed, pirate, pirated, piratical, pirouette, port, portabella, portability, portable, portal, portcullis, ported, portend, portent, portentous, portentously, porterhouse, portfolio, porthole, portico, portion, portly, portmanteau, portobello, portrait, portraitist, portraiture, portray, portrayal, portrayed, portugese, portuguese, praetorian, pratfall, prattle, preteen, pretence, pretend, pretended, pretender, pretending, pretense, pretension, pretentious, pretentiously, pretentiousness, preterite, preternatural, preternaturally, pretext, pretrial, prettily, prettiness, pretty, pretzel, protagonist, protea, protean, protease, protect, protectant, protected, protecting, protection, protectionism, protectionist, protective, protectively, protectiveness, protector, protectorate, protectress, protege, protegee, protein, proteinase, proteinuria, proteolytic, protest, protestant, protestation, protester, protesting, protestor, protist, protocol, proton, protoplanet, protoplanetary, protoplasm, protostar, prototype, prototypic, prototypical, prototypically, prototyping, protozoan, protract, protracted, protractor, protrude, protruding, protrusion, protuberance, protuberant, puritanical, puritanism, purity, purty, pyrite, pyrotechnic
@@ -1161,20 +1160,20 @@ bagpipe, bagpiper, barb, barbadian, barbarian, barbaric, barbarism, barbarity, b
 #####273                  (276 words):
 bark, barkeep, barking, baroque, barque, barracks, barracuda, barricade, barricaded, biogeochemistry, bioreactor, biracial, birch, birchbark, boric, brace, bracelet, bracero, brachial, brachialis, brachiopod, bracing, bracingly, bracken, bracket, bracketed, bracketing, brackish, bract, brake, brakeman, braking, breach, breached, breaching, break, breakable, breakage, breakaway, breakdown, breaker, breakfast, breakfront, breaking, breakneck, breakout, breakpoint, breakthrough, breakup, breakwater, breccia, brechtian, breech, breechcloth, brick, brickbat, bricklayer, bricklaying, brickwork, brickyard, bricolage, bricoleur, brioche, briquette, broach, brocade, brocaded, broccoli, brochure, broke, broken, brokenly, brokenness, broker, brokerage, brokered, brokering, brooch, brook, brucellosis, bureaucracy, bureaucrat, bureaucratese, bureaucratic, bureaucratically, bureaucratization, bureaucratized, burka, burkean, paracetamol, parachute, parachutist, parakeet, parcel, parch, parched, parchment, park, parka, parked, parking, parkland, parochial, parochialism, parquet, parricide, percale, perceivable, perceive, perceived, perceiver, perceiving, percentage, percentile, percept, perceptible, perceptibly, perception, perceptive, perceptively, perceptiveness, perceptual, perceptually, perch, perchance, perched, perchlorate, percolate, percolation, percolator, percussion, percussionist, percussive, percutaneous, pericardial, pericardium, perk, perkily, perkiness, perky, perquisite, pierce, pierced, piercing, piercingly, piracy, porcelain, porch, porcine, porcupine, pork, porker, porkpie, porky, practicability, practicable, practical, practicality, practically, practice, practiced, practicing, practicum, practise, practising, practitioner, preach, preacher, preaching, preachy, precancerous, precarious, precariously, precariousness, precast, precaution, precautionary, precede, precedence, precedent, precedential, preceding, precept, preceptor, precession, precinct, precious, preciously, preciousness, precipice, precipitant, precipitate, precipitately, precipitating, precipitation, precipitator, precipitous, precipitously, precis, precise, precisely, precision, preclinical, preclude, preclusion, precocious, precociously, precociousness, precocity, precognition, precognitive, precolonial, preconceived, preconception, precondition, preconditioning, preconquest, precook, precooked, precordial, precursor, preeclampsia, preoccupation, preoccupied, preoccupy, prequel, price, priced, priceless, pricetag, pricey, pricing, prick, pricking, prickle, prickling, prickly, pricy, proactive, proactively, procedural, procedurally, procedure, proceed, proceedings, proceeds, process, processed, processing, procession, processional, processor, processual, proclaim, proclaimed, proclamation, proclivity, proconsul, procrastinate, procrastination, procrastinator, procreate, procreation, procreative, procrustean, proctologist, procurator, procure, procurement, procurer, prokaryote, purchase, purchased, purchaser, purchasing, pyroclastic
 
-#####274                  (228 words):
-bagged, bardic, bared, barred, beard, bearded, beardless, berried, bigwig, bird, birdbath, birdcage, birdcall, birder, birdhouse, birdie, birding, birdlike, birdseed, birdshot, birdsong, birdwatch, birdy, board, boarded, boarder, boarding, boardinghouse, boardroom, boardwalk, bordello, border, bordering, borderland, borderless, borderline, bored, boredom, borrow, borrowed, borrower, borrowing, bradycardia, braid, braided, braiding, brawl, brawler, brawn, brawny, bread, breadbasket, breadboard, breadbox, breadcrumb, breaded, breadfruit, breading, breadline, breadstick, breadth, breadwinner, breed, breeder, breeding, brew, brewery, brewing, brewmaster, brewpub, bridal, bride, bridegroom, bridesmaid, bridge, bridgedeck, bridgehead, bridgework, bridging, bridle, broad, broadband, broadcast, broadcaster, broadcasting, broadcloth, broaden, broadened, broadening, broadhead, broadleaf, broadly, broadness, broadsheet, broadside, broadsword, broadtail, brood, brooder, brooding, broodmare, broody, brow, browbeat, brown, browned, brownfield, brownian, brownie, browning, brownish, brownness, brownout, brownshirt, brownstone, browse, browser, browsing, burden, burdened, burdensome, burdock, buried, burrow, burrowing, pagoda, paired, parade, paradigm, paradigmatic, paradise, paradisiacal, paradox, paradoxical, paradoxically, paraeducator, pardner, pardon, parodic, parody, pegged, perdition, period, periodic, periodical, periodically, periodicity, periodization, periodontal, periodontist, periodontitis, periwinkle, peroxidase, peroxide, pigweed, porridge, prawn, predate, predation, predator, predatory, predecease, predecessor, predefined, predella, predestination, predestined, predetermine, predetermined, predicament, predicate, predication, predict, predictability, predictable, predictably, predicted, prediction, predictive, predictor, predilection, predispose, predisposed, predisposing, predisposition, prednisolone, prednisone, predoctoral, predominance, predominant, predominantly, predominate, prewashed, pride, prideful, prod, prodding, prodigal, prodigality, prodigious, prodigiously, prodigy, produce, produced, producer, producing, product, production, productive, productively, productivity, proud, proudly, prow, prowess, prowl, prowler, prowling, prude, prudence, prudent, prudential, prudently, prudery, prudish, prudishness, purdah, pured
+#####274                  (229 words):
+bagged, bardic, bared, barred, beard, bearded, beardless, bejeweled, berried, bigwig, bird, birdbath, birdcage, birdcall, birder, birdhouse, birdie, birding, birdlike, birdseed, birdshot, birdsong, birdwatch, birdy, board, boarded, boarder, boarding, boardinghouse, boardroom, boardwalk, bordello, border, bordering, borderland, borderless, borderline, bored, boredom, borrow, borrowed, borrower, borrowing, bradycardia, braid, braided, braiding, brawl, brawler, brawn, brawny, bread, breadbasket, breadboard, breadbox, breadcrumb, breaded, breadfruit, breading, breadline, breadstick, breadth, breadwinner, breed, breeder, breeding, brew, brewery, brewing, brewmaster, brewpub, bridal, bride, bridegroom, bridesmaid, bridge, bridgedeck, bridgehead, bridgework, bridging, bridle, broad, broadband, broadcast, broadcaster, broadcasting, broadcloth, broaden, broadened, broadening, broadhead, broadleaf, broadly, broadness, broadsheet, broadside, broadsword, broadtail, brood, brooder, brooding, broodmare, broody, brow, browbeat, brown, browned, brownfield, brownian, brownie, browning, brownish, brownness, brownout, brownshirt, brownstone, browse, browser, browsing, burden, burdened, burdensome, burdock, buried, burrow, burrowing, pagoda, paired, parade, paradigm, paradigmatic, paradise, paradisiacal, paradox, paradoxical, paradoxically, paraeducator, pardner, pardon, parodic, parody, pegged, perdition, period, periodic, periodical, periodically, periodicity, periodization, periodontal, periodontist, periodontitis, periwinkle, peroxidase, peroxide, pigweed, porridge, prawn, predate, predation, predator, predatory, predecease, predecessor, predefined, predella, predestination, predestined, predetermine, predetermined, predicament, predicate, predication, predict, predictability, predictable, predictably, predicted, prediction, predictive, predictor, predilection, predispose, predisposed, predisposing, predisposition, prednisolone, prednisone, predoctoral, predominance, predominant, predominantly, predominate, prewashed, pride, prideful, prod, prodding, prodigal, prodigality, prodigious, prodigiously, prodigy, produce, produced, producer, producing, product, production, productive, productively, productivity, proud, proudly, prow, prowess, prowl, prowler, prowling, prude, prudence, prudent, prudential, prudently, prudery, prudish, prudishness, purdah, pured
 
 #####275                  (103 words):
 bagel, barely, barley, barrel, barreled, beagle, beguile, beguiling, beryllium, boggle, boogaloo, boreal, braillewriter, braless, brilliance, brilliancy, brilliant, brilliantly, broil, broiled, broiler, broiling, bugle, bugler, bugling, burial, burl, burlap, burlesque, burley, burly, paralegal, parallax, parallel, parallelism, parallelogram, paralympic, paralympics, paralysis, paralytic, paralyze, paralyzed, paralyzing, parlance, parlay, parley, parliament, parliamentarian, parliamentary, parlor, parlous, parole, paroled, parolee, payroll, pearl, pearlescent, pearly, peerless, peril, perilous, perilously, perilymph, perlite, piglet, poorly, praline, prelapsarian, prelate, prelim, preliminarily, preliminary, prelims, preliterate, preload, preloaded, prelude, prolactin, prolapse, prole, proletarian, proletarianization, proletariat, proliferate, proliferating, proliferation, proliferative, prolific, prolifically, proline, prologue, prolong, prolongation, prolonged, puerile, pugilist, pugilistic, purely, purl, purloin, purloined, purulent, pyrolysis
 
-#####276                  (226 words):
-barefoot, barefooted, barf, bereaved, bereavement, bereft, birefringence, bravado, brave, bravely, bravery, bravura, brevet, brevity, brief, briefcase, briefer, briefing, briefly, paraffin, parafoil, parfait, parvenu, perfect, perfecta, perfected, perfectibility, perfecting, perfection, perfectionism, perfectionist, perfectionistic, perfective, perfectly, perfidious, perfidy, perforate, perforated, perforation, perforce, perform, performance, performative, performativity, performer, performing, perfume, perfumed, perfumer, perfumery, perfunctorily, perfunctory, perfuse, perfusion, perjure, perjured, perjurer, perjurious, perjury, peruvian, perv, pervade, pervading, pervasive, pervasively, pervasiveness, perverse, perversely, perversion, perversity, pervert, perverted, piriform, prefab, prefabricated, preface, prefatory, prefect, prefectural, prefecture, prefer, preferable, preferably, preference, preferential, preferentially, preferment, preferred, prefetch, prefetching, prefiguration, prefigure, prefinished, prefix, preform, preformed, prefrontal, prejudge, prejudgment, prejudice, prejudiced, prejudicial, prevail, prevailing, prevalence, prevalent, prevaricate, prevarication, prevent, preventable, preventative, prevention, preventive, preventively, preview, previous, previously, privacy, private, privateer, privately, privation, privatization, privatize, privatized, privatizer, privet, privilege, privileged, privileging, privy, profanation, profane, profess, professed, profession, professional, professionalism, professionalization, professionalized, professionally, professor, professorate, professorial, professoriate, professorship, proffer, proffered, proficiency, proficient, proficiently, profile, profiled, profiler, profiling, profit, profitability, profitable, profitably, profiteer, profiteering, profiterole, profitless, profligacy, profligate, profound, profoundly, profundity, profuse, profusely, profusion, project, projected, projectile, projecting, projection, projectionist, projective, projector, proof, proofread, proofreader, provable, prove, proved, proven, provenance, provencal, provender, provenience, proverb, proverbial, proverbially, provide, provided, provident, providential, providentially, provider, providing, province, provincial, provincialism, provinciality, provincially, proving, provision, provisional, provisionally, provisioning, proviso, provocation, provocative, provocatively, provoke, provoking, provolone, provost, purification, purified, purifier, purify, purifying, purvey, purveyor, purview
+#####276                  (208 words):
+barefoot, barefooted, barf, bereaved, bereavement, bereft, birefringence, bravado, brave, bravely, bravery, bravura, brevet, brevity, brief, briefcase, briefer, briefing, briefly, paraffin, parafoil, parfait, parvenu, perfect, perfecta, perfected, perfectibility, perfecting, perfection, perfectionism, perfectionist, perfectionistic, perfective, perfectly, perfidious, perfidy, perforate, perforated, perforation, perforce, perform, performance, performative, performativity, performer, performing, perfume, perfumed, perfumer, perfumery, perfunctorily, perfunctory, perfuse, perfusion, peruvian, perv, pervade, pervading, pervasive, pervasively, pervasiveness, perverse, perversely, perversion, perversity, pervert, perverted, piriform, prefab, prefabricated, preface, prefatory, prefect, prefectural, prefecture, prefer, preferable, preferably, preference, preferential, preferentially, preferment, preferred, prefetch, prefetching, prefiguration, prefigure, prefinished, prefix, preform, preformed, prefrontal, prevail, prevailing, prevalence, prevalent, prevaricate, prevarication, prevent, preventable, preventative, prevention, preventive, preventively, preview, previous, previously, privacy, private, privateer, privately, privation, privatization, privatize, privatized, privatizer, privet, privilege, privileged, privileging, privy, profanation, profane, profess, professed, profession, professional, professionalism, professionalization, professionalized, professionally, professor, professorate, professorial, professoriate, professorship, proffer, proffered, proficiency, proficient, proficiently, profile, profiled, profiler, profiling, profit, profitability, profitable, profitably, profiteer, profiteering, profiterole, profitless, profligacy, profligate, profound, profoundly, profundity, profuse, profusely, profusion, proof, proofread, proofreader, provable, prove, proved, proven, provenance, provencal, provender, provenience, proverb, proverbial, proverbially, provide, provided, provident, providential, providentially, provider, providing, province, provincial, provincialism, provinciality, provincially, proving, provision, provisional, provisionally, provisioning, proviso, provocation, provocative, provocatively, provoke, provoking, provolone, provost, purification, purified, purifier, purify, purifying, purvey, purveyor, purview
 
-#####277                  (135 words):
-baggage, bagger, bargain, bargainer, bargaining, barge, barrage, barrier, bearer, beggar, beggarly, begrudge, begrudgingly, bergamot, biogeographic, biogeographical, biogeography, biographer, biographic, biographical, biography, bioregion, bioregional, booger, borage, borer, borough, bourgeois, bourgeoise, bourgeoisie, brag, braggadocio, braggart, bragging, briar, brier, brigade, brigadier, brigand, brigantine, bright, brighten, brightening, brightly, brightness, brights, brogue, brougham, bugger, burg, burgeon, burgeoning, burger, burgher, burglar, burglarize, burglary, burgle, burgundian, burgundy, pager, paraglider, paragon, paragraph, paraguayan, peerage, peregrination, pergola, perigee, peroration, pirogue, pogrom, pragmatic, pragmatically, pragmatics, pragmatism, pragmatist, prairie, prayer, prayerbook, prayerful, prearranged, prearrangement, preauricular, pregame, pregnancy, pregnant, preordain, prerecord, prerecorded, prereferral, prerequisite, prerogative, prig, priggish, prior, prioress, prioritization, prioritize, prioritized, priority, priory, prog, progenitor, progeny, progesterone, progestin, prognosis, prognostic, prognosticate, prognostication, prognosticator, program, programmable, programmatic, programmatically, programmed, programmer, programming, progress, progression, progressive, progressively, progressiveness, progressivism, progressivity, prurience, prurient, pruritus, purgation, purgative, purgatorial, purgatory, purge, purging
+#####277                  (155 words):
+baggage, bagger, bargain, bargainer, bargaining, barge, barrage, barrier, bearer, beggar, beggarly, begrudge, begrudgingly, bergamot, biogeographic, biogeographical, biogeography, biographer, biographic, biographical, biography, bioregion, bioregional, booger, borage, borer, borough, bourgeois, bourgeoise, bourgeoisie, brag, braggadocio, braggart, bragging, briar, brier, brigade, brigadier, brigand, brigantine, bright, brighten, brightening, brightly, brightness, brights, brogue, brougham, bugger, burg, burgeon, burgeoning, burger, burgher, burglar, burglarize, burglary, burgle, burgundian, burgundy, pager, paraglider, paragon, paragraph, paraguayan, peerage, pejorative, pejoratively, peregrination, pergola, perigee, perjure, perjured, perjurer, perjurious, perjury, peroration, pirogue, pogrom, pragmatic, pragmatically, pragmatics, pragmatism, pragmatist, prairie, prayer, prayerbook, prayerful, prearranged, prearrangement, preauricular, pregame, pregnancy, pregnant, prejudge, prejudgment, prejudice, prejudiced, prejudicial, preordain, prerecord, prerecorded, prereferral, prerequisite, prerogative, prig, priggish, prior, prioress, prioritization, prioritize, prioritized, priority, priory, prog, progenitor, progeny, progesterone, progestin, prognosis, prognostic, prognosticate, prognostication, prognosticator, program, programmable, programmatic, programmatically, programmed, programmer, programming, progress, progression, progressive, progressively, progressiveness, progressivism, progressivity, project, projected, projectile, projecting, projection, projectionist, projective, projector, prurience, prurient, pruritus, purgation, purgative, purgatorial, purgatory, purge, purging
 
-#####278                  (178 words):
-bagman, bareheaded, barium, barmaid, barman, barometer, barometric, barroom, begum, berm, bermudian, bigamist, bigamy, bighorn, bight, bioremediation, biorhythm, bogeyman, boogeyman, borehole, bough, bramble, bream, brim, brimful, brimmed, brimming, brimstone, bromeliad, bromide, bromine, broom, broomstick, brouhaha, burmese, paramagnetic, paramecium, paramedic, parameter, parametric, paramilitary, paramount, paramour, pariah, parmesan, perambulation, peremptorily, peremptory, perhaps, perihelion, perimeter, perm, permaculture, permafrost, permanence, permanency, permanent, permanently, permeability, permeable, permeate, permeation, permed, permissibility, permissible, permission, permissive, permissiveness, permit, permitted, permittee, permutation, pigment, pigmentation, pigmented, poorhouse, pram, preamble, preamplifier, preemie, preeminence, preeminent, preeminently, preempt, preemptively, preemptory, preheat, preheated, prehensile, prehension, prehistoric, prehistory, premade, premalignant, premarital, premature, prematurely, prematurity, premedical, premeditated, premeditation, premenstrual, premier, premiere, premiership, premise, premium, premixed, premonition, premonitory, prim, prima, primacy, primal, primarily, primary, primate, primatologist, primavera, prime, primed, primer, primeval, priming, primitive, primitively, primitivism, primly, primness, primo, primogeniture, primordial, primp, primrose, primula, primus, prohibit, prohibited, prohibition, prohibitionist, prohibitive, prohibitively, prom, promenade, promethean, prominence, prominent, prominently, promiscuity, promiscuous, promiscuously, promise, promised, promising, promisingly, promissory, promo, promontory, promote, promoted, promoter, promotion, promotional, prompt, prompter, prompting, promptly, promptness, promulgate, promulgation, proximal, proximate, proximity, pygmy, pyramid, pyramidal, pyromaniac, pyrrhic
+#####278                  (179 words):
+bagman, bareheaded, barium, barmaid, barman, barometer, barometric, barroom, begum, berm, bermudian, bigamist, bigamy, bighorn, bight, bioremediation, biorhythm, bogeyman, boogeyman, borehole, bough, bramble, bream, brim, brimful, brimmed, brimming, brimstone, bromeliad, bromide, bromine, broom, broomstick, brouhaha, burmese, pajamas, paramagnetic, paramecium, paramedic, parameter, parametric, paramilitary, paramount, paramour, pariah, parmesan, perambulation, peremptorily, peremptory, perhaps, perihelion, perimeter, perm, permaculture, permafrost, permanence, permanency, permanent, permanently, permeability, permeable, permeate, permeation, permed, permissibility, permissible, permission, permissive, permissiveness, permit, permitted, permittee, permutation, pigment, pigmentation, pigmented, poorhouse, pram, preamble, preamplifier, preemie, preeminence, preeminent, preeminently, preempt, preemptively, preemptory, preheat, preheated, prehensile, prehension, prehistoric, prehistory, premade, premalignant, premarital, premature, prematurely, prematurity, premedical, premeditated, premeditation, premenstrual, premier, premiere, premiership, premise, premium, premixed, premonition, premonitory, prim, prima, primacy, primal, primarily, primary, primate, primatologist, primavera, prime, primed, primer, primeval, priming, primitive, primitively, primitivism, primly, primness, primo, primogeniture, primordial, primp, primrose, primula, primus, prohibit, prohibited, prohibition, prohibitionist, prohibitive, prohibitively, prom, promenade, promethean, prominence, prominent, prominently, promiscuity, promiscuous, promiscuously, promise, promised, promising, promisingly, promissory, promo, promontory, promote, promoted, promoter, promotion, promotional, prompt, prompter, prompting, promptly, promptness, promulgate, promulgation, proximal, proximate, proximity, pygmy, pyramid, pyramidal, pyromaniac, pyrrhic
 
 #####279                  (197 words):
 bagging, bairn, bareness, barn, barnacle, barnstorm, barnstorming, barnyard, baroness, baronet, baronial, barony, barren, barrenness, barring, baryon, bearing, bearnaise, begging, begin, beginner, beginning, begonia, beignet, bigness, biogenetic, biogenic, boring, boringly, born, boron, bougainvillaea, bougainvillea, brain, braincase, brainchild, brainiac, brainless, brainpan, brainpower, brainstem, brainstorm, brainstorming, brainwash, brainwashed, brainwashing, brainwave, brainy, bran, branch, branched, branchial, branching, brand, brandade, branded, brandied, branding, brandish, brandy, brane, braying, brindled, brine, brined, bring, bringer, bringing, brink, brinkmanship, briny, bronc, bronchi, bronchial, bronchitis, bronchodilator, bronchoscope, brontosaur, brontosaurus, bronze, bronzed, bronzer, bronzing, bronzy, brunch, brunet, brunette, brunt, bugging, burin, burn, burned, burner, burning, burnish, burnished, burnout, burnt, burundian, bygone, byronic, pagan, paganism, pageant, pageantry, paging, pairing, paranoia, paranoiac, paranoid, paranormal, parenchyma, parent, parentage, parental, parenteral, parenthesis, parenthetical, parenthetically, parenthood, parenting, parentless, parents/guardian, paring, peignoir, perennial, perennially, perianth, perinatal, perineal, perineum, pernicious, peroneal, peronist, pigeon, pigeonhole, piranha, poignance, poignancy, poignant, poignantly, porn, porno, pornographer, pornographic, pornography, pouring, prance, prancing, prang, prank, prankish, prankster, praying, preen, prenatal, prenuptial, princedom, princeling, princely, principal, principality, principally, principalship, principle, principled, print, printable, printed, printer, printhead, printing, printmaker, printmaking, printout, prion, pronation, prone, proneness, prong, pronged, pronghorn, pronominal, pronoun, pronounce, pronounced, pronouncement, pronunciation, prune, pruned, pruner, pruning, prying, pugnacious, pugnacity, purine, purring
@@ -1227,11 +1226,11 @@ band, bandage, bandaged, bandana, bandanna, bandbox, bandeau, banded, bandgap, b
 #####295                  (23 words):
 banal, banality, biannual, biennial, boneless, painless, painlessly, panel, paneled, paneling, panelist, panelling, penal, penalize, penalized, penalty, penalty-free, penile, penlight, penniless, penultimate, pineal, pinole
 
-#####296                  (31 words):
-baneful, banjo, benefaction, benefactor, benefactress, benefice, beneficence, beneficent, beneficial, beneficially, beneficiary, benefit, benefit-cost, benevolence, benevolent, benevolently, bioinformatics, bona-fide, bone-jarring, bonefish, bonfire, pain-filled, pain-free, painful, painfully, pan-african, pan-fried, panfish, pianoforte, pinafore, punjabi
+#####296                  (28 words):
+baneful, benefaction, benefactor, benefactress, benefice, beneficence, beneficent, beneficial, beneficially, beneficiary, benefit, benefit-cost, benevolence, benevolent, benevolently, bioinformatics, bona-fide, bonefish, bonfire, pain-filled, pain-free, painful, painfully, pan-african, pan-fried, panfish, pianoforte, pinafore
 
-#####297                  (54 words):
-bang, banger, banging, bangladeshi, bangle, banner, baying, being, bengal, bengali, benighted, benign, benignly, binary, binaural, binge, bingo, bioengineered, bioengineering, boner, boneyard, bong, booing, boxing, bung, bungalow, bungee, bunghole, bungle, bungled, bungler, bungling, buying, paneer, panegyric, pang, panga, pangolin, pannier, panorama, panoramic, paying, peeing, penurious, penury, peonage, ping, pinging, pioneer, pioneering, pong, pungency, pungent, pungently
+#####297                  (56 words):
+bang, banger, banging, bangladeshi, bangle, banjo, banner, baying, being, bengal, bengali, benighted, benign, benignly, binary, binaural, binge, bingo, bioengineered, bioengineering, boner, boneyard, bong, booing, boxing, bung, bungalow, bungee, bunghole, bungle, bungled, bungler, bungling, buying, paneer, panegyric, pang, panga, pangolin, pannier, panorama, panoramic, paying, peeing, penurious, penury, peonage, ping, pinging, pioneer, pioneering, pong, pungency, pungent, pungently, punjabi
 
 #####298                  (25 words):
 benumb, binomial, bone-marrow, bonehead, boneheaded, bonheur, bonhomie, pan-american, panamanian, panhandle, panhandler, panhandling, penmanship, penumbra, penumbral, pinhole, pneumatic, pneumatically, pneumatological, pneumatology, pneumococcal, pneumocystis, pneumonia, pneumonic, pneumothorax
@@ -1257,11 +1256,11 @@ cased, casework, caseworker, causeway, coxswain, quayside, quesadilla
 #####305                  (14 words):
 caseload, cassoulet, casual, casually, casualness, casualty, causal, causality, causally, ceaseless, ceaselessly, cozily, quasi-legal, queasily
 
-#####306                  (6 words):
-cassava, cause-effect, cease-fire, kiss-off, quasi-judicial, quasi-official
+#####306                  (5 words):
+cassava, cause-effect, cease-fire, kiss-off, quasi-official
 
-#####307                  (12 words):
-caesarean, caesura, casserole, cesarean, co-sign, czar, czarina, czarist, kisser, quasar, quasi-governmental, quasi-religious
+#####307                  (13 words):
+caesarean, caesura, casserole, cesarean, co-sign, czar, czarina, czarist, kisser, quasar, quasi-governmental, quasi-judicial, quasi-religious
 
 #####308                  (43 words):
 c-shaped, casement, cash, cash-balance, cash-out, cash-poor, cash-rich, cash-starved, cash-strapped, cash-value, cashbox, cashew, cashier, cashless, cashmere, cesium, cosmetic, cosmetically, cosmetics, cosmetologist, cosmetology, cosmic, cosmic-ray, cosmically, cosmogony, cosmological, cosmologist, cosmology, cosmonaut, cosmopolitan, cosmos, cushier, cushion, cushioned, cushioning, cushiony, cushy, kasha, kashmiri, kismet, kosher, quash, quasi-military
@@ -1317,11 +1316,11 @@ cabdriver, caboodle, caped, capped, cobweb, cobwebbed, cobwebby, copied, copywri
 #####325                  (37 words):
 cabal, cabalistic, caballero, cable, cable-knit, cable-television, cable-tv, cablegram, cabling, capelin, capellini, capillary, co-pilot, co-player, cobalamin, cobalt, cobalt-blue, cobble, cobbled, cobbler, cobblestone, cobblestoned, copal, copolymer, copulate, copulation, copulatory, couple, coupled, coupler, couplet, coupling, cupola, kabbalistic, kibble, quibble, quibbling
 
-#####326                  (4 words):
-cab-forward, capful, cupful, kopje
+#####326                  (3 words):
+cab-forward, capful, cupful
 
-#####327                  (44 words):
-cabaret, cabbage, caber, cabriolet, caper, capper, capriccio, caprice, capricious, capriciously, capriciousness, ciprofloxacin, cooper, cooperate, cooperating, cooperation, cooperative, cooperatively, cooperativeness, cooperator, copernican, copier, copper, copperhead, copperplate, coppersmith, coppery, copra, coprocessor, coprolite, copyright, copyrighted, cyberattack, cybernetic, cybernetics, cyberpunk, cyberspace, cyberterrorism, cyberworld, cyborg, keeper, keyboard, keyboardist, kipper
+#####327                  (45 words):
+cabaret, cabbage, caber, cabriolet, caper, capper, capriccio, caprice, capricious, capriciously, capriciousness, ciprofloxacin, cooper, cooperate, cooperating, cooperation, cooperative, cooperatively, cooperativeness, cooperator, copernican, copier, copper, copperhead, copperplate, coppersmith, coppery, copra, coprocessor, coprolite, copyright, copyrighted, cyberattack, cybernetic, cybernetics, cyberpunk, cyberspace, cyberterrorism, cyberworld, cyborg, keeper, keyboard, keyboardist, kipper, kopje
 
 #####328                  (5 words):
 cephalopod, cephalosporin, cipher, co-payment, cubbyhole
@@ -1407,11 +1406,11 @@ caladium, caldera, caldron, caledonian, called, callow, cauldron, ceilidh, celad
 #####355                  (13 words):
 callaloo, cell-like, cellular, cellular-phone, cellularity, cellulite, cellulitis, celluloid, cellulose, clay-like, clueless, cluelessness, cool-looking
 
-#####356                  (43 words):
-calf, calf-length, calfskin, california-style, californian, calve, calving, calvinist, calvinistic, cauliflower, clave, clavichord, clavicle, clavier, cleavage, cleave, cleaver, clef, cleft, clever, cleverly, cleverness, clevis, cliff, cliff-hanger, cliff-top, cliffhanger, cliffside, clove, cloven, clover, cloverleaf, coal-fired, coalfield, coliform, culvert, killifish, killjoy, qualification, qualified, qualifier, qualify, qualifying
+#####356                  (42 words):
+calf, calf-length, calfskin, california-style, californian, calve, calving, calvinist, calvinistic, cauliflower, clave, clavichord, clavicle, clavier, cleavage, cleave, cleaver, clef, cleft, clever, cleverly, cleverness, clevis, cliff, cliff-hanger, cliff-top, cliffhanger, cliffside, clove, cloven, clover, cloverleaf, coal-fired, coalfield, coliform, culvert, killifish, qualification, qualified, qualifier, qualify, qualifying
 
-#####357                  (76 words):
-calligrapher, calligraphic, calligraphy, caloric, calorimeter, celeriac, celery, cellar, ciliary, clairvoyance, clairvoyant, claret, clarification, clarified, clarifier, clarify, clarifying, clarinet, clarinetist, clarion, clarity, claro, clear, clearance, cleared, clearing, clearinghouse, clearly, clearness, clerestory, clergy, clergyman, cleric, clerical, clericalism, clerk, clerkship, clog, clogged, clogger, clogging, collage, collaged, collagen, collar, collarbone, collard, collards, collared, collarless, colleague, college, collegial, collegian, collegiate, colliery, cologne, color, colorant, coloration, coloratura, colorectal, colored, colorful, colorfully, coloring, colorist, coloristic, colorized, colorless, coloured, colourful, colouring, cooler, couloir, killer
+#####357                  (77 words):
+calligrapher, calligraphic, calligraphy, caloric, calorimeter, celeriac, celery, cellar, ciliary, clairvoyance, clairvoyant, claret, clarification, clarified, clarifier, clarify, clarifying, clarinet, clarinetist, clarion, clarity, claro, clear, clearance, cleared, clearing, clearinghouse, clearly, clearness, clerestory, clergy, clergyman, cleric, clerical, clericalism, clerk, clerkship, clog, clogged, clogger, clogging, collage, collaged, collagen, collar, collarbone, collard, collards, collared, collarless, colleague, college, collegial, collegian, collegiate, colliery, cologne, color, colorant, coloration, coloratura, colorectal, colored, colorful, colorfully, coloring, colorist, coloristic, colorized, colorless, coloured, colourful, colouring, cooler, couloir, killer, killjoy
 
 #####358                  (63 words):
 calamari, calamine, calamitous, calamity, calm, calming, calmly, calmness, calumny, cellmate, claim, claimant, claimed, clam, clambake, clamber, clammy, clamor, clamoring, clamorous, clamp, clampdown, clamping, clamshell, claymore, clematis, clemency, climactic, climate, climatic, climatically, climatological, climatologist, climatology, climax, climb, climber, climbing, clime, clomp, clump, clumped, clumping, clumpy, clumsily, clumsiness, clumsy, collimate, collimated, collimation, collimator, colombian, columbarium, columbian, column, columnar, columned, columnist, culminate, culmination, kilim, kilohertz, qualm
@@ -1434,8 +1433,8 @@ ceviche, civic, civic-minded, civics, coefficient, cofactor, coffee-colored, cof
 #####364                  (3 words):
 caved-in, coiffed, cuffed
 
-#####365                  (34 words):
-cajole, cajolery, cajoling, cavalcade, cavalier, cavalierly, cavalry, cavalryman, cave-like, cavil, civil, civil-defense, civil-military, civil-rights, civil-service, civil-society, civilian, civilian-led, civilian-military, civilianization, civilised, civility, civilization, civilizational, civilize, civilized, civilizing, civilly, coeval, coevolution, coevolutionary, covalent, cufflink, kevlar
+#####365                  (31 words):
+cavalcade, cavalier, cavalierly, cavalry, cavalryman, cave-like, cavil, civil, civil-defense, civil-military, civil-rights, civil-service, civil-society, civilian, civilian-led, civilian-military, civilianization, civilised, civility, civilization, civilizational, civilize, civilized, civilizing, civilly, coeval, coevolution, coevolutionary, covalent, cufflink, kevlar
 
 #####366                  (1 words):
 coffee-flavored
@@ -1446,8 +1445,8 @@ cavern, cavernous, caviar, cavort, coffee-growing, coffer, cofferdam, coffered, 
 #####368                  (4 words):
 caveman, coffeehouse, coffeemaker, kaffiyeh
 
-#####369                  (13 words):
-caffeinated, caffeine, caffeine-free, cave-in, caving, co-found, co-founder, coffin, coffin-like, cojones, coven, covenant, covenantal
+#####369                  (12 words):
+caffeinated, caffeine, caffeine-free, cave-in, caving, co-found, co-founder, coffin, coffin-like, coven, covenant, covenantal
 
 #####370                  (132 words):
 caress, caressing, caries, carouse, carousel, carousing, carsick, cereus, cerise, cirrus, coarse, coarsely, coarsen, coarseness, coarsening, correspond, correspondence, correspondent, corresponding, correspondingly, corrosion, corrosive, corsage, corsair, corset, corseted, corsican, coruscate, course, courseware, coursework, coursing, crash, crashed, crasher, crashing, crashworthiness, crashworthy, crass, crassly, crassness, craze, crazed, crazily, craziness, crazy, crease, creased, creosote, crescendo, crescent, cress, crest, crestfallen, cresting, crisis, crisp, crisped, crispier, crisply, crispness, crispy, crisscross, crisscrossed, croissant, crosier, cross, crossbar, crossbeam, crossbow, crossbowman, crossbreed, crosscurrent, crosscut, crossed, crossfire, crosshair, crosshairs, crosshatch, crosshead, crossing, crossly, crossover, crosspiece, crossroad, crossroads, crosswalk, crosswind, crosswise, crossword, cruise, cruiser, cruiserweight, crus, crusade, crusader, crusading, crush, crushed, crushing, crushingly, crust, crustacean, crustal, crusted, crustless, crusty, cruzado, cryostat, crystal, crystalize, crystalline, crystallite, crystallization, crystallize, crystallized, crystallographer, crystallographic, crystallography, cuirass, curiosity, curious, curiously, curse, cursed, cursing, cursive, cursor, cursorily, cursory, karst, kerosene
@@ -1464,20 +1463,20 @@ carcass, carcinogen, carcinogenesis, carcinogenic, carcinogenicity, carcinoid, c
 #####374                  (103 words):
 caged, caraway, card, cardamom, cardboard, cardholder, cardiac, cardigan, cardinal, cardiologist, cardiology, cardiomyopathy, cardiopulmonary, cardiorespiratory, cardiothoracic, cardiovascular, cardioversion, careworn, carried, carwash, coordinate, coordinated, coordinating, coordination, coordinator, cord, cordage, corded, cordgrass, cordial, cordiality, cordially, cordillera, cordite, cordless, cordon, cordovan, corduroy, cordwood, corrida, corridor, corrode, corroded, cradle, craw, crawdad, crawfish, crawl, crawler, crawling, crawlspace, crawly, credence, credential, credentialed, credentialing, credenza, credibility, credible, credibly, credit, creditability, creditable, creditably, credited, creditor, creditworthiness, creditworthy, credo, credulity, credulous, creed, creedal, crew, crewed, crewman, crewmate, crewmember, crow, crowbar, crowd, crowded, crowding, crowing, crown, crowned, crowning, crud, cruddy, crude, crudely, crudeness, crudites, crudity, curd, curdle, curdled, cured, curried, kurd, kurdish, quarried, querida
 
-#####375                  (53 words):
-cagily, careless, carelessly, carelessness, carillon, carless, carlike, carload, carol, caroler, carolingian, carolinian, carrel, carryall, cereal, cerulean, coagulant, coagulate, coagulated, coagulation, coral, corollary, corral, correlate, correlated, correlation, correlational, correlative, creole, creolization, criollo, cruel, crueler, cruelly, cruelty, cruller, curl, curled, curler, curlew, curlicue, curling, curly, cyrillic, karelian, krill, kugel, quarrel, quarreling, quarrelsome, queerly, querulous, querulously
+#####375                  (56 words):
+cagily, cajole, cajolery, cajoling, careless, carelessly, carelessness, carillon, carless, carlike, carload, carol, caroler, carolingian, carolinian, carrel, carryall, cereal, cerulean, coagulant, coagulate, coagulated, coagulation, coral, corollary, corral, correlate, correlated, correlation, correlational, correlative, creole, creolization, criollo, cruel, crueler, cruelly, cruelty, cruller, curl, curled, curler, curlew, curlicue, curling, curly, cyrillic, karelian, krill, kugel, quarrel, quarreling, quarrelsome, queerly, querulous, querulously
 
 #####376                  (46 words):
-carafe, caravan, caravel, carefree, careful, carefully, carefulness, carfare, carjack, carjacker, carjacking, carryover, carve, carved, carving, cervical, cervix, craft, crafter, craftily, craftiness, crafting, craftsman, craftsmanship, craftsperson, craftswoman, crafty, cravat, crave, craven, cravenly, craving, crayfish, crevasse, crevice, crofter, curfew, curvaceous, curvature, curve, curveball, curved, curvilinear, curving, curvy, kerf
+car-free, carafe, caravan, caravel, carefree, careful, carefully, carefulness, carfare, carry-over, carryover, carve, carved, carving, cervical, cervix, craft, crafter, craftily, craftiness, crafting, craftsman, craftsman-style, craftsmanship, craftsperson, craftswoman, crafty, cravat, crave, craven, cravenly, craving, crayfish, crevasse, crevice, crofter, curfew, curvaceous, curvature, curve, curveball, curved, curvilinear, curving, curvy, kerf
 
-#####377                  (42 words):
-car-rental, career, career-best, career-ending, career-long, career-low, career-making, career-minded, career-oriented, career-related, career-threatening, careerism, careerist, caregiver, caregiving, cargo, carriage, carriageway, carrier, carrier-based, cigar, cigar-chomping, cigar-shaped, cigar-smoking, cigaret, cigarette, cigarillo, co-organizer, corgi, corrugated, corrugation, courage, courageous, courageously, courier, crag, craggy, cryogenic, cryogenically, cryogenics, kegger, kerogen
+#####377                  (45 words):
+car-rental, career, career-best, career-ending, career-long, career-low, career-making, career-minded, career-oriented, career-related, career-threatening, careerism, careerist, caregiver, caregiving, cargo, carjack, carjacker, carjacking, carriage, carriageway, carrier, carrier-based, cigar, cigar-chomping, cigar-shaped, cigar-smoking, cigaret, cigarette, cigarillo, co-organizer, corgi, corrugated, corrugation, courage, courageous, courageously, courier, crag, craggy, cryogenic, cryogenically, cryogenics, kegger, kerogen
 
 #####378                  (70 words):
 caramel, caramelize, caramelized, carhop, carmaker, carmelite, carom, caught, ceramic, ceramicist, ceramics, ceramist, ceremonial, ceremonially, ceremonious, ceremoniously, ceremony, cerumen, cirrhosis, corm, cormorant, cough, coughing, cram, cramming, cramp, cramped, cramping, crampon, cream, creamed, creamery, creaminess, creamware, creamy, cremate, cremated, cremation, crematorium, crematory, creme, crime, crimean, criminal, criminalist, criminality, criminalization, criminalize, criminally, criminological, criminologist, criminology, crimp, crimped, crimson, crumb, crumble, crumbled, crumbling, crumbly, crummy, crumpet, crumple, crumpled, curmudgeon, curmudgeonly, karma, karmic, quagmire, quorum
 
-#####379                  (123 words):
-cairn, careen, careening, caring, carnage, carnal, carnality, carnally, carnation, carnaval, carnelian, carnitine, carnival, carnivalesque, carnivore, carnivorous, carny, carrion, carryin, carrying, cogency, cogeneration, cogent, cogently, cognac, cognate, cognition, cognitional, cognitive, cognitively, cognitivist, cognizable, cognizance, cognizant, cognoscenti, coriander, corinthian, corn, cornball, cornbread, corncob, cornea, corneal, corned, corner, cornerback, cornered, cornering, cornerstone, cornet, corneum, cornfield, cornflower, cornhusk, cornice, corniche, cornish, cornmeal, cornstalk, cornstarch, cornucopia, corny, corona, coronagraph, coronal, coronary, coronation, coronavirus, coroner, coronet, corundum, cranberry, crane, cranial, craniofacial, craniotomy, cranium, crank, crankbait, crankcase, crankiness, crankshaft, cranky, cranny, crayon, crenellated, crenellation, cringe, cringing, crinkle, crinkled, crinkly, crinoline, crone, crony, cronyism, croon, crooner, crooning, crunch, crunched, cruncher, crunching, crunchy, crying, cryonic, cryonics, curandero, currant, currency, current, currently, kernel, koran, koranic, korean, qigong, quarantine, quarantined, quarantining, queerness, quran, quranic
+#####379                  (124 words):
+cairn, careen, careening, caring, carnage, carnal, carnality, carnally, carnation, carnaval, carnelian, carnitine, carnival, carnivalesque, carnivore, carnivorous, carny, carrion, carryin, carrying, cogency, cogeneration, cogent, cogently, cognac, cognate, cognition, cognitional, cognitive, cognitively, cognitivist, cognizable, cognizance, cognizant, cognoscenti, cojones, coriander, corinthian, corn, cornball, cornbread, corncob, cornea, corneal, corned, corner, cornerback, cornered, cornering, cornerstone, cornet, corneum, cornfield, cornflower, cornhusk, cornice, corniche, cornish, cornmeal, cornstalk, cornstarch, cornucopia, corny, corona, coronagraph, coronal, coronary, coronation, coronavirus, coroner, coronet, corundum, cranberry, crane, cranial, craniofacial, craniotomy, cranium, crank, crankbait, crankcase, crankiness, crankshaft, cranky, cranny, crayon, crenellated, crenellation, cringe, cringing, crinkle, crinkled, crinkly, crinoline, crone, crony, cronyism, croon, crooner, crooning, crunch, crunched, cruncher, crunching, crunchy, crying, cryonic, cryonics, curandero, currant, currency, current, currently, kernel, koran, koranic, korean, qigong, quarantine, quarantined, quarantining, queerness, quran, quranic
 
 #####380                  (53 words):
 camisole, camshaft, chaise, chaos, chase, chaser, chasing, chasm, chassis, chaste, chastely, chasten, chastened, chastise, chastised, chastisement, chastity, chasuble, cheese, cheeseburger, cheesecake, cheesecloth, cheesemaker, cheesy, chess, chessboard, chest, chestnut, chesty, chiasmus, chiastic, chisel, chiseled, choose, chooser, choosing, choosy, chosen, cohesion, cohesive, cohesiveness, cohosh, comestibles, commiserate, commiseration, commissar, commissariat, commissary, commission, commissioned, commissioner, commissioning, kameez
@@ -1527,11 +1526,11 @@ canadian, candelabra, candelabrum, candid, candidacy, candidate, candidiasis, ca
 #####395                  (19 words):
 canal, canal-wall-down, cannelloni, cannily, cannoli, cannula, cannulation, canola, cunnilingus, keenly, kennel, knee-length, kneel, kneeler, kneeling, knell, knoll, queenly, quenelle
 
-#####396                  (177 words):
-canvas, canvasback, canvass, canvasser, canvassing, coinfection, coneflower, confab, confabulation, confection, confectionary, confectioner, confectionery, confederal, confederated, confederation, confer, conferee, conference, conferencing, conferral, confess, confession, confessional, confessor, confetti, confidant, confidante, confide, confidence, confident, confidential, confidentiality, confidentially, confidently, configural, configuration, configure, confine, confined, confinement, confining, confirm, confirmation, confirmatory, confirmed, confiscate, confiscated, confiscation, confiscatory, confit, conflagration, conflate, conflation, conflict, conflicted, conflicting, conflictive, conflictual, confluence, confluent, confocal, conform, conformal, conformance, conformation, conformism, conformist, conformity, confound, confounded, confounding, confraternity, confrere, confront, confrontation, confrontational, confucian, confuse, confused, confusedly, confusing, confusingly, confusion, conifer, coniferous, conjectural, conjecture, conjoin, conjoined, conjoining, conjointly, conjugal, conjugate, conjugated, conjugation, conjunction, conjunctiva, conjunctival, conjunctive, conjunctivitis, conjunctural, conjuncture, conjuration, conjure, conjurer, conjuring, connivance, connive, conniving, convalesce, convalescence, convalescent, convection, convective, convene, convener, convenience, convenient, conveniently, convening, convent, convention, conventional, conventionalism, conventionality, conventionalized, conventionally, conventioneer, converge, convergence, convergent, converging, conversant, conversation, conversational, conversationalist, conversationally, converse, conversely, conversion, convert, converted, converter, convertibility, convertible, convex, convexity, convey, conveyance, conveyer, conveyor, convict, convicted, conviction, convince, convinced, convincing, convincingly, convivial, conviviality, convocation, convoke, convolute, convoluted, convolution, convoy, convulse, convulsion, convulsive, convulsively, cuneiform, kanji, kinfolk, knave, knife, knifepoint
+#####396                  (155 words):
+canvas, canvasback, canvass, canvasser, canvassing, coinfection, coneflower, confab, confabulation, confection, confectionary, confectioner, confectionery, confederal, confederated, confederation, confer, conferee, conference, conferencing, conferral, confess, confession, confessional, confessor, confetti, confidant, confidante, confide, confidence, confident, confidential, confidentiality, confidentially, confidently, configural, configuration, configure, confine, confined, confinement, confining, confirm, confirmation, confirmatory, confirmed, confiscate, confiscated, confiscation, confiscatory, confit, conflagration, conflate, conflation, conflict, conflicted, conflicting, conflictive, conflictual, confluence, confluent, confocal, conform, conformal, conformance, conformation, conformism, conformist, conformity, confound, confounded, confounding, confraternity, confrere, confront, confrontation, confrontational, confucian, confuse, confused, confusedly, confusing, confusingly, confusion, conifer, coniferous, connivance, connive, conniving, convalesce, convalescence, convalescent, convection, convective, convene, convener, convenience, convenient, conveniently, convening, convent, convention, conventional, conventionalism, conventionality, conventionalized, conventionally, conventioneer, converge, convergence, convergent, converging, conversant, conversation, conversational, conversationalist, conversationally, converse, conversely, conversion, convert, converted, converter, convertibility, convertible, convex, convexity, convey, conveyance, conveyer, conveyor, convict, convicted, conviction, convince, convinced, convincing, convincingly, convivial, conviviality, convocation, convoke, convolute, convoluted, convolution, convoy, convulse, convulsion, convulsive, convulsively, cuneiform, kinfolk, knave, knife, knifepoint
 
-#####397                  (53 words):
-canard, canary, cannery, coaxing, coinage, conga, congeal, congealed, congee, congener, congenial, congeniality, congenital, congenitally, congeries, congested, congestion, congestive, conglomerate, conglomeration, congolese, congratulate, congratulations, congratulatory, congregant, congregate, congregation, congregational, congregationalist, congress, congressional, congressman, congressperson, congresswoman, congruence, congruent, congruity, congruous, cooing, cueing, kangaroo, kingdom, kingfish, kingfisher, kingly, kingmaker, kingpin, kingship, knight, knighthood, knightly, knurled, queuing
+#####397                  (75 words):
+canard, canary, cannery, coaxing, coinage, conga, congeal, congealed, congee, congener, congenial, congeniality, congenital, congenitally, congeries, congested, congestion, congestive, conglomerate, conglomeration, congolese, congratulate, congratulations, congratulatory, congregant, congregate, congregation, congregational, congregationalist, congress, congressional, congressman, congressperson, congresswoman, congruence, congruent, congruity, congruous, conjectural, conjecture, conjoin, conjoined, conjoining, conjointly, conjugal, conjugate, conjugated, conjugation, conjunction, conjunctiva, conjunctival, conjunctive, conjunctivitis, conjunctural, conjuncture, conjuration, conjure, conjurer, conjuring, cooing, cueing, kangaroo, kanji, kingdom, kingfish, kingfisher, kingly, kingmaker, kingpin, kingship, knight, knighthood, knightly, knurled, queuing
 
 #####398                  (11 words):
 cinema, cinematic, cinematically, cinematographer, cinematographic, cinematography, cinnamon, cinnamon-colored, kinematic, kinematics, knee-high
@@ -1557,11 +1556,11 @@ dazed, dazedly, desideratum, disadvantage, disadvantaged, disadvantageous, disda
 #####405                  (44 words):
 daisylike, days-old, dazzle, dazzled, dazzler, dazzling, dazzlingly, desalinated, desalination, desalinization, deselect, desolate, desolation, desultorily, desultory, diesel, diesel-electric, diesel-powered, disallow, disillusion, disillusioned, disillusionment, dislike, disliked, dislocate, dislocated, dislocation, dislodge, disloyal, disloyalty, dissolute, dissolution, dissolve, dissolved, dissolving, disyllabic, dizzily, dyslexia, dyslexic, weasel, weasely, wesleyan, wisely, woozily
 
-#####406                  (20 words):
-disaffected, disaffection, disavow, disavowal, disfavor, disfavored, disfigure, disfigured, disfigurement, disfiguring, disjoin, disjoint, disjointed, disjunct, disjunction, disjunctive, disjuncture, dysfunction, dysfunctional, dysfunctionality
+#####406                  (13 words):
+disaffected, disaffection, disavow, disavowal, disfavor, disfavored, disfigure, disfigured, disfigurement, disfiguring, dysfunction, dysfunctional, dysfunctionality
 
-#####407                  (93 words):
-desegregate, desegregated, desegregation, desert, deserted, deserter, desertification, desertion, deserve, deserved, deservedly, deserving, design, designate, designated, designation, designed, designee, designer, designing, desirability, desirable, desire, desired, desiring, desirous, desorption, dessert, disaggregated, disaggregation, disagree, disagreeable, disagreeably, disagreement, disarm, disarmament, disarming, disarmingly, disarrange, disarray, disarticulation, disgorge, disgrace, disgraced, disgraceful, disgracefully, disgruntled, disgruntlement, disguise, disguised, disgust, disgusted, disgustedly, disgusting, disgustingly, disorder, disordered, disorderly, disorganization, disorganize, disorganized, disorient, disorientated, disorientation, disoriented, disorienting, disregard, disrepair, disreputable, disrepute, disrespect, disrespected, disrespectful, disrespectfully, disrobe, disrupt, disrupted, disrupter, disruption, disruptive, disruptiveness, disruptor, dissertation, disservice, dizygotic, dosage, dossier, dozer, dysregulation, wiseguy, wizard, wizardly, wizardry
+#####407                  (100 words):
+desegregate, desegregated, desegregation, desert, deserted, deserter, desertification, desertion, deserve, deserved, deservedly, deserving, design, designate, designated, designation, designed, designee, designer, designing, desirability, desirable, desire, desired, desiring, desirous, desorption, dessert, disaggregated, disaggregation, disagree, disagreeable, disagreeably, disagreement, disarm, disarmament, disarming, disarmingly, disarrange, disarray, disarticulation, disgorge, disgrace, disgraced, disgraceful, disgracefully, disgruntled, disgruntlement, disguise, disguised, disgust, disgusted, disgustedly, disgusting, disgustingly, disjoin, disjoint, disjointed, disjunct, disjunction, disjunctive, disjuncture, disorder, disordered, disorderly, disorganization, disorganize, disorganized, disorient, disorientated, disorientation, disoriented, disorienting, disregard, disrepair, disreputable, disrepute, disrespect, disrespected, disrespectful, disrespectfully, disrobe, disrupt, disrupted, disrupter, disruption, disruptive, disruptiveness, disruptor, dissertation, disservice, dizygotic, dosage, dossier, dozer, dysregulation, wiseguy, wizard, wizardly, wizardry
 
 #####408                  (94 words):
 dash, dashboard, dashed, dasher, dashi, dashiki, dashing, dashingly, deism, disembark, disembarkation, disembodied, disembodiment, disembody, disempowered, disempowerment, dish, dishabille, disharmonious, disharmony, dishcloth, dishearten, disheartened, disheartening, disheveled, dishevelled, dishevelment, dishonest, dishonestly, dishonesty, dishonor, dishonorable, dishonorably, dishonored, dishpan, dishrag, dishtowel, dishware, dishwasher, dishwashing, dishwater, dishy, dismal, dismally, dismantle, dismantled, dismantlement, dismantling, dismay, dismayed, dismaying, dismayingly, dismember, dismembered, dismemberment, dismiss, dismissal, dismissed, dismissive, dismissively, dismount, dissemble, dissembler, dissembling, disseminate, disseminated, dissemination, disseminator, dissimilar, dissimilarity, dissimulate, dissimulation, dosimeter, wash, washable, washbasin, washboard, washcloth, washed, washer, washer/dryer, washerman, washerwoman, washing, washingtonian, washrag, washroom, washstand, washtub, wish, wishbone, wishful, wishfully, wishing
@@ -1728,14 +1727,14 @@ daft, davit, defeat, defeated, defeatism, defeatist, deft, deftly, deftness, dev
 #####462                  (7 words):
 deaf-blind, defibrillation, defibrillator, dive-bomb, dive-bombing, wavepacket, wife-beating
 
-#####463                  (23 words):
-deface, defacement, defecate, defecation, defect, defection, defective, defector, deficiency, deficient, deficit, deficit-cutting, deficit-reduction, defocus, defocused, deification, dejected, dejectedly, dejection, device, difficult, difficulty, dovecote
+#####463                  (20 words):
+deface, defacement, defecate, defecation, defect, defection, defective, defector, deficiency, deficient, deficit, deficit-cutting, deficit-reduction, defocus, defocused, deification, device, difficult, difficulty, dovecote
 
 #####464                  (14 words):
 daffodil, davidic, deified, devoid, diffidence, diffident, diffidently, divide, divide-and-rule, divided, dividend, divider, dividing, dvd-rom
 
-#####465                  (52 words):
-default, defaulted, defaulter, defile, defilement, deflate, deflated, deflating, deflation, deflationary, deflator, deflect, deflected, deflection, deflector, deflower, defoliant, defoliate, defoliation, devaluation, devalue, devalued, devaluing, develop, developable, developed, developer, developing, development, developmental, developmentally, devil, deviled, devilish, devilishly, devilment, devolution, devolve, divulge, djellaba, duffel, duffle, waffle, waffling, waiflike, wavelength, wavelet, weevil, wifely, wiffle, woeful, woefully
+#####465                  (51 words):
+default, defaulted, defaulter, defile, defilement, deflate, deflated, deflating, deflation, deflationary, deflator, deflect, deflected, deflection, deflector, deflower, defoliant, defoliate, defoliation, devaluation, devalue, devalued, devaluing, develop, developable, developed, developer, developing, development, developmental, developmentally, devil, deviled, devilish, devilishly, devilment, devolution, devolve, divulge, duffel, duffle, waffle, waffling, waiflike, wavelength, wavelet, weevil, wifely, wiffle, woeful, woefully
 
 #####466                  (4 words):
 waveform, wavefront, wavefunction, wavevector
@@ -1758,20 +1757,20 @@ dart, dartboard, darter, darting, dearth, diegetic, digit, digital, digitalis, d
 #####472                  (48 words):
 doorbell, doorpost, doxorubicin, drab, drabness, drape, draped, drapery, draping, drib, dribble, dribbler, dribbling, drip, dripping, drippy, droop, drooping, droopy, drop, dropcloth, droplet, dropout, dropped, dropper, dropping, dropsy, drub, drubbing, durability, durable, durables, durably, durbar, warble, warbler, warbling, warp, warpath, warped, warping, warplane, wearable, wrap, wraparound, wrapped, wrapper, wrapping
 
-#####473                  (79 words):
-dark, darken, darkened, darkening, darkie, darkish, darkling, darkly, darkness, darkroom, darky, derecho, digicam, direct, directed, directing, direction, directional, directionality, directionless, directive, directly, directness, director, directorate, directorial, directorship, directory, dogcatcher, doorkeeper, doorknob, doric, dork, dorky, draconian, dreck, work, workability, workable, workaholic, workaholism, workbench, workboat, workbook, workday, worked, worker, workfare, workflow, workforce, workgroup, workhorse, workhouse, working, workingman, workload, workman, workmanlike, workmanship, workmate, workout, workpiece, workplace, workroom, works, worksheet, workshop, worksite, workspace, workstation, worktable, workweek, wrack, wreak, wreck, wreckage, wrecked, wrecker, wrecking
+#####473                  (82 words):
+dark, darken, darkened, darkening, darkie, darkish, darkling, darkly, darkness, darkroom, darky, dejected, dejectedly, dejection, derecho, digicam, direct, directed, directing, direction, directional, directionality, directionless, directive, directly, directness, director, directorate, directorial, directorship, directory, dogcatcher, doorkeeper, doorknob, doric, dork, dorky, draconian, dreck, work, workability, workable, workaholic, workaholism, workbench, workboat, workbook, workday, worked, worker, workfare, workflow, workforce, workgroup, workhorse, workhouse, working, workingman, workload, workman, workmanlike, workmanship, workmate, workout, workpiece, workplace, workroom, works, worksheet, workshop, worksite, workspace, workstation, worktable, workweek, wrack, wreak, wreck, wreckage, wrecked, wrecker, wrecking
 
 #####474                  (67 words):
 daredevil, darwinian, darwinist, deride, derided, derridean, dogged, doggedly, doggedness, dogwood, doorway, draw, drawback, drawbridge, drawcord, drawdown, drawer, drawing, drawl, drawstring, dread, dreaded, dreadful, dreadfully, dreadlock, dreadlocked, dreadnought, dredge, dredged, dredger, dredging, dreidel, dried, droid, drown, drowned, drowning, drowse, drowsily, drowsiness, drowsy, drudge, drudgery, drywall, ward, warden, warder, wardrobe, wardroom, weird, weirdly, weirdness, weirdo, werewolf, wigwam, wired, word, wording, wordless, wordlessly, wordplay, wordsmith, wordsworthian, wordy, worried, worriedly, worrywart
 
-#####475                  (42 words):
-darling, dearly, derail, derailed, derailleur, derailment, derelict, dereliction, dogleg, doglike, doorless, dourly, drill, drilled, driller, drilling, drily, droll, drollery, drolly, drool, drooling, dryland, dryly, dural, waggle, warily, warlike, warlock, warlord, wearily, wiggle, wiggler, wiggling, wiggly, wireless, world, worldliness, worldly, worldview, worldwide, wryly
+#####475                  (43 words):
+darling, dearly, derail, derailed, derailleur, derailment, derelict, dereliction, djellaba, dogleg, doglike, doorless, dourly, drill, drilled, driller, drilling, drily, droll, drollery, drolly, drool, drooling, dryland, dryly, dural, waggle, warily, warlike, warlock, warlord, wearily, wiggle, wiggler, wiggling, wiggly, wireless, world, worldliness, worldly, worldview, worldwide, wryly
 
-#####476                  (40 words):
-derivation, derivative, derive, derived, dervish, dogfight, dogfighting, dogfish, dogfood, doorframe, doorjamb, draft, drafted, draftee, drafter, drafting, draftnik, draftsman, draftsmanship, drafty, drift, drifted, drifter, drifting, driftwood, drivable, drive, drivel, driveline, driven, driver, driverless, driveshaft, drivetrain, driveway, driving, drove, drover, warfare, warfarin
+#####476                  (39 words):
+derivation, derivative, derive, derived, dervish, dogfight, dogfighting, dogfish, dogfood, doorframe, draft, drafted, draftee, drafter, drafting, draftnik, draftsman, draftsmanship, drafty, drift, drifted, drifter, drifting, driftwood, drivable, drive, drivel, driveline, driven, driver, driverless, driveshaft, drivetrain, driveway, driving, drove, drover, warfare, warfarin
 
-#####477                  (61 words):
-dagger, daguerreotype, daguerreotypist, degradable, degradation, degrade, degraded, degrading, degreaser, degree, deregulate, deregulated, deregulation, deregulatory, derogate, derogation, derogatory, derriere, diagram, diagrammatic, digerati, digger, digress, digression, digressive, dirge, dirigible, doggerel, dooryard, drag, dragging, dragnet, dragon, dragonfly, dragoon, dragster, draught, draughtsman, drearily, dreariness, dreary, dregs, drier, drogue, drought, drug, drugged, druggie, druggist, druggy, drugmaker, drugstore, dryer, wager, wagering, warrior, wearer, worrier, wriggle, wriggling, wrought
+#####477                  (62 words):
+dagger, daguerreotype, daguerreotypist, degradable, degradation, degrade, degraded, degrading, degreaser, degree, deregulate, deregulated, deregulation, deregulatory, derogate, derogation, derogatory, derriere, diagram, diagrammatic, digerati, digger, digress, digression, digressive, dirge, dirigible, doggerel, doorjamb, dooryard, drag, dragging, dragnet, dragon, dragonfly, dragoon, dragster, draught, draughtsman, drearily, dreariness, dreary, dregs, drier, drogue, drought, drug, drugged, druggie, druggist, druggy, drugmaker, drugstore, dryer, wager, wagering, warrior, wearer, worrier, wriggle, wriggling, wrought
 
 #####478                  (92 words):
 dairymaid, dairyman, daughter, dayroom, dermabrasion, dermal, dermatitis, dermatologic, dermatological, dermatologist, dermatology, dermis, diarrhea, diarrheal, diarrhoea, diorama, doghouse, dogma, dogmatic, dogmatically, dogmatics, dogmatism, dogmatist, doorman, doormat, dorm, dormancy, dormant, dormer, dormitory, dough, doughboy, doughnut, doughty, doughy, dram, drama, dramatic, dramatically, dramatics, dramatist, dramatization, dramatize, dramatized, dramaturge, dramaturgy, dream, dreamboat, dreamcatcher, dreamer, dreamily, dreaminess, dreaming, dreamland, dreamless, dreamlike, dreamscape, dreamworld, dreamy, dromedary, drum, drumbeat, drumhead, drummer, drumming, drumroll, drumstick, durum, warehouse, warehousing, warhead, warhorse, warm, warmed, warming, warmly, warmonger, warmth, weigh, weighing, weight, weighted, weightiness, weighting, weightless, weightlessness, weighty, worm, wormhole, wormlike, wormwood, wormy
@@ -1947,11 +1946,11 @@ ecuadorean, ecuadorian, equidistant, exceed, exceedingly, lace-edged, laced, lac
 #####535                  (67 words):
 ecclesial, ecclesiastic, ecclesiastical, ecclesiological, ecclesiology, eclair, eclat, eclectic, eclecticism, eclipse, eclipsing, ecliptic, eclogue, ecologic, ecological, ecologically, ecologist, ecology, equal, equality, equalization, equalize, equalizer, equalizing, equally, equilateral, equilibrate, equilibrium, eucalyptus, euclidean, excel, excellence, excellent, excellently, excelsior, exclaim, exclamation, exclamatory, exclude, excluded, excluder, excluding, exclusion, exclusionary, exclusive, exclusively, exclusiveness, exclusivism, exclusivity, exculpate, exculpation, exculpatory, lackluster, lexical, likelihood, likely, local, locale, localised, localism, locality, localization, localize, localized, locally, luckily, luckless
 
-#####536                  (19 words):
-eco-friendly, equivalence, equivalency, equivalent, equivalently, equivocal, equivocate, equivocation, excavate, excavated, excavation, excavator, lakefront, liquefaction, liquefied, liquefy, liquify, lockjaw, luciferase
+#####536                  (18 words):
+eco-friendly, equivalence, equivalency, equivalent, equivalently, equivocal, equivocate, equivocation, excavate, excavated, excavation, excavator, lakefront, liquefaction, liquefied, liquefy, liquify, luciferase
 
-#####537                  (42 words):
-ecoregional, ecru, equerry, eukaryote, eukaryotic, ex-kgb, exacerbate, exacerbation, excerpt, excerpted, excoriate, excoriation, excrement, excrescence, excreta, excrete, excretion, excretory, excruciating, excruciatingly, excursion, excursus, execrable, lacerate, lacerated, laceration, lacrimal, lacrosse, leakage, leaker, lexicographer, licorice, likert-scale, likert-type, liqueur, liquor, locker, locker-room, loco-regional, looker, lucrative, lucre
+#####537                  (43 words):
+ecoregional, ecru, equerry, eukaryote, eukaryotic, ex-kgb, exacerbate, exacerbation, excerpt, excerpted, excoriate, excoriation, excrement, excrescence, excreta, excrete, excretion, excretory, excruciating, excruciatingly, excursion, excursus, execrable, lacerate, lacerated, laceration, lacrimal, lacrosse, leakage, leaker, lexicographer, licorice, likert-scale, likert-type, liqueur, liquor, locker, locker-room, lockjaw, loco-regional, looker, lucrative, lucre
 
 #####538                  (40 words):
 each, echelon, echinacea, echinoderm, echo, echocardiogram, echoey, echoing, echolalia, echolocation, ecumenical, ecumenically, ecumenism, eucharist, eucharistic, euchre, exchange, exchangeable, exchanged, exchanger, exchequer, excimer, excommunicate, excommunicated, excommunication, leach, leachate, leaching, lecher, lecherous, lechery, leech, leukaemia, leukemia, leukemic, lichen, locomotion, locomotive, lyceum, lychee
@@ -2022,17 +2021,17 @@ elongate, elongated, elongation, eyeliner, lulling
 #####560                  (34 words):
 eavesdrop, eavesdropper, eavesdropping, effusion, effusive, effusively, evasion, evasive, evasively, evasiveness, eviscerate, evisceration, ex-vessel, lavish, lavishly, lavishness, leaf-shaped, life-saving, life-science, life-size, life-sized, life-story, life-support, life-supporting, life-sustaining, lifesaver, lifespan, lifestyle, lifesuit, livestock, lovastatin, love-struck, loveseat, lovesick
 
-#####561                  (27 words):
-eejit, effete, lavatory, left, left/right, leftfield, leftism, leftist, leftmost, leftover, leftward, levator, levitate, levitating, levitation, levity, lifetime, lift, lifter, lifting, liftoff, loft, lofted, loftily, loftiness, loftlike, lofty
+#####561                  (26 words):
+effete, lavatory, left, left/right, leftfield, leftism, leftist, leftmost, leftover, leftward, levator, levitate, levitating, levitation, levity, lifetime, lift, lifter, lifting, liftoff, loft, lofted, loftily, loftiness, loftlike, lofty
 
 #####562                  (15 words):
 evaporate, evaporated, evaporation, evaporative, evaporator, evapotranspiration, life-prolonging, lifeblood, lifeboat, livability, livable, liveable, lovable, loveable, lovebird
 
-#####563                  (37 words):
-efface, effacement, effect, effective, effectively, effectiveness, effector, effectual, effectually, effectuate, efficacious, efficacy, efficiency, efficient, efficiently, ejaculate, ejaculation, ejaculatory, eject, ejecta, ejected, ejection, ejector, evacuate, evacuated, evacuation, evacuee, evict, evicted, eviction, evocation, evocative, evocatively, evoke, life-changing, life-course, live-action
+#####563                  (29 words):
+efface, effacement, effect, effective, effectively, effectiveness, effector, effectual, effectually, effectuate, efficacious, efficacy, efficiency, efficient, efficiently, evacuate, evacuated, evacuation, evacuee, evict, evicted, eviction, evocation, evocative, evocatively, evoke, life-changing, life-course, live-action
 
-#####564                  (18 words):
-ejido, evade, evader, evidence, evidence-based, evident, evidential, evidentiary, evidently, leafed, life-drawing, lifework, lifeworld, live-work, lived-in, livid, lividity, loved
+#####564                  (17 words):
+evade, evader, evidence, evidence-based, evident, evidential, evidentiary, evidently, leafed, life-drawing, lifework, lifeworld, live-work, lived-in, livid, lividity, loved
 
 #####565                  (47 words):
 efflorescence, effluent, effluvium, efflux, effulgence, evaluable, evaluate, evaluating, evaluation, evaluative, evaluator, evil, evilly, evolution, evolutionarily, evolutionary, evolutionism, evolutionist, evolve, evolved, evolving, exfoliant, exfoliate, exfoliating, exfoliation, exfoliator, eyeful, leafless, leaflet, level, leveled, leveler, leveling, levelly, lifeless, lifelessly, lifelike, lifeline, lifelong, livelihood, liveliness, livelong, lively, loveless, loveliness, lovelorn, lovely
@@ -2052,26 +2051,26 @@ effing, evanescence, evanescent, evangelical, evangelicalism, evangelism, evange
 #####570                  (36 words):
 ear-shattering, ear-splitting, earshot, eeriest, egg-shaped, eggshell, egoism, egoist, egoistic, erasable, erase, erased, eraser, erasing, erasure, erosion, erosional, erosive, ersatz, erstwhile, eurasian, euro-style, exegesis, legislate, legislated, legislation, legislative, legislatively, legislator, legislature, logistic, logistical, logistically, logistics, luxurious, luxuriously
 
-#####571                  (52 words):
-earthbound, earthen, earthenware, earthiness, earthling, earthly, earthmover, earthquake, earthward, earthwork, earthworm, earthy, egotism, egotist, egotistic, egotistical, eritrean, erotic, erotica, erotically, eroticism, eroticized, erratic, erratically, erythema, erythematous, erythrocyte, erythromycin, erythropoietin, exegete, exegetical, exert, exertion, lariat, laureate, legate, legatee, legation, legato, legitimacy, legitimate, legitimately, legitimating, legitimation, legitimization, legitimize, legitimized, legitimizing, ligate, ligation, ligature, luxuriate
+#####571                  (53 words):
+earthbound, earthen, earthenware, earthiness, earthling, earthly, earthmover, earthquake, earthward, earthwork, earthworm, earthy, eejit, egotism, egotist, egotistic, egotistical, eritrean, erotic, erotica, erotically, eroticism, eroticized, erratic, erratically, erythema, erythematous, erythrocyte, erythromycin, erythropoietin, exegete, exegetical, exert, exertion, lariat, laureate, legate, legatee, legation, legato, legitimacy, legitimate, legitimately, legitimating, legitimation, legitimization, legitimize, legitimized, legitimizing, ligate, ligation, ligature, luxuriate
 
 #####572                  (28 words):
 ear-piercing, earphone, earpiece, earplug, eggbeater, eggplant, egyptian, egyptian-israeli, erbium, erupt, erupting, eruption, eruptive, europe-wide, european, european-american, european-style, europeanization, europeanized, exorbitant, exorbitantly, exurb, legibility, legible, legibly, logbook, lugubrious, lugubriously
 
-#####573                  (39 words):
-earache, egocentric, egocentricity, egocentrism, erect, erectile, erection, erector, eureka, eurocentric, exercise, exercise-induced, exerciser, exercising, exorcism, exorcist, exorcize, larcenous, larceny, lark, legacy, log-cabin, logic, logical, logically, logician, logocentric, lurch, lurching, lurk, lurker, lurking, luxury-car, lyric, lyrical, lyrically, lyricism, lyricist, lyrics
+#####573                  (44 words):
+earache, egocentric, egocentricity, egocentrism, ejaculate, ejaculation, ejaculatory, eject, ejecta, ejected, ejection, ejector, erect, erectile, erection, erector, eureka, eurocentric, exercise, exerciser, exercising, exorcism, exorcist, exorcize, larcenous, larceny, lark, legacy, logic, logical, logically, logician, logocentric, lurch, lurching, lurk, lurker, lurking, lyric, lyrical, lyrically, lyricism, lyricist, lyrics
 
-#####574                  (31 words):
-eardrum, eared, earwax, earwig, earworm, egad, egg-white, ego-driven, eradicate, eradication, erode, eroded, eroding, erudite, erudition, lagged, lard, larder, layered, league-wide, league-worst, legged, legwork, logwood, lord, lordly, lordosis, lordship, lugged, lurid, luridly
+#####574                  (32 words):
+eardrum, eared, earwax, earwig, earworm, egad, egg-white, ego-driven, ejido, eradicate, eradication, erode, eroded, eroding, erudite, erudition, lagged, lard, larder, layered, league-wide, league-worst, legged, legwork, logwood, lord, lordly, lordosis, lordship, lugged, lurid, luridly
 
 #####575                  (43 words):
 eagle, eagle-eyed, eaglet, earless, earlobe, early, early-1900s, early-19th-century, early-20th-century, early-bird, early-blooming, early-childhood, early-evening, early-morning, early-music, early-nineteenth-century, early-retirement, early-season, early-spring, early-stage, early-summer, early-twentieth, early-twentieth-century, early-warning, eerily, egalitarian, egalitarianism, egg-laying, eyeglass, league-leading, legal, legal-size, legal-sized, legalese, legalism, legalistic, legality, legalization, legalize, legalized, legally, legless, log-linear
 
-#####576                  (6 words):
-earflap, earful, ex-governor, larva, larval, logjam
+#####576                  (5 words):
+earflap, earful, ex-governor, larva, larval
 
-#####577                  (40 words):
-eager, eagerly, eagerness, egregious, egregiously, egress, egret, erg, ergometer, ergonomic, ergonomics, erogenous, error, exaggerate, exaggerated, exaggeratedly, exaggeration, laager, lager, laggard, lagrangian, large, largely, largemouth, largeness, largess, largesse, largish, leaguer, legerdemain, legroom, ligurian, logarithm, logarithmic, logarithmically, logger, loggerhead, luger, luggage, lugger
+#####577                  (41 words):
+eager, eagerly, eagerness, egregious, egregiously, egress, egret, erg, ergometer, ergonomic, ergonomics, erogenous, error, exaggerate, exaggerated, exaggeratedly, exaggeration, laager, lager, laggard, lagrangian, large, largely, largemouth, largeness, largess, largesse, largish, leaguer, legerdemain, legroom, ligurian, logarithm, logarithmic, logarithmically, logger, loggerhead, logjam, luger, luggage, lugger
 
 #####578                  (47 words):
 earmark, earmarked, egghead, egomania, egomaniac, egomaniacal, eight, eighteen, eighteenth, eightfold, eighth, eighths, eightieth, eighty, ermine, eurhythmics, exogamous, exogamy, laugh, laughable, laughably, laugher, laughing, laughingly, laughingstock, laughter, legume, leguminous, ligament, light, lightbulb, lightcurve, lighted, lighten, lightening, lighter, lightheartedly, lightheartedness, lighthouse, lighting, lightless, lightly, lightness, lightning, lightsaber, lightship, lightweight
@@ -2127,11 +2126,11 @@ end, endanger, endangered, endangerment, endarterectomy, endear, endearing, ende
 #####595                  (18 words):
 enlarge, enlarged, enlargement, enlarger, enlarging, enlighten, enlightened, enlightening, enlist, enlistee, enlistment, enliven, lanolin, lineal, linoleum, loan-loss, loneliness, lonely
 
-#####596                  (43 words):
-enfeeble, enfeebled, enfold, enforce, enforceability, enforceable, enforced, enforcement, enforcer, enfranchise, enfranchised, enfranchisement, enjambment, enjoin, enjoy, enjoyable, enjoyably, enjoyment, envelop, envelope, enveloping, envelopment, enviable, enviably, envied, envious, enviously, environment, environment-friendly, environmental, environmental-impact, environmentalism, environmentalist, environmentally, environs, envisage, envision, envisioned, envoy, envy, ex-navy, line-of-sight, lionfish
+#####596                  (37 words):
+enfeeble, enfeebled, enfold, enforce, enforceability, enforceable, enforced, enforcement, enforcer, enfranchise, enfranchised, enfranchisement, envelop, envelope, enveloping, envelopment, enviable, enviably, envied, envious, enviously, environment, environment-friendly, environmental, environmental-impact, environmentalism, environmentalist, environmentally, environs, envisage, envision, envisioned, envoy, envy, ex-navy, line-of-sight, lionfish
 
-#####597                  (125 words):
-energetic, energetically, energetics, energize, energized, energizer, energizing, energy, enervate, enervated, enervating, engage, engaged, engagement, engaging, engagingly, engender, engine, engineer, engineered, engineering, english, engorge, engorged, engorgement, engram, engrave, engraved, engraver, engraving, engross, engrossed, engrossing, engulf, engulfed, engulfing, enigma, enigmatic, enigmatically, enormity, enormous, enormously, enough, enrage, enraged, enrapture, enraptured, enrich, enriched, enriching, enrichment, enroll, enrolled, enrollee, enrollment, enuresis, exonerate, exonerated, exoneration, langoustine, language, languid, languidly, languish, languishing, languor, languorous, languorously, langur, lanyard, laying, length, lengthen, lengthened, lengthening, lengthwise, lengthy, linage, lineage, linear, linearity, linearly, liner, lingcod, linger, lingerie, lingering, lingo, lingua, lingual, linguine, linguist, linguistic, linguistically, linguistics, loaner, loner, long, longbeard, longboat, longbow, longevity, longhand, longhouse, longing, longingly, longish, longitude, longitudinal, longitudinally, longline, longneck, longshore, longshoreman, longshot, longtime, lounge, lounger, lounging, lunar, lung, lunge, lungful, lunging, lying
+#####597                  (131 words):
+energetic, energetically, energetics, energize, energized, energizer, energizing, energy, enervate, enervated, enervating, engage, engaged, engagement, engaging, engagingly, engender, engine, engineer, engineered, engineering, english, engorge, engorged, engorgement, engram, engrave, engraved, engraver, engraving, engross, engrossed, engrossing, engulf, engulfed, engulfing, enigma, enigmatic, enigmatically, enjambment, enjoin, enjoy, enjoyable, enjoyably, enjoyment, enormity, enormous, enormously, enough, enrage, enraged, enrapture, enraptured, enrich, enriched, enriching, enrichment, enroll, enrolled, enrollee, enrollment, enuresis, exonerate, exonerated, exoneration, langoustine, language, languid, languidly, languish, languishing, languor, languorous, languorously, langur, lanyard, laying, length, lengthen, lengthened, lengthening, lengthwise, lengthy, linage, lineage, linear, linearity, linearly, liner, lingcod, linger, lingerie, lingering, lingo, lingua, lingual, linguine, linguist, linguistic, linguistically, linguistics, loaner, loner, long, longbeard, longboat, longbow, longevity, longhand, longhouse, longing, longingly, longish, longitude, longitudinal, longitudinally, longline, longneck, longshore, longshoreman, longshot, longtime, lounge, lounger, lounging, lunar, lung, lunge, lungful, lunging, lying
 
 #####598                  (25 words):
 enamel, enameled, enameling, enamelware, enamor, enamored, enema, enemy, enhance, enhanced, enhancement, enhancer, enhancing, enmesh, enmeshed, enmeshment, enmity, enumerate, enumeration, enumerator, euonymus, lineament, lineman, liniment, lion-hearted
@@ -2142,8 +2141,8 @@ enantiomer, enunciate, enunciation, leaning, leniency, lenient, leniently, lenin
 #####600                  (12 words):
 unseasonable, unseasonably, unseasonal, unseasoned, unsuspected, unsuspecting, unsustainability, unsustainable, unsystematic, us-soviet, us-sponsored, visuospatial
 
-#####601                  (106 words):
-fast, fastback, fastball, fasten, fastener, fastening, faster, fastest, fastidious, fastidiously, fastidiousness, fasting, fastness, faustian, feast, feasting, feistiness, feisty, fester, festering, festival, festive, festively, festivity, festoon, festschrift, fist, fisted, fistfight, fistful, fistula, foist, foster, fostering, fustian, fusty, jest, jester, jesuit, joist, jostle, jostling, joust, jousting, joystick, just, justice, justifiable, justifiably, justification, justificatory, justified, justify, justifying, justly, justness, unsatisfactory, unsatisfied, unsatisfying, unsaturated, unseat, unsettle, unsettled, unsettling, unstable, unstained, unstandardized, unstated, unsteadily, unsteadiness, unsteady, unstinting, unstintingly, unstoppable, unstoppably, unstrap, unstressed, unstretched, unstructured, unstrung, unstuck, unstudied, unstuffed, unsuitability, unsuitable, unsuited, vast, vastly, vastness, vastus, vest, vestal, vested, vestibular, vestibule, vestige, vestigial, vesting, vestment, vestry, vestryman, visit, visitable, visitation, visiting, visitor
+#####601                  (86 words):
+fast, fastback, fastball, fasten, fastener, fastening, faster, fastest, fastidious, fastidiously, fastidiousness, fasting, fastness, faustian, feast, feasting, feistiness, feisty, fester, festering, festival, festive, festively, festivity, festoon, festschrift, fist, fisted, fistfight, fistful, fistula, foist, foster, fostering, fustian, fusty, unsatisfactory, unsatisfied, unsatisfying, unsaturated, unseat, unsettle, unsettled, unsettling, unstable, unstained, unstandardized, unstated, unsteadily, unsteadiness, unsteady, unstinting, unstintingly, unstoppable, unstoppably, unstrap, unstressed, unstretched, unstructured, unstrung, unstuck, unstudied, unstuffed, unsuitability, unsuitable, unsuited, vast, vastly, vastness, vastus, vest, vestal, vested, vestibular, vestibule, vestige, vestigial, vesting, vestment, vestry, vestryman, visit, visitable, visitation, visiting, visitor
 
 #####602                  (49 words):
 feasibility, feasible, feasibly, foosball, fussbudget, un-sponsored, unobjectionable, unobservable, unobservant, unobserved, unobstructed, unobtainable, unobtrusive, unobtrusively, unopened, unopposed, unsayable, unseeable, unsophisticated, unsparing, unspeakable, unspeakably, unspecialized, unspecific, unspecified, unspectacular, unspent, unspoiled, unspoken, unsportsmanlike, unsubsidized, unsubstantiated, unsubtle, unsupervised, unsupportable, unsupported, unsupportive, unzip, unzipped, us-backed, usability, usable, useable, vasopressin, vespers, visibility, visible, visible-light, visibly
@@ -2151,11 +2150,11 @@ feasibility, feasible, feasibly, foosball, fussbudget, un-sponsored, unobjection
 #####603                  (50 words):
 fascia, fascial, fascicle, fasciitis, fascinate, fascinated, fascinating, fascinatingly, fascination, fascism, fascist, fascistic, fescue, fiasco, fiscal, fiscally, unoccupied, unscarred, unscathed, unscented, unscheduled, unschooled, unscientific, unscramble, unscreened, unscrew, unscripted, unscrupulous, unsecured, unskilled, unsociable, unsuccessful, unsuccessfully, vascular, vascularity, vasculature, vasculitis, vasectomy, vasoconstriction, vasoconstrictor, vesicle, vesicular, viscera, visceral, viscerally, viscoelastic, viscose, viscosity, viscount, viscous
 
-#####604                  (17 words):
-fused, jazzed, unsaddled, unsaid, unseeded, unswayed, unsweetened, unswept, unswerving, unswervingly, us-owned, used, used-book, used-car, used-up, vasodilation, vasodilator
+#####604                  (16 words):
+fused, unsaddled, unsaid, unseeded, unswayed, unsweetened, unswept, unswerving, unswervingly, us-owned, used, used-book, used-car, used-up, vasodilation, vasodilator
 
-#####605                  (46 words):
-fissile, fizzle, fossil, fossil-fuel, fossilization, fossilize, fossilized, fuselage, fusillade, fussily, fuzzily, joyously, unoiled, unsalable, unsalted, unsalvageable, unseal, unsealed, unselected, unself-conscious, unselfconsciously, unselfish, unselfishly, unselfishness, unsold, unsolicited, unsolvable, unsolved, unsullied, us-led, useless, uselessly, uselessness, usual, usually, vassal, vessel, vise-like, visual, visual-spatial, visuality, visualization, visualize, visualized, visually, visuals
+#####605                  (45 words):
+fissile, fizzle, fossil, fossil-fuel, fossilization, fossilize, fossilized, fuselage, fusillade, fussily, fuzzily, unoiled, unsalable, unsalted, unsalvageable, unseal, unsealed, unselected, unself-conscious, unselfconsciously, unselfish, unselfishly, unselfishness, unsold, unsolicited, unsolvable, unsolved, unsullied, us-led, useless, uselessly, uselessness, usual, usually, vassal, vessel, vise-like, visual, visual-spatial, visuality, visualization, visualize, visualized, visually, visuals
 
 #####606                  (12 words):
 fuss-free, unofficial, unofficially, unsafe, unsaved, unsavory, use-of-force, use-value, useful, usefully, usefulness, usufruct
@@ -2163,170 +2162,170 @@ fuss-free, unofficial, unofficially, unsafe, unsaved, unsavory, use-of-force, us
 #####607                  (36 words):
 f-series, fissure, fissured, unordered, unorganized, unoriginal, unorthodox, unserious, unsightly, unsigned, unsorted, unsought, unsure, unsurpassable, unsurpassed, unsurprised, unsurprising, unsurprisingly, us-against-them, us-russian, usage, user, user-defined, user-friendliness, user-friendly, user-generated, usurer, usurious, usurp, usurpation, usurper, usury, visage, visor, visored, vizier
 
-#####608                  (47 words):
-fashion, fashionable, fashionably, fashioned, fashioning, fashionista, fish, fishable, fishbone, fishbowl, fisherman, fisherwoman, fishery, fishfinder, fishhook, fishing, fishless, fishlike, fishmeal, fishmonger, fishnet, fishpond, fishtail, fishwife, fishy, jazzman, jessamine, josh, unseemly, unshackled, unshaded, unshakable, unshakably, unshakeable, unshaken, unshaped, unshared, unshaved, unshaven, unsheathe, unsheathed, unshed, unshelled, unshielded, unsmiling, unsympathetic, usher
+#####608                  (44 words):
+fashion, fashionable, fashionably, fashioned, fashioning, fashionista, fish, fishable, fishbone, fishbowl, fisherman, fisherwoman, fishery, fishfinder, fishhook, fishing, fishless, fishlike, fishmeal, fishmonger, fishnet, fishpond, fishtail, fishwife, fishy, unseemly, unshackled, unshaded, unshakable, unshakably, unshakeable, unshaken, unshaped, unshared, unshaved, unshaven, unsheathe, unsheathed, unshed, unshelled, unshielded, unsmiling, unsympathetic, usher
 
 #####609                  (17 words):
 fission, fissionable, fizzing, fusing, fusion, fussiness, fuzziness, unsanctioned, unsanitary, unseeing, unseen, unsentimental, unsinkable, unsound, unsung, vision, visionary
 
-#####610                  (35 words):
-fat-soluble, fatso, fatuous, fatuously, fetish, fetishism, fetishist, fetishistic, fetishization, fetishize, fetishized, fetus, foetus, foot-stomping, footsie, footstep, footstool, futz, jet-set, jet-setting, jet-ski, jetsam, jettison, unashamed, unashamedly, unasked, unassailable, unassembled, unassertive, unassigned, unassisted, unassuming, untestable, untested, vexatious
+#####610                  (30 words):
+fat-soluble, fatso, fatuous, fatuously, fetish, fetishism, fetishist, fetishistic, fetishization, fetishize, fetishized, fetus, foetus, foot-stomping, footsie, footstep, footstool, futz, unashamed, unashamedly, unasked, unassailable, unassembled, unassertive, unassigned, unassisted, unassuming, untestable, untested, vexatious
 
 #####611                  (7 words):
 foot-tall, foot-thick, unauthorized, untethered, untitled, untutored, vitiate
 
-#####612                  (38 words):
-fat-burning, fatback, football, football-playing, footballer, footboard, footbridge, footpad, footpath, footplate, footprint, jet-black, jet-powered, juxtapose, juxtaposed, juxtaposition, unabashed, unabashedly, unabated, unable, unabridged, unapologetic, unapologetically, unappealing, unappetizing, unappreciated, unappreciative, unapproachable, unapproved, untapped, untypical, utopia, utopian, utopianism, utopic, veto-proof, vituperation, vituperative
+#####612                  (33 words):
+fat-burning, fatback, football, football-playing, footballer, footboard, footbridge, footpad, footpath, footplate, footprint, unabashed, unabashedly, unabated, unable, unabridged, unapologetic, unapologetically, unappealing, unappetizing, unappreciated, unappreciative, unapproachable, unapproved, untapped, untypical, utopia, utopian, utopianism, utopic, veto-proof, vituperation, vituperative
 
 #####613                  (27 words):
 fat-cat, fetch, fetching, fetchingly, fettuccine, unaccented, unacceptability, unacceptable, unacceptably, unaccompanied, unaccountable, unaccountably, unaccounted-for, unaccredited, unaccustomed, unachievable, unacknowledged, unacquainted, unattached, unteachable, untouchability, untouchable, untouched, untucked, vetch, viticulture, vote-counting
 
-#####614                  (28 words):
-fated, fatted, fatwa, fetid, fitted, fixated, foot-deep, foot-dragging, foot-wide, footed, footwear, footwork, jetway, unaddressed, unadjusted, unadorned, unadulterated, unadventurous, unaided, unaware, unawareness, unawares, untaxed, untidiness, untidy, untied, untoward, untwisted
+#####614                  (27 words):
+fated, fatted, fatwa, fetid, fitted, fixated, foot-deep, foot-dragging, foot-wide, footed, footwear, footwork, unaddressed, unadjusted, unadorned, unadulterated, unadventurous, unaided, unaware, unawareness, unawares, untaxed, untidiness, untidy, untied, untoward, untwisted
 
-#####615                  (45 words):
-fat-laden, fatal, fatalism, fatalist, fatalistic, fatality, fatally, fetal, fetlock, fit-looking, foot-long, footlight, footlocker, footloose, foxtail, futile, futilely, futility, jet-lagged, jetliner, unalienable, unaligned, unalike, unalloyed, unalterable, unalterably, unaltered, untalented, until, untilled, untold, utilitarian, utilitarianism, utility, utility-scale, utilization, utilize, utilized, vital, vitalism, vitality, vitalize, vitally, vitiligo, vittles
+#####615                  (43 words):
+fat-laden, fatal, fatalism, fatalist, fatalistic, fatality, fatally, fetal, fetlock, fit-looking, foot-long, footlight, footlocker, footloose, foxtail, futile, futilely, futility, unalienable, unaligned, unalike, unalloyed, unalterable, unalterably, unaltered, untalented, until, untilled, untold, utilitarian, utilitarianism, utility, utility-scale, utilization, utilize, utilized, vital, vitalism, vitality, vitalize, vitally, vitiligo, vittles
 
 #####616                  (17 words):
 fat-free, fateful, fatefully, feet-first, fitful, fitfully, fixative, footfall, unaffected, unaffiliated, unaffordable, unavailability, unavailable, unavailing, unavoidable, unavoidably, votive
 
-#####617                  (69 words):
-fatigability, fatigue, fatigued, fatiguing, feature, featured, featureless, fetter, fitter, fixator, fixture, footage, footer, footgear, footrace, footrest, future, futurism, futurist, futuristic, futurity, jitterbug, jitters, jittery, unarguable, unarguably, unarmed, unarmored, unarticulated, unattractive, unattractiveness, untarnished, untiring, untraceable, untracked, untraditional, untrained, untrammeled, untransformed, untranslatable, untranslated, untraveled, untreatable, untreated, untried, untrimmed, untroubled, untrue, untrustworthy, untruth, untruthful, untruthfully, unturned, uterine, uterus, utter, utterance, uttering, utterly, uttermost, veteran, veterinarian, veterinary, vitreous, vitrine, vitriol, vitriolic, votary, voter
+#####617                  (66 words):
+fatigability, fatigue, fatigued, fatiguing, feature, featured, featureless, fetter, fitter, fixator, fixture, footage, footer, footgear, footrace, footrest, future, futurism, futurist, futuristic, futurity, unarguable, unarguably, unarmed, unarmored, unarticulated, unattractive, unattractiveness, untarnished, untiring, untraceable, untracked, untraditional, untrained, untrammeled, untransformed, untranslatable, untranslated, untraveled, untreatable, untreated, untried, untrimmed, untroubled, untrue, untrustworthy, untruth, untruthful, untruthfully, unturned, uterine, uterus, utter, utterance, uttering, utterly, uttermost, veteran, veterinarian, veterinary, vitreous, vitrine, vitriol, vitriolic, votary, voter
 
 #####618                  (40 words):
 faith, faithful, faithfully, faithfulness, faithless, faithlessness, fathead, father, fatherhood, fathering, fatherland, fatherless, fatherly, fathom, fathomless, feather, featherbed, feathered, feathering, featherless, featherweight, feathery, foothill, foothold, footman, unambiguous, unambiguously, unambitious, unamused, untamed, untempered, unthinkable, unthinkably, unthinking, unthinkingly, unthreatened, untimed, untimely, utmost, vitamin
 
-#####619                  (39 words):
-fatness, fatten, fattened, fattening, fitness, fitness-related, fitting, fittingly, fixation, foot-and-mouth, footing, footnote, futon, jet-engine, jitney, jutting, unanimity, unanimous, unanimously, unannounced, unanswerable, unanswered, unanticipated, unattainable, unattended, untainted, untangle, untangled, untenable, untended, untenured, utensil, vetting, vexation, vietnam-era, vietnamese, vietnamese-american, voting, voting-age
+#####619                  (36 words):
+fatness, fatten, fattened, fattening, fitness, fitness-related, fitting, fittingly, fixation, foot-and-mouth, footing, footnote, futon, unanimity, unanimous, unanimously, unannounced, unanswerable, unanswered, unanticipated, unattainable, unattended, untainted, untangle, untangled, untenable, untended, untenured, utensil, vetting, vexation, vietnam-era, vietnamese, vietnamese-american, voting, voting-age
 
-#####620                  (24 words):
-fee-based, foppish, job-search, job-seeking, unbiased, unpasteurized, upscale, upset, upsetting, upshot, upside, upside-down, upsilon, upslope, upstage, upstairs, upstanding, upstart, upstate, upstream, upstroke, upsurge, upsweep, upswing
+#####620                  (22 words):
+fee-based, foppish, unbiased, unpasteurized, upscale, upset, upsetting, upshot, upside, upside-down, upsilon, upslope, upstage, upstairs, upstanding, upstart, upstate, upstream, upstroke, upsurge, upsweep, upswing
 
-#####621                  (21 words):
-job-training, jupiter-like, jupiter-sized, unbeatable, unbeaten, unbothered, unbutton, unbuttoned, unpatriotic, up-tempo, up-to-date, up-to-the-minute, uppity, uptake, upthrust, uptick, uptight, uptime, uptown, upturn, upturned
+#####621                  (18 words):
+unbeatable, unbeaten, unbothered, unbutton, unbuttoned, unpatriotic, up-tempo, up-to-date, up-to-the-minute, uppity, uptake, upthrust, uptick, uptight, uptime, uptown, upturn, upturned
 
-#####622                  (12 words):
-job-approval, job-placement, unbaptized, unpeopled, unpopular, unpopularity, unpopulated, unpublicized, unpublished, upbeat, upbraid, upbringing
+#####622                  (10 words):
+unbaptized, unpeopled, unpopular, unpopularity, unpopulated, unpublicized, unpublished, upbeat, upbraid, upbringing
 
-#####623                  (19 words):
-job-creating, job-creation, ubiquinone, ubiquitous, ubiquitously, ubiquity, unbaked, unbecoming, unbeknown, unbeknownst, unbuckle, unpack, unpacked, unpacking, up-close, up-close-and-personal, upcoming, upcountry, upkeep
+#####623                  (17 words):
+ubiquinone, ubiquitous, ubiquitously, ubiquity, unbaked, unbecoming, unbeknown, unbeknownst, unbuckle, unpack, unpacked, unpacking, up-close, up-close-and-personal, upcoming, upcountry, upkeep
 
 #####624                  (12 words):
 unbowed, unpaid, update, updated, updating, updraft, upward, upward-sloping, upwardly, upwards, upwelling, vapid
 
-#####625                  (53 words):
-fable, fabled, fabulist, fabulous, fabulously, feeble, feebleness, feebly, fibula, fibular, fixable, foible, jobless, joblessness, jubilant, jubilantly, jubilation, unbalance, unbalanced, unbelief, unbelievable, unbelievably, unbelieving, unbelted, unbleached, unblemished, unblinking, unblinkingly, unblocked, unbolt, unbolted, unpalatable, unplanned, unplanted, unplayable, unpleasant, unpleasantly, unpleasantness, unpleasantry, unplowed, unplug, unplugged, unpolished, unpolluted, upland, uplift, uplifted, uplifting, uplink, upload, uploaded, viability, viable
+#####625                  (48 words):
+fable, fabled, fabulist, fabulous, fabulously, feeble, feebleness, feebly, fibula, fibular, fixable, foible, unbalance, unbalanced, unbelief, unbelievable, unbelievably, unbelieving, unbelted, unbleached, unblemished, unblinking, unblinkingly, unblocked, unbolt, unbolted, unpalatable, unplanned, unplanted, unplayable, unpleasant, unpleasantly, unpleasantness, unpleasantry, unplowed, unplug, unplugged, unpolished, unpolluted, upland, uplift, uplifted, uplifting, uplink, upload, uploaded, viability, viable
 
 #####626                  (2 words):
 unpaved, up-front
 
-#####627                  (117 words):
-fabric, fabricate, fabricated, fabrication, fabricator, febrile, fiber, fiberboard, fiberglass, fibre, fibril, fibrillation, fibrin, fibrinogen, fibrinolytic, fibroblast, fibrocystic, fibroid, fibromyalgia, fibrosis, fibrotic, fibrous, jabber, jaybird, jeopardize, jeopardy, unbearable, unbearably, unborn, unbraided, unbranched, unbreakable, unbridgeable, unbridled, unbroken, unbrushed, unburden, unburied, unburned, unpaged, unpaired, unparalleled, unpardonable, unperceived, unpermitted, unpersuasive, unperturbed, unpracticed, unprecedented, unprecedentedly, unpredictability, unpredictable, unpredictably, unpredicted, unprejudiced, unpremeditated, unprepared, unpreparedness, unprepossessing, unpresidential, unpretentious, unprincipled, unprintable, unproblematic, unprocessed, unproduced, unproductive, unprofessional, unprofessionally, unprofitable, unpromising, unprompted, unpronounceable, unprotected, unprovable, unproved, unproven, unprovoked, unpruned, upgrade, upgraded, upgrading, upper, uppercase, upperclassman, uppercut, uppermost, upraised, upright, uprightness, uprising, upriver, uproar, uproarious, uproariously, uproot, uprooted, uprooting, vapor, vaporetto, vaporization, vaporize, vaporized, vaporizer, vaporous, vibrancy, vibrant, vibrantly, vibraphone, vibrate, vibrating, vibration, vibrational, vibrato, vibrator, vibratory, viburnum
+#####627                  (113 words):
+fabric, fabricate, fabricated, fabrication, fabricator, febrile, fiber, fiberboard, fiberglass, fibre, fibril, fibrillation, fibrin, fibrinogen, fibrinolytic, fibroblast, fibrocystic, fibroid, fibromyalgia, fibrosis, fibrotic, fibrous, unbearable, unbearably, unborn, unbraided, unbranched, unbreakable, unbridgeable, unbridled, unbroken, unbrushed, unburden, unburied, unburned, unpaged, unpaired, unparalleled, unpardonable, unperceived, unpermitted, unpersuasive, unperturbed, unpracticed, unprecedented, unprecedentedly, unpredictability, unpredictable, unpredictably, unpredicted, unprejudiced, unpremeditated, unprepared, unpreparedness, unprepossessing, unpresidential, unpretentious, unprincipled, unprintable, unproblematic, unprocessed, unproduced, unproductive, unprofessional, unprofessionally, unprofitable, unpromising, unprompted, unpronounceable, unprotected, unprovable, unproved, unproven, unprovoked, unpruned, upgrade, upgraded, upgrading, upper, uppercase, upperclassman, uppercut, uppermost, upraised, upright, uprightness, uprising, upriver, uproar, uproarious, uproariously, uproot, uprooted, uprooting, vapor, vaporetto, vaporization, vaporize, vaporized, vaporizer, vaporous, vibrancy, vibrant, vibrantly, vibraphone, vibrate, vibrating, vibration, vibrational, vibrato, vibrator, vibratory, viburnum
 
-#####628                  (10 words):
-job-hunting, up-market, upheaval, uphill, uphold, upholder, upholster, upholstered, upholsterer, upholstery
+#####628                  (9 words):
+up-market, upheaval, uphill, uphold, upholder, upholster, upholstered, upholsterer, upholstery
 
-#####629                  (22 words):
-fabian, japanese, japanese-american, japanese-made, japanese-owned, japanese-style, unbanning, unbend, unbending, unbind, unbound, unbounded, unbundling, unpainted, unpunished, up-and-comer, up-and-coming, up-and-down, up-and-up, upend, upended, upon
+#####629                  (17 words):
+fabian, unbanning, unbend, unbending, unbind, unbound, unbounded, unbundling, unpainted, unpunished, up-and-comer, up-and-coming, up-and-down, up-and-up, upend, upended, upon
 
-#####630                  (29 words):
-face-saving, facsimile, feces, ficus, focus, focus-group, focused, focuser, focusing, focussed, jackass, jackscrew, jacksonian, jacuzzi, jockstrap, jokester, uncaused, unceasing, unceasingly, unquestionable, unquestionably, unquestioned, unquestioning, unquestioningly, vacuous, vicious, viciously, viciousness, vicissitude
+#####630                  (23 words):
+face-saving, facsimile, feces, ficus, focus, focus-group, focused, focuser, focusing, focussed, uncaused, unceasing, unceasingly, unquestionable, unquestionably, unquestioned, unquestioning, unquestioningly, vacuous, vicious, viciously, viciousness, vicissitude
 
-#####631                  (59 words):
-facet, faceted, facetious, facetiously, fact, faction, factional, factionalism, factious, factitious, factoid, factor, factorial, factoring, factorization, factory, factotum, factual, factuality, factually, faucet, fiction, fictional, fictionalization, fictionalize, fictionalized, fictionally, fictitious, fictive, jacket, jacketed, uncatchable, uncoated, uncouth, unction, unctuous, uncut, unquiet, vacate, vacated, vacation, vacationer, vacationing, vacuity, vector, victim, victimization, victimize, victimized, victimizer, victimless, victorian, victorious, victoriously, victory, victuals, vocation, vocational, vocationally
+#####631                  (57 words):
+facet, faceted, facetious, facetiously, fact, faction, factional, factionalism, factious, factitious, factoid, factor, factorial, factoring, factorization, factory, factotum, factual, factuality, factually, faucet, fiction, fictional, fictionalization, fictionalize, fictionalized, fictionally, fictitious, fictive, uncatchable, uncoated, uncouth, unction, unctuous, uncut, unquiet, vacate, vacated, vacation, vacationer, vacationing, vacuity, vector, victim, victimization, victimize, victimized, victimizer, victimless, victorian, victorious, victoriously, victory, victuals, vocation, vocational, vocationally
 
-#####632                  (19 words):
-faceplate, jackboot, jackbooted, jackpot, jacobean, jacobite, jukebox, uncap, uncapped, uncooperative, uncouple, uncoupled, vice-presidency, vice-president, vice-presidential, vice-principal, vocab, vocabulary, voiceprint
+#####632                  (13 words):
+faceplate, uncap, uncapped, uncooperative, uncouple, uncoupled, vice-presidency, vice-president, vice-presidential, vice-principal, vocab, vocabulary, voiceprint
 
-#####633                  (8 words):
-focaccia, jacquard, uncooked, vice-chair, vice-chairman, vice-chancellor, vice-consul, voice-activated
+#####633                  (7 words):
+focaccia, uncooked, vice-chair, vice-chairman, vice-chancellor, vice-consul, voice-activated
 
-#####634                  (11 words):
-facade, face-down, faced, facedown, faked, fucked-up, jackdaw, jacked-up, juiced, juiced-up, voiced
+#####634                  (7 words):
+facade, face-down, faced, facedown, faked, fucked-up, voiced
 
-#####635                  (68 words):
-faceless, facial, facially, facile, facilitate, facilitated, facilitating, facilitation, facilitative, facilitator, facility, facultative, faculty, faecal, fecal, feckless, fecklessness, fickle, fickleness, focal, focalization, focalized, focalizer, foucauldian, foucaultian, jackal, jackalope, jocular, jocularity, jocularly, ukelele, ukulele, uncalculated, uncelebrated, unclaimed, unclasp, unclassifiable, unclassified, uncle, unclean, uncleanliness, unclear, uncleared, unclench, unclip, unclipped, unclog, unclogged, unclothed, unclouded, uncluttered, uncoil, uncoiled, uncollected, uncollectible, uncolored, uncultivated, uncultured, unqualified, vacillate, vacillating, vacillation, vocal, vocalist, vocalization, vocalize, vocally, voiceless
+#####635                  (63 words):
+faceless, facial, facially, facile, facilitate, facilitated, facilitating, facilitation, facilitative, facilitator, facility, facultative, faculty, faecal, fecal, feckless, fecklessness, fickle, fickleness, focal, focalization, focalized, focalizer, foucauldian, foucaultian, ukelele, ukulele, uncalculated, uncelebrated, unclaimed, unclasp, unclassifiable, unclassified, uncle, unclean, uncleanliness, unclear, uncleared, unclench, unclip, unclipped, unclog, unclogged, unclothed, unclouded, uncluttered, uncoil, uncoiled, uncollected, uncollectible, uncolored, uncultivated, uncultured, unqualified, vacillate, vacillating, vacillation, vocal, vocalist, vocalization, vocalize, vocally, voiceless
 
-#####636                  (13 words):
-face-first, face-framing, face-off, jack-of-all-trades, jackfruit, uncivil, uncivilized, uncover, uncovered, uncovering, uncuffed, vociferous, vociferously
+#####636                  (11 words):
+face-first, face-framing, face-off, uncivil, uncivilized, uncover, uncovered, uncovering, uncuffed, vociferous, vociferously
 
-#####637                  (47 words):
-face-recognition, faker, fakery, fakir, fucker, jacaranda, jackrabbit, joker, juicer, ukrainian, ukranian, uncaring, uncarpeted, unceremonious, unceremoniously, uncertain, uncertainly, uncertainty, uncertified, uncircumcised, uncoerced, uncoordinated, uncork, uncorked, uncorrected, uncorrelated, uncorroborated, uncorrupted, uncreated, uncreative, uncredited, uncritical, uncritically, uncrossed, uncrowded, uncrowned, uncured, uncurl, uncurtained, vaquero, vicar, vicarious, vicariously, viceregal, viceroy, viceroyalty, voice-recognition
+#####637                  (43 words):
+face-recognition, faker, fakery, fakir, fucker, ukrainian, ukranian, uncaring, uncarpeted, unceremonious, unceremoniously, uncertain, uncertainly, uncertainty, uncertified, uncircumcised, uncoerced, uncoordinated, uncork, uncorked, uncorrected, uncorrelated, uncorroborated, uncorrupted, uncreated, uncreative, uncredited, uncritical, uncritically, uncrossed, uncrowded, uncrowned, uncured, uncurl, uncurtained, vaquero, vicar, vicarious, vicariously, viceregal, viceroy, viceroyalty, voice-recognition
 
-#####638                  (48 words):
-fuchsia, fuckhead, jackhammer, jicama, unchained, unchallengeable, unchallenged, unchangeable, unchanged, unchanging, unchaperoned, uncharacteristic, uncharacteristically, uncharged, uncharitable, uncharitably, uncharted, unchartered, uncheck, unchecked, unchosen, uncombed, uncomfortable, uncomfortably, uncommitted, uncommon, uncommonly, uncommunicative, uncompensated, uncompetitive, uncomplainingly, uncompleted, uncomplicated, uncomplimentary, uncomprehending, uncomprehendingly, uncompressed, uncompromised, uncompromising, uncompromisingly, unkempt, vacuum, vacuuming, vichyssoise, voicemail, vouch, voucher, vouchsafe
+#####638                  (46 words):
+fuchsia, fuckhead, unchained, unchallengeable, unchallenged, unchangeable, unchanged, unchanging, unchaperoned, uncharacteristic, uncharacteristically, uncharged, uncharitable, uncharitably, uncharted, unchartered, uncheck, unchecked, unchosen, uncombed, uncomfortable, uncomfortably, uncommitted, uncommon, uncommonly, uncommunicative, uncompensated, uncompetitive, uncomplainingly, uncompleted, uncomplicated, uncomplimentary, uncomprehending, uncomprehendingly, uncompressed, uncompromised, uncompromising, uncompromisingly, unkempt, vacuum, vacuuming, vichyssoise, voicemail, vouch, voucher, vouchsafe
 
-#####639                  (78 words):
-facing, faking, fecund, fecundity, fucken, fucking, jackknife, jockeying, joking, jokingly, joycean, juiciness, uncannily, uncanny, uncensored, unconcealed, unconcern, unconcerned, unconditional, unconditionally, unconditioned, unconfined, unconfirmed, uncongenial, unconnected, unconquerable, unconquered, unconscionable, unconscionably, unconscious, unconsciously, unconsciousness, unconsidered, unconsolidated, unconstitutional, unconstitutionality, unconstitutionally, unconstrained, unconsummated, uncontainable, uncontained, uncontaminated, uncontested, uncontrollable, uncontrollably, uncontrolled, uncontroversial, unconventional, unconventionality, unconventionally, unconverted, unconvinced, unconvincing, unconvincingly, uncountable, uncounted, unkind, unkindly, unkindness, unknot, unknowability, unknowable, unknowing, unknowingly, unknown, unquantifiable, unquenchable, vacancy, vacant, vacantly, vaccinate, vaccinated, vaccination, vaccine, vaccinia, vicinity, vicuna, voicing
+#####639                  (72 words):
+facing, faking, fecund, fecundity, fucken, fucking, uncannily, uncanny, uncensored, unconcealed, unconcern, unconcerned, unconditional, unconditionally, unconditioned, unconfined, unconfirmed, uncongenial, unconnected, unconquerable, unconquered, unconscionable, unconscionably, unconscious, unconsciously, unconsciousness, unconsidered, unconsolidated, unconstitutional, unconstitutionality, unconstitutionally, unconstrained, unconsummated, uncontainable, uncontained, uncontaminated, uncontested, uncontrollable, uncontrollably, uncontrolled, uncontroversial, unconventional, unconventionality, unconventionally, unconverted, unconvinced, unconvincing, unconvincingly, uncountable, uncounted, unkind, unkindly, unkindness, unknot, unknowability, unknowable, unknowing, unknowingly, unknown, unquantifiable, unquenchable, vacancy, vacant, vacantly, vaccinate, vaccinated, vaccination, vaccine, vaccinia, vicinity, vicuna, voicing
 
-#####640                  (34 words):
-faddish, food-safety, food-stamp, food-storage, foodstuff, jewess, jewish, jewish-american, jewish-arab, jewish-christian, jewish-owned, undescended, undeserved, undeservedly, undeserving, undesignated, undesirability, undesirable, undesired, undisciplined, undisclosed, undiscovered, undiscriminating, undiscussed, undisguised, undisputed, undistinguished, undistorted, undistributed, undisturbed, unwashed, unwise, unwisely, viewscreen
+#####640                  (28 words):
+faddish, food-safety, food-stamp, food-storage, foodstuff, undescended, undeserved, undeservedly, undeserving, undesignated, undesirability, undesirable, undesired, undisciplined, undisclosed, undiscovered, undiscriminating, undiscussed, undisguised, undisputed, undistinguished, undistorted, undistributed, undisturbed, unwashed, unwise, unwisely, viewscreen
 
-#####641                  (15 words):
-fade-out, feedthrough, jadeite, undated, undetectable, undetected, undetermined, undeterred, unwatchable, unwatched, unwitting, unwittingly, videotape, videotaped, videotaping
+#####641                  (14 words):
+fade-out, feedthrough, undated, undetectable, undetected, undetermined, undeterred, unwatchable, unwatched, unwitting, unwittingly, videotape, videotaped, videotaping
 
-#####642                  (20 words):
-fda-approved, fed-up, feedback, fixed-price, food-processing, food-producing, foodborne, foodborne-illness, jawbone, jawbreaker, undependable, undiplomatic, undoubted, undoubtedly, unduplicated, video-based, videophone, viewable, viewpoint, viewport
+#####642                  (18 words):
+fda-approved, fed-up, feedback, fixed-price, food-processing, food-producing, foodborne, foodborne-illness, undependable, undiplomatic, undoubted, undoubtedly, unduplicated, video-based, videophone, viewable, viewpoint, viewport
 
-#####643                  (23 words):
-fiduciary, judaeo-christian, judaic, judeo-christian, judicial, judicially, judiciary, judicious, judiciously, undecidable, undecided, undecipherable, undeclared, undecorated, undocumented, vedic, viaduct, videocam, videocamera, videocassette, videoconference, videoconferencing, vodka
+#####643                  (15 words):
+fiduciary, undecidable, undecided, undecipherable, undeclared, undecorated, undocumented, vedic, viaduct, videocam, videocamera, videocassette, videoconference, videoconferencing, vodka
 
-#####644                  (12 words):
-fadeaway, faded, fixed-wing, fuddy-duddy, jaded, jaw-dropping, undead, undyed, unwed, video-editing, videodisc, voided
+#####644                  (10 words):
+fadeaway, faded, fixed-wing, fuddy-duddy, undead, undyed, unwed, video-editing, videodisc, voided
 
-#####645                  (40 words):
-feedlot, feudal, feudalism, fiddle, fiddlehead, fiddler, fiddling, fixedly, fowl, fowling, jawline, jaywalk, jaywalker, jewel, jewel-encrusted, jewel-like, jewel-toned, jeweled, jeweler, jewelled, jeweller, jewellery, jewelry, jewelweed, jowl, jowly, undelivered, undiluted, undulant, undulate, undulating, undulation, unduly, unwelcome, unwell, unwieldy, unwilling, unwillingly, unwillingness, vowel
+#####645                  (24 words):
+feedlot, feudal, feudalism, fiddle, fiddlehead, fiddler, fiddling, fixedly, fowl, fowling, undelivered, undiluted, undulant, undulate, undulating, undulation, unduly, unwelcome, unwell, unwieldy, unwilling, unwillingly, unwillingness, vowel
 
 #####646                  (12 words):
 undefeated, undefended, undefiled, undefinable, undefined, undeveloped, undifferentiated, undivided, unwavering, unwaveringly, vaudevillian, viewfinder
 
-#####647                  (193 words):
-federal, federalism, federalist, federalization, federalize, federally, federate, federated, federative, fedora, feeder, fewer, fidget, fidgeting, fidgety, fodder, fudge, fudging, judge, judged, judgement, judgeship, judging, judgment, judgmental, judgmentalism, udder, under, underachieve, underachievement, underachieving, underactive, underage, underaged, underappreciated, underarm, underbelly, underbid, underbody, underboss, underbrush, undercard, undercarriage, underclass, underclassman, underclothes, underclothing, undercoat, undercooked, undercount, undercover, undercurrent, undercut, underdeveloped, underdevelopment, underdog, underdrawing, underdressed, undereducated, underemployed, underestimate, underestimated, underestimation, underexposed, underfed, underfoot, underfunded, underfunding, undergarment, underglaze, undergo, undergrad, undergraduate, underground, undergrowth, underhand, underhanded, underlay, underlayer, underlayment, underlie, underline, underlined, underling, underlining, underly, underlying, undermanned, undermine, undermined, undermining, underneath, undernourished, underpaid, underpainting, underpants, underpass, underpay, underpayment, underperformance, underperforming, underpin, underpinning, underplay, underpopulated, underpowered, underprice, underprivileged, underrate, underrated, underreport, underreporting, underrepresentation, underrepresented, underscore, undersea, undersecretary, undersell, underserved, undershirt, underside, undersigned, undersize, undersized, underskirt, understaffed, understand, understandable, understandably, understanding, understandingly, understate, understated, understatement, understeer, understood, understory, understudied, understudy, undersurface, undertake, undertaker, undertaking, underthings, undertone, undertow, underuse, underused, underutilization, underutilized, undervaluation, undervalue, undervalued, underwater, underway, underwear, underweight, underwhelming, underwing, underwire, underworld, underwrite, underwriter, underwriting, undiagnosed, undigested, undignified, undirected, undrafted, undrained, undramatic, undreamed, undress, undressed, undrinkable, unwarranted, unwary, unweighted, unwired, unworkable, unworked, unworldly, unworn, unworried, unworthiness, unworthy, unwrap, unwrapped, unwrinkled, unwritten, videographer, videography, viewer
+#####647                  (185 words):
+federal, federalism, federalist, federalization, federalize, federally, federate, federated, federative, fedora, feeder, fewer, fidget, fidgeting, fidgety, fodder, fudge, fudging, udder, under, underachieve, underachievement, underachieving, underactive, underage, underaged, underappreciated, underarm, underbelly, underbid, underbody, underboss, underbrush, undercard, undercarriage, underclass, underclassman, underclothes, underclothing, undercoat, undercooked, undercount, undercover, undercurrent, undercut, underdeveloped, underdevelopment, underdog, underdrawing, underdressed, undereducated, underemployed, underestimate, underestimated, underestimation, underexposed, underfed, underfoot, underfunded, underfunding, undergarment, underglaze, undergo, undergrad, undergraduate, underground, undergrowth, underhand, underhanded, underlay, underlayer, underlayment, underlie, underline, underlined, underling, underlining, underly, underlying, undermanned, undermine, undermined, undermining, underneath, undernourished, underpaid, underpainting, underpants, underpass, underpay, underpayment, underperformance, underperforming, underpin, underpinning, underplay, underpopulated, underpowered, underprice, underprivileged, underrate, underrated, underreport, underreporting, underrepresentation, underrepresented, underscore, undersea, undersecretary, undersell, underserved, undershirt, underside, undersigned, undersize, undersized, underskirt, understaffed, understand, understandable, understandably, understanding, understandingly, understate, understated, understatement, understeer, understood, understory, understudied, understudy, undersurface, undertake, undertaker, undertaking, underthings, undertone, undertow, underuse, underused, underutilization, underutilized, undervaluation, undervalue, undervalued, underwater, underway, underwear, underweight, underwhelming, underwing, underwire, underworld, underwrite, underwriter, underwriting, undiagnosed, undigested, undignified, undirected, undrafted, undrained, undramatic, undreamed, undress, undressed, undrinkable, unwarranted, unwary, unweighted, unwired, unworkable, unworked, unworldly, unworn, unworried, unworthiness, unworthy, unwrap, unwrapped, unwrinkled, unwritten, videographer, videography, viewer
 
-#####648                  (10 words):
-food-handling, jodhpur, undamaged, undammed, undemanding, undemocratic, undiminished, undimmed, undomesticated, unwholesome
+#####648                  (9 words):
+food-handling, undamaged, undammed, undemanding, undemocratic, undiminished, undimmed, undomesticated, unwholesome
 
-#####649                  (23 words):
-fading, fawn, fawn-colored, fawning, fedayeen, feeding, feuding, fixed-income, judean, udon, undaunted, undeniable, undeniably, undoing, undone, undying, unwanted, unwind, unwinding, unwinnable, unwonted, video-on-demand, viewing
+#####649                  (22 words):
+fading, fawn, fawn-colored, fawning, fedayeen, feeding, feuding, fixed-income, udon, undaunted, undeniable, undeniably, undoing, undone, undying, unwanted, unwind, unwinding, unwinnable, unwonted, video-on-demand, viewing
 
-#####650                  (56 words):
-false, falsehood, falsely, falseness, falsetto, falsifiable, falsification, falsified, falsify, falsity, flash, flashback, flashbulb, flashcard, flasher, flashiness, flashing, flashlight, flashpoint, flashy, flask, flaxseed, flesh, fleshiness, fleshless, fleshly, fleshpot, fleshy, floozy, floss, flush, flushed, flushing, fluster, flustered, flyswatter, foolish, foolishly, foolishness, foolscap, fulsome, jealous, jealously, jealousy, joyless, unease, uneasily, uneasiness, uneasy, unleash, unleashed, unleashing, unless, unlisted, valise, violist
+#####650                  (52 words):
+false, falsehood, falsely, falseness, falsetto, falsifiable, falsification, falsified, falsify, falsity, flash, flashback, flashbulb, flashcard, flasher, flashiness, flashing, flashlight, flashpoint, flashy, flask, flaxseed, flesh, fleshiness, fleshless, fleshly, fleshpot, fleshy, floozy, floss, flush, flushed, flushing, fluster, flustered, flyswatter, foolish, foolishly, foolishness, foolscap, fulsome, unease, uneasily, uneasiness, uneasy, unleash, unleashed, unleashing, unless, unlisted, valise, violist
 
-#####651                  (121 words):
-fallout, falter, faltering, fault, faultless, faultlessly, faulty, fealty, fellate, fellatio, felt, felted, filet, filiation, fillet, filter, filtered, filtering, filth, filthy, filtration, flat, flatbed, flatboat, flatbread, flatfish, flathead, flatiron, flatland, flatlander, flatly, flatness, flatscreen, flatten, flattened, flattening, flatter, flattered, flatterer, flattering, flattery, flattish, flatulence, flatulent, flatware, flatworm, flautist, fleet, fleeting, fleetingly, flextime, flit, flitter, float, floater, floating, floatplane, floaty, flotation, flotilla, flotsam, flout, flouting, fluoxetine, flute, fluted, fluting, flutist, flutter, fluttering, fluttery, flytrap, folate, jilt, jilted, jollity, jolt, jolting, ulterior, ultimacy, ultimate, ultimately, ultimatum, ultra, ultraconservative, ultralight, ultramarine, ultramodern, ultraorthodox, ultraportable, ultrasonic, ultrasonography, ultrasound, ultraviolet, uneaten, unethical, unethically, unlatch, unlettered, unlit, valet, valuation, vault, vaulted, vaulter, vaulting, violate, violated, violation, violative, violator, violet, volatile, volatility, volition, volitional, voltage, voltaic, voltmeter, volute, vulture
+#####651                  (116 words):
+fallout, falter, faltering, fault, faultless, faultlessly, faulty, fealty, fellate, fellatio, felt, felted, filet, filiation, fillet, filter, filtered, filtering, filth, filthy, filtration, flat, flatbed, flatboat, flatbread, flatfish, flathead, flatiron, flatland, flatlander, flatly, flatness, flatscreen, flatten, flattened, flattening, flatter, flattered, flatterer, flattering, flattery, flattish, flatulence, flatulent, flatware, flatworm, flautist, fleet, fleeting, fleetingly, flextime, flit, flitter, float, floater, floating, floatplane, floaty, flotation, flotilla, flotsam, flout, flouting, fluoxetine, flute, fluted, fluting, flutist, flutter, fluttering, fluttery, flytrap, folate, ulterior, ultimacy, ultimate, ultimately, ultimatum, ultra, ultraconservative, ultralight, ultramarine, ultramodern, ultraorthodox, ultraportable, ultrasonic, ultrasonography, ultrasound, ultraviolet, uneaten, unethical, unethically, unlatch, unlettered, unlit, valet, valuation, vault, vaulted, vaulter, vaulting, violate, violated, violation, violative, violator, violet, volatile, volatility, volition, volitional, voltage, voltaic, voltmeter, volute, vulture
 
-#####652                  (66 words):
-fallback, fallibility, fallible, fallopian, filbert, filibuster, filipino, fillip, flab, flabbergast, flabbergasted, flabby, flap, flapjack, flapper, flapping, fleabag, flexibility, flexible, flexibly, flip, flippancy, flippant, flippantly, flipper, flipping, flippy, flipside, flop, flophouse, floppy, flub, flyball, flyboy, flybridge, flyby, flypaper, foolproof, fullback, jailbird, jailbreak, jalapeno, jalopy, julep, unexpected, unexpectedly, unexpectedness, unexpired, unexplainable, unexplained, unexploded, unexploited, unexplored, unexposed, unexpressed, unexpurgated, unlabeled, valuable, valuables, volleyball, voluble, volubly, voluptuous, voluptuously, voluptuousness, vulpine
+#####652                  (61 words):
+fallback, fallibility, fallible, fallopian, filbert, filibuster, filipino, fillip, flab, flabbergast, flabbergasted, flabby, flap, flapjack, flapper, flapping, fleabag, flexibility, flexible, flexibly, flip, flippancy, flippant, flippantly, flipper, flipping, flippy, flipside, flop, flophouse, floppy, flub, flyball, flyboy, flybridge, flyby, flypaper, foolproof, fullback, unexpected, unexpectedly, unexpectedness, unexpired, unexplainable, unexplained, unexploded, unexploited, unexplored, unexposed, unexpressed, unexpurgated, unlabeled, valuable, valuables, volleyball, voluble, volubly, voluptuous, voluptuously, voluptuousness, vulpine
 
 #####653                  (85 words):
 falconer, falconry, fallacious, fallacy, felicitous, felicitously, filch, flaccid, flack, flak, flake, flakiness, flaking, flaky, fleck, fleece, fleecing, flick, flicker, flickering, flock, flocked, fluconazole, fluctuate, fluctuating, fluctuation, fluke, fluky, flycatcher, folic, folk, folkie, folklore, folkloric, folklorist, folkloristic, folksinger, folksong, folksy, folktale, folkways, folky, follicle, follicular, folliculitis, fulcrum, ulcer, ulcerated, ulceration, ulcerative, uneconomic, uneconomical, unelectable, unelected, unequal, unequaled, unequalled, unequally, unequipped, unequivocal, unequivocally, unexcavated, unexceptionable, unexceptional, unexciting, unexcused, unlace, unlaced, unlicensed, unlikable, unlike, unlikelihood, unlikely, unlikeness, unlock, unlocked, unluckily, unlucky, velociraptor, velocity, volcanic, volcanically, volcanism, volcano, volcanologist
 
-#####654                  (90 words):
-failed, fallow, feldspar, felled, fellow, fellowship, field, fielder, fieldhouse, fieldstone, fieldwork, filled, flaw, flawed, flawless, flawlessly, flayed, fledge, fledged, fledging, fledgling, flood, flooded, floodgate, flooding, floodlight, floodlit, floodplain, floodwall, floodwater, floodwaters, flow, flowchart, flower, flowerbed, flowered, flowering, flowerpot, flowery, flowing, flowmeter, flowy, fluid, fluidity, fluidized, fluidly, flyaway, flyway, flyweight, flywheel, foiled, fold, foldable, folded, folder, folderol, folding, follow, follower, following, fouled, fueled, fuelwood, jailed, jellied, unedited, uneducated, unladylike, unlawful, unlawfully, unleaded, unload, unloaded, unloading, unyielding, valediction, valedictorian, valedictory, valid, validate, validated, validating, validation, validity, validly, valued, veiled, veld, veldt, velodrome
+#####654                  (88 words):
+failed, fallow, feldspar, felled, fellow, fellowship, field, fielder, fieldhouse, fieldstone, fieldwork, filled, flaw, flawed, flawless, flawlessly, flayed, fledge, fledged, fledging, fledgling, flood, flooded, floodgate, flooding, floodlight, floodlit, floodplain, floodwall, floodwater, floodwaters, flow, flowchart, flower, flowerbed, flowered, flowering, flowerpot, flowery, flowing, flowmeter, flowy, fluid, fluidity, fluidized, fluidly, flyaway, flyway, flyweight, flywheel, foiled, fold, foldable, folded, folder, folderol, folding, follow, follower, following, fouled, fueled, fuelwood, unedited, uneducated, unladylike, unlawful, unlawfully, unleaded, unload, unloaded, unloading, unyielding, valediction, valedictorian, valedictory, valid, validate, validated, validating, validation, validity, validly, valued, veiled, veld, veldt, velodrome
 
-#####655                  (13 words):
-fall-line, filial, flail, flailing, flu-like, flyleaf, foil-lined, full-length, jelly-like, ululate, ululation, value-laden, valueless
+#####655                  (12 words):
+fall-line, filial, flail, flailing, flu-like, flyleaf, foil-lined, full-length, ululate, ululation, value-laden, valueless
 
-#####656                  (38 words):
-falafel, flavonoid, flavor, flavored, flavorful, flavoring, flavorless, fluff, fluffy, fluvial, flyover, fulfil, fulfill, fulfilled, fulfilling, fulfillment, fulfilment, jellyfish, uneven, unevenly, unevenness, uneventful, uneventfully, unleavened, unlevel, unlivable, unlovable, unloved, unlovely, valve, valvular, velvet, velveteen, velvety, vilification, vilified, vilify, vulva
+#####656                  (37 words):
+falafel, flavonoid, flavor, flavored, flavorful, flavoring, flavorless, fluff, fluffy, fluvial, flyover, fulfil, fulfill, fulfilled, fulfilling, fulfillment, fulfilment, uneven, unevenly, unevenness, uneventful, uneventfully, unleavened, unlevel, unlivable, unlovable, unloved, unlovely, valve, valvular, velvet, velveteen, velvety, vilification, vilified, vilify, vulva
 
-#####657                  (96 words):
-failure, faller, feeler, filariasis, filer, filigree, filler, flag, flagellate, flagellation, flagged, flagging, flagon, flagpole, flagrant, flagrantly, flagship, flagstick, flagstone, flair, flare, flared, flaring, flexor, flexural, flexure, flier, flight, flightless, flighty, flirt, flirtation, flirtatious, flirtatiously, flirting, flirty, flog, flogging, floor, floorboard, floored, flooring, floorplan, floral, florentine, florescence, florescent, floret, florid, florist, floristic, flour, floured, flourish, flourishing, flourless, floury, fluoresce, fluorescein, fluorescence, fluorescent, fluoridated, fluoridation, fluoride, fluorine, fluorite, fluorocarbon, fluoroscopy, fluorosis, flurry, flyer, foliage, fullerene, jailer, jellyroll, unearned, unearth, unearthed, unearthing, unearthly, unerring, unerringly, unlearn, unlearned, unlighted, valor, valorization, valorous, velour, village, villager, volar, vulgar, vulgarity, vulgarization, vulgarly
+#####657                  (94 words):
+failure, faller, feeler, filariasis, filer, filigree, filler, flag, flagellate, flagellation, flagged, flagging, flagon, flagpole, flagrant, flagrantly, flagship, flagstick, flagstone, flair, flare, flared, flaring, flexor, flexural, flexure, flier, flight, flightless, flighty, flirt, flirtation, flirtatious, flirtatiously, flirting, flirty, flog, flogging, floor, floorboard, floored, flooring, floorplan, floral, florentine, florescence, florescent, floret, florid, florist, floristic, flour, floured, flourish, flourishing, flourless, floury, fluoresce, fluorescein, fluorescence, fluorescent, fluoridated, fluoridation, fluoride, fluorine, fluorite, fluorocarbon, fluoroscopy, fluorosis, flurry, flyer, foliage, fullerene, unearned, unearth, unearthed, unearthing, unearthly, unerring, unerringly, unlearn, unlearned, unlighted, valor, valorization, valorous, velour, village, villager, volar, vulgar, vulgarity, vulgarization, vulgarly
 
-#####658                  (51 words):
-fellah, filament, filamentary, filamentous, film, filmed, filmic, filming, filmmaker, filmmaking, filmography, filmstrip, filmy, flamboyance, flamboyant, flamboyantly, flame, flamenco, flameout, flameproof, flaming, flamingo, flammability, flammable, flemish, flimflam, flimsy, flume, flummox, flummoxed, foolhardiness, foolhardy, fulminant, fulminate, fulmination, jailhouse, ulama, unembarrassed, unembellished, unemotional, unemployable, unemployed, unemployment, unexamined, unlamented, unlimited, vellum, volume, volumetric, voluminous, volumizing
+#####658                  (50 words):
+fellah, filament, filamentary, filamentous, film, filmed, filmic, filming, filmmaker, filmmaking, filmography, filmstrip, filmy, flamboyance, flamboyant, flamboyantly, flame, flamenco, flameout, flameproof, flaming, flamingo, flammability, flammable, flemish, flimflam, flimsy, flume, flummox, flummoxed, foolhardiness, foolhardy, fulminant, fulminate, fulmination, ulama, unembarrassed, unembellished, unemotional, unemployable, unemployed, unemployment, unexamined, unlamented, unlimited, vellum, volume, volumetric, voluminous, volumizing
 
-#####659                  (89 words):
-failing, fallen, falling, feeling, feelingly, feline, felling, felon, felonious, felony, filename, filing, filling, flan, flange, flanged, flank, flanker, flanking, flannel, flaunt, flaunting, flaxen, fleeing, flexing, flexion, flinch, flinders, fling, flintlock, flinty, flounce, flounder, floundering, fluence, fluency, fluent, fluently, flunk, flunkie, flying, fouling, foulness, fueling, fullness, fulness, jailing, jillion, julienne, ulna, ulnar, unencumbered, unending, unendurable, unenforceable, unenforced, unengaged, unenhanced, unenlightened, unenthusiastic, unenthusiastically, unenviable, unlined, valance, valence, valencian, valiant, valiantly, valuing, veiling, vileness, villain, villainess, villainous, villainy, violence, violent, violently, violin, violinist, voluntarily, voluntariness, voluntarism, voluntaristic, voluntary, volunteer, volunteerism, vulnerability, vulnerable
+#####659                  (86 words):
+failing, fallen, falling, feeling, feelingly, feline, felling, felon, felonious, felony, filename, filing, filling, flan, flange, flanged, flank, flanker, flanking, flannel, flaunt, flaunting, flaxen, fleeing, flexing, flexion, flinch, flinders, fling, flintlock, flinty, flounce, flounder, floundering, fluence, fluency, fluent, fluently, flunk, flunkie, flying, fouling, foulness, fueling, fullness, fulness, ulna, ulnar, unencumbered, unending, unendurable, unenforceable, unenforced, unengaged, unenhanced, unenlightened, unenthusiastic, unenthusiastically, unenviable, unlined, valance, valence, valencian, valiant, valiantly, valuing, veiling, vileness, villain, villainess, villainous, villainy, violence, violent, violently, violin, violinist, voluntarily, voluntariness, voluntarism, voluntaristic, voluntary, volunteer, volunteerism, vulnerability, vulnerable
 
-#####660                  (30 words):
-fauvism, five-second, five-seven, five-shot, five-sided, five-six, five-speed, five-spice, five-stage, five-star, five-state, five-step, five-story, five-string, unfashionable, unfashionably, unfasten, unfeasible, unfussy, unjust, unjustifiable, unjustifiably, unjustified, unjustly, unusable, unused, unusual, unusually, unusualness, vivisection
+#####660                  (25 words):
+fauvism, five-second, five-seven, five-shot, five-sided, five-six, five-speed, five-spice, five-stage, five-star, five-state, five-step, five-story, five-string, unfashionable, unfashionably, unfasten, unfeasible, unfussy, unusable, unused, unusual, unusually, unusualness, vivisection
 
-#####661                  (19 words):
-fifteen, fifteenth, fifth, fifths, fiftieth, fifty, fiftyish, jujitsu, unfaithful, unfaithfulness, unfathomable, unfathomably, unfetter, unfettered, unfit, unfitness, unfitted, unutterable, unutterably
+#####661                  (18 words):
+fifteen, fifteenth, fifth, fifths, fiftieth, fifty, fiftyish, unfaithful, unfaithfulness, unfathomable, unfathomably, unfetter, unfettered, unfit, unfitness, unfitted, unutterable, unutterably
 
-#####662                  (16 words):
-five-bedroom, five-block, five-page, five-paragraph, five-part, five-passenger, five-person, five-piece, five-plus, five-point, five-pointed, five-pound, jojoba, unfixable, unviable, viviparous
+#####662                  (15 words):
+five-bedroom, five-block, five-page, five-paragraph, five-part, five-passenger, five-person, five-piece, five-plus, five-point, five-pointed, five-pound, unfixable, unviable, viviparous
 
 #####663                  (10 words):
 five-acre, five-county, five-course, five-cylinder, unfocused, unfocussed, unvaccinated, unvoiced, vivacious, vivacity
@@ -2334,23 +2333,23 @@ five-acre, five-county, five-course, five-cylinder, unfocused, unfocussed, unvac
 #####664                  (12 words):
 fiefdom, five-day, five-digit, five-disc, five-dollar, five-way, five-week, unfed, unfixed, vivid, vividly, vividness
 
-#####665                  (32 words):
-favela, five-alarm, five-letter, five-level, javelin, javelina, jovial, joviality, jovially, joyful, joyfully, joyfulness, unfailing, unfailingly, unfeeling, unfelt, unfilled, unfiltered, unflagging, unflappable, unflattering, unflavored, unflinching, unflinchingly, unfold, unfolded, unfolding, unfulfilled, unveil, unveiled, unveiling, uvula
+#####665                  (24 words):
+favela, five-alarm, five-letter, five-level, unfailing, unfailingly, unfeeling, unfelt, unfilled, unfiltered, unflagging, unflappable, unflattering, unflavored, unflinching, unflinchingly, unfold, unfolded, unfolding, unfulfilled, unveil, unveiled, unveiling, uvula
 
 #####666                  (15 words):
 five-factor, five-figure, five-fold, five-foot, five-foot-high, five-foot-long, five-foot-tall, five-footer, five-four, five-volume, fivefold, unfavorable, unfavorably, unfavourable, vivify
 
-#####667                  (53 words):
-favor, favorable, favorably, favored, favoring, favorite, favoritism, favour, favourable, favourably, favoured, favourite, fever, fevered, feverfew, feverish, feverishly, fiver, fjord, jeffersonian, unfair, unfairly, unfairness, unfeigned, unfertilized, unfired, unforced, unforeseeable, unforeseen, unforgettable, unforgettably, unforgivable, unforgivably, unforgiving, unformed, unfortunate, unfortunately, unfortunates, unframed, unfree, unfreedom, unfreeze, unfriendly, unfrozen, unfruitful, unfurl, unfurled, unfurling, unfurnished, unvarnished, unvarying, unverifiable, unverified
+#####667                  (51 words):
+favor, favorable, favorably, favored, favoring, favorite, favoritism, favour, favourable, favourably, favoured, favourite, fever, fevered, feverfew, feverish, feverishly, fiver, unfair, unfairly, unfairness, unfeigned, unfertilized, unfired, unforced, unforeseeable, unforeseen, unforgettable, unforgettably, unforgivable, unforgivably, unforgiving, unformed, unfortunate, unfortunately, unfortunates, unframed, unfree, unfreedom, unfreeze, unfriendly, unfrozen, unfruitful, unfurl, unfurled, unfurling, unfurnished, unvarnished, unvarying, unverifiable, unverified
 
-#####668                  (13 words):
-five-hit, five-hour, five-hundred, five-man, five-member, five-mile, five-minute, five-month, five-month-old, ujamaa, unfamiliar, unfamiliarity, unfeminine
+#####668                  (12 words):
+five-hit, five-hour, five-hundred, five-man, five-member, five-mile, five-minute, five-month, five-month-old, unfamiliar, unfamiliarity, unfeminine
 
-#####669                  (21 words):
-fijian, five-and-a-half, five-and-dime, five-inch, five-inning, five-nation, five-night, five-nine, five-note, javan, javanese, jovian, juvenile, juvenile-justice, unfenced, unfinished, unfounded, unfunded, unfunny, unvented, unventilated
+#####669                  (15 words):
+five-and-a-half, five-and-dime, five-inch, five-inning, five-nation, five-night, five-nine, five-note, unfenced, unfinished, unfounded, unfunded, unfunny, unvented, unventilated
 
-#####670                  (114 words):
-farsi, farside, farsighted, farsightedness, fearsome, ferrous, fireside, firestorm, first, firstborn, firsthand, firstly, foresee, foreseeability, foreseeable, foreseeably, foreshadow, foreshadowing, foreshore, foreshorten, foreshortened, foresight, foreskin, forest, forestall, forested, forester, forestland, forestry, forsake, forsaken, forswear, forsythia, foursome, foursquare, frazzle, frazzled, freesia, freeskiing, freestanding, freestyle, freeze, freezer, freezing, fresco, frescoed, fresh, freshen, freshener, freshet, freshly, freshman, freshness, freshwater, frieze, frisbee, frisk, frisket, frisky, frisson, frizz, frizzy, frosh, frost, frostbite, frostbitten, frosted, frostily, frosting, frosty, frozen, frustrate, frustrated, frustrating, frustratingly, frustration, furious, furiously, jigsaw, jurisdiction, jurisdictional, jurisprudence, jurisprudential, jurist, unreason, unreasonable, unreasonableness, unreasonably, unreasoning, unreserved, unreservedly, unresolvable, unresolved, unresponsive, unresponsiveness, unrest, unrestrained, unrestricted, vagus, various, variously, varsity, verisimilitude, versatile, versatility, verse, versicolor, versification, version, verso, versus, virus, voyeurism, voyeuristic
+#####670                  (113 words):
+farsi, farside, farsighted, farsightedness, fearsome, ferrous, fireside, firestorm, first, firstborn, firsthand, firstly, foresee, foreseeability, foreseeable, foreseeably, foreshadow, foreshadowing, foreshore, foreshorten, foreshortened, foresight, foreskin, forest, forestall, forested, forester, forestland, forestry, forsake, forsaken, forswear, forsythia, foursome, foursquare, frazzle, frazzled, freesia, freeskiing, freestanding, freestyle, freeze, freezer, freezing, fresco, frescoed, fresh, freshen, freshener, freshet, freshly, freshman, freshness, freshwater, frieze, frisbee, frisk, frisket, frisky, frisson, frizz, frizzy, frosh, frost, frostbite, frostbitten, frosted, frostily, frosting, frosty, frozen, frustrate, frustrated, frustrating, frustratingly, frustration, furious, furiously, unjust, unjustifiable, unjustifiably, unjustified, unjustly, unreason, unreasonable, unreasonableness, unreasonably, unreasoning, unreserved, unreservedly, unresolvable, unresolved, unresponsive, unresponsiveness, unrest, unrestrained, unrestricted, vagus, various, variously, varsity, verisimilitude, versatile, versatility, verse, versicolor, versification, version, verso, versus, virus, voyeurism, voyeuristic
 
 #####671                  (123 words):
 faggot, fart, farthing, farting, ferret, ferritin, fertile, fertility, fertilization, fertilize, fertilized, fertilizer, fertilizing, firetrap, firetruck, foretaste, foretell, forethought, forte, forth, forthcoming, forthright, forthrightly, forthrightness, forthwith, fortieth, fortification, fortified, fortify, fortissimo, fortitude, fortnight, fortnightly, fortress, fortuitous, fortuitously, fortunate, fortunately, fortune, forty, fortyish, fourteen, fourteenth, fourth, fourthly, fourths, frat, fraternal, fraternity, fraternization, fraternize, fratricidal, fratricide, fret, fretful, fretfully, fretwork, frittata, fritter, froth, frothing, frothy, fruit, fruitcake, fruited, fruitful, fruitfully, fruitfulness, fruitiness, fruition, fruitless, fruitlessly, fruity, fugitive, further, furtherance, furthermore, furtive, furtively, unrated, unreturned, ureter, urethane, urethra, urticaria, variate, variation, varietal, variety, vegetable, vegetal, vegetarian, vegetarianism, vegetate, vegetated, vegetation, vegetative, veritable, veritably, verity, vert, vertebra, vertebral, vertebrate, vertex, vertical, verticality, vertically, vertiginous, vertigo, vertu, virtu, virtual, virtuality, virtually, virtue, virtuosic, virtuosity, virtuoso, virtuous, virtuously, vortex, vygotskian
@@ -2358,41 +2357,41 @@ faggot, fart, farthing, farting, ferret, ferritin, fertile, fertility, fertiliza
 #####672                  (65 words):
 ferryboat, fireback, fireball, firebase, fireboat, firebomb, firebombing, firebox, firebrand, firebreak, firepit, fireplace, fireplug, firepower, fireproof, forbear, forbearance, forbid, forbidden, forbidding, forbiddingly, forebear, foreboding, forebrain, forepaw, foreperson, foreplay, freebie, freeboard, freebooter, friable, frippery, furball, unrepaired, unrepeatable, unrepentant, unreported, unrepresentative, unrepresented, unripe, urban, urban/suburban, urbane, urbanism, urbanist, urbanite, urbanity, urbanization, urbanize, urbanized, vagabond, variability, variable, variably, verb, verbal, verbalization, verbalize, verbalized, verbally, verbatim, verbena, verbiage, verbose, verbosity
 
-#####673                  (82 words):
-farce, farcical, ferocious, ferociously, ferocity, ferric, fierce, fiercely, fierceness, firecracker, force, forced, forcefield, forceful, forcefully, forcefulness, forceps, forcible, forcibly, forcing, forecast, forecasted, forecaster, forecasting, foreclose, foreclosed, foreclosure, forecourt, foreknowledge, fork, forkball, forked, forkful, forklift, fracas, fractal, fraction, fractional, fractionally, fractionation, fractious, fracture, fractured, fracturing, freak, freakish, freakishly, freaky, freckle, freckled, frequency, frequent, frequently, fricassee, fricative, friction, frictional, frictionless, frock, fructose, jerk, jerkily, jerkin, jerking, jerky, unreachable, unreceptive, unrecognizable, unrecognized, unreconciled, unreconstructed, unrecorded, unrecoverable, unrequited, urchin, uric, varicella, varicose, veracity, voracious, voraciously, voracity
+#####673                  (77 words):
+farce, farcical, ferocious, ferociously, ferocity, ferric, fierce, fiercely, fierceness, firecracker, force, forced, forcefield, forceful, forcefully, forcefulness, forceps, forcible, forcibly, forcing, forecast, forecasted, forecaster, forecasting, foreclose, foreclosed, foreclosure, forecourt, foreknowledge, fork, forkball, forked, forkful, forklift, fracas, fractal, fraction, fractional, fractionally, fractionation, fractious, fracture, fractured, fracturing, freak, freakish, freakishly, freaky, freckle, freckled, frequency, frequent, frequently, fricassee, fricative, friction, frictional, frictionless, frock, fructose, unreachable, unreceptive, unrecognizable, unrecognized, unreconciled, unreconstructed, unrecorded, unrecoverable, unrequited, urchin, uric, varicella, varicose, veracity, voracious, voraciously, voracity
 
-#####674                  (65 words):
-fairway, faraway, farewell, feared, fiord, fired, firewall, firewater, fireweed, firewood, fireworks, fogged, ford, foredeck, forewarn, forewarning, forewing, forewoman, foreword, forward, forwarder, forwarding, forwards, fraud, fraudster, fraudulence, fraudulent, fraudulently, frayed, freed, freedom, freeware, freeway, freewheel, freudian, fridge, fried, frown, frowning, frowsy, furred, furrow, furrowed, jagged, jaggedly, jarred, jordanian, joyride, joyriding, juridical, juried, ungodly, unguided, unread, unreadable, unready, unredeemable, unredeemed, unrewarded, unrewarding, varied, verdant, verdict, verdigris, verdure
+#####674                  (57 words):
+fairway, faraway, farewell, feared, fiord, fired, firewall, firewater, fireweed, firewood, fireworks, fogged, ford, foredeck, forewarn, forewarning, forewing, forewoman, foreword, forward, forwarder, forwarding, forwards, fraud, fraudster, fraudulence, fraudulent, fraudulently, frayed, freed, freedom, freeware, freeway, freewheel, freudian, fridge, fried, frown, frowning, frowsy, furred, furrow, furrowed, ungodly, unguided, unread, unreadable, unready, unredeemable, unredeemed, unrewarded, unrewarding, varied, verdant, verdict, verdigris, verdure
 
-#####675                  (87 words):
-fairly, fairyland, fearless, fearlessly, fearlessness, feral, ferrule, firelight, firelit, foreleg, forelimb, forelock, forlorn, forlornly, foxglove, frail, frailty, freelance, freelancer, freeload, freeloader, freely, frill, frilled, frilly, frolic, frolicsome, fugal, furl, furled, furlough, jiggle, jiggling, joggle, juggle, juggler, juggling, jugular, jural, ugliness, ugly, unglamorous, unglazed, ungloved, unglued, ungulate, unreal, unrealistic, unrealistically, unreality, unrealizable, unrealized, unreel, unrelated, unreleased, unrelenting, unrelentingly, unreliability, unreliable, unrelieved, unroll, unrolled, unruliness, unruly, urologic, urological, urologist, urology, uxorilocal, vagal, vaguely, verily, vigil, vigilance, vigilant, vigilante, vigilantism, vigilantly, viral, virile, virility, virilocal, virologist, virology, virulence, virulent, virulently
+#####675                  (79 words):
+fairly, fairyland, fearless, fearlessly, fearlessness, feral, ferrule, firelight, firelit, foreleg, forelimb, forelock, forlorn, forlornly, foxglove, frail, frailty, freelance, freelancer, freeload, freeloader, freely, frill, frilled, frilly, frolic, frolicsome, fugal, furl, furled, furlough, ugliness, ugly, unglamorous, unglazed, ungloved, unglued, ungulate, unreal, unrealistic, unrealistically, unreality, unrealizable, unrealized, unreel, unrelated, unreleased, unrelenting, unrelentingly, unreliability, unreliable, unrelieved, unroll, unrolled, unruliness, unruly, urologic, urological, urologist, urology, uxorilocal, vagal, vaguely, verily, vigil, vigilance, vigilant, vigilante, vigilantism, vigilantly, viral, virile, virility, virilocal, virologist, virology, virulence, virulent, virulently
 
 #####676                  (47 words):
 fearful, fearfully, fearfulness, fervent, fervently, fervid, fervor, firefight, firefighter, firefighting, firefly, forefather, forefinger, forefoot, forefront, forever, forfeit, forfeited, forfeiture, fourfold, frivolity, frivolous, frivolously, froufrou, ungovernable, ungoverned, unravel, unraveled, unraveling, unrefined, unreflective, unreformed, unrevealed, unrevealing, unrivaled, unrivalled, unruffled, verifiability, verifiable, verifiably, verification, verified, verifier, verify, vervain, verve, vervet
 
-#####677                  (120 words):
-fairgoer, fairground, farrago, farrier, figural, figuration, figurative, figuratively, figure, figurehead, figurine, figuring, firearm, forage, forager, foraging, forearm, forego, foregoing, foregone, foreground, foregrounded, foregrounding, foreign, foreigner, foreignness, forerunner, forge, forged, forger, forgery, forget, forgetful, forgetfulness, forgettable, forging, forgivable, forgive, forgiveness, forgiving, forgo, forgotten, frag, fragile, fragility, fragment, fragmentary, fragmentation, fragmented, fragrance, fragrant, fraught, freight, freighted, freighter, friar, friary, frigate, frigging, fright, frighten, frightened, frightening, frighteningly, frightful, frightfully, frigid, frigidity, frog, froggy, frogman, frugal, frugality, frugally, fryer, furor, furore, furrier, jargon, jigger, jogger, juggernaut, juror, ungraceful, ungracious, ungraciously, ungraded, ungrammatical, ungraspable, ungrateful, ungrazed, ungreased, ungroomed, ungrounded, unguarded, unregenerate, unregistered, unregulated, unrighteous, urge, urgency, urgent, urgently, urging, uruguayan, vagaries, vagrancy, vagrant, variegated, variegation, verge, vigor, vigorous, vigorously, virgilian, virgin, virginal, virginian, virginity, voyageur
+#####677                  (116 words):
+fairgoer, fairground, farrago, farrier, figural, figuration, figurative, figuratively, figure, figurehead, figurine, figuring, firearm, fjord, forage, forager, foraging, forearm, forego, foregoing, foregone, foreground, foregrounded, foregrounding, foreign, foreigner, foreignness, forerunner, forge, forged, forger, forgery, forget, forgetful, forgetfulness, forgettable, forging, forgivable, forgive, forgiveness, forgiving, forgo, forgotten, frag, fragile, fragility, fragment, fragmentary, fragmentation, fragmented, fragrance, fragrant, fraught, freight, freighted, freighter, friar, friary, frigate, frigging, fright, frighten, frightened, frightening, frighteningly, frightful, frightfully, frigid, frigidity, frog, froggy, frogman, frugal, frugality, frugally, fryer, furor, furore, furrier, ungraceful, ungracious, ungraciously, ungraded, ungrammatical, ungraspable, ungrateful, ungrazed, ungreased, ungroomed, ungrounded, unguarded, unregenerate, unregistered, unregulated, unrighteous, urge, urgency, urgent, urgently, urging, uruguayan, vagaries, vagrancy, vagrant, variegated, variegation, verge, vigor, vigorous, vigorously, virgilian, virgin, virginal, virginian, virginity, voyageur
 
 #####678                  (106 words):
-farm, farmboy, farmed, farmer, farmhand, farmhouse, farming, farmland, farmstead, farmworker, farmyard, fermata, ferment, fermentation, fermented, fermenter, fermenting, fermion, fermionic, ferromagnetic, ferryman, fight, fighter, fighting, figment, firehose, firehouse, fireman, firm, firmament, firmly, firmness, firmware, foghorn, forehand, forehead, foreman, foremast, foremost, form, formal, formaldehyde, formalin, formalism, formalist, formalistic, formality, formalization, formalize, formalized, formally, formant, format, formation, formative, formatting, forme, formed, former, formerly, formic, formidable, formidably, forming, formless, formlessness, formosan, formula, formulaic, formulary, formulate, formulated, formulation, forum, frame, framed, frameless, framer, framesheet, framework, framing, freehand, freehold, freeholder, freemason, from, frumpy, jeremiad, ugh, unrehearsed, unremarkable, unremarked, unremembered, unremitting, unremittingly, unromantic, uraemia, uraemic, uremic, varmint, vermicelli, vermiculite, vermilion, vermin, vermouth, vroom
+farm, farmboy, farmed, farmer, farmhand, farmhouse, farming, farmland, farmstead, farmworker, farmyard, fermata, ferment, fermentation, fermented, fermenter, fermenting, fermion, fermionic, ferromagnetic, ferryman, fight, fighter, fighting, figment, firehose, firehouse, fireman, firm, firmament, firmly, firmness, firmware, foghorn, forehand, forehead, foreman, foremast, foremost, form, formal, formaldehyde, formalin, formalism, formalist, formalistic, formality, formalization, formalize, formalized, formally, formant, format, formation, formative, formatting, forme, formed, former, formerly, formic, formidable, formidably, forming, formless, formlessness, formosan, formula, formulaic, formulary, formulate, formulated, formulation, forum, frame, framed, frameless, framer, framesheet, framework, framing, freehand, freehold, freeholder, freemason, from, frumpy, ugh, ujamaa, unrehearsed, unremarkable, unremarked, unremembered, unremitting, unremittingly, unromantic, uraemia, uraemic, uremic, varmint, vermicelli, vermiculite, vermilion, vermin, vermouth, vroom
 
-#####679                  (107 words):
-fairing, fairness, feign, feigned, fern, firing, forensic, fornicate, fornication, fornicator, franchise, franchised, franchisee, franchiser, franchisor, franciscan, francophone, frangipani, frank, frankincense, frankish, frankly, frankness, frantic, frantically, fraying, freeing, french, frenchman, frenchwoman, frenetic, frenetically, frenzied, frenziedly, frenzy, friend, friendless, friendliness, friendly, friendship, fringe, fringed, fringy, frond, front, frontage, frontal, frontality, frontally, frontcourt, frontier, frontiersman, frontispiece, frontline, frontman, frontside, frying, furnace, furnish, furnished, furnishings, furniture, jarring, jarringly, jeering, jigging, jogging, journal, journaling, journalism, journalist, journalistic, journalistically, journey, journeying, journeyman, ugandan, ungainly, ungendered, ungenerous, ungentlemanly, unranked, unreinforced, uranian, uranium, urinal, urinalysis, urinary, urinate, urination, urine, urn, vagina, vaginal, vagueness, variance, variant, varnish, varnished, varying, vegan, veranda, verandah, vernacular, vernal, vernier, vignette
+#####679                  (94 words):
+fairing, fairness, feign, feigned, fern, fijian, firing, forensic, fornicate, fornication, fornicator, franchise, franchised, franchisee, franchiser, franchisor, franciscan, francophone, frangipani, frank, frankincense, frankish, frankly, frankness, frantic, frantically, fraying, freeing, french, frenchman, frenchwoman, frenetic, frenetically, frenzied, frenziedly, frenzy, friend, friendless, friendliness, friendly, friendship, fringe, fringed, fringy, frond, front, frontage, frontal, frontality, frontally, frontcourt, frontier, frontiersman, frontispiece, frontline, frontman, frontside, frying, furnace, furnish, furnished, furnishings, furniture, ugandan, ungainly, ungendered, ungenerous, ungentlemanly, unranked, unreinforced, uranian, uranium, urinal, urinalysis, urinary, urinate, urination, urine, urn, vagina, vaginal, vagueness, variance, variant, varnish, varnished, varying, vegan, veranda, verandah, vernacular, vernal, vernier, vignette
 
-#####680                  (16 words):
-famished, famous, famously, jamesian, jammies, jimmies, unhesitating, unhesitatingly, unhistorical, unmask, unmasking, unmeasurable, unmeasured, unmistakable, unmistakably, unmusical
+#####680                  (13 words):
+famished, famous, famously, unhesitating, unhesitatingly, unhistorical, unmask, unmasking, unmeasurable, unmeasured, unmistakable, unmistakably, unmusical
 
 #####681                  (10 words):
 femtosecond, unheated, unhitch, unmatchable, unmatched, unmet, unmitigated, unmotivated, vomit, vomiting
 
-#####682                  (39 words):
-fumble, fumbled, fumbling, jamb, jambalaya, jamboree, jumble, jumbled, jumbo, jump, jumper, jumping, jumpstart, jumpsuit, jumpy, umbel, umber, umbilical, umbilicus, umbra, umbrage, umbral, umbrella, umbrian, umeboshi, ump, umpire, umpteen, umpteenth, unhappily, unhappiness, unhappy, unhip, unmapped, vamp, vampire, vampiric, vampirism, vampy
+#####682                  (27 words):
+fumble, fumbled, fumbling, umbel, umber, umbilical, umbilicus, umbra, umbrage, umbral, umbrella, umbrian, umeboshi, ump, umpire, umpteen, umpteenth, unhappily, unhappiness, unhappy, unhip, unmapped, vamp, vampire, vampiric, vampirism, vampy
 
-#####683                  (6 words):
-jamaican, unhook, unmake, unmaking, vehicle, vehicular
+#####683                  (5 words):
+unhook, unmake, unmaking, vehicle, vehicular
 
-#####684                  (11 words):
-famed, jammed, jihad, jihadi, jihadist, unheeded, unmade, unmediated, unmixed, unmodified, unmodulated
+#####684                  (7 words):
+famed, unheeded, unmade, unmediated, unmixed, unmodified, unmodulated
 
 #####685                  (43 words):
 familar, familial, familiar, familiar-looking, familiarity, familiarization, familiarize, familiarly, family, family-based, family-business, family-centered, family-controlled, family-focused, family-friendly, family-leave, family-like, family-oriented, family-owned, family-planning, family-room, family-run, family-size, family-style, family-type, family-values, female, female-dominated, female-female, female-friendly, female-headed, female-owned, female-to-male, femaleness, foxhole, unhealed, unhealthful, unhealthily, unhealthy, unhelpful, unhelpfully, unholy, unmolested
@@ -2400,50 +2399,50 @@ familar, familial, familiar, familiar-looking, familiarity, familiarization, fam
 #####686                  (3 words):
 unmovable, unmoved, unmoving
 
-#####687                  (29 words):
-femoral, femoris, femur, foam-rubber, fuehrer, fuhrer, fumarole, fumigant, fumigate, fumigation, jammer, un-american, unharmed, unheard, unheard-of, unheralded, unheroic, unhurried, unhurriedly, unhurt, unhygienic, unmarked, unmarketable, unmarred, unmarried, unmerciful, unmercifully, unmerited, unmourned
+#####687                  (28 words):
+femoral, femoris, femur, foam-rubber, fuehrer, fuhrer, fumarole, fumigant, fumigate, fumigation, un-american, unharmed, unheard, unheard-of, unheralded, unheroic, unhurried, unhurriedly, unhurt, unhygienic, unmarked, unmarketable, unmarred, unmarried, unmerciful, unmercifully, unmerited, unmourned
 
 #####688                  (9 words):
 uh-huh, uh-oh, uh-uh, ummah, unhampered, unmemorable, vehemence, vehement, vehemently
 
-#####689                  (28 words):
-famine, feminazi, feminine, femininity, feminism, feminist, feminization, feminize, feminized, fha-insured, foaming, foment, fuming, jamming, johannine, johnboat, unhindered, unhinge, unhinged, unmaintained, unmanageable, unmanaged, unmanly, unmanned, unmentionable, unmentioned, unmindful, unmounted
+#####689                  (25 words):
+famine, feminazi, feminine, femininity, feminism, feminist, feminization, feminize, feminized, fha-insured, foaming, foment, fuming, unhindered, unhinge, unhinged, unmaintained, unmanageable, unmanaged, unmanly, unmanned, unmentionable, unmentioned, unmindful, unmounted
 
-#####690                  (32 words):
-fan-shaped, fanzine, fenestration, fine-scale, fine-structure, fines, finesse, finis, finish, finished, finisher, finishing, finnish, funnest, janus-faced, jeans, uninspired, uninspiring, uninstalled, uninsulated, uninsurable, uninsured, unison, vanish, vanished, vanishing, vanishingly, venezuelan, venison, venous, venusian, viennese
+#####690                  (30 words):
+fan-shaped, fanzine, fenestration, fine-scale, fine-structure, fines, finesse, finis, finish, finished, finisher, finishing, finnish, funnest, uninspired, uninspiring, uninstalled, uninsulated, uninsurable, uninsured, unison, vanish, vanished, vanishing, vanishingly, venezuelan, venison, venous, venusian, viennese
 
-#####691                  (85 words):
-faint, fainting, faintly, faintness, fanatic, fanatical, fanatically, fanaticism, fantail, fantasist, fantasize, fantasized, fantastic, fantastical, fantastically, fantasy, fantasyland, feint, fentanyl, finite, finitude, font, fontina, fount, fountain, fountainhead, janitor, janitorial, jaunt, jauntily, jaunty, joint, jointly, junta, junto, uninitiated, unintelligent, unintelligibility, unintelligibly, unintended, unintentional, unintentionally, uninterested, uninteresting, uninterrupted, uninterruptedly, unintimidated, unit, unitard, unitarian, unitary, unite, united, uniting, unitive, unitized, unity, unnatural, unnaturally, unnoticeable, unnoticed, vanity, vantage, vaunt, vaunted, venetian, vent, vented, ventilate, ventilated, ventilation, ventilator, ventilatory, venting, ventral, ventricle, ventricular, ventriloquism, ventriloquist, venture, venturesome, venturi, venturing, vintage, vintner
+#####691                  (76 words):
+faint, fainting, faintly, faintness, fanatic, fanatical, fanatically, fanaticism, fantail, fantasist, fantasize, fantasized, fantastic, fantastical, fantastically, fantasy, fantasyland, feint, fentanyl, finite, finitude, font, fontina, fount, fountain, fountainhead, uninitiated, unintelligent, unintelligibility, unintelligibly, unintended, unintentional, unintentionally, uninterested, uninteresting, uninterrupted, uninterruptedly, unintimidated, unit, unitard, unitarian, unitary, unite, united, uniting, unitive, unitized, unity, unnatural, unnaturally, unnoticeable, unnoticed, vanity, vantage, vaunt, vaunted, venetian, vent, vented, ventilate, ventilated, ventilation, ventilator, ventilatory, venting, ventral, ventricle, ventricular, ventriloquism, ventriloquist, venture, venturesome, venturi, venturing, vintage, vintner
 
-#####692                  (5 words):
-fen-phen, fine-boned, fynbos, juniper, unipolar
+#####692                  (4 words):
+fen-phen, fine-boned, fynbos, unipolar
 
-#####693                  (54 words):
-faience, fancied, fancier, fanciful, fancifully, fancy, fence, fenced, fenceline, fencepost, fencer, fencerow, fencing, fiance, fiancee, finca, finicky, function, functional, functionalism, functionalist, functionality, functionally, functionary, functioning, funicular, funk, funky, jinks, jonquil, jounce, junction, juncture, junk, junked, junket, junkie, junkman, junky, junkyard, unicameral, unicellular, unicorn, unicycle, unincorporated, unique, uniquely, uniqueness, unnecessarily, unnecessary, vancomycin, vanquish, vanquished, vincristine
+#####693                  (42 words):
+faience, fancied, fancier, fanciful, fancifully, fancy, fence, fenced, fenceline, fencepost, fencer, fencerow, fencing, fiance, fiancee, finca, finicky, function, functional, functionalism, functionalist, functionality, functionally, functionary, functioning, funicular, funk, funky, unicameral, unicellular, unicorn, unicycle, unincorporated, unique, uniquely, uniqueness, unnecessarily, unnecessary, vancomycin, vanquish, vanquished, vincristine
 
-#####694                  (66 words):
-fandango, fandom, fanned, fend, fender, fiend, fiendish, fiendishly, find, finder, finderscope, finding, fined, finned, fond, fondant, fondle, fondling, fondly, fondness, fondue, found, foundation, foundational, founder, foundering, founding, foundling, foundress, foundry, fund, fundament, fundamental, fundamentalism, fundamentalist, fundamentally, funded, funder, funding, fundraise, fundus, jaundice, jaundiced, joined, unidentifiable, unidimensional, unidirectional, unindicted, unneeded, vanadium, vandal, vandalism, vandalize, vandalized, veined, vend, vender, vendetta, vending, vendor, vindicate, vindicated, vindication, vindicator, vindictive, vindictiveness
+#####694                  (63 words):
+fandango, fandom, fanned, fend, fender, fiend, fiendish, fiendishly, find, finder, finderscope, finding, fined, finned, fond, fondant, fondle, fondling, fondly, fondness, fondue, found, foundation, foundational, founder, foundering, founding, foundling, foundress, foundry, fund, fundament, fundamental, fundamentalism, fundamentalist, fundamentally, funded, funder, funding, fundraise, fundus, unidentifiable, unidimensional, unidirectional, unindicted, unneeded, vanadium, vandal, vandalism, vandalize, vandalized, veined, vend, vender, vendetta, vending, vendor, vindicate, vindicated, vindication, vindicator, vindictive, vindictiveness
 
 #####695                  (38 words):
 fan-like, fanlight, faunal, fee-only, fennel, final, final-round, final-status, finale, finalist, finality, finalization, finalize, finalized, finally, fine-looking, finely, finial, fun-loving, funnel, funnel-shaped, funnily, funny-looking, uniaxial, unilateral, unilateralism, unilateralist, unilaterally, unilinear, vainly, vanilla, vanilla-scented, vanload, venal, venality, venial, vinyl, vinyl-covered
 
-#####696                  (42 words):
-fan-friendly, fanfare, finfish, fun-filled, unification, unified, unifier, uniform, uniformed, uniformitarian, uniformity, uniformly, unify, unifying, uninfected, uninflected, uninfluenced, uninformative, uninformed, uninjured, uninvited, uninviting, uninvolved, universal, universalism, universalist, universalistic, universality, universalization, universalize, universalized, universalizing, universally, universe, university-affiliated, university-based, university-educated, university-level, university-trained, university-wide, univocal, vinifera
+#####696                  (41 words):
+fan-friendly, fanfare, finfish, fun-filled, unification, unified, unifier, uniform, uniformed, uniformitarian, uniformity, uniformly, unify, unifying, uninfected, uninflected, uninfluenced, uninformative, uninformed, uninvited, uninviting, uninvolved, universal, universalism, universalist, universalistic, universality, universalization, universalize, universalized, universalizing, universally, universe, university-affiliated, university-based, university-educated, university-level, university-trained, university-wide, univocal, vinifera
 
-#####697                  (58 words):
-fang, fanged, fenugreek, finagle, finery, finger, fingerboard, fingering, fingerless, fingerling, fingernail, fingerprint, fingerprinting, fingertip, fixing, funeral, funerary, funereal, fungal, fungible, fungicide, fungo, fungus, jangle, jangled, jangling, jangly, jingle, jingling, jingoism, jingoistic, joiner, joinery, jongleur, jungian, jungle, jungly, junior, unnerve, unnerving, unnervingly, vainglorious, veneer, veneered, venerable, venerate, venerated, veneration, venereal, vengeance, vengeful, vengefully, vengefulness, vexing, vinaigrette, vinegar, vinegary, vineyard
+#####697                  (44 words):
+fang, fanged, fenugreek, finagle, finery, finger, fingerboard, fingering, fingerless, fingerling, fingernail, fingerprint, fingerprinting, fingertip, fixing, funeral, funerary, funereal, fungal, fungible, fungicide, fungo, fungus, uninjured, unnerve, unnerving, unnervingly, vainglorious, veneer, veneered, venerable, venerate, venerated, veneration, venereal, vengeance, vengeful, vengefully, vengefulness, vexing, vinaigrette, vinegar, vinegary, vineyard
 
 #####698                  (27 words):
 fine-mesh, fun-house, funhouse, funnyman, unimaginable, unimaginably, unimaginative, unimagined, unimpaired, unimpeachable, unimpeded, unimportance, unimportant, unimposing, unimpressed, unimpressive, unimproved, uninhabitable, uninhabited, uninhibited, unnamable, unnameable, unnamed, unnumbered, venom, venomous, venomously
 
-#####699                  (17 words):
-finance, financial, financial-aid, financial-planning, financially, financier, financing, fine-needle, fineness, joining, union, union-busting, unionism, unionist, unionization, unionize, unionized
+#####699                  (16 words):
+finance, financial, financial-aid, financial-planning, financially, financier, financing, fine-needle, fineness, union, union-busting, unionism, unionist, unionization, unionize, unionized
 
 #####700                  (17 words):
 gas-station, gaseous, goose-stepping, reassess, reassessment, resist, resistance, resistant, resister, resisting, resistive, resistivity, resistor, resize, resuscitate, resuscitation, rose-scented
 
-#####701                  (112 words):
-gastric, gastritis, gastrocnemius, gastroenteritis, gastroenterologist, gastroenterology, gastroesophageal, gastrointestinal, gastronome, gastronomic, gastronomical, gastronomy, gastropod, gazetteer, geostationary, geostrategic, gestalt, gestate, gestation, gestational, gesticulate, gesticulation, gestural, gesture, gesturing, gist, guesstimate, guest, guesthouse, guestroom, gusset, gust, gustatory, gustavian, gusting, gusto, gusty, rastafarian, raster, reestablishment, reseat, reset, resettle, resettlement, rest, restage, restart, restate, restatement, restaurant, restaurateur, rested, restenosis, restful, resting, restitution, restive, restiveness, restless, restlessly, restlessness, restock, restocking, restoration, restorationist, restorative, restore, restored, restorer, restoring, restrain, restrained, restraining, restraint, restrict, restricted, restriction, restrictive, restrictively, restrictiveness, restroom, restructure, restructured, restructuring, restyle, restyled, risotto, roast, roasted, roaster, roasting, roost, roosted, rooster, roosting, roseate, rosette, roster, rostrum, roust, roustabout, russet, rust, rusted, rustic, rusticity, rusting, rustle, rustler, rustling, rustproof, rusty
+#####701                  (132 words):
+gastric, gastritis, gastrocnemius, gastroenteritis, gastroenterologist, gastroenterology, gastroesophageal, gastrointestinal, gastronome, gastronomic, gastronomical, gastronomy, gastropod, gazetteer, geostationary, geostrategic, gestalt, gestate, gestation, gestational, gesticulate, gesticulation, gestural, gesture, gesturing, gist, guesstimate, guest, guesthouse, guestroom, gusset, gust, gustatory, gustavian, gusting, gusto, gusty, jest, jester, jesuit, joist, jostle, jostling, joust, jousting, joystick, just, justice, justifiable, justifiably, justification, justificatory, justified, justify, justifying, justly, justness, rastafarian, raster, reestablishment, reseat, reset, resettle, resettlement, rest, restage, restart, restate, restatement, restaurant, restaurateur, rested, restenosis, restful, resting, restitution, restive, restiveness, restless, restlessly, restlessness, restock, restocking, restoration, restorationist, restorative, restore, restored, restorer, restoring, restrain, restrained, restraining, restraint, restrict, restricted, restriction, restrictive, restrictively, restrictiveness, restroom, restructure, restructured, restructuring, restyle, restyled, risotto, roast, roasted, roaster, roasting, roost, roosted, rooster, roosting, roseate, rosette, roster, rostrum, roust, roustabout, russet, rust, rusted, rustic, rusticity, rusting, rustle, rustler, rustling, rustproof, rusty
 
 #####702                  (47 words):
 gasp, gasping, gazebo, gazpacho, gooseberry, gospel, gossip, gossiping, gossipy, rasp, raspberry, rasping, raspy, respect, respectability, respectable, respectably, respected, respecter, respectful, respectfully, respecting, respective, respectively, respirable, respiration, respirator, respiratory, respire, respite, resplendent, resplendently, respond, respondent, responder, response, responsibility, responsible, responsibly, responsive, responsively, responsiveness, resubmit, resupply, reusable, risible, rosebush
@@ -2451,11 +2450,11 @@ gasp, gasping, gazebo, gazpacho, gooseberry, gospel, gossip, gossiping, gossipy,
 #####703                  (36 words):
 gasket, geoscience, rascal, rascally, reschedule, rescheduling, rescind, rescission, rescue, rescued, rescuer, resect, resected, resection, risk, risk-adjusted, risk-assessment, risk-averse, risk-based, risk-benefit, risk-free, risk-management, risk-reducing, risk-reduction, risk-reward, risk-sharing, risk-taker, risk-taking, riskiness, riskless, risky, risque, rosacea, rose-colored, rosicrucian, rosy-cheeked
 
-#####704                  (18 words):
-gassed, gessoed, guesswork, gussied-up, raised, reissued, reseed, reside, residence, residency, resident, residential, residentially, residual, residuals, residue, residuum, rosewood
+#####704                  (19 words):
+gassed, gessoed, guesswork, gussied-up, jazzed, raised, reissued, reseed, reside, residence, residency, resident, residential, residentially, residual, residuals, residue, residuum, rosewood
 
-#####705                  (32 words):
-gas-electric, gaslight, gaslit, gasoline, gasoline-electric, gasoline-fueled, gasoline-powered, gazelle, gazillion, go-slow, guzzle, guzzler, razzle-dazzle, resale, reseal, resealable, resell, reseller, resilience, resiliency, resilient, resolute, resolutely, resoluteness, resolution, resolvable, resolve, resolved, result, resultant, resulting, results-oriented
+#####705                  (33 words):
+gas-electric, gaslight, gaslit, gasoline, gasoline-electric, gasoline-fueled, gasoline-powered, gazelle, gazillion, go-slow, guzzle, guzzler, joyously, razzle-dazzle, resale, reseal, resealable, resell, reseller, resilience, resiliency, resilient, resolute, resolutely, resoluteness, resolution, resolvable, resolve, resolved, result, resultant, resulting, results-oriented
 
 #####706                  (7 words):
 gas-filled, gas-fired, gas-fueled, gasification, gasifier, gooseflesh, resveratrol
@@ -2463,161 +2462,161 @@ gas-filled, gas-fired, gas-fueled, gasification, gasifier, gooseflesh, resveratr
 #####707                  (46 words):
 geezer, geyser, gizzard, guesser, raiser, razor, razorback, razored, reassert, reassertion, reassign, reassignment, reassurance, reassure, reassured, reassuring, reassuringly, research, researcher, resegregation, reservation, reservationist, reserve, reserved, reservist, reservoir, resign, resignation, resigned, resignedly, resorption, resort, resource, resourceful, resourcefulness, resurface, resurfacing, resurgence, resurgent, resurrect, resurrected, resurrection, resurvey, riser, rosary, rouser
 
-#####708                  (35 words):
-gash, gasohol, geisha, gizmo, gosh, goshawk, gossamer, gush, gusher, gushing, gushy, rash, rasher, rashly, rashness, razzmatazz, reassemble, reassembly, reassume, reishi, resemblance, resemble, reshape, reshaped, reshaping, reshoot, reshuffle, reshuffling, resume, resumption, rush, rush-hour, rushed, rusher, rushing
+#####708                  (39 words):
+gash, gasohol, geisha, gizmo, gosh, goshawk, gossamer, gush, gusher, gushing, gushy, j-shaped, jazzman, jessamine, josh, rash, rasher, rashly, rashness, razzmatazz, reassemble, reassembly, reassume, reishi, resemblance, resemble, reshape, reshaped, reshaping, reshoot, reshuffle, reshuffling, resume, resumption, rush, rush-hour, rushed, rusher, rushing
 
 #####709                  (42 words):
 gassing, gaussian, gazan, geosynchronous, gooseneck, guessing, raisin, raising, razing, reason, reasonable, reasonableness, reasonably, reasoned, reasoning, resent, resented, resentful, resentfully, resentment, resin, resinous, resonance, resonant, resonate, resonating, resonator, resound, resounding, resoundingly, rezoning, risen, rising, rosin, rousing, russian, russian-american, russian-built, russian-jewish, russian-language, russian-made, russian-speaking
 
-#####710                  (13 words):
-goatskin, gut-shot, gutsiest, gutsiness, gutsy, retest, retesting, riotous, riotously, ritzy, rootstock, rootsy, rotisserie
+#####710                  (18 words):
+goatskin, gut-shot, gutsiest, gutsiness, gutsy, jet-set, jet-setting, jet-ski, jetsam, jettison, retest, retesting, riotous, riotously, ritzy, rootstock, rootsy, rotisserie
 
 #####711                  (17 words):
 get-out, get-out-of-jail-free, get-out-the-vote, get-tough, rat-a-tat, rat-a-tat-tat, ratatouille, retitle, rotatable, rotate, rotated, rotating, rotation, rotational, rotator, rotator-cuff, rototiller
 
-#####712                  (6 words):
-gatepost, get-up, ratepayer, root-beer, rootball, rutabaga
+#####712                  (11 words):
+gatepost, get-up, jet-black, jet-powered, juxtapose, juxtaposed, juxtaposition, ratepayer, root-beer, rootball, rutabaga
 
 #####713                  (18 words):
 gatekeeper, gatekeeping, get-acquainted, ratchet, ratcheting, ratiocination, retake, retch, retching, reticence, reticent, reticle, reticular, reticulated, reticule, reticulum, retouch, root-knot
 
-#####714                  (14 words):
-gated, gateway, get-well, getaway, gut-wrenching, gutted, rated, rooted, rootedness, rootworm, rotted, rottweiler, routed, rutted
+#####714                  (15 words):
+gated, gateway, get-well, getaway, gut-wrenching, gutted, jetway, rated, rooted, rootedness, rootworm, rotted, rottweiler, routed, rutted
 
-#####715                  (30 words):
-go-it-alone, gut-level, gutless, rattle, rattled, rattler, rattlesnake, rattletrap, rattling, retail, retailer, retailing, retaliate, retaliation, retaliatory, retell, retelling, retool, retooled, retooling, ritual, ritualistic, ritualistically, ritualization, ritualize, ritualized, ritually, rootless, rootlessness, rootlet
+#####715                  (32 words):
+go-it-alone, gut-level, gutless, jet-lagged, jetliner, rattle, rattled, rattler, rattlesnake, rattletrap, rattling, retail, retailer, retailing, retaliate, retaliation, retaliatory, retell, retelling, retool, retooled, retooling, ritual, ritualistic, ritualistically, ritualization, ritualize, ritualized, ritually, rootless, rootlessness, rootlet
 
 #####716                  (6 words):
 ratification, ratifier, ratify, rotavirus, rotifer, route-finding
 
-#####717                  (77 words):
-gaiter, getter, goiter, guitar, guitarist, gutter, guttering, guttural, rater, reiterate, reiterated, reiteration, retard, retardant, retardation, retarded, retarget, retire, retired, retiree, retirement, retiring, retort, retrace, retract, retractable, retracted, retraction, retractor, retrain, retraining, retransmission, retransmit, retread, retreat, retreating, retrench, retrenchment, retrial, retribution, retributive, retrievable, retrieval, retrieve, retrieved, retriever, retro, retroactive, retroactively, retroactivity, retrofit, retrofitted, retrofitting, retrograde, retrogression, retrogressive, retropharyngeal, retrospect, retrospection, retrospective, retrospectively, retroviral, retrovirus, retry, return, returnable, returned, returnee, returner, returning, rioter, rooter, rotary, rotgut, rotor, rotorcraft, router
+#####717                  (80 words):
+gaiter, getter, goiter, guitar, guitarist, gutter, guttering, guttural, jitterbug, jitters, jittery, rater, reiterate, reiterated, reiteration, retard, retardant, retardation, retarded, retarget, retire, retired, retiree, retirement, retiring, retort, retrace, retract, retractable, retracted, retraction, retractor, retrain, retraining, retransmission, retransmit, retread, retreat, retreating, retrench, retrenchment, retrial, retribution, retributive, retrievable, retrieval, retrieve, retrieved, retriever, retro, retroactive, retroactively, retroactivity, retrofit, retrofitted, retrofitting, retrograde, retrogression, retrogressive, retropharyngeal, retrospect, retrospection, retrospective, retrospectively, retroviral, retrovirus, retry, return, returnable, returned, returnee, returner, returning, rioter, rooter, rotary, rotgut, rotor, rotorcraft, router
 
 #####718                  (19 words):
 gatehouse, gather, gathered, gatherer, gathering, geothermal, goatherd, goth, gothic, gothic-style, guatemalan, rather, rathole, reauthorize, rethink, rethinking, ruthless, ruthlessly, ruthlessness
 
-#####719                  (43 words):
-gutting, rating, ration, rational, rationale, rationalism, rationalist, rationalistic, rationality, rationalization, rationalize, rationalized, rationally, rationed, rationing, rattan, retain, retained, retainer, retaining, retention, retentive, retina, retinal, retinitis, retinoid, retinol, retinopathy, retinue, retune, rioting, rooting, rotten, rottenness, rotting, rotund, rotunda, routine, routinely, routing, routinization, routinized, rutting
+#####719                  (45 words):
+gutting, jitney, jutting, rating, ration, rational, rationale, rationalism, rationalist, rationalistic, rationality, rationalization, rationalize, rationalized, rationally, rationed, rationing, rattan, retain, retained, retainer, retaining, retention, retentive, retina, retinal, retinitis, retinoid, retinol, retinopathy, retinue, retune, rioting, rooting, rotten, rottenness, rotting, rotund, rotunda, routine, routinely, routing, routinization, routinized, rutting
 
-#####720                  (27 words):
-gay-bashing, gibbous, gypsum, gypsy, rabies, rapeseed, rapist, reabsorb, reabsorption, rebus, repast, repose, reposition, repositioning, repository, repossess, repossession, ribose, ribosomal, ribosome, ribozyme, riposte, robust, robusta, robustly, robustness, rubbish
+#####720                  (29 words):
+gay-bashing, gibbous, gypsum, gypsy, job-search, job-seeking, rabies, rapeseed, rapist, reabsorb, reabsorption, rebus, repast, repose, reposition, repositioning, repository, repossess, repossession, ribose, ribosomal, ribosome, ribozyme, riposte, robust, robusta, robustly, robustness, rubbish
 
 #####721                  (48 words):
 gibbet, gobbet, rabbet, rabbit, rapt, raptly, raptor, rapture, rapturous, rapturously, rebate, reboot, rebut, rebuttable, rebuttal, repatriate, repatriated, repatriation, repeat, repeatability, repeatable, repeated, repeatedly, repeater, repeating, repetition, repetitious, repetitive, repetitively, repetitiveness, repot, reptile, reptilian, reputable, reputation, reputational, repute, reputed, reputedly, reuptake, riptide, robot, robotic, robotically, robotics, rubato, rupture, ruptured
 
-#####722                  (9 words):
-repopulation, republican, republican-controlled, republican-dominated, republican-leaning, republican-led, republican-sponsored, republicanism, republish
+#####722                  (11 words):
+job-approval, job-placement, repopulation, republican, republican-controlled, republican-dominated, republican-leaning, republican-led, republican-sponsored, republicanism, republish
 
-#####723                  (9 words):
-gop-controlled, rapacious, rapacity, rebuke, repackage, repackaged, repackaging, ripcord, ruby-colored
+#####723                  (11 words):
+gop-controlled, job-creating, job-creation, rapacious, rapacity, rebuke, repackage, repackaged, repackaging, ripcord, ruby-colored
 
 #####724                  (17 words):
 rabid, rabidly, raped, rapid, rapid-fire, rapidity, rapidly, repudiate, repudiation, ribbed, ripped, robed, rope-a-dope, roped, roped-off, rubdown, rubidium
 
-#####725                  (57 words):
-gabble, gabled, geopolitical, geopolitics, giblet, gobble, gobbledygook, gobbler, gobbling, goblet, goblin, rabble, rappel, reapplication, rebalancing, rebel, rebellion, rebellious, rebelliously, rebelliousness, rebuild, rebuilder, rebuilding, rebuilt, repeal, repel, repellant, repellency, repellent, replace, replaceable, replaced, replacement, replant, replanting, replay, replenish, replenished, replenishment, replete, replica, replicant, replicate, replicated, replication, replicator, reply, repulse, repulsed, repulsion, repulsive, ribald, ripple, rippled, rippling, rubble, rubella
+#####725                  (62 words):
+gabble, gabled, geopolitical, geopolitics, giblet, gobble, gobbledygook, gobbler, gobbling, goblet, goblin, jobless, joblessness, jubilant, jubilantly, jubilation, rabble, rappel, reapplication, rebalancing, rebel, rebellion, rebellious, rebelliously, rebelliousness, rebuild, rebuilder, rebuilding, rebuilt, repeal, repel, repellant, repellency, repellent, replace, replaceable, replaced, replacement, replant, replanting, replay, replenish, replenished, replenishment, replete, replica, replicant, replicate, replicated, replication, replicator, reply, repulse, repulsed, repulsion, repulsive, ribald, ripple, rippled, rippling, rubble, rubella
 
 #####726                  (4 words):
 rebuff, ribavirin, riboflavin, rip-off
 
-#####727                  (95 words):
-gabardine, gibber, gibberish, gipper, goober, guayabera, gubernatorial, rapier, rapper, rapport, rapporteur, rapprochement, reaper, reappear, reappearance, reapportionment, reappraisal, reappraise, reappropriation, rebirth, reborn, rebroadcast, reburial, rebury, repair, repairable, repaired, repairer, repairman, reparation, reparative, repartee, repercussion, repertoire, repertory, report, reportable, reportage, reported, reportedly, reporter, reporting, reportorial, reprehensible, represent, representable, representation, representational, representative, representativeness, representing, repress, repressed, repression, repressive, reprieve, reprimand, reprint, reprinting, reprisal, reprise, reproach, reproachful, reproachfully, reprobate, reprobation, reprocess, reproduce, reproduced, reproducer, reproducibility, reproducible, reproduction, reproductive, reprogram, reprogrammed, reprogramming, reproof, reprove, reprovingly, repugnance, repugnant, repurchase, riparian, ripper, riprap, robber, robbery, rubber, rubberized, rubberneck, rubbernecker, rubbery, rubric, rubrum
+#####727                  (99 words):
+gabardine, gibber, gibberish, gipper, goober, guayabera, gubernatorial, jabber, jaybird, jeopardize, jeopardy, rapier, rapper, rapport, rapporteur, rapprochement, reaper, reappear, reappearance, reapportionment, reappraisal, reappraise, reappropriation, rebirth, reborn, rebroadcast, reburial, rebury, repair, repairable, repaired, repairer, repairman, reparation, reparative, repartee, repercussion, repertoire, repertory, report, reportable, reportage, reported, reportedly, reporter, reporting, reportorial, reprehensible, represent, representable, representation, representational, representative, representativeness, representing, repress, repressed, repression, repressive, reprieve, reprimand, reprint, reprinting, reprisal, reprise, reproach, reproachful, reproachfully, reprobate, reprobation, reprocess, reproduce, reproduced, reproducer, reproducibility, reproducible, reproduction, reproductive, reprogram, reprogrammed, reprogramming, reproof, reprove, reprovingly, repugnance, repugnant, repurchase, riparian, ripper, riprap, robber, robbery, rubber, rubberized, rubberneck, rubbernecker, rubbery, rubric, rubrum
 
-#####728                  (6 words):
-geophysical, geophysicist, geophysics, gopher, repayment, rephrase
+#####728                  (7 words):
+geophysical, geophysicist, geophysics, gopher, job-hunting, repayment, rephrase
 
-#####729                  (30 words):
-gaping, rabbinate, rabbinic, rabbinical, raping, rapping, reappoint, reappointment, rebound, rebounding, reopen, reopened, reopening, repaint, repent, repentance, repentant, ribbing, ribbon, ribbon-cutting, ribbon-like, ribboned, ripen, ripened, ripeness, ripening, ripping, robbing, roping, rubbing
+#####729                  (35 words):
+gaping, japanese, japanese-american, japanese-made, japanese-owned, japanese-style, rabbinate, rabbinic, rabbinical, raping, rapping, reappoint, reappointment, rebound, rebounding, reopen, reopened, reopening, repaint, repent, repentance, repentant, ribbing, ribbon, ribbon-cutting, ribbon-like, ribboned, ripen, ripened, ripeness, ripening, ripping, robbing, roping, rubbing
 
-#####730                  (32 words):
-race-specific, racism, racist, rakish, rakishly, raucous, raucously, recast, recasting, recess, recessed, recession, recession-proof, recession-resistant, recessional, recessionary, recessive, recision, recusal, recuse, request, requested, requester, requisite, requisition, rickshaw, rock-solid, rock-steady, rock-strewn, rockslide, rucksack, ruckus
+#####730                  (38 words):
+jackass, jackscrew, jacksonian, jacuzzi, jockstrap, jokester, race-specific, racism, racist, rakish, rakishly, raucous, raucously, recast, recasting, recess, recessed, recession, recession-proof, recession-resistant, recessional, recessionary, recessive, recision, recusal, recuse, request, requested, requester, requisite, requisition, rickshaw, rock-solid, rock-steady, rock-strewn, rockslide, rucksack, ruckus
 
-#####731                  (42 words):
-racetrack, racket, racketeer, racketeering, react, reactance, reactant, reaction, reactionary, reactivate, reactivation, reactive, reactivity, reactor, recital, recitation, recitative, recite, rectal, rectangle, rectangular, rectification, rectifier, rectify, rectilinear, rectitude, recto, rector, rectory, rectum, rectus, rickets, rickety, ricotta, rictus, rock-throwing, rocket, rocket-like, rocket-propelled, rocketeer, rocketry, rocketship
+#####731                  (44 words):
+jacket, jacketed, racetrack, racket, racketeer, racketeering, react, reactance, reactant, reaction, reactionary, reactivate, reactivation, reactive, reactivity, reactor, recital, recitation, recitative, recite, rectal, rectangle, rectangular, rectification, rectifier, rectify, rectilinear, rectitude, recto, rector, rectory, rectum, rectus, rickets, rickety, ricotta, rictus, rock-throwing, rocket, rocket-like, rocket-propelled, rocketeer, rocketry, rocketship
 
-#####732                  (36 words):
-race-baiting, race-based, race-blind, recap, recapitalization, recapitalize, recapitulate, recapitulation, recapture, receipt, receptacle, reception, receptionist, receptive, receptiveness, receptivity, receptor, recipe, recipient, reciprocal, reciprocally, reciprocate, reciprocated, reciprocating, reciprocation, reciprocity, recopy, recoup, recoupment, recuperate, recuperation, recuperative, reoccupation, reoccupy, rock-bottom, rockabilly
+#####732                  (42 words):
+jackboot, jackbooted, jackpot, jacobean, jacobite, jukebox, race-baiting, race-based, race-blind, recap, recapitalization, recapitalize, recapitulate, recapitulation, recapture, receipt, receptacle, reception, receptionist, receptive, receptiveness, receptivity, receptor, recipe, recipient, reciprocal, reciprocally, reciprocate, reciprocated, reciprocating, reciprocation, reciprocity, recopy, recoup, recoupment, recuperate, recuperation, recuperative, reoccupation, reoccupy, rock-bottom, rockabilly
 
-#####733                  (17 words):
-race-car, race-conscious, racecar, racecourse, racquet, racquetball, reacquaint, reacquire, recyclability, recyclable, recycle, recycled, recycler, recycling, ricochet, ricocheting, rococo
+#####733                  (18 words):
+jacquard, race-car, race-conscious, racecar, racecourse, racquet, racquetball, reacquaint, reacquire, recyclability, recyclable, recycle, recycled, recycler, recycling, ricochet, ricocheting, rococo
 
-#####734                  (8 words):
-race-day, raceway, raked, recede, receding, recidivism, recidivist, recode
+#####734                  (12 words):
+jackdaw, jacked-up, juiced, juiced-up, race-day, raceway, raked, recede, receding, recidivism, recidivist, recode
 
-#####735                  (39 words):
-racial, racial-ethnic, racial/ethnic, racialism, racialist, racialization, racialized, racially, raclette, recalcitrance, recalcitrant, recalculate, recalculation, recalibration, recall, recalled, recalling, reckless, recklessly, recklessness, reclaim, reclaimed, reclaiming, reclamation, reclassification, reclassify, recline, recliner, reclining, recluse, reclusive, recoil, recoilless, recollect, recollected, recollection, recolonization, recolonize, rock-like
+#####735                  (45 words):
+jack-o-lantern, jackal, jackalope, jocular, jocularity, jocularly, racial, racial-ethnic, racial/ethnic, racialism, racialist, racialization, racialized, racially, raclette, recalcitrance, recalcitrant, recalculate, recalculation, recalibration, recall, recalled, recalling, reckless, recklessly, recklessness, reclaim, reclaimed, reclaiming, reclamation, reclassification, reclassify, recline, recliner, reclining, recluse, reclusive, recoil, recoilless, recollect, recollected, recollection, recolonization, recolonize, rock-like
 
-#####736                  (15 words):
-receivable, receive, received, receiver, receivership, receiving, recover, recoverable, recovered, recovered-memory, recovery, ricefield, rockface, rockfall, rockfish
+#####736                  (17 words):
+jack-of-all-trades, jackfruit, receivable, receive, received, receiver, receivership, receiving, recover, recoverable, recovered, recovered-memory, recovery, ricefield, rockface, rockfall, rockfish
 
-#####737                  (45 words):
-racer, recertification, recirculate, recirculated, recirculating, recirculation, recognisable, recognised, recognition, recognizable, recognizably, recognizance, recognize, recognized, record, recordable, recorded, recorder, recording, recordist, recourse, recreation, recreational, recrimination, recrudescence, recruit, recruiter, recruiting, recruitment, recur, recurrence, recurrent, recurrently, recurring, recursion, recursive, reoccur, reoccurrence, reoccurring, require, required, requirement, ricer, rocker, rookery
+#####737                  (49 words):
+jacaranda, jackrabbit, joker, juicer, racer, recertification, recirculate, recirculated, recirculating, recirculation, recognisable, recognised, recognition, recognizable, recognizably, recognizance, recognize, recognized, record, recordable, recorded, recorder, recording, recordist, recourse, recreation, recreational, recrimination, recrudescence, recruit, recruiter, recruiting, recruitment, recur, recurrence, recurrent, recurrently, recurring, recursion, recursive, reoccur, reoccurrence, reoccurring, require, required, requirement, ricer, rocker, rookery
 
-#####738                  (40 words):
-gauche, gaucho, geochemical, geochemist, geochemistry, gouache, guacamole, racehorse, reach, reachable, reaching, recharge, rechargeable, recharged, recharger, recharging, rechristen, recombinant, recombination, recombine, recommence, recommend, recommendation, recommended, recommit, recommitment, recompense, recomposition, recumbent, requiem, rich, rich-field, rich-poor, rich-tasting, riches, richly, richness, roach, rock-hard, ruched
+#####738                  (42 words):
+gauche, gaucho, geochemical, geochemist, geochemistry, gouache, guacamole, jackhammer, jicama, racehorse, reach, reachable, reaching, recharge, rechargeable, recharged, recharger, recharging, rechristen, recombinant, recombination, recombine, recommence, recommend, recommendation, recommended, recommit, recommitment, recompense, recomposition, recumbent, requiem, rich, rich-field, rich-poor, rich-tasting, riches, richly, richness, roach, rock-hard, ruched
 
-#####739                  (59 words):
-geocentric, geoeconomic, geoeconomics, raccoon, racing, raconteur, racoon, raking, recant, recantation, recency, recent, recently, reckon, reckoning, recon, reconceptualization, reconcilable, reconcile, reconciled, reconciliation, recondite, recondition, reconditioned, reconfigurable, reconfiguration, reconfigure, reconfigured, reconfirm, reconfirmation, reconnaissance, reconnect, reconnection, reconnoiter, reconquer, reconsider, reconsideration, reconstitute, reconstituted, reconstitution, reconstruct, reconstructed, reconstruction, reconstructionist, reconstructive, recontextualization, recontextualize, reconvene, reconversion, reconvert, recount, recounted, recounting, reeking, rekindle, rekindled, rekindling, ricin, rocking
+#####739                  (65 words):
+geocentric, geoeconomic, geoeconomics, jackknife, jockeying, joking, jokingly, joycean, juiciness, raccoon, racing, raconteur, racoon, raking, recant, recantation, recency, recent, recently, reckon, reckoning, recon, reconceptualization, reconcilable, reconcile, reconciled, reconciliation, recondite, recondition, reconditioned, reconfigurable, reconfiguration, reconfigure, reconfigured, reconfirm, reconfirmation, reconnaissance, reconnect, reconnection, reconnoiter, reconquer, reconsider, reconsideration, reconstitute, reconstituted, reconstitution, reconstruct, reconstructed, reconstruction, reconstructionist, reconstructive, recontextualization, recontextualize, reconvene, reconversion, reconvert, recount, recounted, recounting, reeking, rekindle, rekindled, rekindling, ricin, rocking
 
-#####740                  (40 words):
-geodesic, goddess, godself, godsend, godson, good-size, good-sized, goodies, guidescope, guidestar, radioisotope, radish, radius, red-skinned, red-state, red-striped, red-zone, reddish, reddish-blond, reddish-brown, reddish-orange, reddish-purple, redescription, redesign, redesigned, rediscover, rediscovered, rediscovery, redistribute, redistribution, redistributional, redistributive, redistricting, redshift, redshifted, redshirt, roadshow, roadside, roadster, rod-shaped
+#####740                  (46 words):
+geodesic, goddess, godself, godsend, godson, good-size, good-sized, goodies, guidescope, guidestar, jewess, jewish, jewish-american, jewish-arab, jewish-christian, jewish-owned, radioisotope, radish, radius, red-skinned, red-state, red-striped, red-zone, reddish, reddish-blond, reddish-brown, reddish-orange, reddish-purple, redescription, redesign, redesigned, rediscover, rediscovered, rediscovery, redistribute, redistribution, redistributional, redistributive, redistricting, redshift, redshifted, redshirt, roadshow, roadside, roadster, rod-shaped
 
-#####741                  (19 words):
-geodetic, good-tasting, good-time, radiate, radiated, radiating, radiation, radiative, radiator, radio-tv, radiotherapy, ready-to-go, ready-to-use, ready-to-wear, red-tailed, red-tile, red-tiled, reed-thin, road-trip
+#####741                  (20 words):
+geodetic, good-tasting, good-time, jadeite, radiate, radiated, radiating, radiation, radiative, radiator, radio-tv, radiotherapy, ready-to-go, ready-to-use, ready-to-wear, red-tailed, red-tile, red-tiled, reed-thin, road-trip
 
-#####742                  (26 words):
-godparent, good-paying, goodbye, guidebook, guidepost, rawboned, readability, readable, red-bearded, red-blooded, red-blue, red-brick, red-brown, red-painted, redbone, redbud, redeploy, redeployment, redouble, redoubled, redoubt, redoubtable, roadbed, roadblock, rowboat, rudbeckia
+#####742                  (28 words):
+godparent, good-paying, goodbye, guidebook, guidepost, jawbone, jawbreaker, rawboned, readability, readable, red-bearded, red-blooded, red-blue, red-brick, red-brown, red-painted, redbone, redbud, redeploy, redeployment, redouble, redoubled, redoubt, redoubtable, roadbed, roadblock, rowboat, rudbeckia
 
-#####743                  (38 words):
-gawk, gawking, gawky, godchild, radical, radicalism, radicalization, radicalize, radicalized, radically, radicchio, radioactive, radioactively, radioactivity, radiocarbon, reawaken, reawakening, redacted, redaction, redcoat, redecorate, redecoration, reduce, reduced, reducer, reducible, reducing, reductase, reduction, reductionism, reductionistic, reductive, ridicule, ridiculed, ridiculous, ridiculously, ridiculousness, roadkill
+#####743                  (44 words):
+gawk, gawking, gawky, godchild, judaic, judicial, judicially, judiciary, judicious, judiciously, radical, radicalism, radicalization, radicalize, radicalized, radically, radicchio, radioactive, radioactively, radioactivity, radiocarbon, reawaken, reawakening, redacted, redaction, redcoat, redecorate, redecoration, reduce, reduced, reducer, reducible, reducing, reductase, reduction, reductionism, reductionistic, reductive, ridicule, ridiculed, ridiculous, ridiculously, ridiculousness, roadkill
 
-#####744                  (21 words):
-gadwall, god-awful, goodwife, goodwill, guided, guided-missile, guideway, radio-wave, red-eyed, red-white-and-blue, red-wine, red-winged, rededicate, rededication, redware, redwood, roadway, roadwork, rowdie, rowdiness, rowdy
+#####744                  (23 words):
+gadwall, god-awful, goodwife, goodwill, guided, guided-missile, guideway, jaded, jaw-dropping, radio-wave, red-eyed, red-white-and-blue, red-wine, red-winged, rededicate, rededication, redware, redwood, roadway, roadwork, rowdie, rowdiness, rowdy
 
-#####745                  (33 words):
-gadolinium, gaudily, giddily, godless, godlessness, godlike, godliness, godly, good-looking, good-luck, good-old-boy, goodly, guideline, gweilo, radial, radial-velocity, radially, radiological, radiologist, radiology, readily, red-legged, red-letter, red-light, redial, redline, redly, redolence, redolent, riddle, riddled, roadless, rudely
+#####745                  (39 words):
+gadolinium, gaudily, giddily, godless, godlessness, godlike, godliness, godly, goodly, guideline, gweilo, jawline, jaywalk, jaywalker, jewel, jeweled, jeweler, jewelled, jeweller, jewellery, jewelry, jewelweed, jowl, jowly, radial, radially, radiological, radiologist, radiology, readily, redial, redline, redly, redolence, redolent, riddle, riddled, roadless, rudely
 
-#####746                  (21 words):
-gadfly, god-fearing, godfather, godforsaken, good-faith, good-for-nothing, readjust, readjustment, red-faced, red-flag, red-flowered, red-velvet, redefine, redefined, redefining, redefinition, redevelop, redevelopment, redfish, redivide, ruddy-faced
+#####746                  (19 words):
+gadfly, god-fearing, godfather, godforsaken, good-faith, good-for-nothing, red-faced, red-flag, red-flowered, red-velvet, redefine, redefined, redefining, redefinition, redevelop, redevelopment, redfish, redivide, ruddy-faced
 
-#####747                  (44 words):
-gadget, gadgetry, gewgaws, goddaughter, guider, radar, radiograph, radiographic, radiographically, radiography, readdress, reader, readerly, readership, redirect, redirected, redirection, redraft, redraw, redrawing, redress, reward, rewarding, rewarm, rewire, reword, rework, reworked, reworking, rewritable, rewrite, rewriting, rider, riderless, ridership, ridge, ridged, ridgeline, ridgepole, ridgetop, roadrunner, rower, rudder, rudderless
+#####747                  (54 words):
+gadget, gadgetry, gewgaws, goddaughter, guider, judge, judged, judgement, judgeship, judging, judgment, judgmental, judgmentalism, radar, radiograph, radiographic, radiographically, radiography, readdress, reader, readerly, readership, readjust, readjustment, redirect, redirected, redirection, redraft, redraw, redrawing, redress, reward, rewarding, rewarm, rewire, reword, rework, reworked, reworking, rewritable, rewrite, rewriting, rider, riderless, ridership, ridge, ridged, ridgeline, ridgepole, ridgetop, roadrunner, rower, rudder, rudderless
 
-#####748                  (40 words):
-gee-whiz, god-man, goddam, goddamit, goddammit, goddamn, goddamned, godhead, godhood, godmother, good-hearted, good-humored, radioman, radiometer, radiometric, radium, raw-milk, rawhide, readmission, readmit, ready-made, readymade, red-haired, red-handed, red-headed, red-hot, red-meat, redeem, redeemable, redeemed, redeemer, redeeming, redemption, redemptive, redhead, roadhouse, roadmap, rowhouse, rudiment, rudimentary
+#####748                  (41 words):
+gee-whiz, god-man, goddam, goddamit, goddammit, goddamn, goddamned, godhead, godhood, godmother, good-hearted, good-humored, jodhpur, radioman, radiometer, radiometric, radium, raw-milk, rawhide, readmission, readmit, ready-made, readymade, red-haired, red-handed, red-headed, red-hot, red-meat, redeem, redeemable, redeemed, redeemer, redeeming, redemption, redemptive, redhead, roadhouse, roadmap, rowhouse, rudiment, rudimentary
 
-#####749                  (34 words):
-giddiness, goading, goodness, goodnight, gown, gowned, guidance, guiding, radian, radiance, radiant, radiantly, radionuclide, radon, raiding, rawness, readiness, reading, redden, reddened, reddening, redneck, redness, redound, redundancy, redundant, redundantly, rewind, riddance, riding, rodent, rowan, rowing, rudeness
+#####749                  (35 words):
+giddiness, goading, goodness, goodnight, gown, gowned, guidance, guiding, judean, radian, radiance, radiant, radiantly, radionuclide, radon, raiding, rawness, readiness, reading, redden, reddened, reddening, redneck, redness, redound, redundancy, redundant, redundantly, rewind, riddance, riding, rodent, rowan, rowing, rudeness
 
-#####750                  (40 words):
-gallstone, galosh, gaullist, glasnost, glass, glassblower, glassed, glassful, glasshouse, glassine, glasslike, glassmaker, glassware, glassworks, glassy, glaze, glazed, glazing, glissade, glissando, glisten, glistening, gloss, glossary, glossed, glossy, goulash, realism, realist, realistic, realistically, realizable, realization, realize, realized, releasable, release, released, relish, royalist
+#####750                  (44 words):
+gallstone, galosh, gaullist, glasnost, glass, glassblower, glassed, glassful, glasshouse, glassine, glasslike, glassmaker, glassware, glassworks, glassy, glaze, glazed, glazing, glissade, glissando, glisten, glistening, gloss, glossary, glossed, glossy, goulash, jealous, jealously, jealousy, joyless, realism, realist, realistic, realistically, realizable, realization, realize, realized, releasable, release, released, relish, royalist
 
-#####751                  (61 words):
-galette, gelatin, gelatinous, gelato, gilt, glitch, glitter, glitterati, glittering, glittery, glitz, glitzy, gloat, gloating, glottal, glottic, glottis, glut, glutamate, glutamine, glutathione, glute, gluteal, gluten, gluteus, glutinous, glutted, glutton, gluttonous, gluttony, goaltender, goaltending, guillotine, guilt, guiltily, guiltless, guilty, gullet, reality, realtor, relatable, relate, related, relatedly, relatedness, relation, relational, relationality, relationship, relative, relatively, relativism, relativist, relativistic, relativity, relativize, relator, relaxation, rollout, roulette, royalty
+#####751                  (66 words):
+galette, gelatin, gelatinous, gelato, gilt, glitch, glitter, glitterati, glittering, glittery, glitz, glitzy, gloat, gloating, glottal, glottic, glottis, glut, glutamate, glutamine, glutathione, glute, gluteal, gluten, gluteus, glutinous, glutted, glutton, gluttonous, gluttony, goaltender, goaltending, guillotine, guilt, guiltily, guiltless, guilty, gullet, jilt, jilted, jollity, jolt, jolting, reality, realtor, relatable, relate, related, relatedly, relatedness, relation, relational, relationality, relationship, relative, relatively, relativism, relativist, relativistic, relativity, relativize, relator, relaxation, rollout, roulette, royalty
 
-#####752                  (36 words):
-gallbladder, gallop, galloping, glib, glibly, glibness, glioblastoma, glob, global, globalism, globalization, globalize, globalized, globalizing, globally, globe, globin, globular, globule, globulin, glop, gloppy, glyph, glyphosate, goalpost, gullibility, gullible, gulp, gulping, realpolitik, relapse, reliability, reliable, reliably, rollback, rulebook
+#####752                  (41 words):
+gallbladder, gallop, galloping, glib, glibly, glibness, glioblastoma, glob, global, globalism, globalization, globalize, globalized, globalizing, globally, globe, globin, globular, globule, globulin, glop, gloppy, glyph, glyphosate, goalpost, gullibility, gullible, gulp, gulping, jailbird, jailbreak, jalapeno, jalopy, julep, realpolitik, relapse, reliability, reliable, reliably, rollback, rulebook
 
 #####753                  (47 words):
 gaelic, galactic, galactosemia, gallic, glacial, glacially, glaciated, glaciation, glacier, glacier-carved, glacier-fed, glaciologist, glaucoma, glaucous, glockenspiel, glucocorticoid, glucosamine, glucose, glycemic, glycerin, glycerine, glycerol, glyceryl, glycine, glycogen, glycol, glycoprotein, glycoside, goalkeeper, guilloche, railcar, re-elect, re-election, reallocate, reallocation, relacion, relic, relict, reliquary, relocate, relocated, relocation, reluctance, reluctant, reluctantly, roll-call, rollicking
 
-#####754                  (41 words):
-gallows, gelding, gelid, gild, gilded, gilding, glad, gladden, glade, gladed, gladiator, gladiatorial, gladiolus, gladly, gladness, glide, glider, gliding, glow, glower, glowering, glowing, glowingly, glowworm, glued, gold, golden, goldenrod, goldfield, goldfinch, goldfish, guilder, railed, railway, relaxed, reload, riled, rolled, rolodex, roulade, ruled
+#####754                  (43 words):
+gallows, gelding, gelid, gild, gilded, gilding, glad, gladden, glade, gladed, gladiator, gladiatorial, gladiolus, gladly, gladness, glide, glider, gliding, glow, glower, glowering, glowing, glowingly, glowworm, glued, gold, golden, goldenrod, goldfield, goldfinch, goldfish, guilder, jailed, jellied, railed, railway, relaxed, reload, riled, rolled, rolodex, roulade, ruled
 
-#####755                  (8 words):
-galilean, gel-like, glial, goal-line, guileless, guilelessly, real-life, real-live
+#####755                  (9 words):
+galilean, gel-like, glial, goal-line, guileless, guilelessly, jelly-like, real-life, real-live
 
-#####756                  (31 words):
-gale-force, gallivant, galvanic, galvanize, galvanized, galvanizing, gel-filled, gleeful, gleefully, glove, gloved, gloveless, golf, golf-ball, golf-club, golf-course, golfer, golfing, relevance, relevancy, relevant, relevantly, relief, relieve, relieved, reliever, relive, roll-off, rollover, rule-of-law, rule-of-thumb
+#####756                  (32 words):
+gale-force, gallivant, galvanic, galvanize, galvanized, galvanizing, gel-filled, gleeful, gleefully, glove, gloved, gloveless, golf, golf-ball, golf-club, golf-course, golfer, golfing, jellyfish, relevance, relevancy, relevant, relevantly, relief, relieve, relieved, reliever, relive, roll-off, rollover, rule-of-law, rule-of-thumb
 
-#####757                  (47 words):
-gallery, galore, gaoler, geologic, geological, geologically, geologist, geology, glare, glaring, glaringly, glorification, glorified, glorify, gloriosa, glorious, gloriously, glory, glug, goal-oriented, gulag, railroad, railyard, realign, realignment, relaxer, relearn, relearning, relegate, relegation, religio-political, religion, religion-based, religionist, religiosity, religious, religious-based, religious-right, religiously, religiousness, roller, roller-coaster, roller-skating, rollerblader, rule-governed, ruler, rulership
+#####757                  (41 words):
+gallery, galore, gaoler, geologic, geological, geologically, geologist, geology, glare, glaring, glaringly, glorification, glorified, glorify, gloriosa, glorious, gloriously, glory, glug, gulag, jailer, jellyroll, railroad, railyard, realign, realignment, relaxer, relearn, relearning, relegate, relegation, religion, religionist, religiosity, religious, religiously, religiousness, roller, rollerblader, ruler, rulership
 
-#####758                  (31 words):
-gallium, galumph, glam, glamorization, glamorize, glamorous, glamorously, glamourous, gleam, gleaming, glimmer, glimmering, glimpse, glimpsed, glioma, gloaming, glom, glomerular, glomerulonephritis, gloom, gloom-and-doom, gloomily, gloominess, gloomy, glum, glumly, golem, railhead, realm, role-model, rule-making
+#####758                  (32 words):
+gallium, galumph, glam, glamorization, glamorize, glamorous, glamorously, glamourous, gleam, gleaming, glimmer, glimmering, glimpse, glimpsed, glioma, gloaming, glom, glomerular, glomerulonephritis, gloom, gloom-and-doom, gloomily, gloominess, gloomy, glum, glumly, golem, jailhouse, railhead, realm, role-model, rule-making
 
-#####759                  (38 words):
-gallant, gallantly, gallantry, galleon, galling, glance, glancing, glancingly, gland, glandular, glean, gleaner, gleanings, glint, glinting, gluon, guyline, railing, rallying, realness, reeling, relaunch, relaxant, relaxing, relent, relentless, relentlessly, relentlessness, reliance, reliant, reline, relinquish, relinquishing, relinquishment, roiling, roll-on, rolling, ruling
+#####759                  (41 words):
+gallant, gallantly, gallantry, galleon, galling, glance, glancing, glancingly, gland, glandular, glean, gleaner, gleanings, glint, glinting, gluon, guyline, jailing, jillion, julienne, railing, rallying, realness, reeling, relaunch, relaxant, relaxing, relent, relentless, relentlessly, relentlessness, reliance, reliant, reline, relinquish, relinquishing, relinquishment, roiling, roll-on, rolling, ruling
 
 #####760                  (19 words):
 go-fast, raffish, ravish, ravishing, ravishingly, re-visioning, refashion, refashioning, refusal, refuse, refused, refusenik, revise, revised, revision, revisionary, revisionism, revisionist, revisit
@@ -2628,116 +2627,116 @@ gift, gift-giving, gift-wrapped, gifted, gifted/talented, giftedness, raft, raft
 #####762                  (2 words):
 giveback, goofball
 
-#####763                  (13 words):
-refectory, reification, reject, rejected, rejecter, rejection, rejectionist, rejoice, rejoicing, revocable, revocation, revoke, revoked
+#####763                  (6 words):
+refectory, reification, revocable, revocation, revoke, revoked
 
 #####764                  (11 words):
 give-away, giveaway, guffaw, reified, review, reviewable, reviewed, reviewer, reviewing, revved-up, ruffed
 
-#####765                  (70 words):
-gavel, raffle, ravel, raveled, ravioli, refill, refillable, reflect, reflectance, reflected, reflection, reflective, reflectively, reflectiveness, reflectivity, reflector, reflex, reflexive, reflexively, reflexivity, reflexology, reflux, refuel, refueling, revaluation, revalue, reveal, revealed, revealing, revealingly, reveille, revel, revelation, revelational, revelatory, reveler, reveller, revelry, revile, reviled, revolt, revolted, revolting, revolution, revolutionary, revolutionist, revolutionize, revolutionized, revolve, revolver, revolving, revulsion, riffle, rifle, rifled, rifleman, riflery, riflescope, rifling, rival, rivalrous, rivalry, rivulet, roofless, roofline, rueful, ruefully, ruffle, ruffled, ruffly
+#####765                  (78 words):
+gavel, javelin, javelina, jovial, joviality, jovially, joyful, joyfully, joyfulness, raffle, ravel, raveled, ravioli, refill, refillable, reflect, reflectance, reflected, reflection, reflective, reflectively, reflectiveness, reflectivity, reflector, reflex, reflexive, reflexively, reflexivity, reflexology, reflux, refuel, refueling, revaluation, revalue, reveal, revealed, revealing, revealingly, reveille, revel, revelation, revelational, revelatory, reveler, reveller, revelry, revile, reviled, revolt, revolted, revolting, revolution, revolutionary, revolutionist, revolutionize, revolutionized, revolve, revolver, revolving, revulsion, riffle, rifle, rifled, rifleman, riflery, riflescope, rifling, rival, rivalrous, rivalry, rivulet, roofless, roofline, rueful, ruefully, ruffle, ruffled, ruffly
 
-#####766                  (11 words):
-rejuvenate, rejuvenated, rejuvenating, rejuvenation, revival, revivalism, revivalist, revive, revived, revivify, reviving
+#####766                  (7 words):
+revival, revivalism, revivalist, revive, revived, revivify, reviving
 
 #####767                  (110 words):
-gaffer, giver, gofer, govern, governable, governance, governess, governing, government, governmental, governmentally, governor, governorate, governorship, ravage, ravaged, ravages, ravaging, raver, reaffirm, reaffirmation, reefer, refer, referee, refereed, refereeing, reference, referenced, referencing, referendum, referent, referential, referral, referred, reforest, reforestation, reform, reformat, reformatory, reformed, reformer, reforming, reformism, reformist, reformulate, reformulated, reformulation, refract, refracted, refracting, refraction, refractive, refractor, refractory, refrain, reframing, refresh, refreshed, refresher, refreshing, refreshingly, refreshment, refried, refrigerant, refrigerate, refrigerated, refrigeration, refrigerator, refuge, refugee, refurbish, refurbished, refurbishing, refurbishment, refurnish, rejigger, reverb, reverberant, reverberate, reverberating, reverberation, revere, revered, reverence, reverend, reverent, reverential, reverentially, reverently, reverie, reversal, reverse, reversed, reverser, reversibility, reversible, reversing, reversion, revert, revery, riffraff, river, riverbank, riverbed, riverboat, riverfront, riverine, riverway, roofer, rover
+gaffer, giver, gofer, govern, governable, governance, governess, governing, government, governmental, governmentally, governor, governorate, governorship, jeffersonian, ravage, ravaged, ravages, ravaging, raver, reaffirm, reaffirmation, reefer, refer, referee, refereed, refereeing, reference, referenced, referencing, referendum, referent, referential, referral, referred, reforest, reforestation, reform, reformat, reformatory, reformed, reformer, reforming, reformism, reformist, reformulate, reformulated, reformulation, refract, refracted, refracting, refraction, refractive, refractor, refractory, refrain, reframing, refresh, refreshed, refresher, refreshing, refreshingly, refreshment, refried, refrigerant, refrigerate, refrigerated, refrigeration, refrigerator, refuge, refugee, refurbish, refurbished, refurbishing, refurbishment, refurnish, reverb, reverberant, reverberate, reverberating, reverberation, revere, revered, reverence, reverend, reverent, reverential, reverentially, reverently, reverie, reversal, reverse, reversed, reverser, reversibility, reversible, reversing, reversion, revert, revery, riffraff, river, riverbank, riverbed, riverboat, riverfront, riverine, riverway, roofer, rover
 
 #####768                  (5 words):
 revamp, revamped, revamping, rifampin, roof-mounted
 
-#####769                  (40 words):
-gaijin, give-and-take, given, givenness, giving, goofiness, raven-black, raven-haired, ravening, ravenous, ravenously, ravine, raving, refinance, refinancing, refine, refined, refinement, refiner, refinery, refining, refinish, refinished, refund, refundable, rejoin, rejoinder, revanchist, revenant, revenge, revengeful, revenue, revenue-generating, revenue-neutral, revenue-producing, revenue-sharing, riven, roofing, roving, ruffian
+#####769                  (42 words):
+give-and-take, given, givenness, giving, goofiness, javan, javanese, jovian, juvenile, juvenile-justice, raven-black, raven-haired, ravening, ravenous, ravenously, ravine, raving, refinance, refinancing, refine, refined, refinement, refiner, refinery, refining, refinish, refinished, refund, refundable, revanchist, revenant, revenge, revengeful, revenue, revenue-generating, revenue-neutral, revenue-producing, revenue-sharing, riven, roofing, roving, ruffian
 
-#####770                  (52 words):
-garish, garishly, garrison, gearshift, gorse, grasp, graspable, grasping, grass, grasshopper, grassland, grassless, grasslike, grassy, grayish, graze, grazed, grazing, grease, greased, greaseless, greasepaint, greaser, greasewood, greasy, grisaille, grisly, grist, gristle, gristmill, grizzle, grizzled, grizzly, grosbeak, grosgrain, gross, grossly, grossness, grouse, grousing, gruesome, gruesomely, gyroscope, gyroscopic, gyrus, register, registered, registrant, registrar, registration, registry, roguish
+#####770                  (58 words):
+garish, garishly, garrison, gearshift, gorse, grasp, graspable, grasping, grass, grasshopper, grassland, grassless, grasslike, grassy, grayish, graze, grazed, grazing, grease, greased, greaseless, greasepaint, greaser, greasewood, greasy, grisaille, grisly, grist, gristle, gristmill, grizzle, grizzled, grizzly, grosbeak, grosgrain, gross, grossly, grossness, grouse, grousing, gruesome, gruesomely, gyroscope, gyroscopic, gyrus, jigsaw, jurisdiction, jurisdictional, jurisprudence, jurisprudential, jurist, register, registered, registrant, registrar, registration, registry, roguish
 
-#####771                  (55 words):
-garrote, garter, geriatric, geriatrician, girth, grate, grated, grateful, gratefully, gratefulness, grater, gratification, gratified, gratify, gratifying, gratifyingly, gratin, grating, gratis, gratitude, gratuitous, gratuitously, gratuitousness, gratuity, great, greatcoat, greatest, greatly, greatness, greet, greeter, greeting, griot, grit, grittiness, gritty, groats, grotesque, grotesquely, grotesquerie, grotto, grotty, grout, grouting, gyrate, gyration, ragout, ragtag, ragtime, ragtop, rarity, rearticulate, regatta, rerouting, rigatoni
+#####771                  (56 words):
+garrote, garter, geriatric, geriatrician, girth, grate, grated, grateful, gratefully, gratefulness, grater, gratification, gratified, gratify, gratifying, gratifyingly, gratin, grating, gratis, gratitude, gratuitous, gratuitously, gratuitousness, gratuity, great, greatcoat, greatest, greatly, greatness, greet, greeter, greeting, griot, grit, grittiness, gritty, groats, grotesque, grotesquely, grotesquerie, grotto, grotty, grout, grouting, gyrate, gyration, jujitsu, ragout, ragtag, ragtime, ragtop, rarity, rearticulate, regatta, rerouting, rigatoni
 
-#####772                  (54 words):
-garb, garbage, garbageman, garbanzo, garble, garbled, gearbox, gerbil, gigabit, gigabyte, gorp, grab, grabber, grabbing, grabby, grape, grapefruit, grapeseed, grapeshot, grapevine, graph, grapheme, graphic, graphical, graphically, graphing, graphite, grappa, grapple, grappler, grappling, graybeard, grebe, grip, gripe, griping, gripper, gripping, grippy, grope, groping, group, grouped, grouper, groupie, grouping, groupthink, groupware, grub, grubby, gryphon, gyroplane, ragbag, rugby
+#####772                  (55 words):
+garb, garbage, garbageman, garbanzo, garble, garbled, gearbox, gerbil, gigabit, gigabyte, gorp, grab, grabber, grabbing, grabby, grape, grapefruit, grapeseed, grapeshot, grapevine, graph, grapheme, graphic, graphical, graphically, graphing, graphite, grappa, grapple, grappler, grappling, graybeard, grebe, grip, gripe, griping, gripper, gripping, grippy, grope, groping, group, grouped, grouper, groupie, grouping, groupthink, groupware, grub, grubby, gryphon, gyroplane, jojoba, ragbag, rugby
 
-#####773                  (23 words):
-grace, graceful, gracefully, gracefulness, graceless, gracelessly, gracilis, gracious, graciously, graciousness, grackle, grecian, greco-roman, greek, greek-american, greek-style, greek-turkish, grocer, grocery, grocery-store, grouch, grouchy, regicide
+#####773                  (36 words):
+grace, graceful, gracefully, gracefulness, graceless, gracelessly, gracilis, gracious, graciously, graciousness, grackle, grecian, greco-roman, greek, greek-american, greek-style, greek-turkish, grocer, grocery, grocery-store, grouch, grouchy, jerk, jerk-off, jerkily, jerkin, jerking, jerky, regicide, reject, rejected, rejecter, rejection, rejectionist, rejoice, rejoicing
 
-#####774                  (73 words):
-garden, gardener, gardenia, gardening, giardiasis, gigawatt, gird, girder, girdle, gordian, gored, gouged, gourd, grad, gradation, grade, graded, grader, gradient, grading, gradual, gradualism, gradually, graduate, graduated, graduation, grayed, greed, greedily, greediness, greedy, grid, gridded, griddle, gridiron, gridlike, gridlock, gridlocked, grow, grower, growing, growl, growling, grown, growth, grudge, grudging, grudgingly, guard, guarded, guardedly, guardhouse, guardian, guardianship, guarding, guardrail, guardsman, ragged, raggedly, raggedy, ragweed, rearward, reorder, reordering, reread, rigged, rigid, rigidity, rigidly, rouged, rugged, ruggedly, ruggedness
+#####774                  (81 words):
+garden, gardener, gardenia, gardening, giardiasis, gigawatt, gird, girder, girdle, gordian, gored, gouged, gourd, grad, gradation, grade, graded, grader, gradient, grading, gradual, gradualism, gradually, graduate, graduated, graduation, grayed, greed, greedily, greediness, greedy, grid, gridded, griddle, gridiron, gridlike, gridlock, gridlocked, grow, grower, growing, growl, growling, grown, growth, grudge, grudging, grudgingly, guard, guarded, guardedly, guardhouse, guardian, guardianship, guarding, guardrail, guardsman, jagged, jaggedly, jarred, jordanian, joyride, joyriding, juridical, juried, ragged, raggedly, raggedy, ragweed, rearward, reorder, reordering, reread, rigged, rigid, rigidity, rigidly, rouged, rugged, ruggedly, ruggedness
 
-#####775                  (50 words):
-gaggle, garlanded, garlic, garlicky, garrulous, giggle, giggling, giggly, gigolo, girl, girlfriend, girlhood, girlie, girlish, girlishly, girly, goggle, gorilla, grayling, grill, grille, grilled, grilling, grillwork, gruel, grueling, gruelling, guerilla, guerrilla, rarely, regal, regale, regalia, regally, regolith, regular, regularity, regularization, regularize, regularized, regularly, regulate, regulated, regulating, regulation, regulative, regulator, regulatory, rural, rural/urban
+#####775                  (58 words):
+gaggle, garlanded, garlic, garlicky, garrulous, giggle, giggling, giggly, gigolo, girl, girlfriend, girlhood, girlie, girlish, girlishly, girly, goggle, gorilla, grayling, grill, grille, grilled, grilling, grillwork, gruel, grueling, gruelling, guerilla, guerrilla, jiggle, jiggling, joggle, juggle, juggler, juggling, jugular, jural, rarely, regal, regale, regalia, regally, regolith, regular, regularity, regularization, regularize, regularized, regularly, regulate, regulated, regulating, regulation, regulative, regulator, regulatory, rural, rural/urban
 
-#####776                  (50 words):
-giraffe, graffiti, graffito, graft, grafted, grafting, grav, grave, gravedigger, gravel, graveled, gravelly, gravely, graven, graveside, gravesite, gravestone, graveyard, gravid, gravimetric, gravitate, gravitation, gravitational, gravitationally, graviton, gravity, gravlax, gravy, grief, grievance, grieve, grieved, grieving, grievous, grievously, griffon, grifter, groove, grooved, groovy, grovel, gruff, gruffly, gruffness, gyrfalcon, rarefaction, rarefied, rarefy, rarified, rearview
+#####776                  (54 words):
+giraffe, graffiti, graffito, graft, grafted, grafting, grav, grave, gravedigger, gravel, graveled, gravelly, gravely, graven, graveside, gravesite, gravestone, graveyard, gravid, gravimetric, gravitate, gravitation, gravitational, gravitationally, graviton, gravity, gravlax, gravy, grief, grievance, grieve, grieved, grieving, grievous, grievously, griffon, grifter, groove, grooved, groovy, grovel, gruff, gruffly, gruffness, gyrfalcon, rarefaction, rarefied, rarefy, rarified, rearview, rejuvenate, rejuvenated, rejuvenating, rejuvenation
 
-#####777                  (53 words):
-garage, gargantuan, gargle, gargoyle, geographer, geographic, geographical, geographically, geography, georgian, gorge, gorgeous, gorgeously, gorgeousness, gorget, gorgon, gregarious, gregariousness, gregorian, grog, groggily, grogginess, groggy, gurgle, gurgling, rearguard, regard, regarding, regardless, regards, regress, regression, regressive, regret, regretful, regretfully, regrettable, regrettably, regroup, regrouping, regrow, regrowth, regurgitate, regurgitated, regurgitation, reorganization, reorganize, reorganized, rigger, rigor, rigorous, rigorously, ryegrass
+#####777                  (59 words):
+garage, gargantuan, gargle, gargoyle, geographer, geographic, geographical, geographically, geography, georgian, gorge, gorgeous, gorgeously, gorgeousness, gorget, gorgon, gregarious, gregariousness, gregorian, grog, groggily, grogginess, groggy, gurgle, gurgling, jargon, jigger, jogger, juggernaut, juror, rearguard, regard, regarding, regardless, regards, regress, regression, regressive, regret, regretful, regretfully, regrettable, regrettably, regroup, regrouping, regrow, regrowth, regurgitate, regurgitated, regurgitation, rejigger, reorganization, reorganize, reorganized, rigger, rigor, rigorous, rigorously, ryegrass
 
-#####778                  (75 words):
-garment, gearhead, germ, german, germane, germanic, germanium, germinal, germinate, germination, germline, germplasm, gerrymander, gerrymandered, gerrymandering, gigahertz, gourmand, gourmet, grammar, grammarian, grammatical, grammatically, gramophone, gremlin, grim, grimace, grimacing, grime, grimly, grimness, grimy, grommet, groom, groomed, groomer, grooming, groomsman, grumble, grumbling, grump, grumpily, grumpiness, grumpy, ragamuffin, rearm, rearmament, rearmost, regime, regimen, regiment, regimental, regimentation, regimented, right, righteous, righteously, righteousness, rightfield, rightful, rightfully, rightist, rightly, rightmost, rightness, rightward, rigmarole, rough, roughage, roughen, roughened, roughhouse, roughly, roughneck, roughness, roughshod
+#####778                  (76 words):
+garment, gearhead, germ, german, germane, germanic, germanium, germinal, germinate, germination, germline, germplasm, gerrymander, gerrymandered, gerrymandering, gigahertz, gourmand, gourmet, grammar, grammarian, grammatical, grammatically, gramophone, gremlin, grim, grimace, grimacing, grime, grimly, grimness, grimy, grommet, groom, groomed, groomer, grooming, groomsman, grumble, grumbling, grump, grumpily, grumpiness, grumpy, jeremiad, ragamuffin, rearm, rearmament, rearmost, regime, regimen, regiment, regimental, regimentation, regimented, right, righteous, righteously, righteousness, rightfield, rightful, rightfully, rightist, rightly, rightmost, rightness, rightward, rigmarole, rough, roughage, roughen, roughened, roughhouse, roughly, roughneck, roughness, roughshod
 
-#####779                  (155 words):
-gagging, garner, garnish, garnished, garnishment, gearing, geranium, gerontocracy, gerontological, gerontologist, gerontology, gigantic, gigantism, gouging, grain, graininess, grainy, granary, grand, grandad, grandaddy, grandbaby, grandchild, granddad, granddaddy, granddaughter, grandee, grandeur, grandfather, grandfathered, grandfatherly, grandiloquent, grandiose, grandiosely, grandiosity, grandkid, grandly, grandmama, grandmaster, grandmom, grandmother, grandmotherly, grandnephew, grandness, grandniece, grandparent, grandson, grandstand, grandstanding, granita, granite, granitic, granny, granola, grant, grantee, granting, grantor, granular, granularity, granulate, granulated, granulation, granule, granuloma, granulomatous, graying, grayness, green, greenback, greenbelt, greenbrier, greenery, greengrocer, greenhorn, greenhouse, greening, greenish, greenly, greenness, greenroom, greenskeeper, greenstone, greensward, grenade, grenadier, greyness, grin, grinch, grind, grinder, grinding, grindstone, gringa, gringo, grinning, groan, groaning, groin, ground, groundball, groundbreaking, groundcover, grounded, grounder, groundfish, grounding, groundless, groundling, groundnut, groundout, groundskeeper, groundstroke, groundswell, groundwater, groundwork, grunge, grungy, grunt, guarana, guarantee, guaranteed, guarantor, guaranty, gurney, raging, reaganesque, reaganite, reagent, rearing, rearrange, rearrangement, rearranging, regain, regenerate, regenerating, regeneration, regenerative, regent, region, regional, regionalism, regionalist, regionalization, regionalize, regionalized, regionally, regnant, reign, reigning, reignite, reorientation, rerun, rigging, roaring
+#####779                  (172 words):
+gagging, gaijin, garner, garnish, garnished, garnishment, gearing, geranium, gerontocracy, gerontological, gerontologist, gerontology, gigantic, gigantism, gouging, grain, graininess, grainy, granary, grand, grandad, grandaddy, grandbaby, grandchild, granddad, granddaddy, granddaughter, grandee, grandeur, grandfather, grandfathered, grandfatherly, grandiloquent, grandiose, grandiosely, grandiosity, grandkid, grandly, grandmama, grandmaster, grandmom, grandmother, grandmotherly, grandnephew, grandness, grandniece, grandparent, grandson, grandstand, grandstanding, granita, granite, granitic, granny, granola, grant, grantee, granting, grantor, granular, granularity, granulate, granulated, granulation, granule, granuloma, granulomatous, graying, grayness, green, greenback, greenbelt, greenbrier, greenery, greengrocer, greenhorn, greenhouse, greening, greenish, greenly, greenness, greenroom, greenskeeper, greenstone, greensward, grenade, grenadier, greyness, grin, grinch, grind, grinder, grinding, grindstone, gringa, gringo, grinning, groan, groaning, groin, ground, groundball, groundbreaking, groundcover, grounded, grounder, groundfish, grounding, groundless, groundling, groundnut, groundout, groundskeeper, groundstroke, groundswell, groundwater, groundwork, grunge, grungy, grunt, guarana, guarantee, guaranteed, guarantor, guaranty, gurney, jarring, jarringly, jeering, jigging, jogging, journal, journaling, journalism, journalist, journalistic, journalistically, journey, journeying, journeyman, raging, reaganesque, reaganite, reagent, rearing, rearrange, rearrangement, rearranging, regain, regenerate, regenerating, regeneration, regenerative, regent, region, regional, regionalism, regionalist, regionalization, regionalize, regionalized, regionally, regnant, reign, reigning, reignite, rejoin, rejoinder, reorientation, rerun, rigging, roaring
 
-#####780                  (23 words):
-game-saving, game-show, gamesmanship, gemstone, ghastly, ghost, ghostlike, ghostly, ghostwriter, gumshoe, ramshackle, rehash, rehashing, remastered, remiss, remission, rheostat, rhesus, rhizomatous, rhizome, room-service, room-size, room-sized
+#####780                  (26 words):
+game-saving, game-show, gamesmanship, gemstone, ghastly, ghost, ghostlike, ghostly, ghostwriter, gumshoe, jamesian, jammies, jimmies, ramshackle, rehash, rehashing, remastered, remiss, remission, rheostat, rhesus, rhizomatous, rhizome, room-service, room-size, room-sized
 
 #####781                  (34 words):
 game-tying, gamete, gamut, geometric, geometrical, geometrically, geometrics, geometry, ghat, ghetto, ghettoization, ghettoize, reheat, reheated, reheating, rematch, remit, remittance, remote, remote-control, remote-controlled, remote-sensing, remotely, remoteness, rhetoric, rhetorical, rhetorically, rhetorician, rhythm, rhythmic, rhythmical, rhythmically, room-temperature, roommate
 
-#####782                  (52 words):
-gambian, gambit, gamble, gambler, gambling, gamboge, gambol, gameboy, gameplay, gimbal, gimp, gimpy, gumball, gumbo, gumption, ramble, rambler, rambling, rambunctious, ramp, rampage, rampaging, rampant, rampantly, rampart, rehab, rehabbed, rehabilitate, rehabilitated, rehabilitation, rehabilitative, rehabilitator, reimburse, reimbursement, reimportation, reimpose, reimposition, remapping, rhabdomyosarcoma, rhapsodic, rhapsodize, rhapsody, rhubarb, romp, romper, rumba, rumble, rumbling, rump, rumple, rumpled, rumpus
+#####782                  (64 words):
+gambian, gambit, gamble, gambler, gambling, gamboge, gambol, gameboy, gameplay, gimbal, gimp, gimpy, gumball, gumbo, gumption, jamb, jambalaya, jamboree, jumble, jumbled, jumbo, jump, jumper, jumping, jumpstart, jumpsuit, jumpy, ramble, rambler, rambling, rambunctious, ramp, rampage, rampaging, rampant, rampantly, rampart, rehab, rehabbed, rehabilitate, rehabilitated, rehabilitation, rehabilitative, rehabilitator, reimburse, reimbursement, reimportation, reimpose, reimposition, remapping, rhabdomyosarcoma, rhapsodic, rhapsodize, rhapsody, rhubarb, romp, romper, rumba, rumble, rumbling, rump, rumple, rumpled, rumpus
 
-#####783                  (9 words):
-game-changer, game-changing, gamekeeper, gimmick, gimmickry, gum-chewing, ramekin, remake, remaking
+#####783                  (10 words):
+game-changer, game-changing, gamekeeper, gimmick, gimmickry, gum-chewing, jamaican, ramekin, remake, remaking
 
-#####784                  (24 words):
-game-day, game-winner, game-winning, gameday, go-ahead, gumdrop, gummed, rammed, rehydrate, rehydrated, remediable, remedial, remediate, remediation, remedy, remodel, remodeled, remodeler, remodeling, rhodesian, rhodium, rhododendron, rhodopsin, rimmed
+#####784                  (28 words):
+game-day, game-winner, game-winning, gameday, go-ahead, gumdrop, gummed, jammed, jihad, jihadi, jihadist, rammed, rehydrate, rehydrated, remediable, remedial, remediate, remediation, remedy, remodel, remodeled, remodeler, remodeling, rhodesian, rhodium, rhododendron, rhodopsin, rimmed
 
 #####785                  (11 words):
 game-like, gamelan, gamely, gem-like, ghoul, ghoulish, gimlet, remilitarization, remold, rimless, romulan
 
-#####786                  (9 words):
-ramification, ramify, ramjet, removable, removal, remove, removed, remover, roomful
+#####786                  (8 words):
+ramification, ramify, removable, removal, remove, removed, remover, roomful
 
-#####787                  (37 words):
-gamer, gamma-ray, gay-marriage, geomagnetic, geomorphic, geomorphological, geomorphologist, geomorphology, gherkin, rah-rah, ramrod, ramrod-straight, re-emerge, re-emergence, re-emerging, re-imagining, reamer, rehear, rehearing, rehearsal, rehearse, rehearsed, remark, remarkable, remarkably, remarriage, remarried, remarry, remorse, remorseful, remorseless, remorselessly, rimrock, roamer, rummage, rumor, rumored
+#####787                  (39 words):
+gamer, gamma-ray, gay-marriage, geomagnetic, geomorphic, geomorphological, geomorphologist, geomorphology, gherkin, jammer, rah-rah, ramjet, ramrod, ramrod-straight, re-emerge, re-emergence, re-emerging, re-imagining, reamer, rehear, rehearing, rehearsal, rehearse, rehearsed, remark, remarkable, remarkably, remarriage, remarried, remarry, remorse, remorseful, remorseless, remorselessly, rimrock, roamer, rummage, rumor, rumored
 
 #####788                  (16 words):
 remember, remembered, rememberer, remembering, remembrance, rheumatic, rheumatism, rheumatoid, rheumatologist, rheumatology, rheumy, rhomboid, rhumba, rhyme, rhymed, rhyming
 
-#####789                  (56 words):
-gamine, gaming, ghanaian, gymnasium, gymnast, gymnastic, gymnastics, raiment, reaming, remain, remainder, remaining, remains, remand, remanufactured, remind, reminder, remineralization, reminisce, reminiscence, reminiscent, remnant, remonstrance, remonstrate, remount, remunerate, remuneration, remunerative, rhenish, rhinestone, rhinitis, rhino, rhinoceros, rhinoplasty, rhinorrhea, rhinovirus, romaine, roman, romance, romanesque, romanian, romantic, romantically, romanticism, romanticist, romanticization, romanticize, romanticized, roominess, rooming, rumanian, rumen, ruminant, ruminate, rumination, ruminative
+#####789                  (59 words):
+gamine, gaming, ghanaian, gymnasium, gymnast, gymnastic, gymnastics, jamming, johannine, johnboat, raiment, reaming, remain, remainder, remaining, remains, remand, remanufactured, remind, reminder, remineralization, reminisce, reminiscence, reminiscent, remnant, remonstrance, remonstrate, remount, remunerate, remuneration, remunerative, rhenish, rhinestone, rhinitis, rhino, rhinoceros, rhinoplasty, rhinorrhea, rhinovirus, romaine, roman, romance, romanesque, romanian, romantic, romantically, romanticism, romanticist, romanticization, romanticize, romanticized, roominess, rooming, rumanian, rumen, ruminant, ruminate, rumination, ruminative
 
-#####790                  (46 words):
-gainsay, gayness, gene-spliced, gene-splicing, genistein, genius, genoese, genus, ginseng, gnash, gnashing, gneiss, gnosis, gnostic, gun-shy, gunnysack, gunship, gunshot, gunsight, gunslinger, gunsmith, guyanese, rain-slick, rain-slicked, rain-soaked, rain-streaked, rain-swollen, rainstorm, ransack, ransacked, ransom, reinscription, reinsert, reinsertion, reinstall, reinstallation, reinstate, reinstatement, reinstitution, reinsurance, rinse, rinsed, rinsing, ruinous, ruinously, run-scoring
+#####790                  (38 words):
+gainsay, gayness, genistein, genius, genoese, genus, ginseng, gnash, gnashing, gneiss, gnosis, gnostic, gunnysack, gunship, gunshot, gunsight, gunslinger, gunsmith, guyanese, jeans, rainstorm, ransack, ransacked, ransom, reinscription, reinsert, reinsertion, reinstall, reinstallation, reinstate, reinstatement, reinstitution, reinsurance, rinse, rinsed, rinsing, ruinous, ruinously
 
-#####791                  (58 words):
-gannet, gantlet, gantry, gaunt, gauntlet, genetic, genetically, geneticist, genetics, genital, genitalia, genitals, genitourinary, genotype, genotypic, gent, gentamicin, genteel, gentian, gentile, gentility, gentle, gentleman, gentlemanliness, gentlemanly, gentleness, gentlewoman, gently, gentoo, gentrification, gentrified, gentrify, giant, giantess, gnat, gnatcatcher, rainout, rant, ranter, ranting, reintegrate, reintegration, reinterpret, reinterpretation, reintroduce, reintroduced, reintroduction, rennet, rent, rental, rented, renter, rentier, reunite, reunited, ruination, runt, runty
+#####791                  (67 words):
+gannet, gantlet, gantry, gaunt, gauntlet, genetic, genetically, geneticist, genetics, genital, genitalia, genitals, genitourinary, genotype, genotypic, gent, gentamicin, genteel, gentian, gentile, gentility, gentle, gentleman, gentlemanliness, gentlemanly, gentleness, gentlewoman, gently, gentoo, gentrification, gentrified, gentrify, giant, giantess, gnat, gnatcatcher, janitor, janitorial, jaunt, jauntily, jaunty, joint, jointly, junta, junto, rainout, rant, ranter, ranting, reintegrate, reintegration, reinterpret, reinterpretation, reintroduce, reintroduced, reintroduction, rennet, rent, rental, rented, renter, rentier, reunite, reunited, ruination, runt, runty
 
-#####792                  (12 words):
-gene-based, gunbattle, gunbelt, gunboat, gunplay, gunpoint, gunpowder, rainbow, rainbow-colored, rainbow-hued, run-up, runabout
+#####792                  (13 words):
+gene-based, gunbattle, gunbelt, gunboat, gunplay, gunpoint, gunpowder, juniper, rainbow, rainbow-colored, rainbow-hued, run-up, runabout
 
-#####793                  (45 words):
-ganache, genocidal, genocide, ginkgo, guanaco, gun-control, gunk, gunky, gynaecological, gynecologic, gynecological, gynecologist, gynecology, raincoat, ranch, ranch-style, rancher, ranchera, rancheria, ranchero, ranchette, ranching, ranchland, rancid, rancor, rancorous, rank, rank-and-file, rank-order, rank-ordered, ranked, ranking, rankle, raunch, raunchy, re-enact, re-enactment, re-enactor, reincarnate, reincarnated, reincarnation, reincorporation, rink, rinky-dink, runic
+#####793                  (48 words):
+ganache, genocidal, genocide, ginkgo, guanaco, gunk, gunky, gynaecological, gynecologic, gynecological, gynecologist, gynecology, jinks, jonquil, jounce, junction, juncture, junk, junked, junket, junkie, junkman, junky, junkyard, raincoat, ranch, rancher, ranchera, rancheria, ranchero, ranchette, ranching, ranchland, rancid, rancor, rancorous, rank, ranked, ranking, rankle, raunch, raunchy, reincarnate, reincarnated, reincarnation, reincorporation, rink, runic
 
-#####794                  (60 words):
-gander, gandhian, gendarme, gendarmerie, gender, gendered, gendering, genderless, gnaw, gnawing, gonad, gonadal, gonadotropin, gondola, gondolier, gunwale, raindrop, rainwater, random, randomised, randomization, randomize, randomized, randomly, randomness, randy, reindeer, rend, render, rendering, rendezvous, rending, rendition, renew, renewable, renewables, renewal, renewed, renown, renowned, rind, rinderpest, round, roundabout, rounded, roundel, rounder, rounders, roundhouse, rounding, roundish, roundly, roundness, roundtable, roundup, roundworm, ruined, runaway, rundown, runway
+#####794                  (63 words):
+gander, gandhian, gendarme, gendarmerie, gender, gendered, gendering, genderless, gnaw, gnawing, gonad, gonadal, gonadotropin, gondola, gondolier, gunwale, jaundice, jaundiced, joined, raindrop, rainwater, random, randomised, randomization, randomize, randomized, randomly, randomness, randy, reindeer, rend, render, rendering, rendezvous, rending, rendition, renew, renewable, renewables, renewal, renewed, renown, renowned, rind, rinderpest, round, roundabout, rounded, roundel, rounder, rounders, roundhouse, rounding, roundish, roundly, roundness, roundtable, roundup, roundworm, ruined, runaway, rundown, runway
 
 #####795                  (13 words):
 gene-altered, genealogical, genealogist, genealogy, genial, geniality, genially, gunnel, rainless, ranula, reanalysis, renal, runnel
 
-#####796                  (35 words):
-gainful, gainfully, ganja, genovese, genuflect, genuflection, gun-free, gunfight, gunfighter, gunfire, rain-fed, rainfall, rainforest, reinforce, reinforced, reinforcement, reinforcer, reinforcing, reinvent, reinvented, reinvention, reinvested, reinvestigate, reinvigorate, reinvigorated, reinvigoration, renovate, renovated, renovation, renovator, reunification, reunified, reunify, run-of-the-mill, runoff
+#####796                  (34 words):
+gainful, gainfully, genovese, genuflect, genuflection, gun-free, gunfight, gunfighter, gunfire, rain-fed, rainfall, rainforest, reinforce, reinforced, reinforcement, reinforcer, reinforcing, reinvent, reinvented, reinvention, reinvested, reinvestigate, reinvigorate, reinvigorated, reinvigoration, renovate, renovated, renovation, renovator, reunification, reunified, reunify, run-of-the-mill, runoff
 
-#####797                  (84 words):
-gainer, gang, gangbanger, gangbuster, gangland, gangling, ganglion, gangly, gangplank, gangrene, gangrenous, gangsta, gangster, gangway, general, generalised, generalissimo, generalist, generality, generalizability, generalization, generalize, generalized, generalizing, generally, generalship, generate, generated, generating, generation, generational, generative, generator, generic, generically, generosity, generous, generously, genre, geoengineering, ginger, gingerbread, gingered, gingerly, gingerroot, gingersnap, gingery, gingham, gingivitis, gingko, gnarled, gnarly, going, goner, gong, gonorrhea, gunner, gunnery, gunrunner, range, rangefinder, rangeland, ranging, rangy, reengineering, renegade, renege, renegotiate, renegotiated, renegotiation, renormalization, ring, ringed, ringer, ringing, ringleader, ringless, ringlet, ringmaster, ringside, ringworm, runaround, rung, runner
+#####797                  (100 words):
+gainer, gang, gangbanger, gangbuster, gangland, gangling, ganglion, gangly, gangplank, gangrene, gangrenous, gangsta, gangster, gangway, ganja, general, generalised, generalissimo, generalist, generality, generalizability, generalization, generalize, generalized, generalizing, generally, generalship, generate, generated, generating, generation, generational, generative, generator, generic, generically, generosity, generous, generously, genre, geoengineering, ginger, gingerbread, gingered, gingerly, gingerroot, gingersnap, gingery, gingham, gingivitis, gingko, gnarled, gnarly, going, goner, gong, gonorrhea, gunner, gunnery, gunrunner, jangle, jangled, jangling, jangly, jingle, jingling, jingoism, jingoistic, joiner, joinery, jongleur, jungian, jungle, jungly, junior, range, rangefinder, rangeland, ranging, rangy, reengineering, renegade, renege, renegotiate, renegotiated, renegotiation, renormalization, ring, ringed, ringer, ringing, ringleader, ringless, ringlet, ringmaster, ringside, ringworm, runaround, rung, runner
 
 #####798                  (19 words):
 genome, genomic, genomics, gnome, gnomic, gnomon, goniometer, goniometric, gunmaker, gunman, gunmetal, rainmaker, reanimate, reanimation, rename, renamed, renaming, renminbi, renomination
 
-#####799                  (15 words):
-gaining, genuine, genuinely, genuineness, gin-and-tonic, guanine, guinean, renounce, renunciation, reunion, run-and-gun, run-and-shoot, run-in, run-on, running
+#####799                  (16 words):
+gaining, genuine, genuinely, genuineness, gin-and-tonic, guanine, guinean, joining, renounce, renunciation, reunion, run-and-gun, run-and-shoot, run-in, run-on, running
 
 #####800                  (12 words):
 house-sized, masseuse, meiosis, mesoscopic, mesozoic, messiest, mezuzah, mezzo-soprano, mississippian, missus, misuse, misused
@@ -2757,11 +2756,11 @@ hasidic, hassidic, hayseed, housedress, housewarming, housewife, housework, mass
 #####805                  (44 words):
 hassle, hassle-free, hassled, hazel, hazelnut, hazily, hosel, houselights, masala, massless, mausoleum, maze-like, measles, measly, messily, misaligned, misalignment, misallocation, mislabeled, mislay, mislead, misleading, misleadingly, misled, missal, missile, missile-defense, missiology, moslem, mouse-like, muesli, museological, museology, muslim, muslim-american, muslim-christian, muslim-dominated, muslim-led, muslim-majority, muslin, mussels, muzzle, muzzleloader, myself
 
-#####806                  (13 words):
-housefly, houseful, massif, massive, massively, massiveness, misfeasance, misfire, misfit, misfortune, misjudge, misjudgment, missive
+#####806                  (11 words):
+housefly, houseful, massif, massive, massively, massiveness, misfeasance, misfire, misfit, misfortune, missive
 
-#####807                  (44 words):
-hazard, hazardous, hosiery, houseguest, hussar, maser, massage, massaged, massager, massaging, masseur, mazurka, measurable, measurably, measure, measured, measureless, measurement, measurer, measuring, message, messaging, miser, miserable, miserably, miserliness, miserly, misery, misgiving, misguided, misogynist, misogynistic, misogynous, misogyny, misread, misreading, misrecognition, misremember, misreport, misrepresent, misrepresentation, misrule, moss-green, mozzarella
+#####807                  (45 words):
+hazard, hazardous, hosiery, houseguest, hussar, maser, massage, massaged, massager, massaging, masseur, mazurka, measurable, measurably, measure, measured, measureless, measurement, measurer, measuring, message, messaging, miser, miserable, miserably, miserliness, miserly, misery, misgiving, misguided, misjudge, misjudgment, misogynist, misogynistic, misogynous, misogyny, misread, misreading, misrecognition, misremember, misreport, misrepresent, misrepresentation, misrule, mozzarella
 
 #####808                  (45 words):
 hash, household, householder, housemaid, houseman, housemate, housemother, hush, hushed, maoism, mash, mashed, masher, mesh, meshing, mesmeric, mesmerize, mesmerized, mesmerizing, mesoamerican, mesomorph, miasma, miasmic, mishandle, mishandled, mishandling, mishap, mishear, mishmash, misimpression, mismanage, mismanaged, mismanagement, mismatch, mismatched, misshapen, mosh, moshav, mozambican, museum, mush, musher, mushroom, mushrooming, mushy
@@ -2817,8 +2816,8 @@ heaped, hip-deep, hipped, hoped-for, hopped-up, hyped, hyped-up, hypodermic, map
 #####825                  (25 words):
 hapless, haplessly, haploid, haplotype, happily, happily-ever-after, hobble, hobbled, hoopla, hopeless, hopelessly, hopelessness, hoplite, hypoallergenic, maple, maple-glazed, maypole, mobile, mobile-home, mobile-phone, mobility, mobilization, mobilize, mobilized, mobilizing
 
-#####826                  (4 words):
-heebie-jeebies, hopeful, hopefully, hopefulness
+#####826                  (3 words):
+hopeful, hopefully, hopefulness
 
 #####827                  (62 words):
 haberdasher, haberdashery, hebrew, heparin, hibernate, hibernating, hibernation, hobgoblin, hopper, hubris, hubristic, hybrid, hybridity, hybridization, hybridize, hybridized, hyper, hyperactive, hyperactivity, hyperacusis, hyperbaric, hyperbole, hyperbolic, hyperbolically, hypercalcemia, hypercalciuria, hypercapnia, hypercar, hypercholesterolaemic, hypercholesterolemia, hypercompetitive, hypercritical, hyperemia, hyperextension, hyperfine, hypericum, hyperinflation, hyperinflationary, hyperkinetic, hyperlink, hypermarket, hyperparathyroidism, hyperpigmentation, hyperplasia, hypersensitive, hypersensitivity, hypersonic, hyperspace, hypertension, hypertensive, hypertext, hyperthermia, hyperthyroidism, hypertonic, hypertrophied, hypertrophy, hyperventilate, hyperventilation, hypoglossal, hypoglycemia, hypoglycemic, mapper
@@ -2919,65 +2918,65 @@ hallmark, helium, helium-3, helium-4, helium-filled, hellhole, hellhound, helm, 
 #####859                  (42 words):
 halon, hauling, healing, hellenic, hellenistic, hellion, holiness, hollandaise, mailing, malanga, malayan, maleness, malian, malnourished, malnourishment, malnutrition, mauling, melancholia, melancholic, melancholy, melanesian, melange, melanin, melanocyte, melanoma, melon, milanese, millenarian, millenium, millennial, millennialism, millennium, milliner, millinery, milling, million, millionaire, millionth, mullein, mullion, mullioned, myelin
 
-#####860                  (4 words):
-heavy-set, mafioso, majestic, majestically
+#####860                  (2 words):
+heavy-set, mafioso
 
 #####861                  (5 words):
 haft, heft, hefty, movie-theater, mufti
 
-#####862                  (8 words):
-heavy-bottomed, hijab, hiv-positive, hiv-prevention, hoofprint, mifepristone, movable, moveable
+#####862                  (7 words):
+heavy-bottomed, hiv-positive, hiv-prevention, hoofprint, mifepristone, movable, moveable
 
-#####863                  (6 words):
-havoc, heavy-equipment, hijack, hijacked, hijacker, hijacking
+#####863                  (2 words):
+havoc, heavy-equipment
 
 #####864                  (5 words):
 heavy-duty, heavyweight, hoofed, miffed, moved
 
-#####865                  (13 words):
-hayfield, heavily, heavily-armed, heavy-lidded, heavy-lift, hovel, huffily, majolica, mayfly, movie-like, muffle, muffled, muffler
+#####865                  (12 words):
+hayfield, heavily, heavily-armed, heavy-lidded, heavy-lift, hovel, huffily, mayfly, movie-like, muffle, muffled, muffler
 
 #####866                  (1 words):
 heavy-footed
 
-#####867                  (28 words):
-haversack, heavier-than-air, heavy-gauge, heifer, hijra, hoofer, hover, hovercraft, hovering, major, major-college, major-general, major-label, major-league, major-leaguer, major-party, majordomo, majorette, majoritarian, majority, majority-black, majority-minority, majority-owned, majority-white, majorly, mover, movie-going, moviegoer
+#####867                  (11 words):
+haversack, heavier-than-air, heavy-gauge, heifer, hoofer, hover, hovercraft, hovering, mover, movie-going, moviegoer
 
-#####868                  (12 words):
-heave-ho, heavy-handed, heavy-hitting, heavy-metal, movement, movie-making, moviemaker, mujaheddin, mujahedeen, mujahedin, mujahideen, mujahidin
+#####868                  (7 words):
+heave-ho, heavy-handed, heavy-hitting, heavy-metal, movement, movie-making, moviemaker
 
-#####869                  (18 words):
-hafnium, have-not, haven, heaven, heaven-sent, heavenly, heavenward, heaviness, heaving, heavy-ion, hijinks, hiv-negative, huffing, maven, move-in, moving, movingly, muffin
+#####869                  (17 words):
+hafnium, have-not, haven, heaven, heaven-sent, heavenly, heavenward, heaviness, heaving, heavy-ion, hiv-negative, huffing, maven, move-in, moving, movingly, muffin
 
-#####870                  (79 words):
-haggis, hairstreak, hairstyle, hairstylist, harass, harassed, harasser, harassment, harissa, harsh, harshly, harshness, hearsay, hearse, heiress, heresy, heroism, hers, herself, heuristic, heuristically, heuristics, hoarse, hoarsely, hoarseness, hogshead, horizon, horizontal, horizontality, horizontally, horoscope, horse, horseback, horseflesh, horsefly, horsehair, horsehide, horseless, horseman, horsemanship, horsemeat, horseplay, horsepower, horserace, horseradish, horseshit, horseshoe, horsetail, horsewoman, horsey, horsy, magazine, magisterial, magisterium, magistrate, magus, maraschino, marist, marsh, marshal, marshall, marshland, marshmallow, marshy, marsupial, marxism, marxist, marzipan, mayorship, meerschaum, megastar, megastore, meristem, moorish, morass, morose, morosely, morsel, mugshot
+#####870                  (81 words):
+haggis, hairstreak, hairstyle, hairstylist, harass, harassed, harasser, harassment, harissa, harsh, harshly, harshness, hearsay, hearse, heiress, heresy, heroism, hers, herself, heuristic, heuristically, heuristics, hoarse, hoarsely, hoarseness, hogshead, horizon, horizontal, horizontality, horizontally, horoscope, horse, horseback, horseflesh, horsefly, horsehair, horsehide, horseless, horseman, horsemanship, horsemeat, horseplay, horsepower, horserace, horseradish, horseshit, horseshoe, horsetail, horsewoman, horsey, horsy, magazine, magisterial, magisterium, magistrate, magus, majestic, majestically, maraschino, marist, marsh, marshal, marshall, marshland, marshmallow, marshy, marsupial, marxism, marxist, marzipan, mayorship, meerschaum, megastar, megastore, meristem, moorish, morass, morose, morosely, morsel, mugshot
 
 #####871                  (86 words):
 heart, heartache, heartbeat, heartbreak, heartbreaker, heartbreaking, heartbreakingly, heartbroken, heartburn, hearted, hearten, heartened, heartening, heartfelt, hearth, hearthside, hearthstone, heartily, heartiness, heartland, heartless, heartlessly, heartlessness, heartsick, heartthrob, heartwarming, heartwood, heartworm, hearty, heretic, heretical, heretofore, heritability, heritable, heritage, hieratic, horatian, hortatory, horticultural, horticulturalist, horticulture, horticulturist, hurt, hurtful, hurting, hurtle, hurtling, maggot, marathon, marathoner, marital, maritime, martial, martian, martinet, martini, martyr, martyrdom, martyred, megaton, meretricious, merit, meritocracy, meritocratic, meritorious, mirth, mirthful, mirthless, mirthlessly, moratorium, mortadella, mortal, mortality, mortally, mortar, mortarboard, mortared, mortgage, mortgaged, mortician, mortification, mortified, mortify, mortifying, mortise, mortuary
 
-#####872                  (62 words):
-hairball, hairbreadth, hairbrush, hairpiece, hairpin, harbinger, harbor, harbored, harbormaster, harbour, harebrained, harp, harping, harpist, harpoon, harpsichord, harpsichordist, harpy, herb, herbaceous, herbal, herbalism, herbalist, herbarium, herbed, herbicide, herbivore, herbivorous, hereabouts, hereby, herpes, herpesvirus, herpetologist, herpetology, horrible, horribly, huggable, magpie, marabou, marabout, marble, marbled, marbleized, megabuck, megaparsec, megaphone, megapixel, megaplex, morbid, morbidity, morbidly, morph, morpheme, morphine, morphing, morpho, morphogenesis, morphologic, morphological, morphologically, morphologist, morphology
+#####872                  (63 words):
+hairball, hairbreadth, hairbrush, hairpiece, hairpin, harbinger, harbor, harbored, harbormaster, harbour, harebrained, harp, harping, harpist, harpoon, harpsichord, harpsichordist, harpy, herb, herbaceous, herbal, herbalism, herbalist, herbarium, herbed, herbicide, herbivore, herbivorous, hereabouts, hereby, herpes, herpesvirus, herpetologist, herpetology, hijab, horrible, horribly, huggable, magpie, marabou, marabout, marble, marbled, marbleized, megabuck, megaparsec, megaphone, megapixel, megaplex, morbid, morbidity, morbidly, morph, morpheme, morphine, morphing, morpho, morphogenesis, morphologic, morphological, morphologically, morphologist, morphology
 
-#####873                  (70 words):
-haircut, haricot, hark, harken, hearken, herculean, heroic, heroically, heroics, hurricane, magic, magical, magically, magician, maraca, marcel, march, marcher, marchese, marching, marchioness, mariachi, mark, markdown, marked, markedly, marker, market, marketability, marketable, marketed, marketeer, marketer, marketing, marketization, marketplace, marking, marksman, marksmanship, markup, marquee, marquess, marquetry, marquise, meerkat, megachurch, megacity, mercantile, mercantilism, mercenary, merchandise, merchandiser, merchandising, merchant, merchantman, merciful, mercifully, merciless, mercilessly, mercurial, mercuric, mercy, miracle, miraculous, miraculously, moroccan, murk, murkily, murkiness, murky
+#####873                  (74 words):
+haircut, haricot, hark, harken, hearken, herculean, heroic, heroically, heroics, hijack, hijacked, hijacker, hijacking, hurricane, magic, magical, magically, magician, maraca, marcel, march, marcher, marchese, marching, marchioness, mariachi, mark, markdown, marked, markedly, marker, market, marketability, marketable, marketed, marketeer, marketer, marketing, marketization, marketplace, marking, marksman, marksmanship, markup, marquee, marquess, marquetry, marquise, meerkat, megachurch, megacity, mercantile, mercantilism, mercenary, merchandise, merchandiser, merchandising, merchant, merchantman, merciful, mercifully, merciless, mercilessly, mercurial, mercuric, mercy, miracle, miraculous, miraculously, moroccan, murk, murkily, murkiness, murky
 
 #####874                  (69 words):
 hairdo, hairdresser, hairdressing, hairdryer, hard, hardback, hardball, hardboard, hardcover, harden, hardened, hardener, hardening, hardhat, hardiness, hardly, hardness, hardpan, hardscape, hardship, hardtack, hardtop, hardware, hardwood, hardy, haredi, harridan, harried, harrow, harrowing, hayride, herd, herder, herding, herdsman, hereditary, heredity, herewith, hired, hoard, hoarder, hoarding, hogwash, horde, horrid, hurdle, hurdler, hurried, hurriedly, marauder, marauding, marred, married, marrow, megadeal, megadose, megawatt, meridian, meridional, mired, mordant, murder, murdered, murderer, murderess, murdering, murderous, murderously, myriad
 
-#####875                  (48 words):
-haggle, haggling, hairless, hairlessness, hairlike, hairline, harelip, harlequin, harlot, hegelian, heirloom, herald, heraldic, heraldry, hireling, hourly, hugely, hurl, hurler, magellanic, maglev, marl, mayoral, mayoralty, megalith, megalithic, megalomania, megalomaniac, megalomaniacal, megalopolis, merely, merlot, merrily, mogul, moorland, moral, morale, moralism, moralist, moralistic, morality, moralize, moralizing, morally, morel, mural, muralist, myoglobin
+#####875                  (49 words):
+haggle, haggling, hairless, hairlessness, hairlike, hairline, harelip, harlequin, harlot, hegelian, heirloom, herald, heraldic, heraldry, hireling, hourly, hugely, hurl, hurler, magellanic, maglev, majolica, marl, mayoral, mayoralty, megalith, megalithic, megalomania, megalomaniac, megalomaniacal, megalopolis, merely, merlot, merrily, mogul, moorland, moral, morale, moralism, moralist, moralistic, morality, moralize, moralizing, morally, morel, mural, muralist, myoglobin
 
-#####876                  (29 words):
-harvard-educated, harvard-trained, harvest, harvestable, harvested, harvester, harvesting, hereafter, hoarfrost, horrific, horrifically, horrified, horrify, horrifying, horrifyingly, maravilla, marijuana, marjoram, marvel, marvellous, marvelous, marvelously, megafauna, merovingian, moravian, more-affluent, more-effective, more-efficient, moreover
+#####876                  (27 words):
+harvard-educated, harvard-trained, harvest, harvestable, harvested, harvester, harvesting, hereafter, hoarfrost, horrific, horrifically, horrified, horrify, horrifying, horrifyingly, maravilla, marvel, marvellous, marvelous, marvelously, megafauna, merovingian, moravian, more-affluent, more-effective, more-efficient, moreover
 
-#####877                  (52 words):
-haggard, hagiographer, hagiographic, hagiographical, hagiography, harrier, hearer, hierarch, hierarchal, hierarchic, hierarchical, hierarchically, hierarchy, hieroglyph, hieroglyphic, horror, hourglass, hugger, hygroscopic, margarine, margarita, margin, marginal, marginalia, marginality, marginalization, marginalize, marginalized, marginally, marigold, marriage, marriageable, meager, meagerly, meagre, merganser, merge, merged, merger, merging, migraine, migrant, migrate, migrating, migration, migratory, mirage, mirror, mirrored, mirroring, morgue, mugger
+#####877                  (61 words):
+haggard, hagiographer, hagiographic, hagiographical, hagiography, harrier, hearer, hierarch, hierarchal, hierarchic, hierarchical, hierarchically, hierarchy, hieroglyph, hieroglyphic, hijra, horror, hourglass, hugger, hygroscopic, major, majordomo, majorette, majoritarian, majority, majorly, margarine, margarita, margin, marginal, marginalia, marginality, marginalization, marginalize, marginalized, marginally, marigold, marijuana, marjoram, marriage, marriageable, meager, meagerly, meagre, merganser, merge, merged, merger, merging, migraine, migrant, migrate, migrating, migration, migratory, mirage, mirror, mirrored, mirroring, morgue, mugger
 
-#####878                  (71 words):
-harem, harm, harmful, harmfulness, harmless, harmlessly, harmlessness, harmonic, harmonica, harmonically, harmonious, harmoniously, harmonium, harmonization, harmonize, harmonized, harmony, haughtily, haughtiness, haughty, hegemonic, hegemony, height, heighten, heightened, heightening, hermaphrodite, hermaphroditic, hermeneutic, hermeneutical, hermeneutics, hermetic, hermetically, hermit, high, high/low, highball, highborn, highboy, highbrow, highchair, highlight, highlighted, highlighter, highlighting, highly, hightail, highway, highwayman, horehound, hormonal, hormone, hurrah, magma, marimba, marmalade, marmoset, marmot, mermaid, merriment, merrymaker, merrymaking, might, mightily, mighty, mormon, murmur, murmured, murmuring, murmurous, myrrh
+#####878                  (76 words):
+harem, harm, harmful, harmfulness, harmless, harmlessly, harmlessness, harmonic, harmonica, harmonically, harmonious, harmoniously, harmonium, harmonization, harmonize, harmonized, harmony, haughtily, haughtiness, haughty, hegemonic, hegemony, height, heighten, heightened, heightening, hermaphrodite, hermaphroditic, hermeneutic, hermeneutical, hermeneutics, hermetic, hermetically, hermit, high, high/low, highball, highborn, highboy, highbrow, highchair, highlight, highlighted, highlighter, highlighting, highly, hightail, highway, highwayman, horehound, hormonal, hormone, hurrah, magma, marimba, marmalade, marmoset, marmot, mermaid, merriment, merrymaker, merrymaking, might, mightily, mighty, mormon, mujaheddin, mujahedeen, mujahedin, mujahideen, mujahidin, murmur, murmured, murmuring, murmurous, myrrh
 
-#####879                  (95 words):
-hairiness, hairnet, harangue, harness, harnessing, hearing, herein, hereinafter, hernia, herniated, herniation, heroin, heroine, heron, herring, herringbone, hexagon, hexagonal, hiring, horn, hornbeam, hornbill, horned, hornworm, horny, horrendous, horrendously, hugeness, hugging, hurrying, hygiene, hygienic, hygienist, magenta, magnanimity, magnanimous, magnanimously, magnate, magnesium, magnet, magnetar, magnetic, magnetically, magnetics, magnetism, magnetite, magnetization, magnetize, magnetized, magneto, magnetometer, magnetosphere, magnetron, magnification, magnificence, magnificent, magnificently, magnifico, magnified, magnifier, magnify, magnifying, magnitude, magnolia, marinade, marinara, marinate, marinated, marine, marionette, maronite, maroon, marooned, marrying, marxian, merengue, meringue, merino, mignon, mignonette, mirin, mooring, moraine, morn, morning, moron, moronic, mourn, mourner, mournful, mournfully, mourning, mugging, murine, myringotomy
+#####879                  (96 words):
+hairiness, hairnet, harangue, harness, harnessing, hearing, herein, hereinafter, hernia, herniated, herniation, heroin, heroine, heron, herring, herringbone, hexagon, hexagonal, hijinks, hiring, horn, hornbeam, hornbill, horned, hornworm, horny, horrendous, horrendously, hugeness, hugging, hurrying, hygiene, hygienic, hygienist, magenta, magnanimity, magnanimous, magnanimously, magnate, magnesium, magnet, magnetar, magnetic, magnetically, magnetics, magnetism, magnetite, magnetization, magnetize, magnetized, magneto, magnetometer, magnetosphere, magnetron, magnification, magnificence, magnificent, magnificently, magnifico, magnified, magnifier, magnify, magnifying, magnitude, magnolia, marinade, marinara, marinate, marinated, marine, marionette, maronite, maroon, marooned, marrying, marxian, merengue, meringue, merino, mignon, mignonette, mirin, mooring, moraine, morn, morning, moron, moronic, mourn, mourner, mournful, mournfully, mourning, mugging, murine, myringotomy
 
 #####880                  (36 words):
 hamster, hamstring, hemisphere, hemispheric, hemispherical, hemostasis, hemostatic, himself, himself/herself, home-school, home-schooled, home-schooler, home-schooling, home-security, home-shopping, home-state, homeostasis, homeostatic, homesick, homesickness, homesite, homespun, homestead, homesteader, homesteading, homestretch, homosexual, homosexuality, homosocial, homozygous, hummus, humus, maximization, maximize, mimesis, mimosa
@@ -2997,8 +2996,8 @@ haemodialysis, hemmed, hemodialysis, hemodynamic, home-decorating, home-delivere
 #####885                  (32 words):
 haemolytic, hamiltonian, hemline, hemlock, hemolytic, himalayan, homeland, homeland-security, homeless, homelessness, homelife, homelike, homeliness, homely, homiletic, homiletics, homily, homologous, homologue, homology, humiliate, humiliated, humiliating, humiliatingly, humiliation, humility, mamluk, mammal, mammalian, maximal, maximalist, maximally
 
-#####886                  (11 words):
-ham-fisted, home-field, home-front, home-furnishings, home-office, home-video, homefront, mah-jongg, mummification, mummified, mummify
+#####886                  (10 words):
+ham-fisted, home-field, home-front, home-furnishings, home-office, home-video, homefront, mummification, mummified, mummify
 
 #####887                  (62 words):
 haemoglobin, haemorrhage, haemorrhagic, hammer, hammered, hammerhead, hammering, hammerlock, hammermill, hemoglobin, hemorrhage, hemorrhagic, hemorrhaging, hemorrhoid, homage, homegirl, homer, homeric, homeroom, homerun, homoerotic, homoeroticism, homogenate, homogeneity, homogeneous, homogeneously, homogenization, homogenize, homogenized, homogenizing, homogenous, humerus, humor, humoral, humorist, humorless, humorlessly, humorous, humorously, maharaja, maharajah, maharishi, mahogany, mammary, mammogram, mammography, memoir, memoirist, memorabilia, memorable, memorably, memorandum, memorialization, memorialize, memorization, memorize, memorized, memory, mimeograph, mimeographed, mohair, mummer
@@ -3219,8 +3218,8 @@ ilium, ill-mannered, illimitable, illuminate, illuminated, illuminati, illuminat
 #####959                  (6 words):
 ill-informed, illness, in-line, inland, naloxone, nylon
 
-#####960                  (33 words):
-in-vessel, infeasible, infest, infestation, infested, infuse, infusion, injustice, invasion, invasive, invasiveness, invest, invested, investigate, investigated, investigating, investigation, investigational, investigative, investigator, investigatory, investing, investiture, investment, investment-banking, investment-grade, investor, investor-owned, invisibility, invisible, invisibly, neo-fascist, no-fuss
+#####960                  (32 words):
+in-vessel, infeasible, infest, infestation, infested, infuse, infusion, invasion, invasive, invasiveness, invest, invested, investigate, investigated, investigating, investigation, investigational, investigative, investigator, investigatory, investing, investiture, investment, investment-banking, investment-grade, investor, investor-owned, invisibility, invisible, invisibly, neo-fascist, no-fuss
 
 #####961                  (20 words):
 if-then, in-vitro, infatuated, infatuation, infotainment, inuit, inveterate, invitation, invitation-only, invitational, invite, invited, invitee, inviting, invitingly, naivete, naivety, nifty, no-fat, novitiate
@@ -3228,11 +3227,11 @@ if-then, in-vitro, infatuated, infatuation, infotainment, inuit, inveterate, inv
 #####962                  (1 words):
 navy-blue
 
-#####963                  (24 words):
-in-joke, in-office, infect, infected, infection, infection-fighting, infectious, infectious-disease, infectiously, infective, inject, injectable, injected, injection, injection-molded, injector, invective, invocation, invoice, invoke, ivy-covered, neo-victorian, novice, novocaine
+#####963                  (17 words):
+in-office, infect, infected, infection, infection-fighting, infectious, infectious-disease, infectiously, infective, invective, invocation, invoice, invoke, ivy-covered, neo-victorian, novice, novocaine
 
-#####964                  (9 words):
-infidel, infidelity, injudicious, invade, invaded, invader, invading, invidious, invidiously
+#####964                  (8 words):
+infidel, infidelity, invade, invaded, invader, invading, invidious, invidiously
 
 #####965                  (64 words):
 infallibility, infallible, infallibly, infield, infielder, infill, infiltrate, infiltration, infiltrative, infiltrator, inflame, inflamed, inflammable, inflammation, inflammatory, inflatable, inflate, inflated, inflating, inflation, inflationary, inflator, inflect, inflected, inflection, inflexibility, inflexible, inflexibly, inflict, infliction, inflorescence, inflow, influence, influencing, influent, influential, influenza, influx, inulin, invalid, invalidate, invalidation, invalidity, invaluable, inviolability, inviolable, involuntarily, involuntary, involution, involve, involved, involvement, invulnerability, invulnerable, naively, naval, navel, novel, novelette, novelist, novelistic, novelization, novella, novelty
@@ -3240,17 +3239,17 @@ infallibility, infallible, infallibly, infield, infielder, infill, infiltrate, i
 #####966                  (1 words):
 in-vivo
 
-#####967                  (78 words):
-infarct, infarction, infer, inference, inferential, inferentially, inferior, inferiority, infernal, inferno, infertile, infertility, infighting, infirm, infirmary, infirmity, inform, informal, informality, informally, informant, informatics, information, informational, informative, informativeness, informed, informer, informing, infra, infraction, infrared, infrastructural, infrastructure, infratemporal, infrequency, infrequent, infrequently, infringe, infringement, infuriate, infuriated, infuriating, infuriatingly, injera, injure, injured, injurious, injury, inure, invariable, invariably, invariance, invariant, inveigh, inveigle, inverse, inversely, inversion, invert, invertebrate, inverted, inverter, inverting, invigorate, invigorated, invigorating, ivorian, ivory, navigable, navigate, navigation, navigational, navigator, nefarious, never, nevermore, nevertheless
+#####967                  (73 words):
+infarct, infarction, infer, inference, inferential, inferentially, inferior, inferiority, infernal, inferno, infertile, infertility, infighting, infirm, infirmary, infirmity, inform, informal, informality, informally, informant, informatics, information, informational, informative, informativeness, informed, informer, informing, infra, infraction, infrared, infrastructural, infrastructure, infratemporal, infrequency, infrequent, infrequently, infringe, infringement, infuriate, infuriated, infuriating, infuriatingly, inure, invariable, invariably, invariance, invariant, inveigh, inveigle, inverse, inversely, inversion, invert, invertebrate, inverted, inverter, inverting, invigorate, invigorated, invigorating, ivorian, ivory, navigable, navigate, navigation, navigational, navigator, nefarious, never, nevermore, nevertheless
 
 #####968                  (4 words):
 infamous, infamously, infamy, infomercial
 
-#####969                  (30 words):
-infancy, infant, infant-mortality, infanticide, infantile, infantry, infantryman, infinite, infinitely, infinitesimal, infinitesimally, infinitive, infinitude, infinity, injunction, inundate, inundated, inundation, invent, invented, inventing, invention, inventive, inventively, inventiveness, inventor, inventory, invincibility, invincible, novena
+#####969                  (29 words):
+infancy, infant, infant-mortality, infanticide, infantile, infantry, infantryman, infinite, infinitely, infinitesimal, infinitesimally, infinitive, infinitude, infinity, inundate, inundated, inundation, invent, invented, inventing, invention, inventive, inventively, inventiveness, inventor, inventory, invincibility, invincible, novena
 
-#####970                  (39 words):
-ingest, ingested, ingestion, irascible, irish, irishness, irishwoman, irresistible, irresistibly, irresolute, irresolution, irresolvable, irrespective, irresponsibility, irresponsible, irresponsibly, nearest, nearside, nearsighted, nearsightedness, neurasthenia, neurasthenic, neuroscience, neuroscientist, neurosis, neurosurgeon, neurosurgery, neurosurgical, norse, norseman, nourish, nourished, nourishing, nourishment, nurse, nursemaid, nursery, nurseryman, nursing
+#####970                  (40 words):
+ingest, ingested, ingestion, injustice, irascible, irish, irishness, irishwoman, irresistible, irresistibly, irresolute, irresolution, irresolvable, irrespective, irresponsibility, irresponsible, irresponsibly, nearest, nearside, nearsighted, nearsightedness, neurasthenia, neurasthenic, neuroscience, neuroscientist, neurosis, neurosurgeon, neurosurgery, neurosurgical, norse, norseman, nourish, nourished, nourishing, nourishment, nurse, nursemaid, nursery, nurseryman, nursing
 
 #####971                  (69 words):
 ingot, irate, irrational, irrationality, irrationally, irretrievable, irretrievably, irritability, irritable, irritably, irritant, irritate, irritated, irritating, irritatingly, irritation, narrate, narrated, narrating, narration, narrational, narrative, narratively, narratological, narratorial, narthex, negate, negation, negative, negatively, negativism, negativity, negotiable, negotiate, negotiated, negotiating, negotiation, negotiator, neuritis, neurotic, neurotically, neuroticism, neurotologic, neurotoxic, neurotoxin, neurotransmitter, north, northeast, northeasterly, northeastern, northeastward, northerly, northern, northerner, northernmost, northward, northwards, northwest, northwesterly, northwestern, northwestward, nougat, nugatory, nugget, nurturance, nurturant, nurture, nurturer, nurturing
@@ -3258,11 +3257,11 @@ ingot, irate, irrational, irrationality, irrationally, irretrievable, irretrieva
 #####972                  (25 words):
 irreparable, irreparably, irreplaceable, irrepressible, irrepressibly, irreproachable, irruption, near-perfect, nearby, neurobehavioral, neurobiological, neurobiologist, neurobiology, neuropathic, neuropathy, neuropeptide, neurophysiological, neurophysiologist, neurophysiology, neuropsychiatric, neuropsychiatry, neuropsychological, neuropsychologist, neuropsychology, norepinephrine
 
-#####973                  (22 words):
-iraqi, irk, irked, irksome, iroquoian, irreconcilable, irrecoverable, narc, narcissism, narcissistic, narco, narcolepsy, narcoleptic, narcosis, narcotic, narcotrafficker, near-collapse, near-collision, near-complete, near-constant, neurochemical, neurochemistry
+#####973                  (29 words):
+in-joke, inject, injectable, injected, injection, injection-molded, injector, iraqi, irk, irked, irksome, iroquoian, irreconcilable, irrecoverable, narc, narcissism, narcissistic, narco, narcolepsy, narcoleptic, narcosis, narcotic, narcotrafficker, near-collapse, near-collision, near-complete, near-constant, neurochemical, neurochemistry
 
-#####974                  (34 words):
-inroads, iridescence, iridescent, iridium, irradiate, irradiated, irradiation, irredeemable, irredeemably, irredentism, irredentist, irreducible, irreducibly, narrow, narrow-band, narrow-eyed, narrow-gauge, narrow-minded, narrow-mindedness, narrowed, narrowing, narrowly, narrowness, narwhal, near-death, near-identical, nerd, nerdy, neurodegenerative, neurodevelopmental, no-good, noradrenaline, nordic, norwegian
+#####974                  (35 words):
+injudicious, inroads, iridescence, iridescent, iridium, irradiate, irradiated, irradiation, irredeemable, irredeemably, irredentism, irredentist, irreducible, irreducibly, narrow, narrow-band, narrow-eyed, narrow-gauge, narrow-minded, narrow-mindedness, narrowed, narrowing, narrowly, narrowness, narwhal, near-death, near-identical, nerd, nerdy, neurodegenerative, neurodevelopmental, no-good, noradrenaline, nordic, norwegian
 
 #####975                  (27 words):
 igloo, inglorious, ingloriously, irrelevance, irrelevancy, irrelevant, irrelevantly, irreligion, irreligious, nearly, neglect, neglected, neglectful, negligee, negligence, negligent, negligently, negligible, negligibly, neural, neuralgia, neuralgic, neurologic, neurological, neurologist, neurology, niggling
@@ -3270,14 +3269,14 @@ igloo, inglorious, ingloriously, irrelevance, irrelevancy, irrelevant, irrelevan
 #####976                  (29 words):
 in-your-face, irrefutable, irrefutably, irreverence, irreverent, irreverently, irreversibility, irreversible, irreversibly, irrevocable, irrevocably, near-fatal, near-field, near-freezing, near-future, near-vertical, nerve, nerve-racking, nerve-wracking, nerveless, nervous, nervous-system, nervously, nervousness, nervy, neurofibroma, neurofibromatosis, neurovascular, norovirus
 
-#####977                  (32 words):
-in-ground, in-group, ingrain, ingrained, ingrate, ingratiate, ingratiating, ingratitude, ingredient, ingress, ingrown, irregardless, irregular, irregularity, irregularly, irrigate, irrigated, irrigation, irrigator, near-earth, near-record, nearer, negress, negritude, negroid, neurogenic, nigerian, niggardly, nigger, nigra, no-growth, no-regrets
+#####977                  (41 words):
+in-ground, in-group, ingrain, ingrained, ingrate, ingratiate, ingratiating, ingratitude, ingredient, ingress, ingrown, injera, injure, injured, injurious, injury, injury-free, injury-plagued, injury-prone, injury-riddled, irregardless, irregular, irregularity, irregularly, irrigate, irrigated, irrigation, irrigator, near-earth, near-record, nearer, negress, negritude, negroid, neurogenic, nigerian, niggardly, nigger, nigra, no-growth, no-regrets
 
 #####978                  (53 words):
 irremediable, irremediably, naught, naughtiness, naughty, neigh, neighbor, neighborhood, neighboring, neighborliness, neighborly, neighbourhood, neighbouring, neuroma, neuromuscular, ngoma, niggah, nigh, night, nightcap, nightclothes, nightclub, nightcrawler, nightdress, nightfall, nightgown, nighthawk, nightie, nightlife, nightly, nightmare, nightmarish, nightshade, nightshirt, nightspot, nightstand, nightstick, nighttime, norm, normal, normalcy, normality, normalization, normalize, normalized, normally, norman, normative, normativity, normed, norming, normlessness, nought
 
-#####979                  (46 words):
-ignatian, igneous, ignite, igniter, ignition, ignoble, ignominious, ignominiously, ignominy, ignoramus, ignorance, ignorant, ignorantly, ignore, ignored, ignoring, iguana, ingenious, ingeniously, ingenue, ingenuity, ingenuous, ingenuously, ingenuousness, inguinal, iranian, iron, ironclad, ironed, ironic, ironical, ironically, ironing, ironist, ironstone, ironwood, ironwork, ironworker, irony, nagging, nearness, neuroanatomy, neuroendocrine, neuron, neuronal, noggin
+#####979                  (47 words):
+ignatian, igneous, ignite, igniter, ignition, ignoble, ignominious, ignominiously, ignominy, ignoramus, ignorance, ignorant, ignorantly, ignore, ignored, ignoring, iguana, ingenious, ingeniously, ingenue, ingenuity, ingenuous, ingenuously, ingenuousness, inguinal, injunction, iranian, iron, ironclad, ironed, ironic, ironical, ironically, ironing, ironist, ironstone, ironwood, ironwork, ironworker, irony, nagging, nearness, neuroanatomy, neuroendocrine, neuron, neuronal, noggin
 
 #####980                  (11 words):
 immeasurable, immeasurably, in-hospital, in-house, inhospitable, inmost, namesake, nemesis, no-hassle, numismatic, numismatist
@@ -3327,14 +3326,15 @@ in-and-out, nanowire, neandertal, neanderthal, nine-day, nine-digit, nine-week, 
 #####995                  (23 words):
 neon-lit, non-aligned, non-allergic, non-elderly, non-elected, non-electric, non-electronic, non-lawyers, non-league, non-legal, non-lethal, non-life-threatening, non-literate, non-living, non-local, non-oil, nonalcoholic, nonlabeled, nonlawyer, nonliberal, nonlinear, nonlinearity, nonlinguistic
 
-#####996                  (38 words):
-innovate, innovation, innovative, innovatively, innovativeness, innovator, nine-foot, non-event, non-factor, non-farm, non-fatal, non-federal, non-fictional, non-financial, non-flammable, non-food, non-football, non-functioning, non-japanese, non-jew, non-jewish, non-judicial, non-official, non-veteran, non-voting, nonferrous, nonfigurative, nonformal, nonfunctional, nonjudgmental, nonverbal, nonverbally, nonviable, nonviolence, nonviolent, nonviolently, nonvisual, nonvolatile
+#####996                  (33 words):
+innovate, innovation, innovative, innovatively, innovativeness, innovator, nine-foot, non-event, non-factor, non-farm, non-fatal, non-federal, non-fictional, non-financial, non-flammable, non-food, non-football, non-functioning, non-official, non-veteran, non-voting, nonferrous, nonfigurative, nonformal, nonfunctional, nonverbal, nonverbally, nonviable, nonviolence, nonviolent, nonviolently, nonvisual, nonvolatile
 
-#####997                  (26 words):
-innards, inner, innermost, innervate, innervation, nanogram, nonagenarian, nonaggression, nonaggressive, nonagricultural, nongovernmental, nonnarrative, nonordinary, nonracist, nonreactive, nonrecognition, nonrefundable, nonrelativistic, nonremedial, nonrenewable, nonrepresentational, nonreproductive, nonresidential, nonrespondent, nonroutine, nunnery
+#####997                  (27 words):
+innards, inner, innermost, innervate, innervation, nanogram, nonagenarian, nonaggression, nonaggressive, nonagricultural, nongovernmental, nonjudgmental, nonnarrative, nonordinary, nonracist, nonreactive, nonrecognition, nonrefundable, nonrelativistic, nonremedial, nonrenewable, nonrepresentational, nonreproductive, nonresidential, nonrespondent, nonroutine, nunnery
 
 #####998                  (14 words):
 inimical, inimitable, innumerable, nanomachine, nanometer, nonhandicapped, nonhierarchical, nonmagnetic, nonmaterial, nonmedical, nonmember, nonmetallic, nonmusic, nonmusical
 
 #####999                  (32 words):
 inning, innings, innuendo, ionian, nine-inch, nine-inning, nine-one-one, nixonian, no-nonsense, non-answer, non-energy, non-english, non-english-speaking, non-indian, non-indigenous, non-industrial, non-inflationary, non-institutional, non-intervention, non-intrusive, non-involvement, non-native, non-negotiable, non-normal, non-normative, non-nuclear, non-union, non-unionized, nonentity, noninstitutionalized, noninvasive, nonuniform
+

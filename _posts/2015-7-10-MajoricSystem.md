@@ -11,8 +11,7 @@ title: Majoric System - "Major Dominic Composite"
 1  2  3  4  5  6  7  8  9  0
 a  b  c  d  e  f  g  h  i  s  <-- alphabetical digital letters
 t  p  k  w  l  v  r  m  n  z  <-- phonetic and logical groups
-      q        u           o
-               j
+      q        u  j        o
 ```
 
 The Majoric System is a mnemonic system for remembering number sequences.
@@ -98,7 +97,7 @@ Taking into account letter frequencies, the remaining letters:
 * The letter w has four lines forming it's shape.
 * The letter o looks like a 0 (same as Dominic System).
 * The letter u looks like a rounded v.
-* The letter j looks like the tail of f.
+* The letter j and g sometime have the same sound.
 * The letters x and y are unassigned and don't change the number value of a word.
 
 This leads to the following Majoric character positions:
@@ -107,8 +106,7 @@ This leads to the following Majoric character positions:
 1  2  3  4  5  6  7  8  9  0
 a  b  c  d  e  f  g  h  i  s
 t  p  k  w  l  v  r  m  n  z
-      q        u           o
-               j
+      q        u  j        o
 ```
 
 ## Majoric - Basic Word Rules
@@ -128,18 +126,20 @@ t  p  k  w  l  v  r  m  n  z
 1. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
 1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 912 (note: rule maximum 3 digital characters).
 
-## Majoric -  Phonetic Rules
+## Majoric -  "Potential" Phonetic Word List
 
-You can use a spelling based system or apply phonetics. Some people may visualise the spelling of a word, (especially the first few characters).
+If you want to group by phonic sounds then, I guess you want to go to the alphabetical
+word list and do something like the following for the relevant digital letters:
 
-In the PAO example given below with characters from 00 to 99, there are 100
-characters, 100 actions and 100 objects. The actions and objects have just two
-significant digital letters, so thats 400 digital letters
-in total.
+1. move most of the "ce", "ci", and "cy" sounds to the "s" group.
+2. move most of the "g" sounds that aren't "ge", "gi", "gy" to the "c" group.
+3. move "ph" sounds to the "f" group
+4. figure out any exceptions.
 
-So, i'ts easy to choose words that cause no phonetic confusion.  However, if you want:
+I believe "ch" can stay with "c" and "sh" can stay with "s".
 
-1. If a letter grouping feels to you, like a completely different letter grouping, change it (e.g. caught - 378 sounds like cau/t/ - 31 (note: how far to take this is a personal choice).
+If anyone is "really" interested and I'm not too busy, I might be willing to
+help.
 
 ## Majoric - Name, Action, Object Rules (for 2 digit numbers)
 
@@ -209,7 +209,7 @@ number,initials,name,action,object
 26,BF,Benjamin Franklin, buffs, pavement
 27,BG,Bill Gates, bags, pigs
 28,BH,Bob Hoskins, pumps, bomb
-29,BN,Bill Nighy, paints, brain
+29,BN,Bill Nighy, paints, pony
 
 30,CS,Carl Sagan, kisses, cash
 31,CA,Christina Aguilera, catapults, cat
