@@ -183,7 +183,7 @@ number,initials,name,action,object
 02,SB,Sandra Bullock, splits, obelisk
 03,SC,Sean Connery, scratches, octopus
 04,SD,Snoop Dogg, swallows, saddle
-05,SE,Sam Elliot, slides, stockings
+05,SE,Sam Elliot, slides, silkStockings
 06,SF,Sigmund Freud, overdresses, sofa
 07,SG,Sarah Gellar, surprises, ogre
 08,SH,Stephen Hawking, smokes, omelet
