@@ -1,18 +1,343 @@
 ---
 layout: post
-title: Majoric System English List - 000 to 999
+title: Majoric System English List - 0 to 999
 ---
 
 This is a list of words for the Majoric System, which is a cross between the
 Major System and Dominic System.
 
-You can use this list to pair words to names (like in the Dominic System), using
-two digit or three digit numbers.  For example, If you are looking
-for 01, you can use words from 010 to 019. (e.g You can choose the word "steers"
-and only encode the first two relevant characters STeers)
-
 note: This is not a list for the Major System, as the letter mappings and
 logic rules are different!
+
+#####0                  (22 words):
+oi, oo, ooo, oooo, oy, sax, say, sea, see, sex, sexy, sioux, six, so, sou, soy, soya, sue, zoo, zz, zzz, zzzz
+
+#####1                  (18 words):
+a, ax, axe, ay, aye, ta, tae, tai, tax, taxi, tea, tee, tie, to, toe, too, toy, tux
+
+#####2                  (23 words):
+bay, be, bee, boa, boo, box, boxy, boy, boyo, buoy, buy, by, bye, pay, payee, pea, pee, pie, pix, pixie, pixy, poo, pox
+
+#####3                  (9 words):
+cay, ciao, coax, coo, coy, cue, key, quay, queue
+
+#####4                  (14 words):
+day, die, diya, do, due, duo, dye, wax, waxy, way, we, wee, woe, woo
+
+#####5                  (12 words):
+ex, ey, eye, lax, lay, lei, lie, lieu, loo, lox, luau, lye
+
+#####6                  (13 words):
+fax, fee, feu, fie, fix, foe, foo, foxy, joy, vee, vex, via, vie
+
+#####7                  (12 words):
+gay, gee, gi, go, goo, gooey, goy, guy, re, roux, rue, rye
+
+#####8                  (29 words):
+ha, hay, he, heiau, hex, hey, hi, hie, hiya, ho, hoax, hoe, hoi, hooey, hoy, hue, m, max, maxi, may, me, mix, mm, mmm, mmmm, moo, moue, moxie, my
+
+#####9                  (7 words):
+i, ie, in, nay, nix, no, noooo
+
+#####00                  (16 words):
+ooze, oozy, ouzo, sass, sassy, say-so, seize, sis, sissy, size, so-so, sos, souse, suss, susu, zoysia
+
+#####01                  (20 words):
+oat, out, satay, sate, seat, set, settee, sit, site, sixty, soot, sooty, sot, stay, sty, suet, suit, suite, zit, ziti
+
+#####02                  (28 words):
+obey, oboe, op, sap, sappy, seep, sepia, sepoy, sib, sip, sippy, soap, soapy, sob, soba, sop, soppy, soup, soupy, spa, spay, spy, sub, sup, zap, zebu, zip, zippy
+
+#####03                  (24 words):
+oak, oaky, ok, okay, sac, sack, sake, sauce, saucy, sea-ice, seek, sic, sick, sicko, sika, ska, ski, sky, soak, sock, sockeye, souk, suck, sucky
+
+#####04                  (22 words):
+odd, ode, oud, owe, oxide, sad, said, saudi, saw, seaway, seed, seedy, sew, sex-ed, side, six-day, six-way, sod, soda, sow, suede, sway
+
+#####05                  (23 words):
+oil, oily, oleo, sail, sale, sally, seal, sell, sexual, sexually, sill, silly, silo, slay, sloe, sly, soil, sole, solo, soul, sully, zeal, zulu
+
+#####06                  (12 words):
+oaf, of, off, oof, ova, safe, save, savvy, sieve, sofa, suave, suffix
+
+#####07                  (29 words):
+oar, or, oryx, our, sag, saga, sage, saggy, sago, sari, sear, seer, segue, sere, siege, sir, sire, sirree, six-year, soar, soggy, soiree, sore, sorry, sour, sure, zag, zero, zig
+
+#####08                  (20 words):
+oh, oho, ooh, oooh, same, seam, seamy, seem, semi, sh, she, shh, shoe, shoo, shy, some, sshh, sum, sumo, zoom
+
+#####09                  (18 words):
+on, one, onyx, sane, sauna, saxon, seine, sienna, sin, sine, son, soon, sun, sunny, zany, zine, zinnia, zone
+
+#####10                  (7 words):
+as, ass, assay, axis, tease, tissue, toss
+
+#####11                  (18 words):
+at, ataxia, auto, tattoo, tatty, taut, teat, text, tit, titty, toot, tot, tote, tout, tut, tutee, tutti, tutu
+
+#####12                  (27 words):
+abaya, ape, apex, appy, tab, taboo, tabu, tap, tapa, tape, taupe, teepee, tepee, tibia, tie-up, tip, tipi, tippy, top, topo, toupee, tub, tuba, tubby, tube, type, typo
+
+#####13                  (17 words):
+a-ok, ace, ackee, tack, tacky, taco, take, teak, tic, tick, tike, tiki, toke, toque, toxic, tuck, tyke
+
+#####14                  (28 words):
+ad, add, adieu, ado, aid, aide, audio, aw, away, awe, aww, tad, taxed, taxiway, tide, tidy, tie-dye, tied, to-do, toad, toady, today, toddy, tow, toxoid, tuxedo, twee, two
+
+#####15                  (29 words):
+ail, aioli, ale, all, allay, alley, alloy, ally, aloe, axial, axially, axilla, axle, tail, tale, tall, tally, teal, telex, tell, telly, tile, till, toil, toile, tole, toll, tool, tulle
+
+#####16                  (7 words):
+affix, taffy, teff, toff, toffee, tofu, tufa
+
+#####17                  (32 words):
+aerie, age, ago, ague, air, airy, area, aria, array, aura, tag, taiga, tar, taro, tarry, taxer, tear, teary, tiara, tier, tire, to-go, toga, tory, tour, tray, tree, trio, true, try, tug, tyro
+
+#####18                  (28 words):
+a-ha, aaaah, aaah, aah, ah, aha, ahh, ahhh, ahhhh, aim, am, ammo, axiom, tame, team, teem, thai, the, thee, they, thou, thy, time, tome, tommy, toxemia, tum, tummy
+
+#####19                  (28 words):
+aeon, ani, annex, annoy, anoxia, any, axion, axon, tan, taxon, teen, teeny, ten, tenia, tian, tie-in, tin, tine, tinea, tinny, tiny, tone, tonneau, toon, toxin, tun, tuna, tune
+
+#####20                  (31 words):
+baize, base, bass, basso, bias, bioassay, bis, biz, booze, boozy, boss, bossy, bus, buss, busy, buzz, buzzy, pas, pass, passe, pause, pious, piss, pizza, poise, pose, posse, posy, pus, puss, pussy
+
+#####21                  (46 words):
+bait, bat, bateau, batt, batty, bauxite, beat, beaut, beauty, beet, bet, biota, bit, bite, bitty, boat, boot, bootie, booty, bot, botox, bout, but, butt, buyout, pat, pate, patio, payout, peat, peaty, pet, petty, peyote, piety, pit, pita, pity, poet, pot, potty, pout, pouty, put, putt, putty
+
+#####22                  (23 words):
+baby, bap, beep, bib, bob, boo-boo, boob, booby, bop, bye-bye, papaya, peep, pep, peppy, pipe, poop, poopy, pop, poppy, pub, pup, pupa, puppy
+
+#####23                  (35 words):
+back, bake, beak, beaky, bike, bocce, book, bookie, buck, bucko, pace, pack, pc, peace, peak, pec, peck, peek, pic, pica, pice, pick, pickax, pickaxe, picky, piece, pika, pique, pock, poco, poke, poky, puce, puck, puke
+
+#####24                  (28 words):
+bad, baddie, baud, bead, beady, bed, bid, bide, bod, bode, body, bow, boxed, bud, buddy, byway, pad, paddy, paid, paw, payday, pda, pee-wee, pew, pied, pod, pow, pud
+
+#####25                  (42 words):
+bail, bale, ball, belay, belie, bell, belly, biaxial, bile, bill, bleu, blue, boil, bola, bole, boll, bolo, boule, bull, bully, paella, pail, pal, pale, pall, payola, peal, peel, pile, pill, pixel, play, plea, ploy, ply, pole, polio, poll, polo, pool, pull, pulley
+
+#####26                  (16 words):
+beef, beefy, bevy, biff, boeuf, boffo, buff, pave, payoff, peeve, poof, poofy, pouf, puff, puffy, puja
+
+#####27                  (62 words):
+bag, baggie, baggy, bar, bare, bear, beer, beery, beg, beige, berry, bier, big, bigeye, boar, bog, bogey, boggy, bogy, boogie, boor, borax, bore, boxer, boyar, bra, bray, brio, bug, buggy, burro, bury, buyer, page, pair, par, para, pare, parry, payer, payor, pear, peer, peg, per, pier, pig, piggy, poor, pore, pour, pray, prey, pro, proxy, pry, pug, pure, puree, purr, pyre, pyro
+
+#####28                  (13 words):
+bah, bahai, beam, beamy, biome, boo-hoo, boom, bum, buxom, pah, pm, poem, puma
+
+#####29                  (28 words):
+ban, bane, bean, benne, bone, boney, bonny, bony, boon, bun, bunny, buy-in, paean, pain, pan, pane, pen, penne, peon, piano, pin, pine, pinna, pion, pone, pony, pun, puny
+
+#####30                  (14 words):
+case, cassia, cause, cease, cess, cos, cosy, cozy, cuss, kazoo, kiss, quasi, queasy, quiz
+
+#####31                  (23 words):
+cat, catty, cite, city, coat, coot, cooty, cot, cote, cotta, coyote, cut, cute, cutie, kata, kit, kite, kitty, quiet, quit, quite, quota, quote
+
+#####32                  (21 words):
+cab, cabbie, cabby, cap, capo, co-op, co-pay, cob, cobia, cop, cope, copy, coup, coupe, cpu, cubby, cube, cup, cuppa, keep, quip
+
+#####33                  (20 words):
+cacao, cake, coca, coccyx, cock, cocky, cocoa, cook, cookie, cuckoo, kayak, kick, kicky, kike, kook, kooky, quack, quake, quick, quickie
+
+#####34                  (19 words):
+caddie, caddy, caw, cede, coda, code, codex, coed, cow, cud, cuddy, kid, kiddie, kiddo, kiddy, kiwi, kudu, quad, quid
+
+#####35                  (30 words):
+call, calla, calyx, caul, cel, cell, cello, clay, clayey, clue, coal, coaxial, coil, cola, collie, cool, coolie, coolly, coulee, coyly, cull, kale, keel, kill, koala, kola, quail, quale, quell, quill
+
+#####36                  (9 words):
+cafe, cave, civvy, coffee, coif, cuff, kava, kiva, quaff
+
+#####37                  (23 words):
+cage, cagey, car, care, carry, cig, cog, core, cru, crux, cry, cur, cure, curia, curio, curry, keg, kora, quagga, quarry, queer, query, quire
+
+#####38                  (8 words):
+cameo, camo, coho, coma, come, comma, commie, commo
+
+#####39                  (17 words):
+can, cane, canna, canny, canoe, cayenne, coin, con, cone, coon, cyan, keen, kin, knee, koan, queen, quinoa
+
+#####40                  (17 words):
+dais, day-use, daze, disa, dizzy, doozy, dosa, dose, dossy, douse, doze, dues, wise, wiz, woozy, wuss, wussy
+
+#####41                  (18 words):
+data, date, deity, detox, diet, dit, ditty, doit, dot, dote, dotty, duet, duty, wait, wet, wit, witty, wot
+
+#####42                  (16 words):
+dab, daub, debe, deep, dip, dippy, dope, dopey, dpi, dub, dupe, webby, weep, weepy, wipe, wop
+
+#####43                  (20 words):
+dace, decay, deck, decoy, deuce, dice, dicey, dike, dock, duck, ducky, dyke, wack, wacko, wacky, wake, weak, week, wick, wok
+
+#####44                  (24 words):
+dad, dado, dead, deed, dew, dewy, diode, dioxide, dodo, doe-eyed, dud, dude, dyad, dyed, wad, wade, waxed, wed, weed, weedy, wide, wood, woody, wow
+
+#####45                  (29 words):
+daily, dally, deal, delay, deli, deluxe, dial, dill, doilie, dole, doll, doula, dual, duel, dull, dully, duly, wail, wall, walleye, waylay, weal, well, wile, will, wily, wool, woolly, wooly
+
+#####46                  (20 words):
+daffy, deaf, deejay, defy, deify, diva, dive, divvy, dj, doff, dojo, dove, duff, waif, waive, wave, wavy, weave, wife, woof
+
+#####47                  (33 words):
+dago, dairy, dare, dear, dearie, deary, deer, diary, dig, dire, doer, dog, doggie, doggy, door, dour, dray, dry, dug, dura, wag, wage, war, wary, wear, weary, wig, wiggy, wire, wiry, wog, worry, wry
+
+#####48                  (17 words):
+dam, deem, demo, dim, dime, dome, doom, dummy, duomo, wahoo, whee, whey, who, whoa, whoo, why, woo-hoo
+
+#####49                  (19 words):
+den, deny, din, dine, dioxin, dna, don, doyen, doyenne, dune, dyno, wan, wane, waxen, wean, weenie, win, wine, wino
+
+#####50                  (18 words):
+ease, easy, essay, lass, lasso, laze, lazy, lease, less, lessee, liaise, loess, loose, lose, loss, lossy, louse, lousy
+
+#####51                  (17 words):
+eat, exit, laity, late, latex, latte, laxity, layette, layout, let, lit, lite, loot, lot, lotto, lout, lute
+
+#####52                  (19 words):
+ebb, epee, epoxy, lab, lap, lapa, layup, leap, lib, lip, lob, lobby, lobe, loop, loopy, lop, lope, loupe, lube
+
+#####53                  (18 words):
+eke, ex-cia, exec, lace, lack, lackey, lacy, leak, leaky, leek, lick, like, lock, loco, look, luck, lucky, lycee
+
+#####54                  (18 words):
+eddy, ewe, exude, eyed, lad, laddie, lady, laid, laud, law, layaway, lead, leeway, lid, load, lode, loud, low
+
+#####55                  (8 words):
+eel, exile, leal, loll, lolly, loyal, loyally, lull
+
+#####56                  (17 words):
+eave, eff, lav, lava, lave, layoff, leaf, leafy, leave, levee, levy, life, live, loaf, love, luff, luv
+
+#####57                  (34 words):
+ear, eerie, eery, egg, eggy, ego, era, ere, err, euro, ex-gay, eyrie, lag, lair, layer, league, leer, leery, leg, leggy, liar, liege, log, loge, loggia, logo, lore, lorry, lour, lug, luge, lure, luxury, lyre
+
+#####58                  (16 words):
+eh, emo, emu, exam, lam, lame, lehua, lemma, lime, limey, limo, llama, loam, loamy, loom, lummox
+
+#####59                  (17 words):
+ennui, eon, lanai, lane, lean, li-ion, liana, lien, line, lion, loan, loin, lone, loon, looney, loony, lynx
+
+#####60                  (25 words):
+faze, fess, fez, fizz, fizzy, fossa, fuse, fuss, fussy, fuzz, fuzzy, jazz, jazzy, jeez, joyous, jus, unsay, unsexy, us, use, vas, vase, visa, vise, vs
+
+#####61                  (23 words):
+fat, fate, fatty, feat, fete, fiat, fit, fix-it, fixate, fixity, foot, jet, jetty, jot, jut, jute, untie, unto, vat, vet, veto, vita, vote
+
+#####62                  (13 words):
+fab, fib, fob, fop, jab, jape, jib, jibe, job, up, veep, vibe, vip
+
+#####63                  (15 words):
+face, fake, fice, fuck, jack, jock, jockey, joke, jokey, juice, juicy, juke, uke, vac, voice
+
+#####64                  (22 words):
+fad, fade, fado, faxed, fed, feed, feud, few, fixed, food, foodie, jaw, judo, undo, undue, vexed, vid, video, view, void, voodoo, vow
+
+#####65                  (44 words):
+fail, faille, fall, feel, fell, fella, file, fill, fille, filly, flax, flay, flea, flee, flex, floe, flu, flue, flux, fly, foal, foil, folio, folly, fool, foul, fuel, full, fully, jail, jell, jello, jelly, jolly, value, veal, veil, vial, vile, villa, viol, voile, vole, volley
+
+#####66                  (9 words):
+fief, five, fovea, jefe, jiffy, jive, juju, ufo, vivo
+
+#####67                  (49 words):
+faerie, faery, fag, faggy, fair, fairy, far, fare, fear, ferry, fiery, fir, fire, fixer, fog, fogey, foggy, fogy, for, foray, fore, four, foyer, fray, free, fry, fugue, fur, furry, fury, jag, jar, jeer, jig, jog, jug, jury, urea, vague, var, vary, veer, veg, veggie, very, vireo, vogue, voyage, voyeur
+
+#####68                  (12 words):
+fame, foam, foamy, fume, jam, jammy, uh, um, umm, umma, ummm, vim
+
+#####69                  (23 words):
+fain, fan, fanny, faun, fauna, fen, fin, fine, finny, fino, fun, funny, jinx, join, vain, vane, vein, veiny, vena, venue, vine, vino, vixen
+
+#####70                  (22 words):
+gas, gassy, gauss, gauze, gauzy, gaze, gees, gesso, goose, guess, guise, raise, rasa, raze, razz, reissue, reuse, rise, rose, rosy, rouse, ruse
+
+#####71                  (28 words):
+gaiety, gait, gate, gateau, get, gite, goat, goatee, gout, gut, gutta, raita, rat, rata, rate, ratio, ratty, ret, riot, rite, root, rooty, rot, rota, rote, rout, route, rut
+
+#####72                  (28 words):
+gab, gabby, gap, gape, gibe, gob, goby, goop, goopy, guppy, gyp, rabbi, rap, rape, reap, repay, repo, repp, rib, rip, ripe, rob, robe, rope, ropey, ropy, rub, ruby
+
+#####73                  (18 words):
+gecko, geek, geeky, gook, race, rack, racy, rake, raki, raku, reek, reiki, rice, rock, rocky, rook, rookie, ruck
+
+#####74                  (24 words):
+gaudy, giddy, goad, good, goody, guide, radio, raid, raw, read, ready, red, redox, reedy, rid, ride, road, roadie, rod, rodeo, rood, row, ruddy, rude
+
+#####75                  (36 words):
+gaily, gal, gala, galaxy, gall, galley, gaol, gel, glee, glue, goal, goalie, golly, guile, gull, gulley, gully, rail, rally, real, really, reel, relax, relay, rely, rile, rill, rille, roil, roily, role, roll, rouille, royal, royally, rule
+
+#####76                  (21 words):
+gaff, gaffe, give, goof, goofy, guava, guff, guv, raffia, rave, reef, ref, reify, rev, revue, rife, riff, rive, roof, rove, ruff
+
+#####77                  (30 words):
+gag, gage, gar, gauge, gear, gig, giri, go-go, goer, gore, gory, gouge, gray, grey, guar, guru, gyre, gyro, rag, raga, rage, raggy, rare, rear, reggae, rig, roar, rogue, rouge, rug
+
+#####78                  (22 words):
+gam, game, gamma, gem, ghee, gum, gummy, gym, rah, ram, ramie, ream, remix, rho, rim, rime, roam, room, roomie, roomy, rum, rummy
+
+#####79                  (20 words):
+gain, gene, genie, gin, gnu, goanna, goon, guano, gun, gunny, rain, rainy, rayon, rein, rna, roan, ruin, run, rune, runny
+
+#####80                  (29 words):
+hausa, haze, hazy, his, hiss, hissy, hose, house, hussy, maasai, maize, masa, mass, maze, mazy, mess, messy, mezzo, miso, miss, moose, mosey, mossy, mouse, mousse, mousy, muse, muss, muzzy
+
+#####81                  (27 words):
+hat, hate, heat, hit, hoot, hot, hottie, hut, mat, mate, matey, matt, matte, meat, meaty, meet, mete, mite, mitt, moat, moiety, moot, mot, mote, motto, mute, mutt
+
+#####82                  (27 words):
+hap, happy, heap, hip, hippie, hippo, hob, hobby, hobo, hoop, hop, hope, hopi, hoppy, hub, hubby, hype, hypo, hypoxia, map, maybe, mix-up, mob, mop, mope, mp, myopia
+
+#####83                  (20 words):
+hack, haiku, hake, heck, hick, hike, hock, hockey, hokey, hook, hq, mace, make, mako, meek, mic, mica, mock, muck, mucky
+
+#####84                  (31 words):
+haw, head, heady, heed, hew, heyday, hide, hod, hood, hoodie, hoodoo, how, hued, hyoid, mad, maid, maw, mayday, media, meow, mew, mid, midday, mixed, mode, mood, moody, mow, mud, muddy, myxoid
+
+#####85                  (39 words):
+hail, hall, hallo, halloo, halo, haole, haul, heal, heel, heli, helix, hell, hello, helo, hilly, hole, holey, holy, hula, hull, hullo, mail, malay, male, mall, maul, maxilla, meal, mealie, mealy, melee, mil, milieu, mill, mol, mole, mule, muley, mull
+
+#####86                  (13 words):
+have, heave, heavy, hi-fi, hive, hoof, huff, huffy, mauve, mojo, move, movie, muff
+
+#####87                  (44 words):
+hag, hair, hairy, hare, hear, heir, her, here, hero, hire, hoagie, hoary, hoaxer, hog, hooray, hora, hour, houri, hug, huge, huggy, hurray, hurry, hyrax, mag, magi, maguey, mar, mare, marry, mayor, mega, mere, merry, mire, mixer, moire, moor, moray, more, mri, mug, muggy, murre
+
+#####88                  (26 words):
+ha-ha, hah, ham, hammy, heh, hem, heme, hi-ho, him, hm, hmm, home, homey, homie, hoo-ha, huh, hum, maim, maxim, memo, mime, mm-mm, mom, mum, mummy, muumuu
+
+#####89                  (28 words):
+heian, heinie, hen, henna, hone, honey, hyena, main, man, mane, mania, manna, many, mayan, mean, meanie, menu, mien, mine, mini, minx, moan, money, mono, moon, moonie, moony, muon
+
+#####90                  (12 words):
+issue, nausea, nazi, nexus, noise, noisy, noose, nose, nosey, nosy, nous, noxious
+
+#####91                  (12 words):
+into, iota, it, natty, neat, net, next, nite, not, note, nut, nutty
+
+#####92                  (13 words):
+ibex, in-box, nab, nap, nape, nappy, neap, nib, nip, nippy, nope, nub, nubby
+
+#####93                  (15 words):
+ice, icky, icy, inca, ink, inky, iq, neck, nice, nick, niece, nock, nook, nookie, nuke
+
+#####94                  (12 words):
+idea, index, indie, indy, naw, need, needy, new, nod, node, now, nude
+
+#####95                  (4 words):
+ill, inlay, nail, null
+
+#####96                  (7 words):
+if, iff, iffy, info, naive, nave, no-fee
+
+#####97                  (8 words):
+ire, nag, nary, near, no-go, nog, nor, nori
+
+#####98                  (4 words):
+nah, name, neem, nim
+
+#####99                  (11 words):
+ion, naan, nanny, neon, nine, ninny, no-no, none, noon, noun, nun
 
 #####000                  (2 words):
 oasis, osseous
@@ -3012,6 +3337,4 @@ innards, inner, innermost, innervate, innervation, nanogram, nonagenarian, nonag
 inimical, inimitable, innumerable, nanomachine, nanometer, nonhandicapped, nonhierarchical, nonmagnetic, nonmaterial, nonmedical, nonmember, nonmetallic, nonmusic, nonmusical
 
 #####999                  (32 words):
-inning, innings, innuendo, ionian, nine-inch, nine-inning, nine-one-one, nixonian, no-nonsense, non-answer, non-energy, non-english, non-english-speaking, non-indian, non-indigenous, non-industrial, non-inflationary, non-institutional, non-intervention, non-intrusive, non-involvement, non-native, non-negotiable, non-normal, non-normative, non-nuclear, non-union, non-unionized, nonentity, noninstitutionalized, noninvasive, nonuniform:w
-
-
+inning, innings, innuendo, ionian, nine-inch, nine-inning, nine-one-one, nixonian, no-nonsense, non-answer, non-energy, non-english, non-english-speaking, non-indian, non-indigenous, non-industrial, non-inflationary, non-institutional, non-intervention, non-intrusive, non-involvement, non-native, non-negotiable, non-normal, non-normative, non-nuclear, non-union, non-unionized, nonentity, noninstitutionalized, noninvasive, nonuniform

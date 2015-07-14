@@ -198,7 +198,7 @@ number,initials,name,action,object
 16,AF,Anne Frank, aflames, toffee
 17,AG,Aiden Gillen, tears, toga
 18,AH,Adolf Hitler, amasses, ammunition
-19,AN,Alfred Nobel, tints, toenail
+19,AN,Alfred Nobel, tangos, anchor
 
 20,BS,Britney Spears, piss, bus
 21,BA,Ben Affleck, batters, boot
@@ -209,7 +209,7 @@ number,initials,name,action,object
 26,BF,Benjamin Franklin, buffs, pavement
 27,BG,Bill Gates, bags, pigs
 28,BH,Bob Hoskins, pumps, bomb
-29,BN,Bill Nighy, binds, brain
+29,BN,Bill Nighy, paints, brain
 
 30,CS,Carl Sagan, kisses, cash
 31,CA,Christina Aguilera, catapults, cat
@@ -231,7 +231,7 @@ number,initials,name,action,object
 46,DF,Dawn French, divebombs, divebomber
 47,DG,Delta Goodrem, digs, dragon
 48,DH,Damon Hill, whispers, whirlpool
-49,DN,Dean Norris, dances, window
+49,DN,Dean Norris, winds, window
 
 50,ES,Edward Scissorhands, lassos, laser
 51,EA,Ellen Adarna, eats, ET
@@ -299,7 +299,7 @@ cards.
 
 ```
 0,JS,Jason Statham, steamrolls, submarine
-1,JA,Jessica Alba, airbrush, asteroid
+1,JA,Jessica Alba, arouses, asteroid
 2,JB,Justin Bieber, bites, bone
 3,JC,Jenna Coleman, chases, cyberman
 4,JD,Johnny Depp, disolves, dartboard
