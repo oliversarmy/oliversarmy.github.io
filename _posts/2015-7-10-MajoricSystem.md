@@ -9,9 +9,9 @@ title: Majoric System - "Major Dominic Composite"
 
 ```
 1  2  3  4  5  6  7  8  9  0
-a  b  c  d  e  f  g  h  i  s  <-- alphabetical digital letters
-t  p  k  w  l  v  r  m  n  z  <-- phonetic and logical groups
-      q        u  j        o
+a  b  c  d  e  f  g  h  i  o  <-- alphabetical digital letters
+t  p  k  w  l  v  j  m  n  s  <-- phonetic and logical groups
+      q        u  r        z
 ```
 
 The Majoric System is a mnemonic system for remembering number sequences.
@@ -92,21 +92,21 @@ Where the letter have has moved to a different digit:
 Taking into account letter frequencies, the remaining letters:
 
 * The letter n is the first letter of nine.
-* Lower case r looks like a mirror image of 7.
 * Lower case m looks like an incomplete 8 on its side.
+* Lower case r looks like a mirror image of 7.
+* The letter j and g sometime have the same sound.
 * The letter w has four lines forming it's shape.
 * The letter o looks like a 0 (same as Dominic System).
 * The letter u looks like a rounded v.
-* The letter j and g sometime have the same sound.
 * The letters x and y are unassigned and don't change the number value of a word.
 
 This leads to the following Majoric character positions:
 
 ```
 1  2  3  4  5  6  7  8  9  0
-a  b  c  d  e  f  g  h  i  s
-t  p  k  w  l  v  r  m  n  z
-      q        u  j        o
+a  b  c  d  e  f  g  h  i  o
+t  p  k  w  l  v  j  m  n  s
+      q        u  r        z
 ```
 
 ## Majoric - Basic Word Rules
