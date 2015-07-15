@@ -279,7 +279,7 @@ number,initials,name,action,object
 94,ND,Natalie Dormer, idolises, noodles
 95,NE,Nathalie Emmanuel, nails, nails
 96,NF,Nelly Furtado, navigates, infurno
-97,NG,Nikki Gil, nurses, igloo
+97,NG,Nikki Gil, nurses, neuron
 98,NH,Naomie Harris, numbers, numberplate
 99,NN,Nick Nolte, initials, nanobot
 ```
@@ -300,7 +300,7 @@ cards.
 4,JD,Johnny Depp, disolves, darlik
 5,JE,Johnny English, ejects, ejectionSeat
 6,JF,Jodie Foster, flycatches, fairy
-7,JG,Jeff Goldblum, glitters, Giraffatitan
+7,JG,Jeff Goldblum, resuscitates, Giraffatitan
 8,JH,John Hannah, mummifies, mummy
 9,JN,James Nesbitt, nukes, nightclub
 ```
