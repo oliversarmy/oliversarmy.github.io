@@ -20,7 +20,7 @@ It combines the Major and Dominic systems, with the purpose of making it much mo
 
 In the Majoric system, vowels are significant. A vowel which starts a word, directly encodes a digit. This makes it a lot easier for beginners to form words starting with vowels, and in most cases a two digit number just require the first 2 letters of a word.
 
-The Majoric system (unlike the Major) can be used as a spelling based or phonic based system. This is important as some people visualize word spelling rather than sound it out.
+The Majoric system (unlike the Major) can be used as a spelling based or phonic based system.
 
 There is a Person-Action-Object (PAO) example at the end of this post and links, so you can choose your own person as well as action and object words.
 
@@ -128,18 +128,13 @@ t  p  k  w  l  v  j  m  n  s
 
 ## Majoric -  "Potential" Phonetic Word List
 
-If you want to group by phonic sounds then, I guess you want to go to the alphabetical
+If you want to group by phonic sounds then, go to the alphabetical
 word list and do something like the following for the relevant digital letters:
 
 1. move most of the "ce", "ci", and "cy" sounds to the "s" group.
 2. move most of the "g" sounds that aren't "ge", "gi", "gy" to the "c" group.
 3. move "ph" sounds to the "f" group
 4. figure out any exceptions.
-
-I believe "ch" can stay with "c" and "sh" can stay with "s".
-
-If anyone is "really" interested and I'm not too busy, I might be willing to
-help.
 
 ## Majoric - Name, Action, Object Rules (for 2 digit numbers)
 
@@ -185,7 +180,7 @@ number,initials,name,action,object
 04,SD,Snoop Dogg, swallows, saddle
 05,SE,Sam Elliot, slides, silkStockings
 06,SF,Sigmund Freud, overdresses, sofa
-07,SG,Sarah Gellar, surprises, ogre
+07,SG,Sarah Gellar, surprises, orgy
 08,SH,Stephen Hawking, smokes, omelet
 09,SN,Stevie Nicks, sunbaths, sunchair
 
@@ -196,7 +191,7 @@ number,initials,name,action,object
 14,AD,Albus Dumbledore, tweets, adder
 15,AE,Albert Einstein, teleports, telescope
 16,AF,Anne Frank, aflames, toffee
-17,AG,Aiden Gillen, tears, toga
+17,AG,Aiden Gillen, trumpets, troll
 18,AH,Adolf Hitler, amasses, ammunition
 19,AN,Alfred Nobel, tangos, anchor
 
