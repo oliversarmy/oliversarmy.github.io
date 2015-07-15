@@ -202,7 +202,7 @@ number,initials,name,action,object
 24,BD,Bette Davis, beads, bed
 25,BE,Ben Elton, boils, battleship
 26,BF,Benjamin Franklin, buffs, pavement
-27,BG,Bill Gates, bags, pigs
+27,BG,Bill Gates, burys, bears
 28,BH,Bob Hoskins, pumps, bomb
 29,BN,Bill Nighy, paints, pony
 
@@ -213,7 +213,7 @@ number,initials,name,action,object
 34,CD,Charles Darwin, cuddles, cowpat
 35,CE,Clint Eastwood, calls, cloak
 36,CF,Colin Firth, covers, cave
-37,CG,Cary Grant, carrys, cigar
+37,CG,Cary Grant, carrys, crab
 38,CH,Charlton Heston, chokes, chimpanzee
 39,CN,Chuck Norris, constructs, canal
 
@@ -224,7 +224,7 @@ number,initials,name,action,object
 44,DD,David Duchovny, wades, weeds
 45,DE,Dwight Eisenhower, drills, doll
 46,DF,Dawn French, divebombs, divebomber
-47,DG,Delta Goodrem, digs, dragon
+47,DG,Delta Goodrem, drags, dragon
 48,DH,Damon Hill, whispers, whirlpool
 49,DN,Dean Norris, winds, window
 
@@ -235,14 +235,14 @@ number,initials,name,action,object
 54,ED,Ellen Degeneres, loads, ladder
 55,EE,Ella Eyre, elevates, elephant
 56,EF,Enrico Fermi, liftoff, leaves
-57,EG,Eva Green, exorcises, egg
+57,EG,Eva Green, exorcises, eruption
 58,EH,Elizabeth Hurley, embosses, embryo
 59,EN,Eliot Ness, entombs, engine
 
 60,FS,Frank Sinatra, fishes, vespa
 61,FA,Fred Astaire, feathers, feet
 62,FB,Frodo Baggins, vibrates, fabric
-63,FC,Fidel Castro, facepaints, face
+63,FC,Fidel Castro, vacuums, victorMower
 64,FD,Felicia Day, feeds, vodka
 65,FE,Freja Erichsen, flashes, film
 66,FF,Farrah Fawcett, unveils, ufo
@@ -275,7 +275,7 @@ number,initials,name,action,object
 90,NS,Nicole Scherzinger, inoculates, nest
 91,NA,Neil Armstrong, nets, notice
 92,NB,Napoleon Bonaparte, nabs, nappie
-93,NC,Nicolas Cage, nukes, iceberg
+93,NC,Nicolas Cage, nukes, nucleus
 94,ND,Natalie Dormer, idolises, noodles
 95,NE,Nathalie Emmanuel, nails, nails
 96,NF,Nelly Furtado, navigates, infurno
@@ -296,8 +296,8 @@ cards.
 0,JS,Jason Statham, steamrolls, submarine
 1,JA,Jessica Alba, arouses, asteroid
 2,JB,Justin Bieber, bites, bone
-3,JC,Jenna Coleman, chases, cyberman
-4,JD,Johnny Depp, disolves, dartboard
+3,JC,Jenna Coleman, chases, quidditch
+4,JD,Johnny Depp, disolves, darlik
 5,JE,Johnny English, ejects, ejectionSeat
 6,JF,Jodie Foster, flycatches, fairy
 7,JG,Jeff Goldblum, glitters, Giraffatitan
