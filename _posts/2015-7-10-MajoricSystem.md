@@ -24,11 +24,12 @@ There is a Person-Action-Object (PAO) example at the end of this post and links,
 
 ## Phonic and logical groups
 
-Where the letter position is the same as the Major System:
+Where the letter position is the same as Major/Dominic System
 
 * The letter T has one vertical stroke, just like a 1.
 * The letter L is the roman numeral for 50 ("Live at 5").
 * Zero begins with Z, which is phonetically similar to S.
+* The letter o looks like a 0 (same as Dominic System).
 
 Where the letter is placed because of its sound
 
@@ -43,7 +44,6 @@ Where the letter is placed based on frequency
 * Lower case m looks like an incomplete 8 on its side.
 * Lower case r looks like a mirror image of 7.
 * The letter w has four lines forming it's shape.
-* The letter o looks like a 0 (same as Dominic System).
 * The letter u looks like a rounded v.
 * The letters x and y are unassigned and don't change the number value of a word.
 
