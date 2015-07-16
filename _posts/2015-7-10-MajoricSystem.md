@@ -38,7 +38,7 @@ Where the letter is placed because of its phonetics
 * v is phonetically similar to f.
 * p is phonetically similar to b (and mirror image).
 
-Where the letter is placed based on frequency
+Where the letter is placed based on letter frequency
 
 * The letter n is the first letter of nine.
 * Lower case m looks like an incomplete 8 on its side.
@@ -59,7 +59,7 @@ t  p  k  w  l  v  j  m  n  s
 
 ## Basic word rules
 
-1. Vowels, a e i o u, are significant, but, only when they start a word, and in most cases, only the first vowel. (e.g age is 17, not 175).
+1. Vowels, a e i o u, are significant, but only the first vowel at the start of a word (e.g age is 17, not 175).
 1. Double letters are disregarded when not pronounced separately (e.g call - 35, however midday - 844). The letter sequence "ck" is treated the same as "k".
 
 ## Advanced word rules
@@ -69,12 +69,11 @@ t  p  k  w  l  v  j  m  n  s
 1. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
 1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 912.
 
-## Name, Action, Object rules (for 2 digit numbers)
+## Name, Action, Object rules
 
 7. Names are created in the same ways as the Dominic system, with the first
   letter of the names (i.e. first and last name) representing a one digit number (and thus a two digit number when combined).
-1. Actions and objects are created in a similar way as the Major system,
-but with words of any length.  As, we are encoding 2 digit numbers, only the first two digital letters are used. The persons, actions and objects, are then associated with and represent the the two digit number, no matter what the context.
+1. Actions and objects are created in a similar way as the Major system, but with words of any length. The number of significant digital letters is restricted to the digits assigned to the name (e.g. if Arnold Schwarzenegger is number 10, his action TaSers, has two digital letters).
 
 #### Generating Names, Actions, Object
 
