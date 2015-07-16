@@ -27,7 +27,7 @@ There is a Person-Action-Object (PAO) example at the end of this post and links,
 Where the letter position is the same as Major/Dominic System
 
 * The letter T has one vertical stroke, just like a 1.
-* The letter L is the roman numeral for 50
+* The letter L is the roman numeral for 50.
 * Zero begins with Z, which is phonetically similar to S.
 * The letter o looks like a 0.
 
@@ -35,7 +35,7 @@ Where the letter is placed because of its sound
 
 * Lower case p looks like a mirror image of b.
 * k can sound very like c. q starts with a /k/ sound.
-* v is phonetically similar to f
+* v is phonetically similar to f.
 * The letter j and g can have the same sound.
 
 Where the letter is placed based on frequency
@@ -47,7 +47,6 @@ Where the letter is placed based on frequency
 * The letter u looks like a rounded v.
 
 The letters x and y are unassigned and don't change the number value of a word.
-
 This leads to the following Majoric character positions:
 
 ```
@@ -64,10 +63,9 @@ t  p  k  w  l  v  j  m  n  s
 
 ## Advanced word rules
 
-1. Words may not begin with the letters "Y" or "X".
-1. Only the first three digital letters in a word are potentially significant
+1. Only the first three digital letters in a word are significant
    (e.g "politics" base encoding is 251, not 25130). Spelling issues are minimised by not encoding the whole word.
-1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 912 (note: rule maximum 3 digital characters).
+1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 912.
 1. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
 
 ## Name, Action, Object rules (for 2 digit numbers)
@@ -215,7 +213,6 @@ number,initials,name,action,object
 98,NH,Naomie Harris, numbers, numberplate
 99,NN,Nick Nolte, initials, nanobot
 ```
-
 
 ## Jacks / One digit encodings
 
