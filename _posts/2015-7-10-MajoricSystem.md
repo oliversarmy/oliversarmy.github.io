@@ -29,14 +29,14 @@ Where the letter position is the same as Major/Dominic System
 * The letter T has one vertical stroke, just like a 1.
 * The letter L is the roman numeral for 50.
 * Zero begins with Z, which is phonetically similar to S.
-* The letter o looks like a 0.
+* The letter O looks like a 0.
 
 Where the letter is placed because of its phonetics
 
-* k can sound very like c. q starts with a /k/ sound.
+* k can sound like c. q starts with a k sound.
+* j can get confused with g when they have the same sound.
 * v is phonetically similar to f.
-* The letter j and g can have the same sound.
-* Lower case p looks like a mirror image of b.
+* p is phonetically similar to b (and mirror image).
 
 Where the letter is placed based on frequency
 
@@ -65,9 +65,9 @@ t  p  k  w  l  v  j  m  n  s
 ## Advanced word rules
 
 1. Only the first three digital letters in a word are significant
-   (e.g "politics" base encoding is 251, not 25130). Spelling issues are minimised by not encoding the whole word.
-1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 912.
+   (e.g "politics" base encoding is 251, not 25130). Spelling issues are minimised by encoding only the first few letters.
 1. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
+1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 912.
 
 ## Name, Action, Object rules (for 2 digit numbers)
 
@@ -300,12 +300,3 @@ a  b  c  d  e  f  g  h  i  s
 t  p  k     l  v           z
       q
 ```
-## "Potential" Phonetic word list
-
-If you want to group by phonic sounds then, go to the alphabetical
-word list and do something like the following for the relevant digital letters:
-
-1. move most of the "ce", "ci", and "cy" sounds to the "s" group.
-2. move most of the "g" sounds that aren't "ge", "gi", "gy" to the "c" group.
-3. move "ph" sounds to the "f" group
-4. figure out any exceptions.
