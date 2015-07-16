@@ -65,10 +65,7 @@ t  p  k  w  l  v  j  m  n  s
 
 1. Words may not begin with the letters "Y" or "X".
 1. Only the first three digital letters in a word are potentially significant
-   (e.g "politics" base encoding is 251, not 25130).
-   The reason is, with this system to a small extent (and the Major System, to a larger extent) there is not enough coverage in
-   English to always find words to express 000 - 999. In addition, spelling
-   issues are minimised by not encoding the whole word.
+   (e.g "politics" base encoding is 251, not 25130). Spelling issues are minimised by not encoding the whole word.
 1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 912 (note: rule maximum 3 digital characters).
 1. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
 
