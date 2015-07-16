@@ -16,7 +16,7 @@ t  p  k  w  l  v  j  m  n  s  <-- phonetic and logical groups
 
 The Majoric System is a spelling based mnemonic system for remembering number sequences, with mechanisms to avoid spelling issues.
 
-It combines the Major and Dominic systems, with the purpose of making it much more flexible than the Dominic system and with a more intuitive letter ordering than the Major system.
+It combines the Major and Dominic systems. It's more flexible than the Dominic system. It's less based on perceived sounds, compared to the Major System.
 
 In the Majoric system, vowels are significant. A vowel which starts a word, directly encodes a digit. This makes it a easy to form words starting with vowels.
 
@@ -31,12 +31,12 @@ Where the letter position is the same as Major/Dominic System
 * Zero begins with Z, which is phonetically similar to S.
 * The letter o looks like a 0.
 
-Where the letter is placed because of its sound
+Where the letter is placed because of its phonetics
 
-* Lower case p looks like a mirror image of b.
 * k can sound very like c. q starts with a /k/ sound.
 * v is phonetically similar to f.
 * The letter j and g can have the same sound.
+* Lower case p looks like a mirror image of b.
 
 Where the letter is placed based on frequency
 
@@ -47,6 +47,7 @@ Where the letter is placed based on frequency
 * The letter u looks like a rounded v.
 
 The letters x and y are unassigned and don't change the number value of a word.
+
 This leads to the following Majoric character positions:
 
 ```
