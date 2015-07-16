@@ -14,7 +14,7 @@ t  p  k  w  l  v  j  m  n  s  <-- phonetic and logical groups
       q        u  r        z
 ```
 
-The Majoric System is a spelling based mnemonic system for remembering number sequences, with phonetic groups and rules to avoid spelling issues.
+The Majoric System is a spelling based mnemonic system for remembering number sequences, with phonetic groups and one phonetic rule to avoid spelling issues.
 
 It combines the Major and Dominic systems. It's more flexible than the Dominic system. It's less based on perceived sounds, compared to the Major System.
 
@@ -22,7 +22,7 @@ In the Majoric system, vowels are significant. A vowel which starts a word, dire
 
 There is a Person-Action-Object (PAO) example at the end of this post and links, so you can choose your own person as well as action and object words.
 
-## Phonicic and logical groups
+## Phonetic and logical groups
 
 Where the letter position is the same as Major/Dominic System
 
@@ -59,8 +59,8 @@ t  p  k  w  l  v  j  m  n  s
 
 ## Basic word rules
 
-1. Vowels, a e i o u, are significant, but only the first vowel at the start of a word (e.g age is 17, not 175).
 1. Double letters are disregarded when not pronounced separately (e.g call - 35, however midday - 844). The letter sequence "ck" is treated the same as "k".
+1. Vowels, a e i o u, are significant, but (normally) only the first vowel at the start of a word (e.g age is 17, not 175).
 
 ## Advanced word rules
 
