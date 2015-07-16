@@ -5,7 +5,7 @@ title: Majoric System - "Major Dominic Composite"
 
 ![_config.yml]({{ site.baseurl }}/images/crystal.jpg)
 
-## Majoric digital letters
+## Majoric Digital letters
 
 ```
 1  2  3  4  5  6  7  8  9  0
@@ -20,62 +20,12 @@ It combines the Major and Dominic systems, with the purpose of making it much mo
 
 In the Majoric system, vowels are significant. A vowel which starts a word, directly encodes a digit. This makes it a lot easier for beginners to form words starting with vowels, and in most cases a two digit number just require the first 2 letters of a word.
 
-The Majoric system (unlike the Major) can be used as a spelling based or phonic based system.
+The Majoric system's primary use is as a spelling based system. It has
+mechanisms to aleviate spelling issues.
 
 There is a Person-Action-Object (PAO) example at the end of this post and links, so you can choose your own person as well as action and object words.
 
-
-## History
-
-### Dominic System
-
-The Dominic system was invented by memory champion, Dominic O'Brien. It assigns the initials and name of a memorable person or character, to a two digit number from 00 to 99.
-
-#### Dominic letter positions
-```
-1  2  3  4  5  6  7  8  9  0
-a  b  c  d  e  s  g  h  n  o
-```
-
-This uses alphabetical ordering, except for letters s, n and o.
-
-### Major System
-
-The Major System replaces numbers with consonant sounds. The system is
-phonetic, very powerful, complex and takes time to learn.
-
-#### Major phonetic character positions
-
-```
-1  2  3  4  5  6  7  8  9  0
-t  n  m  r  l  j  c  v  p  s
-d              sh k  f  b  z
-th             ch g  ph
-                  q
-                  ck
-```
-
-## Combine Dominic System and Major System
-
-Taking inspiration from the Dominic System, start with an alphabetical letter ordering for the first 9 letters. Unlike the Major system, vowels are significant. The alphabetical ordering, helps when learning the system
-
-```
-1  2  3  4  5  6  7  8  9  0   (base alphabetical encodings)
-a  b  c  d  e  f  g  h  i
-```
-
-Next, where theres no conflict, add the Major system letter groupings on top of this alphabetical ordering.
-
-```
-1  2  3  4  5  6  7  8  9  0   (partial encodings)
-a  b  c  d  e  f  g  h  i  s
-t  p  k     l  v           z
-      q
-```
-
-Next finalize the letter placement:
-
-## Majoric digital letter, explanations
+## Phonic and logical groups
 
 Where the letter position is the same as the Major System:
 
@@ -94,7 +44,7 @@ Taking into account letter frequencies, the remaining letters:
 * The letter n is the first letter of nine.
 * Lower case m looks like an incomplete 8 on its side.
 * Lower case r looks like a mirror image of 7.
-* The letter j and g sometime have the same sound.
+* The letter j and g can have the same sound and be misspelt.
 * The letter w has four lines forming it's shape.
 * The letter o looks like a 0 (same as Dominic System).
 * The letter u looks like a rounded v.
@@ -109,47 +59,36 @@ t  p  k  w  l  v  j  m  n  s
       q        u  r        z
 ```
 
-## Majoric - Basic Word Rules
+## Basic word rules
 
 1. Vowels, a e i o u, are significant, but, only when they start a word, and in most cases, only the first vowel. (e.g age is 17, not 175).
-1. Double letters are disregarded when not pronounced separately (e.g call - 35, however midday - 844).
-1. The letter sequence "ck" is treated the same as "k" (this is very similar to a double letter sequence).
+1. Double letters are disregarded when not pronounced separately (e.g call - 35, however midday - 844). The letter sequence "ck" is treated the same as "k" (this is very similar to a double letter sequence).
 
-## Majoric - Advanced Word Rules
+## Advanced word rules
 
 1. Words may not begin with the letters "Y" or "X" as these words are reserved.
 1. Only the first three digital letters in a word are potentially significant
    (e.g "politics" base encoding is 251, not 25130).
    The reason is, with this system to a small extent (and the Major System, to a larger extent) there is not enough coverage in
-   English to always find words to express 000 - 999. In addition, phonetic
+   English to always find words to express 000 - 999. In addition, spelling
    issues are minimised by not encoding the whole word.
 1. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
 1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 912 (note: rule maximum 3 digital characters).
 
-## Majoric -  "Potential" Phonetic Word List
-
-If you want to group by phonic sounds then, go to the alphabetical
-word list and do something like the following for the relevant digital letters:
-
-1. move most of the "ce", "ci", and "cy" sounds to the "s" group.
-2. move most of the "g" sounds that aren't "ge", "gi", "gy" to the "c" group.
-3. move "ph" sounds to the "f" group
-4. figure out any exceptions.
-
-## Majoric - Name, Action, Object Rules (for 2 digit numbers)
+## Name, Action, Object rules (for 2 digit numbers)
 
 7. Names are created in the same ways as the Dominic system, with the first
   letter of the names (i.e. first and last name) representing a one digit number (and thus a two digit number when combined).
 1. Actions and objects are created in a similar way as the Major system,
 but with words of any length.  As, we are encoding 2 digit numbers, only the first two digital letters are used. The persons, actions and objects, are then associated with and represent the the two digit number, no matter what the context.
 
-### Generating Names, Actions, Object
+#### Generating Names, Actions, Object
 
-[Generate Names by initials](http://peoplebyinitials.com/p/dominic-number-memory-system)
+[Find Names by initials](http://peoplebyinitials.com/p/dominic-number-memory-system)
 
-[Generate Majoric Actions and Objects](http://olivers.army/MajoricListTo999/)
+[Find Majoric Actions and Objects](http://olivers.army/MajoricListTo999/)
 
-## Majoric Example
+## Example
 
 I'm going to limit the example to the following letters to generate peoples names.
 
@@ -160,9 +99,7 @@ a  b  c  d  e  f  g  h  n  s
 
 Thus, apart from letters n and s, all letters are in alphabetical ordering. This
 is for the names only. The actions and objects can use all available letters.
-
-For example, the actor Sandra Bullock SPlits OBelisk, encodes 02. The word
-"obelisk" encodes 02 because it's linked to Sandra Bullock and it's in a 2 digit naming convention (same for the word splits). If we were using a 3 digit naming convention, and the word had not already been assigned, it could encode 3 digits!
+e.g. Sandra Bullock SPlits OBelisk, encodes 02.
 
 I've chosen actions and objects that are different from each other, easy to visualize and memorable to me,
 rather than trying to constrain them to indicate something about the person
@@ -322,3 +259,61 @@ cards.
 4,KD, ,,
 8,KH, ,,
 ```
+
+
+## Appendix
+
+### Dominic System
+
+The Dominic system was invented by memory champion, Dominic O'Brien. It assigns the initials and name of a memorable person or character, to a two digit number from 00 to 99.
+
+#### Dominic letter positions
+```
+1  2  3  4  5  6  7  8  9  0
+a  b  c  d  e  s  g  h  n  o
+```
+
+This uses alphabetical ordering, except for letters s, n and o.
+
+### Major System
+
+The Major System replaces numbers with consonant sounds. The system is
+phonetic, very powerful, complex and takes time to learn.
+
+#### Major phonetic character positions
+
+```
+1  2  3  4  5  6  7  8  9  0
+t  n  m  r  l  j  c  v  p  s
+d              sh k  f  b  z
+th             ch g  ph
+                  q
+                  ck
+```
+
+### Combining Dominic System and Major System
+
+Taking inspiration from the Dominic System, start with an alphabetical letter ordering for the first 9 letters. Unlike the Major system, vowels are significant. The alphabetical ordering, helps when learning the system
+
+```
+1  2  3  4  5  6  7  8  9  0   (base alphabetical encodings)
+a  b  c  d  e  f  g  h  i
+```
+
+Next, where theres no conflict, add the Major system letter groupings on top of this alphabetical ordering.
+
+```
+1  2  3  4  5  6  7  8  9  0   (partial encodings)
+a  b  c  d  e  f  g  h  i  s
+t  p  k     l  v           z
+      q
+```
+## "Potential" Phonetic word list
+
+If you want to group by phonic sounds then, go to the alphabetical
+word list and do something like the following for the relevant digital letters:
+
+1. move most of the "ce", "ci", and "cy" sounds to the "s" group.
+2. move most of the "g" sounds that aren't "ge", "gi", "gy" to the "c" group.
+3. move "ph" sounds to the "f" group
+4. figure out any exceptions.
