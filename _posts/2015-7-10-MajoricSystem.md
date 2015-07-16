@@ -14,14 +14,11 @@ t  p  k  w  l  v  j  m  n  s  <-- phonetic and logical groups
       q        u  r        z
 ```
 
-The Majoric System is a mnemonic system for remembering number sequences.
+The Majoric System is a spelling based mnemonic system for remembering number sequences, with mechanisms to avoid spelling issues.
 
-It combines the Major and Dominic systems, with the purpose of making it much more flexible than the Dominic system and with a more intuitive letter ordering, rule logic and better word distribution, compared to the Major system.
+It combines the Major and Dominic systems, with the purpose of making it much more flexible than the Dominic system and with a more intuitive letter ordering than the Major system.
 
-In the Majoric system, vowels are significant. A vowel which starts a word, directly encodes a digit. This makes it a lot easier for beginners to form words starting with vowels, and in most cases a two digit number just require the first 2 letters of a word.
-
-The Majoric system's primary use is as a spelling based system. It has
-mechanisms to aleviate spelling issues.
+In the Majoric system, vowels are significant. A vowel which starts a word, directly encodes a digit. This makes it a easy to form words starting with vowels.
 
 There is a Person-Action-Object (PAO) example at the end of this post and links, so you can choose your own person as well as action and object words.
 
@@ -44,7 +41,7 @@ Taking into account letter frequencies, the remaining letters:
 * The letter n is the first letter of nine.
 * Lower case m looks like an incomplete 8 on its side.
 * Lower case r looks like a mirror image of 7.
-* The letter j and g can have the same sound and be misspelt.
+* The letter j and g can have the same sound and are often misspelt.
 * The letter w has four lines forming it's shape.
 * The letter o looks like a 0 (same as Dominic System).
 * The letter u looks like a rounded v.
@@ -62,18 +59,18 @@ t  p  k  w  l  v  j  m  n  s
 ## Basic word rules
 
 1. Vowels, a e i o u, are significant, but, only when they start a word, and in most cases, only the first vowel. (e.g age is 17, not 175).
-1. Double letters are disregarded when not pronounced separately (e.g call - 35, however midday - 844). The letter sequence "ck" is treated the same as "k" (this is very similar to a double letter sequence).
+1. Double letters are disregarded when not pronounced separately (e.g call - 35, however midday - 844). The letter sequence "ck" is treated the same as "k".
 
 ## Advanced word rules
 
-1. Words may not begin with the letters "Y" or "X" as these words are reserved.
+1. Words may not begin with the letters "Y" or "X".
 1. Only the first three digital letters in a word are potentially significant
    (e.g "politics" base encoding is 251, not 25130).
    The reason is, with this system to a small extent (and the Major System, to a larger extent) there is not enough coverage in
    English to always find words to express 000 - 999. In addition, spelling
    issues are minimised by not encoding the whole word.
-1. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
 1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 912 (note: rule maximum 3 digital characters).
+1. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
 
 ## Name, Action, Object rules (for 2 digit numbers)
 
@@ -259,7 +256,6 @@ cards.
 4,KD, ,,
 8,KH, ,,
 ```
-
 
 ## Appendix
 
