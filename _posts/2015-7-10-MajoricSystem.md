@@ -14,7 +14,7 @@ t  p  k  w  l  v  j  m  n  s  <-- phonetic and logical groups
       q        u  r        z
 ```
 
-The Majoric System is a spelling based mnemonic system for remembering number sequences, with mechanisms to avoid spelling issues.
+The Majoric System is a spelling based mnemonic system for remembering number sequences, with phonetic groups and rules to avoid spelling issues.
 
 It combines the Major and Dominic systems. It's more flexible than the Dominic system. It's less based on perceived sounds, compared to the Major System.
 
@@ -22,7 +22,7 @@ In the Majoric system, vowels are significant. A vowel which starts a word, dire
 
 There is a Person-Action-Object (PAO) example at the end of this post and links, so you can choose your own person as well as action and object words.
 
-## Phonic and logical groups
+## Phonicic and logical groups
 
 Where the letter position is the same as Major/Dominic System
 
@@ -64,10 +64,8 @@ t  p  k  w  l  v  j  m  n  s
 
 ## Advanced word rules
 
-1. Only the first three digital letters in a word are significant
-   (e.g "politics" base encoding is 251, not 25130). Spelling issues are minimised by encoding only the first few letters.
-1. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 627.
-1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 912.
+1. Prefixes starting with "un" are very common and treated as a single 6. The letter after the prefix is significant. Thus "unify" is encoded as 696 and "unborn" is encoded as 6279.
+1. Prefixes starting with "in" are very common and treated as a single 9. The letter after the prefix is significant. Thus "inability" is encoded as 91251.
 
 ## Name, Action, Object rules
 
