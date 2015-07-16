@@ -30,18 +30,18 @@ Where the letter position is the same as the Major System:
 * The letter L is the roman numeral for 50 ("Live at 5").
 * Zero begins with Z, which is phonetically similar to S.
 
-Where the letter have has moved to a different digit:
+Where the letter is placed because of its sound
 
 * Lower case p looks like a mirror image of b.
 * k can sound very like c. q starts with a /k/ sound.
 * v is phonetically similar to f
+* The letter j and g can have the same sound.
 
-Taking into account letter frequencies, the remaining letters:
+Where the letter is placed based on frequency
 
 * The letter n is the first letter of nine.
 * Lower case m looks like an incomplete 8 on its side.
 * Lower case r looks like a mirror image of 7.
-* The letter j and g can have the same sound and are often misspelt.
 * The letter w has four lines forming it's shape.
 * The letter o looks like a 0 (same as Dominic System).
 * The letter u looks like a rounded v.
