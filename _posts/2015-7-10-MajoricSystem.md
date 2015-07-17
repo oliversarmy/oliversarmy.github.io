@@ -125,11 +125,11 @@ number,initials,name,action,object
 19,AN,Alfred Nobel, tangos, anchor
 
 20,BS,Britney Spears, piss, bus
-21,BA,Ben Affleck, batters, boot
+21,BA,Ben Affleck, batters, battleship
 22,BB,Brigitte Bardot, beeps, boob
 23,BC,Billy Connolly, pokes, book
 24,BD,Bette Davis, beads, bed
-25,BE,Ben Elton, boils, battleship
+25,BE,Ben Elton, boils, bullfrog
 26,BF,Benjamin Franklin, buffs, pavement
 27,BG,Bill Gates, burys, bears
 28,BH,Bob Hoskins, pumps, bomb
