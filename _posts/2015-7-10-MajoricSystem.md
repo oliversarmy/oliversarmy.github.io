@@ -16,9 +16,10 @@ t  p  k  w  l  v  j  m  n  s  <-- phonetic and logical groups
 
 The Majoric System is a spelling based mnemonic system for remembering number sequences, with phonetic groups and rules to minimise spelling issues.
 
-The Majoric System is more flexible than the Dominic system. Unlike the Major System, it's not based on perceived sounds, that can differ between individuals.
+The Majoric system has a base alphabetical ordering and a vowel that starts
+a word encodes a digit. This expands on the Dominic system.
 
-In the Majoric system, vowels are significant. A vowel which starts a word, directly encodes a digit. This makes it a easy to form words starting with vowels.
+In the Majoric system the letters of a word unambiguously encode numbers, unlike the Major system where different individuals can perceive different sounds and numbers.
 
 There is a Person-Action-Object (PAO) example at the end of this post and links, so you can choose your own person as well as action and object words.
 
