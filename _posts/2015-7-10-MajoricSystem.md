@@ -126,7 +126,7 @@ number,initials,name,action,object
 
 20,BS,Britney Spears, piss, bus
 21,BA,Ben Affleck, batters, battleship
-22,BB,Brigitte Bardot, beeps, boob
+22,BB,Brigitte Bardot, puppets, puppies
 23,BC,Billy Connolly, pokes, book
 24,BD,Bette Davis, beads, bed
 25,BE,Ben Elton, boils, bullfrog
