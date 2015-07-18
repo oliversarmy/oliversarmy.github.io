@@ -124,7 +124,7 @@ number,initials,name,action,object
 18,AH,Adolf Hitler, amasses, ammunition
 19,AN,Alfred Nobel, tangos, anchor
 
-20,BS,Britney Spears, piss, bus
+20,BS,Britney Spears, pissed, bus
 21,BA,Ben Affleck, batters, battleship
 22,BB,Brigitte Bardot, puppets, puppies
 23,BC,Billy Connolly, pokes, book
