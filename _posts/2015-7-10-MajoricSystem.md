@@ -131,7 +131,7 @@ number,initials,name,action,object
 24,BD,Bette Davis, beads, bed
 25,BE,Ben Elton, boils, bullfrog
 26,BF,Bobby Fischer buffs, pavement
-27,BG,Bill Gates, burys, bears
+27,BG,Bill Gates, burys, bugs
 28,BH,Bob Hoskins, pumps, bomb
 29,BN,Bill Nighy, paints, pony
 
@@ -159,7 +159,7 @@ number,initials,name,action,object
 
 50,ES,Edward Scissorhands, lassos, laser
 51,EA,Ellen Adarna, eats, ET
-52,EB,Emily Blunt, eyeballs, lobster
+52,EB,Emily Berrington, eyeballs, lobster
 53,EC,Emilia Clarke, licks, lock
 54,ED,Ellen Degeneres, loads, ladder
 55,EE,Ella Eyre, elevates, elephant
