@@ -133,16 +133,16 @@ number,initials,name,action,object
 26,BF,Bobby Fischer buffs, pavement
 27,BG,Bill Gates, burys, bugs
 28,BH,Bob Hoskins, pumps, bomb
-29,BN,Bill Nighy, paints, pony
+29,BN,Bill Nighy, paints, panties
 
 30,CS,Carl Sagan, kisses, cash
 31,CA,Christina Aguilera, catapults, cat
-32,CB,Christian Bale, copilots, copter
+32,CB,Christian Bale, cables, cab
 33,CC,Charlie Chaplin, cooks, cactus
-34,CD,Charles Darwin, cuddles, cowpat
-35,CE,Clint Eastwood, calls, cloak
+34,CD,Charles Darwin, cuddles, codpiece
+35,CE,Clint Eastwood, closes, cloak
 36,CF,Colin Firth, covers, cave
-37,CG,Cary Grant, carrys, crab
+37,CG,Claire Goose, carrys, crab
 38,CH,Charlton Heston, chokes, chimpanzee
 39,CN,Chuck Norris, constructs, canal
 
