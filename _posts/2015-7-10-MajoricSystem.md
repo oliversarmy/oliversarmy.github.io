@@ -157,7 +157,7 @@ number,initials,name,action,object
 48,DH,Damon Hill, whispers, whirlpool
 49,DN,Dean Norris, winds, window
 
-50,ES,Edward Scissorhands, lassos, laser
+50,ES,Edward Scissorhands, lassos, laserbeam
 51,EA,Ellen Adarna, eats, ET
 52,EB,Emily Berrington, eyeballs, lobster
 53,EC,Emilia Clarke, licks, lock
